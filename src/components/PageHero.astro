@@ -1,8 +1,15 @@
 ---
-interface Props { title: string; eyebrow?: string; lede?: string; crumbs?: { label: string; href: string }[] }
-const { title, eyebrow, lede, crumbs = [] } = Astro.props;
+// Page title banner over a navy-tinted photo. Pass `image` to use a different
+// photo on a page; the Manhattan skyline is the default.
+import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+import manhattan from '../assets/hero/manhattan.jpg';
+
+interface Props { title: string; eyebrow?: string; lede?: string; crumbs?: { label: string; href: string }[]; image?: ImageMetadata }
+const { title, eyebrow, lede, crumbs = [], image = manhattan } = Astro.props;
 ---
 <section class="phero">
+  <Image class="phero__bg" src={image} alt="" widths={[800, 1400, 2000]} sizes="100vw" loading="eager" />
   <div class="wrap">
     {crumbs.length > 0 && (
       <nav class="crumbs" aria-label="Breadcrumb">
@@ -17,11 +24,17 @@ const { title, eyebrow, lede, crumbs = [] } = Astro.props;
 </section>
 
 <style>
-  .phero { background: var(--tint); border-bottom: 1px solid var(--line); padding: clamp(40px, 6vw, 80px) 0 clamp(36px, 5vw, 64px); position: relative; overflow: hidden; }
-  .phero::after { content: ''; position: absolute; right: -80px; top: -80px; width: 320px; height: 320px; border-radius: 50%; border: 56px solid var(--blue); opacity: 0.08; }
-  .phero h1 { font-size: clamp(2.1rem, 4.6vw, 3.6rem); max-width: 22ch; margin-bottom: 16px; }
-  .phero .lede { margin: 0; }
-  .crumbs { display: flex; flex-wrap: wrap; gap: 8px; font-size: 0.85rem; margin-bottom: 20px; color: var(--muted); }
-  .crumbs a { color: var(--muted); text-decoration: none; }
-  .crumbs a:hover { color: var(--blue); text-decoration: underline; }
+  .phero { position: relative; isolation: isolate; overflow: hidden; background: var(--blue); color: #fff; padding: clamp(48px, 7vw, 96px) 0 clamp(44px, 6vw, 80px); }
+  .phero__bg { position: absolute; inset: 0; z-index: -2; width: 100%; height: 100%; object-fit: cover; object-position: 50% 35%; }
+  .phero::before {
+    content: ''; position: absolute; inset: 0; z-index: -1;
+    background: linear-gradient(90deg, rgb(26 42 85 / 95%) 0%, rgb(37 58 113 / 85%) 50%, rgb(37 58 113 / 60%) 100%);
+  }
+  .phero h1 { color: #fff; font-size: clamp(2.1rem, 4.6vw, 3.6rem); max-width: 22ch; margin-bottom: 16px; }
+  .phero .eyebrow { color: var(--blue-on-dark); }
+  .phero .lede, .phero :global(.meta) { margin: 0; color: rgb(255 255 255 / 85%); }
+  .crumbs { display: flex; flex-wrap: wrap; gap: 8px; font-size: 0.85rem; margin-bottom: 20px; color: rgb(255 255 255 / 60%); }
+  .crumbs a { color: rgb(255 255 255 / 80%); text-decoration: none; }
+  .crumbs a:hover { color: #fff; text-decoration: underline; }
+  .phero :global(.btn--primary) { background: #fff; color: var(--blue); }
 </style>
