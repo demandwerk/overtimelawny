@@ -50,4 +50,4 @@ There are also specific statutory requirements for fast food workers in New York
 
 ### We can help you protect your rights as a tipped employee
 
-Take steps to get full and fair compensation as a restaurant worker. [**Contact our offices online**](/restaurant-workers-and-tipped-employees/#contact) or call us at [**(631) 257-5588**](tel:631-257-5588) to schedule a free initial consultation. We are also available for teleconferences using Zoom and Microsoft Teams.
+Take steps to get full and fair compensation as a restaurant worker. [**Contact our offices online**](/restaurant-workers-and-tipped-employees/#contact) or call us at [**(631) 257-5588**](tel:+16312575588) to schedule a free initial consultation. We are also available for teleconferences using Zoom and Microsoft Teams.

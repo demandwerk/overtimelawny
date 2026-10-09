@@ -74,4 +74,4 @@ Retaliation claims may be brought under different laws, depending on the circums
 
 ## Consult with a Retaliation Lawyer
 
-If you suspect retaliation, discuss your situation with an experienced attorney as soon as possible. We can provide you with legal guidance and can help gather facts to build a strong case. Call [**(631) 257-5588**](tel:631-257-5588) or [**contact us online**](/retaliation-in-the-workplace/#contact) to arrange a free consultation.
+If you suspect retaliation, discuss your situation with an experienced attorney as soon as possible. We can provide you with legal guidance and can help gather facts to build a strong case. Call [**(631) 257-5588**](tel:+16312575588) or [**contact us online**](/retaliation-in-the-workplace/#contact) to arrange a free consultation.

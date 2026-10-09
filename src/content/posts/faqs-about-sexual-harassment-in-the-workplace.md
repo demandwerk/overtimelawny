@@ -44,4 +44,4 @@ The legal term for “getting back at you” is "retaliation." The answer is no.
 
 ### Do you have problems with sexual harassment in the workplace?
 
-Find out how the Law Office of Peter A. Romero can help you. Throughout NYC including Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan, clients turn to us for legal help. Call us at **(631) 257-5588** or [**contact us online**](/#contact) to schedule an appointment.
+Find out how the Law Office of Peter A. Romero can help you. Throughout NYC including Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan, clients turn to us for legal help. Call us at **(631) 257-5588** or [**contact us online**](/contact-us/) to schedule an appointment.

@@ -80,4 +80,4 @@ Age discrimination in the workplace occurs when employees, who are age 40 or old
 
 ## Take Advantage of Our Experience with Employment Discrimination Law
 
-Let us help you protect your rights and seek justice, whether under federal, New York State or New York City law. We represent clients on Long Island, and in Westchester, Brooklyn, Queens, Manhattan, the Bronx, and Northern New Jersey. Call our office at [**(631) 257-5588**](tel:631-257-5588) or [**contact us online**](/employment-discrimination/#contact) to arrange a free consultation.
+Let us help you protect your rights and seek justice, whether under federal, New York State or New York City law. We represent clients on Long Island, and in Westchester, Brooklyn, Queens, Manhattan, the Bronx, and Northern New Jersey. Call our office at [**(631) 257-5588**](tel:+16312575588) or [**contact us online**](/employment-discrimination/#contact) to arrange a free consultation.

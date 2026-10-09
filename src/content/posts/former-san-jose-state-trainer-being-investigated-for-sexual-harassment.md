@@ -13,4 +13,4 @@ Recently, the FBI interviewed Shawna Bryant, who used to work with Scott Shaw as
 
 ### Experienced Representation in Discrimination Cases
 
-At the Law Office of Peter A. Romero, our attorneys have decades of experience. We have represented clients in harassment, retaliation, wrongful termination and other types of discrimination cases. Schedule an appointment to discuss your complaint and find out how we can help. Call us at (631) 257-5588 or [contact us online](/#contact).
+At the Law Office of Peter A. Romero, our attorneys have decades of experience. We have represented clients in harassment, retaliation, wrongful termination and other types of discrimination cases. Schedule an appointment to discuss your complaint and find out how we can help. Call us at (631) 257-5588 or [contact us online](/contact-us/).

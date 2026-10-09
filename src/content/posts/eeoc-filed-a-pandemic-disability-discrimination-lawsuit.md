@@ -18,4 +18,4 @@ The EEOC brought a [lawsuit against ISS Facility Services, Inc](https://www.eeoc
 
 ### Get experienced legal help with disability discrimination
 
-The Law Office of Peter A. Romero has decades of experience representing employees in disability claims. Clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan often seek our legal help. Call us at (631) 257-5588 or [contact us online](/#contact) to schedule an appointment.
+The Law Office of Peter A. Romero has decades of experience representing employees in disability claims. Clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan often seek our legal help. Call us at (631) 257-5588 or [contact us online](/contact-us/) to schedule an appointment.

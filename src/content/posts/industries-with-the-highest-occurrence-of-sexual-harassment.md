@@ -49,4 +49,4 @@ Academia ranks next for high instances of sexual harassment. Claims of sexual ha
 
 ## How can a sexual harassment lawyer help you?
 
-An attorney can protect your rights and take legal action on your behalf. By speaking out, you can help end sexual harassment. Your actions can help others find courage to report their experiences as well. Find out how the Law Office of Peter A. Romero can assist you. Throughout NYC including Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan, clients turn to us for legal help. Call us at **(631) 257-5588** or [**contact us online**](/#contact) to schedule an appointment.
+An attorney can protect your rights and take legal action on your behalf. By speaking out, you can help end sexual harassment. Your actions can help others find courage to report their experiences as well. Find out how the Law Office of Peter A. Romero can assist you. Throughout NYC including Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan, clients turn to us for legal help. Call us at **(631) 257-5588** or [**contact us online**](/contact-us/) to schedule an appointment.

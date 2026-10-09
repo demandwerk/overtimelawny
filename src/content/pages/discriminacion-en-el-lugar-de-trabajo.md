@@ -82,4 +82,4 @@ La discriminación por edad en el lugar de trabajo ocurre cuando los empleados q
 
 ## Aproveche nuestra experiencia con la ley de discriminación laboral
 
-Permítanos ayudarle a proteger sus derechos y buscar justicia, ya sea bajo la ley federal, estatal o de la ciudad de Nueva York. Representamos a clientes en Long Island, Westchester, Brooklyn, Queens, Manhattan, el Bronx y el norte de Nueva Jersey. Llame a nuestra oficina al [**(631) 257-5588**](tel:631-257-5588) o [**contáctenos en línea**](/discriminacion-en-el-lugar-de-trabajo/#contact) para programar una consulta gratuita.
+Permítanos ayudarle a proteger sus derechos y buscar justicia, ya sea bajo la ley federal, estatal o de la ciudad de Nueva York. Representamos a clientes en Long Island, Westchester, Brooklyn, Queens, Manhattan, el Bronx y el norte de Nueva Jersey. Llame a nuestra oficina al [**(631) 257-5588**](tel:+16312575588) o [**contáctenos en línea**](/discriminacion-en-el-lugar-de-trabajo/#contact) para programar una consulta gratuita.

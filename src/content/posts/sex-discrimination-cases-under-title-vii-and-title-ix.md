@@ -22,4 +22,4 @@ Title IX does not require that claimants pursue administrative remedies prior to
 
 ### Get Experienced Legal Help with Sex Discrimination Claims
 
-The Law Office of Peter A. Romero has extensive legal experience with handling sex discrimination claims. We represent clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at (631) 257-5588 or [contact us online](/#contact) to schedule an appointment.
+The Law Office of Peter A. Romero has extensive legal experience with handling sex discrimination claims. We represent clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at (631) 257-5588 or [contact us online](/contact-us/) to schedule an appointment.

@@ -1,0 +1,36 @@
+---
+// "Where we practice" box: links to each location landing page.
+import Icon from './Icon.astro';
+import { locations } from '../site';
+interface Props { lang?: 'en' | 'es' }
+const { lang = 'en' } = Astro.props;
+const path = Astro.url.pathname;
+---
+<nav class="locs" aria-label={lang === 'es' ? 'Dónde trabajamos' : 'Where we practice'}>
+  <h2>{lang === 'es' ? 'Dónde trabajamos' : 'Where we practice'}</h2>
+  <ul>
+    {locations.map((l) => (
+      <li>
+        <a href={l.href} aria-current={path === l.href ? 'page' : undefined}>
+          <Icon name="pin" />
+          <span><strong>{l.title}</strong><small>{l.area}</small></span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</nav>
+
+<style>
+  .locs { padding: 22px; border: 1px solid var(--line); border-radius: 14px; background: #fff; }
+  .locs h2 { font: 700 0.8rem/1 var(--body); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); margin-bottom: 8px; }
+  .locs ul { list-style: none; margin: 0; padding: 0; }
+  .locs li + li { border-top: 1px solid var(--line); }
+  .locs a { display: flex; gap: 12px; padding: 14px 8px; margin: 0 -8px; border-radius: 8px; text-decoration: none; color: var(--ink); }
+  .locs a:hover { background: var(--blue-tint); }
+  .locs a[aria-current='page'] { background: var(--blue); color: #fff; }
+  .locs a[aria-current='page'] small { color: rgb(255 255 255 / 75%); }
+  .locs :global(svg) { width: 18px; height: 18px; flex: none; margin-top: 2px; color: var(--blue); }
+  .locs a[aria-current='page'] :global(svg) { color: #fff; }
+  .locs strong { display: block; font: 700 1rem/1.25 var(--display); font-stretch: 108%; }
+  .locs small { display: block; font-size: 0.84rem; color: var(--muted); margin-top: 3px; }
+</style>

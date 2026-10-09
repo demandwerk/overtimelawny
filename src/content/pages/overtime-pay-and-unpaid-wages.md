@@ -77,4 +77,4 @@ The statute of limitations (deadline) for filing a wage or overtime claim under 
 
 ## Consult with a NY Wages and Overtime Lawyer
 
-If you believe your employer is not paying you overtime, has misclassified your job or in some way is paying you unfairly, contact us. Call [**(631) 257-5588**](tel:631-257-5588) or [**contact us online**](/overtime-pay-and-unpaid-wages/#contact) to arrange a free consultation.
+If you believe your employer is not paying you overtime, has misclassified your job or in some way is paying you unfairly, contact us. Call [**(631) 257-5588**](tel:+16312575588) or [**contact us online**](/overtime-pay-and-unpaid-wages/#contact) to arrange a free consultation.

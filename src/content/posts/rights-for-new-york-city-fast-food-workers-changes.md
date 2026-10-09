@@ -27,4 +27,4 @@ If your employer is laying off employees for economic reasons, then seniority wo
 
 ### Get Experienced Legal Help with Rights for New York City Fast Food Workers Claims
 
-The Law Office of Peter A. Romero has extensive legal experience representing clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at (631) 257-5588 or [**contact us online**](/#contact) to schedule an appointment.
+The Law Office of Peter A. Romero has extensive legal experience representing clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at (631) 257-5588 or [**contact us online**](/contact-us/) to schedule an appointment.

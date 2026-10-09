@@ -40,4 +40,4 @@ After some investigating online I found Peter Romero, I contacted him immediatel
 
 ## Consult with an Experienced Whistleblower Lawyer
 
-If you have legal concerns about whistleblower cases or have suffered from retaliation as a result of your reporting actions, consult with an experienced attorney. At Romero Law Group, PLLC, we are glad to answer your questions and offer legal guidance. Call our firm at [**(631) 257-5588**](tel:631-257-5588) or [**contact us online**](/whistleblower/#contact).
+If you have legal concerns about whistleblower cases or have suffered from retaliation as a result of your reporting actions, consult with an experienced attorney. At Romero Law Group, PLLC, we are glad to answer your questions and offer legal guidance. Call our firm at [**(631) 257-5588**](tel:+16312575588) or [**contact us online**](/whistleblower/#contact).

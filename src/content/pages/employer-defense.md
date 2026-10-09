@@ -30,4 +30,4 @@ I had an opportunity to face Peter a number of years ago in a contentious workpl
 
 The first intimation that an employee is disgruntled and possibly considering litigation is the time to consult with an attorney. Taking corrective measures or otherwise resolving issues amicably is the best legal approach. Our firm can help you by advising the most effective course of action. If litigation becomes inevitable, we can provide aggressive representation and work diligently to reduce your liability. We are skilled in defending companies against allegations of discrimination, whistleblower, harassment, retaliation, and wage and hour violations.
 
-Please call our office at [**(631) 257-5588**](tel:631-257-5588) or [**contact us online**](/employer-defense/#contact).
+Please call our office at [**(631) 257-5588**](tel:+16312575588) or [**contact us online**](/employer-defense/#contact).

@@ -40,4 +40,4 @@ The findings were consistent. Overall, the participants perceived victims of sex
 
 ### What does this mean for sexual harassment cases?
 
-Unfortunately, it means that women who do not fit the prototype could have a more difficult time obtaining justice in a sexual harassment claim. Biased perception could result unjust legal outcomes. If you have been sexually harassed, make sure you consult with an experienced lawyer who has the knowledge and skills to seek a favorable outcome for your case. Call the Law Office of Peter A. Romero today at (631) 257-5588 or [contact us online](/#contact).
+Unfortunately, it means that women who do not fit the prototype could have a more difficult time obtaining justice in a sexual harassment claim. Biased perception could result unjust legal outcomes. If you have been sexually harassed, make sure you consult with an experienced lawyer who has the knowledge and skills to seek a favorable outcome for your case. Call the Law Office of Peter A. Romero today at (631) 257-5588 or [contact us online](/contact-us/).

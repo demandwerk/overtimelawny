@@ -51,4 +51,4 @@ Sin embargo, hay casos en los que los empleadores no toman medidas para corregir
 
 ## Póngase en contacto con nuestros abogados especializados en casos de discriminación para obtener ayuda legal.
 
-Si cree que está siendo acosado o discriminado sexualmente, llame a nuestra oficina al [**(631) 257-5588**](tel:631-257-5588) or [**contáctenos en línea**](/acoso-sexual-en-el-lugar-de-trabajo/#contact). Ofrecemos una consulta gratuita para conversar, evaluar y asesorar el mejor curso de acción legal.
+Si cree que está siendo acosado o discriminado sexualmente, llame a nuestra oficina al [**(631) 257-5588**](tel:+16312575588) or [**contáctenos en línea**](/acoso-sexual-en-el-lugar-de-trabajo/#contact). Ofrecemos una consulta gratuita para conversar, evaluar y asesorar el mejor curso de acción legal.

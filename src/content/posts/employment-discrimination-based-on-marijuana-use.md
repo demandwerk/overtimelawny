@@ -33,4 +33,4 @@ The employee's use of cannabis must result in observable signs of impairment. Te
 
 ### Do you have questions about employment discrimination based on marijuana use?
 
-The Law Office of Peter A. Romero assists clients with employment law and discrimination issues. Clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan turn to us for legal help. Call us at (631) 257-5588 or [contact us online](/#contact) to schedule an appointment.
+The Law Office of Peter A. Romero assists clients with employment law and discrimination issues. Clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan turn to us for legal help. Call us at (631) 257-5588 or [contact us online](/contact-us/) to schedule an appointment.

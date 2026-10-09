@@ -13,4 +13,4 @@ According to an article in [Forbes magazine](https://www.forbes.com/sites/brucel
 
 ### What to do if you are in the medical field and experiencing discrimination and harassment
 
-If someone in the workplace or at a medical school has harassed or discriminated against you, consult with an experienced lawyer. An experienced employment law attorney can seek a favorable outcome on your behalf. Call the Law Office of Peter A. Romero today at (631) 257-5588 or [contact us online](/#contact).
+If someone in the workplace or at a medical school has harassed or discriminated against you, consult with an experienced lawyer. An experienced employment law attorney can seek a favorable outcome on your behalf. Call the Law Office of Peter A. Romero today at (631) 257-5588 or [contact us online](/contact-us/).

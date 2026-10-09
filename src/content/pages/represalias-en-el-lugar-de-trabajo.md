@@ -70,4 +70,4 @@ Tengo el mayor respeto por el Sr. Romero.
 
 ## Consulte con un abogado laboral especialista en represalias
 
-Si sospecha de represalias, analice su situación con un abogado experimentado lo antes posible. Podemos brindarle orientación legal y podemos ayudarlo a recopilar datos para construir un caso sólido. Llame al [**(631) 257-5588**](tel:631-257-5588) o [**o contáctenos en línea**](/represalias-en-el-lugar-de-trabajo/#contact) para concertar una consulta gratuita.
+Si sospecha de represalias, analice su situación con un abogado experimentado lo antes posible. Podemos brindarle orientación legal y podemos ayudarlo a recopilar datos para construir un caso sólido. Llame al [**(631) 257-5588**](tel:+16312575588) o [**o contáctenos en línea**](/represalias-en-el-lugar-de-trabajo/#contact) para concertar una consulta gratuita.

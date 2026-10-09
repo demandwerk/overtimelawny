@@ -5,7 +5,9 @@ import Base from '../layouts/Base.astro';
 import PageHero from '../components/PageHero.astro';
 import ConsultForm from '../components/ConsultForm.astro';
 import Icon from '../components/Icon.astro';
-import { firm, practiceAreas } from '../site';
+import PracticeCarousel from '../components/PracticeCarousel.astro';
+import LocationsNav from '../components/LocationsNav.astro';
+import { firm } from '../site';
 
 export async function getStaticPaths() {
   const pages = await getCollection('pages');
@@ -32,13 +34,17 @@ const crumbs = es
     : kind === 'practice'
       ? [{ label: 'Home', href: '/' }, { label: 'Practice areas', href: '/practice-areas-employment-law-overview/' }]
       : [{ label: 'Home', href: '/' }];
-const related = practiceAreas.filter((p) => p.slug !== entry.id).slice(0, 8);
-const showSidebar = !['disclaimer'].includes(entry.id);
+const showSidebar = entry.id !== 'disclaimer';
+const isOverview = entry.id === 'practice-areas-employment-law-overview';
+// Spanish pages link to the Spanish practice pages in their own text instead.
+const showCarousel = showSidebar && !es && !isOverview;
 ---
 <Base title={entry.data.title} description={entry.data.description} lang={lang} type={isPost ? 'article' : 'website'}>
   <PageHero title={entry.data.title} eyebrow={eyebrow} crumbs={crumbs}>
     {date && <p class="meta">{fmt(date)} · {firm.name}</p>}
   </PageHero>
+
+  {isOverview && <PracticeCarousel eyebrow="Our practice areas" heading="Employment law for workers, start to finish." showEmployers />}
 
   <div class="wrap body" class:list={{ 'body--solo': !showSidebar }}>
     <article class="prose">
@@ -54,43 +60,39 @@ const showSidebar = !['disclaimer'].includes(entry.id);
 
     {showSidebar && (
       <aside class="side">
-        <div class="side__sticky">
-          <ConsultForm lang={lang} />
-          <a class="side__call" href={firm.phoneHref}>
-            <Icon name="phone" />
-            <span><small>{es ? 'O llámenos' : 'Prefer to talk? Call'}</small>{firm.phone}</span>
-          </a>
-          {!es && (
-            <nav class="side__links" aria-label="Practice areas">
-              <h2>Practice areas</h2>
-              <ul>{related.map((p) => <li><a href={`/${p.slug}/`}>{p.title}</a></li>)}</ul>
-            </nav>
-          )}
-        </div>
+        <div id="contact"><ConsultForm lang={lang} /></div>
+        <a class="side__call" href={firm.phoneHref}>
+          <Icon name="phone" />
+          <span><small>{es ? 'O llámenos' : 'Prefer to talk? Call'}</small>{firm.phone}</span>
+        </a>
+        <LocationsNav lang={lang} />
       </aside>
     )}
   </div>
+
+  {showCarousel && (
+    <PracticeCarousel
+      eyebrow={kind === 'practice' ? 'Other practice areas' : 'Practice areas'}
+      heading={kind === 'location' ? 'What we handle for employees in your area.' : 'How we help employees.'}
+      exclude={entry.id}
+      tint
+    />
+  )}
 </Base>
 
 <style>
   .meta { margin: 0; color: var(--muted); font-size: 0.95rem; }
   .body { display: grid; grid-template-columns: minmax(0, 1fr) 380px; gap: clamp(40px, 6vw, 88px); padding-top: clamp(40px, 6vw, 72px); padding-bottom: clamp(56px, 8vw, 104px); }
   .body--solo { grid-template-columns: minmax(0, 1fr); }
-  .side__sticky { position: sticky; top: 100px; display: grid; gap: 16px; }
+  .side { display: grid; gap: 16px; align-content: start; }
+  #contact { scroll-margin-top: 100px; }
   .side__call { display: flex; align-items: center; gap: 14px; padding: 18px 22px; border-radius: 14px; background: var(--ink); color: #fff; text-decoration: none; font: 750 1.35rem/1.1 var(--display); }
   .side__call:hover { background: var(--blue); color: #fff; }
   .side__call small { display: block; font: 500 0.8rem/1.4 var(--body); color: #aab1bf; }
   .side__call:hover small { color: var(--blue-tint-2); }
   .side__call :global(svg) { width: 22px; height: 22px; }
-  .side__links { padding: 22px; border: 1px solid var(--line); border-radius: 14px; }
-  .side__links h2 { font-size: 0.8rem; font-family: var(--body); letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); }
-  .side__links ul { list-style: none; margin: 0; padding: 0; }
-  .side__links a { display: block; padding: 7px 0; text-decoration: none; font-weight: 550; font-size: 0.95rem; }
   .post-cta { margin-top: 48px; padding: 28px; border-radius: 14px; background: var(--blue-tint); }
   .post-cta h2 { margin-top: 0 !important; font-size: 1.4rem; }
   .post-cta .fine { font-size: 0.82rem; color: var(--muted); margin: 0; }
-  @media (max-width: 1000px) {
-    .body { grid-template-columns: minmax(0, 1fr); }
-    .side__sticky { position: static; }
-  }
+  @media (max-width: 1000px) { .body { grid-template-columns: minmax(0, 1fr); } }
 </style>

@@ -3,35 +3,11 @@ title: "Practice Areas"
 description: "New York employees enjoy protection under federal and state laws that prohibit discrimination and harassment. New York City also provides employees with protection under the New York City Human Rights Law (NYCHRL)(https://www1.nyc.gov/site/cchr/law/the-law.page) . The NYCHRL encompasses a more…"
 kind: page
 ---
-## Employment Law
-
-### Practice Areas Overview
-
 ## Employment Rights in New York
 
 New York employees enjoy protection under federal and state laws that prohibit discrimination and harassment. New York City also provides employees with protection under the [**New York City Human Rights Law (NYCHRL)**](https://www1.nyc.gov/site/cchr/law/the-law.page) . The NYCHRL encompasses a more comprehensive number of protected classes.
 
 At Romero Law Group, PLLC, our attorneys represent clients in a broad scope of employment law areas. We handle cases involving all types of discrimination and also represent clients in claims related to overtime pay, unpaid wages and employment agreements.
-
-## Practice Areas Overview
-
--   [Employment Discrimination](/employment-discrimination/)
--   [Whistleblower](/whistleblower/)
--   [Sexual Harassment](/sexual-harassment/)
--   [Retaliation](/retaliation-in-the-workplace/)
--   [Family Medical Leave Act](/family-medical-leave-act/)
--   [Disability Discrimination](/employment-discrimination/#disability-discrimination)
--   [Civil Rights](/civil-rights/)
--   [Hostile Work Environment](/employment-discrimination/#hostile-work-environment)
-
--   [Gender Discrimination](/employment-discrimination/#gender-discrimination)
--   [Age Discrimination](/employment-discrimination/#age-discrimination)
--   [Pregnancy Discrimination](/pregnancy-discrimination/)
--   [Overtime Pay & Unpaid Wages](/overtime-pay-and-unpaid-wages/)
--   [Wrongful Termination](/employment-discrimination/#wrongful-termination)
--   [Employment Agreements](/employment-agreements/)
--   [Employer Defense](/employer-defense/)
--   [Restaurant Workers & Tipped Employees](/restaurant-workers-and-tipped-employees/)
 
 ## What Our Clients Have to Say
 

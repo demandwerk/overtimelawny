@@ -35,4 +35,4 @@ Yes, but depending on your circumstances, your attorney may advise first filing 
 
 ## Let The Romero Law Group Protect Your Legal Rights as a Woman
 
-Take the first step to get full and fair compensation for sexual harassment in the workplace. [**Contact our offices online**](/sexual-harassment/#contact) or call us at [**(631) 257-5588**](tel:631-257-5588) to schedule a free initial consultation. We are also available for teleconferences using Zoom and Microsoft Teams.
+Take the first step to get full and fair compensation for sexual harassment in the workplace. [**Contact our offices online**](/sexual-harassment/#contact) or call us at [**(631) 257-5588**](tel:+16312575588) to schedule a free initial consultation. We are also available for teleconferences using Zoom and Microsoft Teams.

@@ -42,4 +42,4 @@ AEDT stands for automated employment decision tool. It refers to AI (artificial 
 
 ### Has AI bias affected your employment?
 
-Find out how the Law Office of Peter A. Romero can help you. Throughout NYC including Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan, clients turn to us for legal help. Call us at **(631) 257-5588** or [**contact us online**](/#contact) to schedule an appointment.
+Find out how the Law Office of Peter A. Romero can help you. Throughout NYC including Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan, clients turn to us for legal help. Call us at **(631) 257-5588** or [**contact us online**](/contact-us/) to schedule an appointment.

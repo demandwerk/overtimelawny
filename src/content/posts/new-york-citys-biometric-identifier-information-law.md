@@ -32,4 +32,4 @@ Identifying people through biometric data has become widespread. However, there 
 
 ### Get experienced legal help with biometric violations
 
-The Law Office of Peter A. Romero has years of experience defending employees in claims brought against employers. Clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan turn to us for legal help. Call us at (631) 257-5588 or [contact us online](/#contact) to schedule an appointment.
+The Law Office of Peter A. Romero has years of experience defending employees in claims brought against employers. Clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan turn to us for legal help. Call us at (631) 257-5588 or [contact us online](/contact-us/) to schedule an appointment.

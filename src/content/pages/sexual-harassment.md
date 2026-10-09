@@ -70,4 +70,4 @@ Sexual harassment can take a wide range of forms, including:
 
 ## Contact an Experienced Sexual Harassment Claims Attorney
 
-Take the first step to get full and fair compensation for sexual harassment in the workplace.  [**Contact our offices online**](/sexual-harassment/#contact) or call us at [**(631) 257-5588**](tel:631-257-5588) to schedule a free initial consultation. We are also available for teleconferences using Zoom and Microsoft Teams.
+Take the first step to get full and fair compensation for sexual harassment in the workplace.  [**Contact our offices online**](/sexual-harassment/#contact) or call us at [**(631) 257-5588**](tel:+16312575588) to schedule a free initial consultation. We are also available for teleconferences using Zoom and Microsoft Teams.

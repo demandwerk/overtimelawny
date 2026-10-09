@@ -34,4 +34,4 @@ Yes, you do. The law prohibits employers from retaliating against you for referr
 
 ### Have you been treated unfairly in the workplace?
 
-The Law Office of Peter A. Romero assists clients with employment law issues. Throughout NYC including Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan, clients turn to us for legal help. Call us at **(631) 257-5588** or [**contact us online**](/#contact) to schedule an appointment.
+The Law Office of Peter A. Romero assists clients with employment law issues. Throughout NYC including Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan, clients turn to us for legal help. Call us at **(631) 257-5588** or [**contact us online**](/contact-us/) to schedule an appointment.

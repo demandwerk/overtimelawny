@@ -50,4 +50,4 @@ In addition, employers must make reasonable accommodations for workers in protec
 
 ### Get Experienced Legal Help in New York City Human Rights Law Cases
 
-Our attorneys at the Law Office of Peter A. Romero have extensive experience representing clients in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Whether your issue involves harassment, retaliation, wrongful termination or some other type of discrimination, we can help. Call us at **(631) 257-5588** or [**contact us online**](/#contact) to schedule an appointment.
+Our attorneys at the Law Office of Peter A. Romero have extensive experience representing clients in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Whether your issue involves harassment, retaliation, wrongful termination or some other type of discrimination, we can help. Call us at **(631) 257-5588** or [**contact us online**](/contact-us/) to schedule an appointment.

@@ -42,13 +42,7 @@ export const firm = {
 export const nav = [
   { label: 'Team', href: '/team/' },
   { label: 'Practice Areas', href: '/practice-areas-employment-law-overview/' },
-  {
-    label: 'Areas We Serve',
-    children: [
-      { label: 'Nassau & Suffolk Counties', href: '/employment-law-attorneys-in-nassau-and-suffolk-counties-in-new-york/' },
-      { label: 'New Jersey & NYC', href: '/new-jersey-nyc-overtime-wage-and-sexual-harassment-lawyers/' },
-    ],
-  },
+  { label: 'Areas We Serve', children: [] as { label: string; href: string }[] }, // filled from `locations` below
   {
     label: 'Cases',
     children: [
@@ -58,6 +52,16 @@ export const nav = [
   },
   { label: 'Blog', href: '/blog/' },
 ];
+
+// Location landing pages, shown in the "Areas We Serve" menu, the sidebar on
+// content pages and the homepage. Long Island and New Jersey keep their old URLs.
+export const locations = [
+  { name: 'Long Island', title: 'Long Island Employment Lawyer', area: 'Nassau & Suffolk Counties', href: '/employment-law-attorneys-in-nassau-and-suffolk-counties-in-new-york/' },
+  { name: 'New York City', title: 'New York City Employment Lawyer', area: 'Manhattan, Brooklyn, Queens & the Bronx', href: '/new-york-city-employment-lawyer/' },
+  { name: 'Westchester & Hudson Valley', title: 'Westchester Employment Lawyer', area: 'Westchester, Rockland & Orange Counties', href: '/westchester-employment-lawyer/' },
+  { name: 'New Jersey', title: 'New Jersey Employment Lawyer', area: 'Northern New Jersey', href: '/new-jersey-nyc-overtime-wage-and-sexual-harassment-lawyers/' },
+];
+nav.find((n) => n.label === 'Areas We Serve')!.children = locations.map((l) => ({ label: l.title, href: l.href }));
 
 export const spanishHome = '/descripcion-general-de-las-areas-de-practica/';
 

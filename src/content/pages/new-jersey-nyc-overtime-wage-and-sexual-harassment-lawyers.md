@@ -9,7 +9,7 @@ kind: location
 
 ### Treated Differently at Work because of Race, Gender, Age, Disability, Pregnancy, Sexual Orientation or Other Protected Class?
 
-Contact **Romero Law Group PLLC** today to take the first steps to get the relief you need and deserve. To schedule a free initial consultation, call our offices at [**631-257-5588**](tel: 631-257-5588) or [**contact us online**](#contact).
+Contact **Romero Law Group PLLC** today to take the first steps to get the relief you need and deserve. To schedule a free initial consultation, call our offices at [**631-257-5588**](tel:+16312575588) or [**contact us online**](/contact-us/).
 
 ### Proven and Effective New Jersey & NYC Employment Law Attorneys
 
@@ -47,7 +47,7 @@ We’ll pursue:
 -   Attorneys’ fees and costs
 -   Injunctive relief, when appropriate, ordering your employer to cease and desist any illegal conduct
 
-To learn more, give us a call at [**(631) 257-5588**](tel: 631-257-5588) or [**send us an email**](#contact).
+To learn more, give us a call at [**(631) 257-5588**](tel:+16312575588) or [**send us an email**](/contact-us/).
 
 ### Why Choose Us? 
 
@@ -71,7 +71,7 @@ We take all employee-based claims on a contingent fee basis. You won’t pay leg
 
 **
 
-Send us a [**message**](#contact) or call us today at [**(631) 257-5588**](tel: 631-257-5588) to set up a free initial consultation. We can arrange a videoconference, if necessary.
+Send us a [**message**](/contact-us/) or call us today at [**(631) 257-5588**](tel:+16312575588) to set up a free initial consultation. We can arrange a videoconference, if necessary.
 
 ### What Our Clients Say
 

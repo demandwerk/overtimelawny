@@ -28,4 +28,4 @@ In other words, a direct threat must exist, and an unvaccinated worker would hav
 
 ### Do You Believe Retaliation in the Workplace or Employee Discrimination Resulted in Job Loss?
 
-If you believe your employer violated your rights, call the Law Office of Peter A. Romero today at **(631) 257-5588** or [contact us online](/#contact). We are glad to address your concerns.
+If you believe your employer violated your rights, call the Law Office of Peter A. Romero today at **(631) 257-5588** or [contact us online](/contact-us/). We are glad to address your concerns.

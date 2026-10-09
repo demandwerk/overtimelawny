@@ -28,4 +28,4 @@ Greyhound agreed to the following settlement terms:
 
 ### An Experienced Attorney Can Help You Deal with Religious Discrimination
 
-For many years, the Law Office of Peter A. Romero has dealt successfully with all types of discrimination cases. We provide representation to clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at (631) 257-5588 or [contact us online](/#contact) to schedule an appointment.
+For many years, the Law Office of Peter A. Romero has dealt successfully with all types of discrimination cases. We provide representation to clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at (631) 257-5588 or [contact us online](/contact-us/) to schedule an appointment.

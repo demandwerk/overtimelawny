@@ -67,4 +67,4 @@ Al igual que con otros reclamos por discriminación laboral, se tiene un año de
 
 ## ¿Está enfrentando un trato injusto debido a su embarazo en el trabajo?
 
-Si tiene preguntas o cree que su empleador la trató injustamente debido a su embarazo, llame a nuestra oficina al [**(631) 257-5588**](tel:631-257-5588) o [**contáctenos en línea**](/discriminacion-por-embarazo/#contact). Ofrecemos una consulta gratuita para comunicarse sobre sus preocupaciones con un abogado especialista en discriminación.
+Si tiene preguntas o cree que su empleador la trató injustamente debido a su embarazo, llame a nuestra oficina al [**(631) 257-5588**](tel:+16312575588) o [**contáctenos en línea**](/discriminacion-por-embarazo/#contact). Ofrecemos una consulta gratuita para comunicarse sobre sus preocupaciones con un abogado especialista en discriminación.

@@ -50,4 +50,4 @@ The statute of limitations (deadline) for filing an FMLA claim is two years from
 
 ## Get Legal Help from an FMLA Lawyer and Protect Your Rights
 
-If your employer has violated your rights to a family medical leave, call our firm at [**(631) 257-5588**](tel:631-257-5588) or [**contact us online**](/family-medical-leave-act/#contact). We offer a free consultation review your situation and explain the best course of action.
+If your employer has violated your rights to a family medical leave, call our firm at [**(631) 257-5588**](tel:+16312575588) or [**contact us online**](/family-medical-leave-act/#contact). We offer a free consultation review your situation and explain the best course of action.

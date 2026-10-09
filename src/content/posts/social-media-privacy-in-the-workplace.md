@@ -25,4 +25,4 @@ In addition, your employer cannot discriminate against you based on race, religi
 
 ### Are you having problems with discrimination in the workplace?
 
-The Law Office of Peter A. Romero deals with all types of employment discrimination issues. We provide representation to clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at (631) 257-5588 or [contact us online](/#contact) to schedule an appointment.
+The Law Office of Peter A. Romero deals with all types of employment discrimination issues. We provide representation to clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at (631) 257-5588 or [contact us online](/contact-us/) to schedule an appointment.

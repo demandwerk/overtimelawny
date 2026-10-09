@@ -79,4 +79,4 @@ Plazo límite de reclamos legales (fecha límite) para presentar un reclamo de s
 
 ## Consulte con un abogado especialista en leyes laborales del estado de Nueva York
 
-Si cree que su empleador no le está pagando su horas adicionales, ha clasificado erróneamente su trabajo o de alguna manera le está pagando su horas adicionales, ha clasificado erróneamente su trabajo o de alguna manera le está pagando injustamente, comuníquese con nosotros. Llame al [**(631) 257-5588**](tel:631-257-5588) o [**contáctenos en línea**](/horas-adicionales-y-sueldos-no-pagados/#contact) para concertar una consulta gratuita.
+Si cree que su empleador no le está pagando su horas adicionales, ha clasificado erróneamente su trabajo o de alguna manera le está pagando su horas adicionales, ha clasificado erróneamente su trabajo o de alguna manera le está pagando injustamente, comuníquese con nosotros. Llame al [**(631) 257-5588**](tel:+16312575588) o [**contáctenos en línea**](/horas-adicionales-y-sueldos-no-pagados/#contact) para concertar una consulta gratuita.

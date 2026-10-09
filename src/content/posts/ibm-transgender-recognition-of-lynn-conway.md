@@ -17,4 +17,4 @@ In June 2020, the U.S. Supreme Court rendered a landmark decision, ruling that a
 
 ### Have You Faced Transgender Discrimination?
 
-What occurred when Lynn Conway was fired would be unlawful today. Nevertheless, sometimes employers violate the law. If you've been a victim of discrimination, [call the Law Office of Peter A. Romero](/) today. We are glad to address your concerns. Simply give us a call at **(631) 257-5588** or [contact us online](/#contact).
+What occurred when Lynn Conway was fired would be unlawful today. Nevertheless, sometimes employers violate the law. If you've been a victim of discrimination, [call the Law Office of Peter A. Romero](/) today. We are glad to address your concerns. Simply give us a call at **(631) 257-5588** or [contact us online](/contact-us/).

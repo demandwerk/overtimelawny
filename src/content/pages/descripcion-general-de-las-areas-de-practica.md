@@ -46,4 +46,4 @@ Peter ha superado con creces mis expectativas en cada paso del camino. Su profes
 
 ## Obtenga ayuda legal para resolver asuntos de leyes laborales
 
-Cualquiera que sea su preocupación legal con la ley laboral, nuestros abogados pueden ayudarle. El derecho laboral es el enfoque completo de nuestra práctica y tenemos años de experiencia ayudando a los clientes a resolver disputas laborales y otros problemas. Obtenga una consulta gratuita y descubra cómo podemos ayudar. Llame al [**(631) 257-5588**](tel:631-257-5588) o [**contáctenos en línea**](/descripcion-general-de-las-areas-de-practica/#contact).
+Cualquiera que sea su preocupación legal con la ley laboral, nuestros abogados pueden ayudarle. El derecho laboral es el enfoque completo de nuestra práctica y tenemos años de experiencia ayudando a los clientes a resolver disputas laborales y otros problemas. Obtenga una consulta gratuita y descubra cómo podemos ayudar. Llame al [**(631) 257-5588**](tel:+16312575588) o [**contáctenos en línea**](/descripcion-general-de-las-areas-de-practica/#contact).

@@ -67,4 +67,4 @@ As with other employment discrimination claims, you have one-year from the last 
 
 ## Are You Facing Unfair Treatment Due to Pregnancy at Work?
 
-If you have questions or believe your employer treated you unfairly because of your pregnancy, call our office at [**(631) 257-5588**](tel:631-257-5588) or [**contact us online**](/pregnancy-discrimination/#contact). We offer a free consultation to discuss your concerns with a pregnancy discrimination lawyer.
+If you have questions or believe your employer treated you unfairly because of your pregnancy, call our office at [**(631) 257-5588**](tel:+16312575588) or [**contact us online**](/pregnancy-discrimination/#contact). We offer a free consultation to discuss your concerns with a pregnancy discrimination lawyer.
