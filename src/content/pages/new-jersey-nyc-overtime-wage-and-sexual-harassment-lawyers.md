@@ -1,7 +1,9 @@
 ---
 title: "New Jersey & NYC Overtime, Wage and Sexual Harassment Lawyers"
-description: "Contact Romero Law Group PLLC today to take the first steps to get the relief you need and deserve. To schedule a free initial consultation, call our offices at 631-257-5588(tel: 631-257-5588) or contact us…"
+description: "Contact Romero Law Group PLLC today to take the first steps to get the relief you need and deserve. To schedule a free initial consultation, call our offices at (631) 257-5588 or contact us online."
 kind: location
+hero: ../../assets/hero/jersey-city-terminal.jpg
+heroPosition: 50% 72%
 ---
 ## New Jersey & NYC Overtime, Wage and Sexual Harassment Lawyers
 
@@ -10,6 +12,8 @@ kind: location
 ### Treated Differently at Work because of Race, Gender, Age, Disability, Pregnancy, Sexual Orientation or Other Protected Class?
 
 Contact **Romero Law Group PLLC** today to take the first steps to get the relief you need and deserve. To schedule a free initial consultation, call our offices at [**631-257-5588**](tel:+16312575588) or [**contact us online**](/contact-us/).
+
+![A northern New Jersey town in autumn, with the skyline on the horizon](../../assets/hero/new-jersey-town.jpg)
 
 ### Proven and Effective New Jersey & NYC Employment Law Attorneys
 

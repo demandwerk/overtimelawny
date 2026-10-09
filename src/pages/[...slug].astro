@@ -1,6 +1,7 @@
 ---
 // Every imported WordPress page and blog post lives at /<slug>/, as before.
 import { getCollection, render } from 'astro:content';
+import type { ImageMetadata } from 'astro';
 import Base from '../layouts/Base.astro';
 import PageHero from '../components/PageHero.astro';
 import ConsultForm from '../components/ConsultForm.astro';
@@ -34,13 +35,14 @@ const crumbs = es
     : kind === 'practice'
       ? [{ label: 'Home', href: '/' }, { label: 'Practice areas', href: '/practice-areas-employment-law-overview/' }]
       : [{ label: 'Home', href: '/' }];
+const pageData = isPost ? undefined : (entry.data as { hero?: ImageMetadata; heroPosition?: string });
 const showSidebar = entry.id !== 'disclaimer';
 const isOverview = entry.id === 'practice-areas-employment-law-overview';
 // Spanish pages link to the Spanish practice pages in their own text instead.
 const showCarousel = showSidebar && !es && !isOverview;
 ---
 <Base title={entry.data.title} description={entry.data.description} lang={lang} type={isPost ? 'article' : 'website'}>
-  <PageHero title={entry.data.title} eyebrow={eyebrow} crumbs={crumbs}>
+  <PageHero title={entry.data.title} eyebrow={eyebrow} crumbs={crumbs} image={pageData?.hero} imagePosition={pageData?.heroPosition}>
     {date && <p class="meta">{fmt(date)} · {firm.name}</p>}
   </PageHero>
 

@@ -1,6 +1,6 @@
 ---
 title: "Employment Law Attorneys in Nassau and Suffolk Counties in New York"
-description: "Contact Romero Law Group PLLC today to take the first steps to get the relief you need and deserve. To schedule a free initial consultation, call our offices at 631-257-5588(tel: 631-257-5588) or contact us…"
+description: "Contact Romero Law Group PLLC today to take the first steps to get the relief you need and deserve. To schedule a free initial consultation, call our offices at (631) 257-5588 or contact us online."
 kind: location
 ---
 ## Proven Employment Law Attorneys in Nassau and Suffolk Counties in  
