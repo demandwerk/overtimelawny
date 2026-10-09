@@ -41,7 +41,7 @@ export const firm = {
 
 export const nav = [
   { label: 'Team', href: '/team/' },
-  { label: 'Practice Areas', href: '/practice-areas-employment-law-overview/' },
+  { label: 'Practice Areas', children: [] as { label: string; href: string }[] }, // filled from `practiceAreas` below
   { label: 'Areas We Serve', children: [] as { label: string; href: string }[] }, // filled from `locations` below
   {
     label: 'Cases',
@@ -165,4 +165,9 @@ export const team = [
     ],
     details: [],
   },
+];
+
+nav.find((n) => n.label === 'Practice Areas')!.children = [
+  { label: 'All practice areas', href: '/practice-areas-employment-law-overview/' },
+  ...practiceAreas.map((p) => ({ label: p.title, href: `/${p.slug}/` })),
 ];

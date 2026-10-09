@@ -35,10 +35,10 @@ const isActive = (href: string) => path === href;
         <ul class="nav__list">
           {nav.map((item) => item.children ? (
             <li class="nav__item nav__item--parent">
-              <button type="button" class="nav__link" aria-haspopup="true">
+              <button type="button" class="nav__link" aria-haspopup="true" aria-expanded="false">
                 {item.label} <Icon name="chevron" />
               </button>
-              <ul class="nav__sub">
+              <ul class="nav__sub" class:list={{ 'nav__sub--wide': item.children.length > 6 }}>
                 {item.children.map((c) => (
                   <li><a href={c.href} aria-current={isActive(c.href) ? 'page' : undefined}>{c.label}</a></li>
                 ))}
@@ -67,6 +67,15 @@ const isActive = (href: string) => path === href;
     const sync = () => { menu.open = mq.matches; };
     sync();
     mq.addEventListener('change', sync);
+
+    // On phones, each dropdown opens and closes with a tap.
+    for (const btn of menu.querySelectorAll('.nav__item--parent > .nav__link')) {
+      btn.addEventListener('click', () => {
+        if (mq.matches) return;
+        const open = btn.parentElement.classList.toggle('is-open');
+        btn.setAttribute('aria-expanded', String(open));
+      });
+    }
   })();
 </script>
 
@@ -110,6 +119,9 @@ const isActive = (href: string) => path === href;
     opacity: 0; visibility: hidden; transform: translateY(6px); transition: 0.15s;
   }
   .nav__item--parent:hover .nav__sub, .nav__item--parent:focus-within .nav__sub { opacity: 1; visibility: visible; transform: none; }
+  .nav__sub--wide { display: grid; grid-template-columns: 1fr 1fr; gap: 0 4px; min-width: 520px; }
+  .nav__sub--wide li:first-child { grid-column: 1 / -1; border-bottom: 1px solid var(--line); margin-bottom: 6px; padding-bottom: 6px; }
+  .nav__sub--wide li:first-child a { font-weight: 650; color: var(--blue); }
   .nav__sub a { display: block; padding: 10px 12px; border-radius: 6px; color: var(--text); text-decoration: none; font-size: 0.95rem; }
   .nav__sub a:hover { background: var(--blue-tint); color: var(--blue); }
   .nav__cta { min-height: 44px; padding: 0 20px; font-size: 0.95rem; margin-left: 8px; }
@@ -133,10 +145,14 @@ const isActive = (href: string) => path === href;
     }
     .nav__list { flex-direction: column; }
     .nav__link { width: 100%; padding: 14px 0; font-size: 1.05rem; border-bottom: 1px solid var(--line); border-radius: 0; }
-    .nav__link :global(svg) { display: none; }
-    .nav__item--parent .nav__link { color: var(--muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.1em; border: 0; padding-bottom: 4px; }
+    .nav__item--parent .nav__link { justify-content: space-between; }
+    .nav__item--parent .nav__link :global(svg) { width: 18px; height: 18px; transition: transform 0.2s; }
+    .nav__item--parent.is-open .nav__link :global(svg) { transform: rotate(180deg); }
+    .nav__item--parent:not(.is-open) .nav__sub { display: none; }
     .nav__sub { position: static; opacity: 1; visibility: visible; transform: none; box-shadow: none; border: 0; padding: 0 0 8px; border-bottom: 1px solid var(--line); border-radius: 0; }
     .nav__sub a { padding: 10px 0; font-size: 1.05rem; }
+    .nav__sub--wide { display: block; min-width: 0; }
+    .nav__sub--wide li:first-child { margin-bottom: 0; padding-bottom: 0; border: 0; }
     .nav__cta { margin: 20px 0 0; }
   }
 </style>
