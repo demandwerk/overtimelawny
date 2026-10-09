@@ -166,7 +166,7 @@ const steps = [
         <p class="eyebrow">Where we work</p>
         <h2>Serving workers across the New York metro area.</h2>
         <ul class="places">
-          {locations.map((l) => <li><a href={l.href}>{l.name}<small>{l.area}</small></a></li>)}
+          {locations.map((l) => <li>{l.href ? <a href={l.href}>{l.name}<small>{l.area}</small></a> : <span>{l.name}<small>{l.area}</small></span>}</li>)}
         </ul>
         <div class="offices">
           {firm.offices.map((o) => (
@@ -273,7 +273,7 @@ const steps = [
   .split { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(40px, 7vw, 96px); }
   @media (max-width: 860px) { .split { grid-template-columns: 1fr; } }
   .places { list-style: none; padding: 0; margin: 24px 0; display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
-  .places a { display: block; padding: 14px 16px; background: #fff; border: 1px solid var(--line); border-radius: 10px; font-weight: 600; text-decoration: none; color: var(--ink); font-size: 0.95rem; }
+  .places a, .places span { display: block; padding: 14px 16px; background: #fff; border: 1px solid var(--line); border-radius: 10px; font-weight: 600; text-decoration: none; color: var(--ink); font-size: 0.95rem; }
   .places small { display: block; font-weight: 400; font-size: 0.82rem; color: var(--muted); margin-top: 2px; }
   .places a:hover { border-color: var(--blue); color: var(--blue); }
   @media (max-width: 480px) { .places { grid-template-columns: 1fr; } }

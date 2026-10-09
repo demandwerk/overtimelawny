@@ -53,15 +53,16 @@ export const nav = [
   { label: 'Blog', href: '/blog/' },
 ];
 
-// Location landing pages, shown in the "Areas We Serve" menu, the sidebar on
-// content pages and the homepage. Long Island and New Jersey keep their old URLs.
-export const locations = [
+// Areas the firm serves, shown in the sidebar on content pages and on the
+// homepage. Entries without an href have no landing page and show as plain
+// text; only linked ones appear in the "Areas We Serve" menu.
+export const locations: { name: string; title: string; area: string; href?: string }[] = [
   { name: 'Long Island', title: 'Long Island Employment Lawyer', area: 'Nassau & Suffolk Counties', href: '/employment-law-attorneys-in-nassau-and-suffolk-counties-in-new-york/' },
-  { name: 'New York City', title: 'New York City Employment Lawyer', area: 'Manhattan, Brooklyn, Queens & the Bronx', href: '/new-york-city-employment-lawyer/' },
-  { name: 'Westchester & Hudson Valley', title: 'Westchester Employment Lawyer', area: 'Westchester, Rockland & Orange Counties', href: '/westchester-employment-lawyer/' },
+  { name: 'New York City', title: 'New York City Employment Lawyer', area: 'Manhattan, Brooklyn, Queens & the Bronx' },
+  { name: 'Westchester & Hudson Valley', title: 'Westchester Employment Lawyer', area: 'Westchester, Rockland & Orange Counties' },
   { name: 'New Jersey', title: 'New Jersey Employment Lawyer', area: 'Northern New Jersey', href: '/new-jersey-nyc-overtime-wage-and-sexual-harassment-lawyers/' },
 ];
-nav.find((n) => n.label === 'Areas We Serve')!.children = locations.map((l) => ({ label: l.title, href: l.href }));
+nav.find((n) => n.label === 'Areas We Serve')!.children = locations.filter((l) => l.href).map((l) => ({ label: l.title, href: l.href! }));
 
 export const spanishHome = '/descripcion-general-de-las-areas-de-practica/';
 
