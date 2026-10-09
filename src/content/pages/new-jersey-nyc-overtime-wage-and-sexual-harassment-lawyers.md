@@ -73,14 +73,5 @@ We take all employee-based claims on a contingent fee basis. You won’t pay leg
 
 ### **Schedule an Appointment with a Proven NYC & New Jersey Employment Lawyer**
 
-**
 
 Send us a [**message**](/contact-us/) or call us today at [**(631) 257-5588**](tel:+16312575588) to set up a free initial consultation. We can arrange a videoconference, if necessary.
-
-### What Our Clients Say
-
--   “They explained everything step by step.”
--   “I felt supported the entire time.”
--   “Professional and easy to work with.”
-
-**

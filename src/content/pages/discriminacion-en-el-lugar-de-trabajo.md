@@ -68,14 +68,6 @@ La discriminación de género ocurre cuando un empleador basa una decisión de e
 
 El despido injustificado ocurre cuando un empleador despide a un empleado por una razón ilegal. Por lo general, las razones ilegales se incluyen en algún tipo de discriminación. A menos que un contrato de trabajo especifique lo contrario, el empleo en NY es a voluntad, lo que significa que un empleador puede despedirlo por cualquier motivo. La represalia también es ilegal. En otras palabras, los empleadores no pueden despedir a los empleados como un tipo de represalia porque el empleado presentó un reclamo por discriminación o denuncia de irregularidades, o participó en una investigación o testificó en contra el empleador en una queja por discriminación o denuncia de irregularidades.
 
-## Testimonio basado en una demanda por despido injustificado
-
-**Recomiendo mucho a Peter A. Romero** **5.0 estrellas**  
-Publicado por Carol  
-16 de marzo de 2016
-
-El Sr. Romero me representó en una mediación con mi empleador quien me despidió injustamente. Estoy muy contenta con el resultado. Definitivamente necesitaba un abogado para esto y fue una excelente elección. Mi empleador sugirió que contratar a un abogado no sería beneficioso para mí, así que dudé, pero seguí mi "instinto" de que fui despedido injustamente. No se me permite ser más específico, pero no solo obtuvo un acuerdo excelente, sino que fue muy cálido en nuestras conversaciones y fue muy comunicativo sobre qué esperar y qué podría hacer por mí.
-
 ## Discriminación por edad
 
 La discriminación por edad en el lugar de trabajo ocurre cuando los empleados que tienen 40 años o más son tratados de manera adversa debido a su edad. Es ilegal que un empleador no contrate o despida a un empleado en función de su edad. Los empleadores no pueden publicar anuncios que pregunten por "empleados jóvenes" o nieguen un ascenso merecido o basen cualquier decisión sobre el trabajo en la edad en lugar del mérito. Según la ley federal denominada la Ley de discriminación por edad en el empleo (ADEA), la discriminación por edad se aplica a los empleadores con más de 20 empleados. Sin embargo, la ley del estado de Nueva York se aplica a todas las empresas, independientemente de su tamaño, y las empresas no pueden basar sus decisiones laborales en función de la edad del empleado. Esta ley se extiende también a los contratistas independientes. Si presenta una solicitud ante la EEOC (Comisión de Igualdad de Oportunidades en el Empleo), tiene 300 días para presentar una reclamación contra su empleador. Al presentar reclamos por discriminación por edad ante el estado de Nueva York, tiene un año desde el último incidente de discriminación por edad para presentar su reclamo.

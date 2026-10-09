@@ -68,12 +68,6 @@ Gender discrimination occurs when an employer bases an employment decision on ge
 
 Wrongful termination or wrongful dismissal in New York occurs when an employer fires an employee for an illegal reason. Typically, illegal reasons fall under some type of discrimination. Unless an employment agreement specifies otherwise, NY employment is at-will, which means an employer can fire you for any reason at all. Retaliatory termination is also unlawful. In other words, employers cannot fire employees as a type of retaliation because the employee filed a discrimination or whistleblower claim, or participated in an investigation or testified against the employer in a discrimination complaint or whistleblower claim.
 
-## Testimonial Based on a Wrongful Termination Lawsuit
-
-**I highly recommend Peter A. Romero** **5.0 stars** Posted by Carol March 16, 2016
-
-Mr. Romero represented me in mediation with my employer who wrongfully terminated me. I am VERY happy with the outcome. I definitely needed an attorney for this and he was an excellent choice. My employer suggested that my hiring an attorney would not be to my benefit, so I was hesitant, but followed my "gut" feeling that I was wrongfully terminated. I'm not allowed to get more specific, but not only did he obtain an excellent settlement, but he was so warm in our conversations as well as forthcoming about what to expect and what he would be able to do for me.
-
 ## Age Discrimination
 
 Age discrimination in the workplace occurs when employees, who are age 40 or older are treated adversely because of their age. It is illegal for an employer not to hire or to fire an employee based on age. Employers cannot run ads that ask for “young employees” or deny a deserved promotion or base any decision regarding work on age instead of merit. Under federal law called the Age Discrimination in Employment Act (ADEA), age discrimination applies to employers with more than 20 employees. However, New York State law applies to all companies regardless of size, and companies cannot base employment decisions on age. This law extends to independent contractors as well. If you are filing with the EEOC (Equal Employment Opportunity Commission), you have 300 calendar days to file a claim. When filing age discrimination claims with New York State, you have one year from the last incident of age discrimination to file your claim.
