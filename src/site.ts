@@ -1,5 +1,10 @@
 // Firm details used across the site. Edit here and every page updates.
 
+import peter from './assets/team/peter-romero.jpg';
+import david from './assets/team/david-barnhorn.jpg';
+import matthew from './assets/team/matthew-farnworth.jpg';
+import angelica from './assets/team/angelica-villalba.jpg';
+
 export const firm = {
   name: 'Romero Law Group, PLLC',
   shortName: 'Romero Law Group',
@@ -91,6 +96,7 @@ export const team = [
     name: 'Peter A. Romero',
     role: 'Founding Attorney',
     initials: 'PR',
+    photo: peter,
     bio: [
       'Peter A. Romero has practiced exclusively in the area of employment law for over 20 years. He regularly represents both employers and employees in workplace litigation, including trial and appellate practice, administrative proceedings before the Department of Labor, the U.S. Equal Employment Opportunity Commission, and the New York State Division of Human Rights. He is highly experienced in complex litigation, including collective and class action lawsuits.',
     ],
@@ -105,6 +111,7 @@ export const team = [
     name: 'David D. Barnhorn',
     role: 'Attorney',
     initials: 'DB',
+    photo: david,
     bio: [
       'David D. Barnhorn practices exclusively in the area of employment law, including matters involving employment discrimination and wage and hour violations. He represents both employers and employees in all areas of employment litigation, including trials, administrative proceedings before the U.S. Equal Employment Opportunity Commission and New York State Division of Human Rights, and complex collective and class action lawsuits.',
       'His prior experience includes two boutique labor and employment law firms where he focused primarily on representing plaintiffs, and internships at employment law firms in New York and New Jersey and at the U.S. Equal Employment Opportunity Commission.',
@@ -120,6 +127,7 @@ export const team = [
     name: 'Matthew J. Farnworth',
     role: 'Attorney',
     initials: 'MF',
+    photo: matthew,
     bio: [
       'Matthew J. Farnworth has dedicated his practice exclusively to representing employees in labor and employment matters, including wage and hour violations, employment discrimination and unlawful retaliation. He regularly represents employees before the U.S. Equal Employment Opportunity Commission and the New York State Division of Human Rights, and in cases from inception to trial in state and federal courts in New York and New Jersey.',
       'He has helped dozens of employees recover unpaid wages in collective action lawsuits and has secured significant damage awards for his clients.',
@@ -133,6 +141,7 @@ export const team = [
     name: 'Angelica Villalba',
     role: 'Paralegal · Habla español',
     initials: 'AV',
+    photo: angelica,
     bio: [
       'Angelica Villalba is fluent in English and Spanish. She earned her B.A. in Sociology at the State University of New York at Cortland and is ABA Certified in Paralegal Studies from Hofstra University. Angelica assists the firm’s attorneys and clients with preparing and managing materials for legal matters.',
     ],

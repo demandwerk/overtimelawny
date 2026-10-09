@@ -1,4 +1,5 @@
 ---
+import { Image } from 'astro:assets';
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import ConsultForm from '../components/ConsultForm.astro';
@@ -155,7 +156,7 @@ const steps = [
       <ul class="people">
         {team.map((m) => (
           <li class="person">
-            <span class="person__photo" aria-hidden="true">{m.initials}</span>
+            <Image class="person__photo" src={m.photo} alt={`Photo of ${m.name}`} width={400} height={400} />
             <h3>{m.name}</h3>
             <p>{m.role}</p>
           </li>
@@ -283,11 +284,7 @@ const steps = [
   @media (max-width: 760px) { .quotes { grid-template-columns: 1fr; } }
 
   .people { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
-  .person__photo {
-    display: grid; place-items: center; aspect-ratio: 4 / 5; border-radius: 14px; margin-bottom: 16px;
-    background: linear-gradient(160deg, var(--blue-tint), var(--blue-tint-2));
-    font: 800 3rem/1 var(--display); font-stretch: 112%; color: var(--blue);
-  }
+  .person__photo { display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; border-radius: 14px; margin-bottom: 16px; background: var(--blue-tint); }
   .person h3 { font-size: 1.15rem; margin-bottom: 2px; }
   .person p { color: var(--muted); font-size: 0.92rem; margin: 0; }
   @media (max-width: 860px) { .people { grid-template-columns: 1fr 1fr; } }
