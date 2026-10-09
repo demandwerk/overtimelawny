@@ -19,6 +19,11 @@ import { team, firm } from '../site';
           <p class="eyebrow">{m.role}</p>
           <h2>{m.name}</h2>
           {m.bio.map((p) => <p>{p}</p>)}
+          {m.badges && (
+            <p class="member__badges">
+              {m.badges.map((b) => <Image src={b.img} alt={b.alt} height={88} />)}
+            </p>
+          )}
           {m.details.length > 0 && (
             <dl class="member__details">
               {m.details.map((d) => (
@@ -41,6 +46,8 @@ import { team, firm } from '../site';
   .member:last-child { border-bottom: 0; padding-bottom: 0; }
   .member__photo { display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; border-radius: 16px; position: sticky; top: 110px; background: var(--blue-tint); }
   .member p { max-width: 68ch; }
+  .member__badges { display: flex; gap: 16px; flex-wrap: wrap; }
+  .member__badges img { height: 80px; width: auto; }
   .member__details { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 24px; margin: 28px 0 0; padding: 24px; background: var(--tint); border-radius: 14px; }
   .member__details dt { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--blue); margin-bottom: 8px; }
   .member__details dd { margin: 0; }

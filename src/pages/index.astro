@@ -4,7 +4,7 @@ import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import ConsultForm from '../components/ConsultForm.astro';
 import Icon from '../components/Icon.astro';
-import { firm, practiceAreas, testimonials, team } from '../site';
+import { firm, practiceAreas, testimonials, team, awards } from '../site';
 
 const employeeAreas = practiceAreas.filter((p) => p.slug !== 'employer-defense');
 const posts = (await getCollection('posts')).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 3);
@@ -53,6 +53,16 @@ const steps = [
       <div><strong>6 yrs</strong><span>of unpaid wages you can recover under New York law</span></div>
       <div><strong>NY &amp; NJ</strong><span>admitted in state and federal courts in both</span></div>
       <div><strong>$0</strong><span>to talk to us about your situation</span></div>
+    </div>
+  </section>
+
+  <!-- Recognition -->
+  <section class="awards" aria-label="Recognition">
+    <div class="wrap awards__inner">
+      <p class="awards__label">Recognized by peers and clients</p>
+      <ul class="awards__list">
+        {awards.map((a) => <li><Image src={a.img} alt={a.alt} height={88} /></li>)}
+      </ul>
     </div>
   </section>
 
@@ -234,6 +244,13 @@ const steps = [
     .facts__grid > div:nth-child(odd) { border-left: 0; padding-left: 0; }
     .facts__grid > div:nth-child(n + 3) { border-top: 1px solid var(--line); }
   }
+
+  .awards { background: var(--tint); border-bottom: 1px solid var(--line); }
+  .awards__inner { display: flex; align-items: center; justify-content: space-between; gap: 16px 32px; flex-wrap: wrap; padding-block: 24px; }
+  .awards__label { margin: 0; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); }
+  .awards__list { display: flex; align-items: center; gap: 16px 28px; flex-wrap: wrap; list-style: none; margin: 0; padding: 0; }
+  .awards__list img { height: 76px; width: auto; }
+  @media (max-width: 560px) { .awards__list img { height: 60px; } }
 
   .areas { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(270px, 100%), 1fr)); gap: 16px; }
   .area {

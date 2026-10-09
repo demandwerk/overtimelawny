@@ -4,6 +4,17 @@ import peter from './assets/team/peter-romero.jpg';
 import david from './assets/team/david-barnhorn.jpg';
 import matthew from './assets/team/matthew-farnworth.jpg';
 import angelica from './assets/team/angelica-villalba.jpg';
+import slRomero from './assets/badges/super-lawyers-romero.png';
+import slBarnhorn from './assets/badges/rising-stars-barnhorn.png';
+import avvoChoice from './assets/badges/avvo-clients-choice-2018.png';
+import avvoSuperb from './assets/badges/avvo-superb.png';
+
+export const awards = [
+  { img: slRomero, alt: 'Super Lawyers: Peter A. Romero' },
+  { img: slBarnhorn, alt: 'Super Lawyers Rising Stars: David D. Barnhorn' },
+  { img: avvoSuperb, alt: 'Avvo Rating: Superb, Top Attorney Employment' },
+  { img: avvoChoice, alt: 'Avvo Clients’ Choice 2018, Employment' },
+];
 
 export const firm = {
   name: 'Romero Law Group, PLLC',
@@ -97,6 +108,7 @@ export const team = [
     role: 'Founding Attorney',
     initials: 'PR',
     photo: peter,
+    badges: [awards[0]],
     bio: [
       'Peter A. Romero has practiced exclusively in the area of employment law for over 20 years. He regularly represents both employers and employees in workplace litigation, including trial and appellate practice, administrative proceedings before the Department of Labor, the U.S. Equal Employment Opportunity Commission, and the New York State Division of Human Rights. He is highly experienced in complex litigation, including collective and class action lawsuits.',
     ],
@@ -112,6 +124,7 @@ export const team = [
     role: 'Attorney',
     initials: 'DB',
     photo: david,
+    badges: [awards[1]],
     bio: [
       'David D. Barnhorn practices exclusively in the area of employment law, including matters involving employment discrimination and wage and hour violations. He represents both employers and employees in all areas of employment litigation, including trials, administrative proceedings before the U.S. Equal Employment Opportunity Commission and New York State Division of Human Rights, and complex collective and class action lawsuits.',
       'His prior experience includes two boutique labor and employment law firms where he focused primarily on representing plaintiffs, and internships at employment law firms in New York and New Jersey and at the U.S. Equal Employment Opportunity Commission.',
