@@ -1,0 +1,12 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "trailingSlash": true,
+  "redirects": [
+    { "source": "/feed/:path*", "destination": "/blog/", "permanent": true },
+    { "source": "/blog/page/:path*", "destination": "/blog/", "permanent": true },
+    { "source": "/category/:path*", "destination": "/blog/", "permanent": true },
+    { "source": "/author/:path*", "destination": "/team/", "permanent": true },
+    { "source": "/representative-cases/", "destination": "/cases/", "permanent": true },
+    { "source": "/wp-admin/:path*", "destination": "/", "permanent": true }
+  ]
+}

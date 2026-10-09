@@ -1,6 +1,6 @@
 # Romero Law Group website
 
-The website for overtimelawny.com, built with [Astro](https://astro.build) as a fast static site. Deploys to Netlify.
+The website for overtimelawny.com, built with [Astro](https://astro.build) as a fast static site. Deploys to Vercel.
 
 ## Editing
 
@@ -34,9 +34,11 @@ npm run dev      # http://localhost:4321
 npm run build    # outputs to dist/
 ```
 
-## Deploying (Netlify)
+## Deploying (Vercel)
 
-Connect this repo in Netlify; `netlify.toml` sets the build. The consultation form uses Netlify Forms: submissions appear under **Forms** in the Netlify dashboard, where you can turn on email notifications.
+Import this repo in Vercel; it detects Astro and builds automatically. `vercel.json` redirects old WordPress paths (`/feed/`, `/category/…`, `/blog/page/…`).
+
+The consultation form emails submissions through [Web3Forms](https://web3forms.com) (free). Enter the email that should receive leads on their site, then paste the access key into `formKey` in `src/site.ts`. Until then the form tells visitors to call instead.
 
 ## Migration scripts
 

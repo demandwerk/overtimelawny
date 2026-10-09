@@ -1,7 +1,7 @@
 ---
-// Netlify Forms handles submissions (no backend needed). Submissions appear in
-// the Netlify dashboard and can be emailed to the firm.
-import { practiceAreas } from '../site';
+// Submissions go to Web3Forms, which emails them to the firm (no backend needed).
+// Set firm.formKey in src/site.ts to connect it.
+import { firm, practiceAreas } from '../site';
 interface Props { lang?: 'en' | 'es'; heading?: string }
 const { lang = 'en', heading } = Astro.props;
 const es = lang === 'es';
@@ -9,10 +9,13 @@ const t = es
   ? { h: 'Consulta gratuita', sub: 'Cuéntenos lo que pasó. Le responderemos pronto.', name: 'Nombre', phone: 'Teléfono', email: 'Correo electrónico', topic: 'Tipo de caso', pick: 'Seleccione…', other: 'Otro / no estoy seguro', msg: 'Breve descripción', send: 'Enviar', note: 'Enviar este formulario no crea una relación abogado-cliente. No incluya información confidencial.' }
   : { h: 'Free case review', sub: 'Tell us what happened. We’ll get back to you promptly.', name: 'Full name', phone: 'Phone', email: 'Email', topic: 'What is this about?', pick: 'Choose one…', other: 'Something else / not sure', msg: 'Briefly, what happened?', send: 'Request my free consultation', note: 'Submitting this form does not create an attorney–client relationship. Please don’t include confidential details.' };
 ---
-<form class="consult" name="consultation" method="POST" action="/thanks-for-reaching-out/" data-netlify="true" netlify-honeypot="company">
-  <input type="hidden" name="form-name" value="consultation" />
-  <input type="hidden" name="language" value={lang} />
-  <p class="visually-hidden"><label>Leave this empty <input name="company" tabindex="-1" autocomplete="off" /></label></p>
+<form class="consult" method="POST" action="https://api.web3forms.com/submit" data-form-key={firm.formKey}>
+  <input type="hidden" name="access_key" value={firm.formKey} />
+  <input type="hidden" name="subject" value="New consultation request from the website" />
+  <input type="hidden" name="from_name" value={firm.shortName + ' website'} />
+  <input type="hidden" name="redirect" value="" />
+  <input type="hidden" name="language" value={es ? 'Spanish' : 'English'} />
+  <p class="visually-hidden"><label>Leave this unchecked <input type="checkbox" name="botcheck" tabindex="-1" /></label></p>
   <h2 class="consult__h">{heading ?? t.h}</h2>
   <p class="consult__sub">{t.sub}</p>
   <div class="consult__grid">
@@ -30,7 +33,22 @@ const t = es
   </div>
   <button class="btn btn--primary consult__btn" type="submit">{t.send}</button>
   <p class="consult__note">{t.note}</p>
+  <p class="consult__error" hidden>{es ? `El formulario aún no está conectado. Llámenos al ${firm.phone}.` : `This form isn’t connected yet. Please call us at ${firm.phone}.`}</p>
 </form>
+
+<script>
+  // Send people back to this site's thank-you page after submitting, whatever
+  // domain the site is on (preview or live).
+  for (const form of document.querySelectorAll<HTMLFormElement>('form.consult')) {
+    const redirect = form.querySelector<HTMLInputElement>('input[name="redirect"]')!;
+    redirect.value = `${location.origin}/thanks-for-reaching-out/`;
+    form.addEventListener('submit', (e) => {
+      if (form.dataset.formKey) return;
+      e.preventDefault();
+      form.querySelector<HTMLElement>('.consult__error')!.hidden = false;
+    });
+  }
+</script>
 
 <style>
   .consult { background: #fff; color: var(--text); border-radius: 16px; padding: clamp(22px, 3vw, 34px); box-shadow: var(--shadow); border: 1px solid var(--line); }
@@ -46,6 +64,7 @@ const t = es
   .field textarea { resize: vertical; }
   .field input:focus, .field select:focus, .field textarea:focus { outline: none; border-color: var(--blue); box-shadow: 0 0 0 3px rgb(29 72 192 / 15%); }
   .consult__btn { width: 100%; margin-top: 18px; }
+  .consult__error { margin: 12px 0 0; padding: 12px 14px; border-radius: 8px; background: var(--blue-tint); color: var(--ink); font-size: 0.9rem; font-weight: 600; }
   .consult__note { font-size: 0.78rem; color: var(--muted); margin: 14px 0 0; line-height: 1.5; }
   @media (max-width: 480px) { .consult__grid { grid-template-columns: 1fr; } }
 </style>

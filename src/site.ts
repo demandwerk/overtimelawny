@@ -12,6 +12,9 @@ export const firm = {
     { name: 'Manhattan Office', lines: ['108 West 39th Street, Suite 602', 'New York, NY 10018'] },
   ],
   consultNote: 'Free consultations by phone, Zoom or Microsoft Teams. By appointment only.',
+  // Access key from https://web3forms.com: enter the email that should receive
+  // consultation requests and paste the key here. It is safe to be public.
+  formKey: '',
   social: [
     { name: 'Facebook', href: 'https://www.facebook.com/LaborLawyerNY/' },
     { name: 'X (Twitter)', href: 'https://twitter.com/labor_ny' },
