@@ -1,6 +1,9 @@
 ---
 import { firm, practiceAreas, spanishHome } from '../site';
+import { Image } from 'astro:assets';
 import Icon from './Icon.astro';
+import shield from '../assets/shield.png';
+import wordmark from '../assets/logo-text-white.png';
 interface Props { lang?: 'en' | 'es' }
 const { lang = 'en' } = Astro.props;
 const es = lang === 'es';
@@ -22,7 +25,10 @@ const year = new Date().getFullYear();
 <footer class="footer">
   <div class="wrap footer__grid">
     <div class="footer__brand">
-      <p class="footer__name">{firm.name}</p>
+      <p class="footer__logo">
+        <Image src={shield} alt="" height={128} />
+        <Image src={wordmark} alt={firm.name} height={128} />
+      </p>
       <p>{es ? 'Defendiendo los derechos de los trabajadores por más de 20 años.' : 'Protecting the rights of workers for more than 20 years.'}</p>
       <a class="footer__phone" href={firm.phoneHref}>{firm.phone}</a>
       <p class="footer__muted">{firm.consultNote}</p>
@@ -82,6 +88,8 @@ const year = new Date().getFullYear();
   .footer li { margin-bottom: 8px; }
   .footer a { color: #d6dae2; text-decoration: none; }
   .footer a:hover { color: #fff; text-decoration: underline; }
+  .footer__logo { display: flex; align-items: center; gap: 14px; margin-bottom: 18px; }
+  .footer__logo img { height: 64px; width: auto; }
   .footer__name { font: 800 1.35rem/1.2 var(--display); font-stretch: 112%; color: #fff; margin-bottom: 8px; }
   .footer__phone { display: inline-block; font: 750 1.5rem/1 var(--display); color: #fff !important; margin: 6px 0 12px; }
   .footer__muted { font-size: 0.85rem; color: #7d8594; }

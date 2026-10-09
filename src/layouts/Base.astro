@@ -41,14 +41,15 @@ const schema = {
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
     {noindex && <meta name="robots" content="noindex" />}
-    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="icon" href="/favicon.png" type="image/png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
     <link rel="sitemap" href="/sitemap-index.xml" />
     <meta property="og:type" content={type} />
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
     <meta property="og:site_name" content={firm.name} />
-    <meta name="theme-color" content="#1d48c0" />
+    <meta name="theme-color" content="#253a71" />
     <script type="application/ld+json" set:html={JSON.stringify(schema)} />
   </head>
   <body>

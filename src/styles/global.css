@@ -2,11 +2,11 @@
 @import '@fontsource-variable/inter';
 
 :root {
-  /* Brand blue from the firm's logo. */
-  --blue: #1d48c0;
-  --blue-hover: #163a9e;
-  --blue-tint: #eaf0fd;
-  --blue-on-dark: #8fb0ff;
+  --blue: #253a71; /* sampled from the firm's logo */
+  --blue-hover: #1a2a55;
+  --blue-tint: #ebeef6;
+  --blue-tint-2: #d6dcec;
+  --blue-on-dark: #a9b8e3;
 
   --ink: #0d1014;          /* dark sections: near-black, not navy */
   --ink-2: #171b22;
