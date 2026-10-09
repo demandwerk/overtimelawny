@@ -1,0 +1,15 @@
+---
+title: "Frequently Asked Questions about Workplace Discrimination"
+description: ""
+date: 2024-07-06
+---
+**Protecting Your Rights in the Workplace** You spend about a third of your adult life at work. Not everyone can have their dream job, but, at a minimum, you shouldn’t have to tolerate discriminatory conduct. Let’s look at some of the basic questions you may have about wrongful discrimination on the job. **What Legal Protections Are Available When You Have Been Subjected to Discrimination?** There are both federal and state laws that ban certain types of actions by employers. As a general rule, those laws prohibit employers from taking any type of adverse employment action based on what is legally referred to as a “suspect classification.” **What Are the Suspect Classifications that Are Commonly Recognized?** Under federal law, many of the suspect classifications are set forth in specific statutes:
+
+-   Title VII of the Civil Rights Act generally prohibits discrimination based on race, color, religion, gender or national origin
+-   The Americans With Disabilities Act (ADA) bans certain actions in the workplace based on a worker’s status as disabled
+-   The Age Discrimination in Employment Act (ADEA) provides coverage to workers aged 40 and over who have been victims of discrimination
+-   The Pregnancy Discrimination Act of 1978 governs actions related to an employees status as pregnant, in childbirth or having any related medical concerns or conditions
+-   The Equal Pay Act of 1963 guarantees equal compensation for women and men who perform the same tasks in the same work environment
+-   The Genetic Information Nondiscrimination Act of 2008 makes it illegal to request, require or otherwise obtain genetic information about an employee without his or her consent
+
+**How Do You File a Workplace Discrimination Claim?** A worker may not file a discrimination claim in court without first filing a complaint with the Equal Employment Opportunity Commission. You do not need to notify your employer before filing such a complaint, but the EEOC must inform your employer of the action within 10 days of your initial complaint. Once you’ve file a claim with the EEOC, the EEOC will conduct an investigation. They may find that there’s insufficient evidence to proceed with your claim. They may conclude that your employer engaged in wrongful conduct and work directly with your employer to remedy the situation. They may also determine that you have sufficient basis for a legal action, but decide not to resolve it within the EEOC. In such a case, they will issue you a “right to sue” letter, which allows you to bring your lawsuit in court. **We Can Help Protect Your Employment Rights** At the Romero Law Group, PLLC, we handle a wide range of legal issues for employees in Nassau and Suffolk Counties; in Brooklyn, Queens, Manhattan and the Bronx; in Westchester; and across Northern New Jersey. We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, contact our offices online or call us at (631)257-5588.

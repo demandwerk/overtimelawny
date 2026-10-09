@@ -1,0 +1,109 @@
+@import '@fontsource-variable/archivo/wdth.css';
+@import '@fontsource-variable/inter';
+
+:root {
+  /* Brand blue from the firm's logo. */
+  --blue: #1d48c0;
+  --blue-hover: #163a9e;
+  --blue-tint: #eaf0fd;
+  --blue-on-dark: #8fb0ff;
+
+  --ink: #0d1014;          /* dark sections: near-black, not navy */
+  --ink-2: #171b22;
+  --text: #1c2029;
+  --muted: #586070;
+  --line: #e2e5eb;
+  --paper: #ffffff;
+  --tint: #f4f5f8;
+
+  --display: 'Archivo Variable', 'Arial Narrow', Arial, sans-serif;
+  --body: 'Inter Variable', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --wrap: 1200px;
+  --gutter: clamp(16px, 4vw, 40px);
+  --radius: 10px;
+  --shadow: 0 1px 2px rgb(13 16 20 / 6%), 0 8px 28px rgb(13 16 20 / 8%);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; scroll-padding-top: 96px; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--text);
+  font: 400 1.0625rem/1.65 var(--body);
+  -webkit-font-smoothing: antialiased;
+}
+img { max-width: 100%; height: auto; display: block; }
+a { color: var(--blue); text-underline-offset: 3px; }
+a:hover { color: var(--blue-hover); }
+:focus-visible { outline: 3px solid var(--blue); outline-offset: 2px; border-radius: 4px; }
+
+h1, h2, h3, h4 {
+  font-family: var(--display);
+  font-stretch: 112%;
+  color: var(--ink);
+  line-height: 1.12;
+  letter-spacing: -0.015em;
+  margin: 0 0 0.5em;
+  text-wrap: balance;
+}
+h1 { font-size: clamp(2.4rem, 5.6vw, 4.4rem); font-weight: 800; letter-spacing: -0.03em; line-height: 1.02; }
+h2 { font-size: clamp(1.75rem, 3.4vw, 2.6rem); font-weight: 750; }
+h3 { font-size: 1.3rem; font-weight: 700; }
+h4 { font-size: 1.1rem; font-weight: 700; }
+p { margin: 0 0 1em; }
+
+.wrap { max-width: var(--wrap); margin: 0 auto; padding: 0 var(--gutter); }
+.section { padding: clamp(56px, 8vw, 112px) 0; }
+.section--tint { background: var(--tint); }
+.section--dark { background: var(--ink); color: #c9ced8; }
+.section--dark h2, .section--dark h3 { color: #fff; }
+
+.eyebrow {
+  display: inline-flex; align-items: center; gap: 10px;
+  font: 700 0.78rem/1 var(--body);
+  letter-spacing: 0.14em; text-transform: uppercase;
+  color: var(--blue);
+  margin-bottom: 18px;
+}
+.eyebrow::before { content: ''; width: 28px; height: 3px; background: currentColor; }
+.section--dark .eyebrow { color: var(--blue-on-dark); }
+.lede { font-size: 1.2rem; color: var(--muted); max-width: 62ch; }
+.section-head { max-width: 760px; margin-bottom: clamp(32px, 5vw, 56px); }
+
+.btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: 10px;
+  min-height: 52px; padding: 0 26px;
+  border-radius: 999px; border: 2px solid transparent;
+  font: 650 1rem/1 var(--body); text-decoration: none; cursor: pointer;
+  transition: background 0.15s, color 0.15s, border-color 0.15s, transform 0.15s;
+}
+.btn:active { transform: translateY(1px); }
+.btn--primary { background: var(--blue); color: #fff; }
+.btn--primary:hover { background: var(--blue-hover); color: #fff; }
+.btn--ghost { border-color: currentColor; color: var(--ink); }
+.btn--ghost:hover { background: var(--ink); color: #fff; border-color: var(--ink); }
+.section--dark .btn--ghost { color: #fff; }
+.section--dark .btn--ghost:hover { background: #fff; color: var(--ink); border-color: #fff; }
+.btn svg { width: 18px; height: 18px; flex: none; }
+
+.visually-hidden { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+
+/* Long-form content imported from the old site. */
+.prose { max-width: 72ch; }
+.prose h2 { font-size: clamp(1.5rem, 2.6vw, 2rem); margin-top: 1.8em; }
+.prose h3 { margin-top: 1.6em; }
+.prose h4, .prose h5 { margin-top: 1.4em; font-family: var(--display); font-size: 1.05rem; }
+.prose > :first-child { margin-top: 0; }
+.prose ul, .prose ol { padding-left: 1.25em; margin: 0 0 1.2em; }
+.prose li { margin-bottom: 0.45em; }
+.prose li::marker { color: var(--blue); }
+.prose blockquote {
+  margin: 1.6em 0; padding: 20px 24px;
+  border-left: 4px solid var(--blue); background: var(--blue-tint); border-radius: 0 var(--radius) var(--radius) 0;
+}
+.prose img { border-radius: var(--radius); margin: 1.5em 0; }
+.prose a { word-break: break-word; }
+.prose table { border-collapse: collapse; width: 100%; margin: 1.5em 0; font-size: 0.95rem; }
+.prose th, .prose td { border: 1px solid var(--line); padding: 8px 12px; text-align: left; }

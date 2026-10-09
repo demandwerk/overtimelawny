@@ -1,0 +1,107 @@
+---
+import { firm, practiceAreas, spanishHome } from '../site';
+import Icon from './Icon.astro';
+interface Props { lang?: 'en' | 'es' }
+const { lang = 'en' } = Astro.props;
+const es = lang === 'es';
+const year = new Date().getFullYear();
+---
+<section class="cta-band">
+  <div class="wrap cta-band__inner">
+    <div>
+      <h2>{es ? '¿Le trataron injustamente en el trabajo?' : 'Treated unfairly at work?'}</h2>
+      <p>{es ? 'Hable con un abogado laboral hoy. La consulta es gratuita.' : 'Talk to an employment lawyer today. Your consultation is free.'}</p>
+    </div>
+    <div class="cta-band__actions">
+      <a class="btn btn--light" href={firm.phoneHref}><Icon name="phone" /> {firm.phone}</a>
+      <a class="btn btn--outline-light" href="/contact-us/">{es ? 'Escríbanos' : 'Send us a message'}</a>
+    </div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="wrap footer__grid">
+    <div class="footer__brand">
+      <p class="footer__name">{firm.name}</p>
+      <p>{es ? 'Defendiendo los derechos de los trabajadores por más de 20 años.' : 'Protecting the rights of workers for more than 20 years.'}</p>
+      <a class="footer__phone" href={firm.phoneHref}>{firm.phone}</a>
+      <p class="footer__muted">{firm.consultNote}</p>
+    </div>
+    <div>
+      <h3>{es ? 'Oficinas' : 'Offices'}</h3>
+      {firm.offices.map((o) => (
+        <p class="footer__office"><strong>{o.name}</strong><br />{o.lines.map((l) => <>{l}<br /></>)}</p>
+      ))}
+    </div>
+    <div>
+      <h3>{es ? 'Áreas de práctica' : 'Practice areas'}</h3>
+      <ul>
+        {practiceAreas.slice(0, 7).map((p) => <li><a href={`/${p.slug}/`}>{p.title}</a></li>)}
+        <li><a href="/practice-areas-employment-law-overview/">{es ? 'Ver todas' : 'View all'} →</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>{es ? 'El bufete' : 'The firm'}</h3>
+      <ul>
+        <li><a href="/team/">{es ? 'Equipo' : 'Our team'}</a></li>
+        <li><a href="/cases/">{es ? 'Casos representativos' : 'Representative cases'}</a></li>
+        <li><a href="/current-lawsuits/">{es ? 'Demandas actuales' : 'Current lawsuits'}</a></li>
+        <li><a href="/blog/">Blog</a></li>
+        <li><a href="/contact-us/">{es ? 'Contacto' : 'Contact'}</a></li>
+        <li><a href={spanishHome} lang="es">Español</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="wrap footer__bottom">
+    <p>© {year} {firm.name}. Attorney advertising. Prior results do not guarantee a similar outcome. <a href="/disclaimer/">Disclaimer</a></p>
+    <p class="footer__social">
+      {firm.social.map((s) => <a href={s.href} rel="noopener" target="_blank">{s.name}</a>)}
+    </p>
+  </div>
+</footer>
+
+<a class="callbar" href={firm.phoneHref}>
+  <Icon name="phone" /> {es ? 'Llame ahora' : 'Call now'} · {firm.phone}
+</a>
+
+<style>
+  .cta-band { background: var(--blue); color: #fff; padding: clamp(40px, 6vw, 64px) 0; }
+  .cta-band__inner { display: flex; align-items: center; justify-content: space-between; gap: 32px; flex-wrap: wrap; }
+  .cta-band h2 { color: #fff; margin-bottom: 6px; }
+  .cta-band p { margin: 0; color: rgb(255 255 255 / 85%); font-size: 1.1rem; }
+  .cta-band__actions { display: flex; gap: 12px; flex-wrap: wrap; }
+  .btn--light { background: #fff; color: var(--blue); }
+  .btn--light:hover { background: var(--ink); color: #fff; }
+  .btn--outline-light { border-color: rgb(255 255 255 / 60%); color: #fff; }
+  .btn--outline-light:hover { background: #fff; color: var(--blue); border-color: #fff; }
+
+  .footer { background: var(--ink); color: #9aa2b1; font-size: 0.95rem; padding: 64px 0 0; }
+  .footer__grid { display: grid; grid-template-columns: 1.4fr 1fr 1fr 0.8fr; gap: 40px; }
+  .footer h3 { color: #fff; font-size: 0.8rem; font-family: var(--body); letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 16px; }
+  .footer ul { list-style: none; margin: 0; padding: 0; }
+  .footer li { margin-bottom: 8px; }
+  .footer a { color: #d6dae2; text-decoration: none; }
+  .footer a:hover { color: #fff; text-decoration: underline; }
+  .footer__name { font: 800 1.35rem/1.2 var(--display); font-stretch: 112%; color: #fff; margin-bottom: 8px; }
+  .footer__phone { display: inline-block; font: 750 1.5rem/1 var(--display); color: #fff !important; margin: 6px 0 12px; }
+  .footer__muted { font-size: 0.85rem; color: #7d8594; }
+  .footer__office strong { color: #fff; font-weight: 600; }
+  .footer__bottom { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; border-top: 1px solid #262b34; margin-top: 48px; padding-top: 24px; padding-bottom: 32px; font-size: 0.82rem; color: #7d8594; }
+  .footer__bottom p { margin: 0; }
+  .footer__social { display: flex; gap: 18px; flex-wrap: wrap; }
+  @media (max-width: 900px) { .footer__grid { grid-template-columns: 1fr 1fr; } }
+  @media (max-width: 560px) { .footer__grid { grid-template-columns: 1fr; } }
+
+  /* Sticky click-to-call on phones. */
+  .callbar { display: none; }
+  @media (max-width: 720px) {
+    .callbar {
+      position: fixed; left: 12px; right: 12px; bottom: 12px; z-index: 60;
+      display: flex; align-items: center; justify-content: center; gap: 10px;
+      min-height: 54px; border-radius: 999px; background: var(--blue); color: #fff;
+      font-weight: 700; text-decoration: none; box-shadow: 0 10px 30px rgb(13 16 20 / 30%);
+    }
+    .callbar :global(svg) { width: 18px; height: 18px; }
+    .footer { padding-bottom: 80px; }
+  }
+</style>

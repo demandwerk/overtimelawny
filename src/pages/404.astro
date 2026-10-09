@@ -1,0 +1,10 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHero from '../components/PageHero.astro';
+import { firm } from '../site';
+---
+<Base title="Page not found">
+  <PageHero title="We couldn’t find that page." eyebrow="404" lede={`It may have moved when we updated our website. Try the links above, or call us at ${firm.phone}.`}>
+    <p style="margin-top:28px"><a class="btn btn--primary" href="/">Go to the homepage</a></p>
+  </PageHero>
+</Base>

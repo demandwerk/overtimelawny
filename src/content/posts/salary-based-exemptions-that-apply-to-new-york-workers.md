@@ -1,0 +1,12 @@
+---
+title: "Salary-Based Exemptions that Apply to New York Workers"
+description: "Effective March 13, 2024, the threshold for exemption from the above protections went up, from $900 to $1,300 per week, or an annual salary of $67,600. A person serving in a legitimate executive, administrative or professional position will not qualify for these protections if his or her salary…"
+date: 2024-08-06
+---
+**Salary-Based Exemptions that Apply to New York Workers** **New York Labor Law Protections | Minimum Wage Requirements** Under New York law, workers are generally afforded certain protections, though some of those guarantees do not apply to workers who have salaries above a certain threshold. Those include the general protections of the New York Labor Law, as well as provisions that require the payment of a minimum wage. **The Threshold for Receiving the Protection of the New York Labor Law** Under New York Labor Law, workers are entitled, among other things, to certain wage payment guarantees:
+
+-   An employee must give advance written consent before an employer may directly deposit wages or salary
+-   Clerical and “other workers” may not be paid less frequently than semi-monthly
+-   Employers may be subject to criminal prosecution for failing to pay wage or benefit supplements, cush as vacation/severance pay, retirement contributions, health benefits or reimbursement of work-related expenses
+
+Effective March 13, 2024, the threshold for exemption from the above protections went up, from $900 to $1,300 per week, or an annual salary of $67,600. A person serving in a legitimate executive, administrative or professional position will not qualify for these protections if his or her salary exceed the amount stated above. New York also increased the salary exemptions for overtime pay in 2024. As of January 1, 2024, individuals in New York City making more than $1,200 per week will not be eligible for overtime. Throughout the rest of the state, the threshold is $1,124.20 per week. **We Can Help Protect Your Employment Rights** At the Romero Law Group, PLLC, we handle a wide range of legal issues for employees in Nassau and Suffolk Counties; in Brooklyn, Queens, Manhattan and the Bronx; in Westchester; and across Northern New Jersey. We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, contact our offices online or call us at (631)257-5588.

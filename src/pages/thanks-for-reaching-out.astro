@@ -1,0 +1,10 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHero from '../components/PageHero.astro';
+import { firm } from '../site';
+---
+<Base title="Thanks for reaching out" description="We received your message." noindex>
+  <PageHero title="Thanks for reaching out." eyebrow="Message received" lede={`An attorney or member of our team will contact you shortly. If your matter is urgent, call us at ${firm.phone}.`}>
+    <p style="margin-top:28px"><a class="btn btn--primary" href="/">Back to home</a></p>
+  </PageHero>
+</Base>

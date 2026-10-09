@@ -1,0 +1,29 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+# Old WordPress URLs that don't exist on the new site.
+[[redirects]]
+  from = "/feed/*"
+  to = "/blog/"
+  status = 301
+[[redirects]]
+  from = "/blog/page/*"
+  to = "/blog/"
+  status = 301
+[[redirects]]
+  from = "/category/*"
+  to = "/blog/"
+  status = 301
+[[redirects]]
+  from = "/author/*"
+  to = "/team/"
+  status = 301
+[[redirects]]
+  from = "/representative-cases/"
+  to = "/cases/"
+  status = 301
+[[redirects]]
+  from = "/wp-admin/*"
+  to = "/"
+  status = 301

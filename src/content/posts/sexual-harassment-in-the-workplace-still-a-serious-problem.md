@@ -1,0 +1,12 @@
+---
+title: "Sexual Harassment in the Workplace—Still a Serious Problem"
+description: ""
+date: 2023-11-07
+---
+**EEOC Statistics Show Improvement, But Also Indicate Persistent Issues** Data recently released by the United States Equal Employment Opportunity Commission shows that, while the number of sexual harassment complaints filed nationwide has declined over the past four years, it remains a serious problem in the American workplace. According to the study, which looked at raw data for sexual harassment claims from 2014 through 2021, the reported allegations of sexual harassment on the job peaked in 2018, remained stable in 2019 and dropped significantly the next two years. From a high of 7,609 claims in 2018, reported sexual harassment has declined over 25% to 5,581 claims two years ago. That may at first seem like good news, but there’s more below the surface:
+
+-   Most importantly, the total number of all types of harassment claims has declined in the last four years. However, _the percentage of harassment claims that are sexual has steadily increased._ For example, in 2017, 7.7% of all harassment claims filed with the EEOC were sexual in nature. In 2021, 9.8% of the total number of harassment claims were based on sex. So, while there are fewer overall harassment claims, a greater percentage of those claims allege sexual impropriety.
+-   The lower numbers of actual sexual harassment claims is primarily a consequence of the coronavirus pandemic. Because most workers telecommuted for significant periods of time in 2020, and because many have continued to do so, fewer workers are actually present together in a common workplace. That may lead to fewer instances of in-person sexual harassment, but it seems clearly not to have made a significant impact on the problem of sexual harassment on the job.
+-   Sexual harassment victims are still disproportionately female. According to the EEOC, nearly four out of every five sexual harassment claims filed between 2018 and 2021 were filed by female workers.
+
+**W****e Can Help Protect Your Employment Rights** At [the Romero Law Group, PLLC](/), we handle a wide range of legal issues for employees in Nassau and Suffolk Counties; in Brooklyn, Queens, Manhattan and the Bronx; in Westchester; and across Northern New Jersey. We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, contact our offices online or call us at **(631)257-5588**.

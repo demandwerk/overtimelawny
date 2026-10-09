@@ -1,0 +1,40 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import PageHero from '../components/PageHero.astro';
+import { firm } from '../site';
+
+const posts = (await getCollection('posts')).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const fmt = (d: Date) => d.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
+---
+<Base title="Employment Law Blog" description={`News and plain-English guides on New York and New Jersey employment law from ${firm.name}.`}>
+  <PageHero
+    title="Know your rights at work"
+    eyebrow="Employment law blog"
+    lede="Plain-English updates on New York and New Jersey employment law: wages, discrimination, harassment, leave and more."
+    crumbs={[{ label: 'Home', href: '/' }]}
+  />
+  <div class="wrap section">
+    <ul class="list">
+      {posts.map((p) => (
+        <li>
+          <a href={`/${p.id}/`}>
+            <time datetime={p.data.date.toISOString()}>{fmt(p.data.date)}</time>
+            <h2>{p.data.title}</h2>
+            <p>{p.data.description}</p>
+          </a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</Base>
+
+<style>
+  .list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(320px, 100%), 1fr)); gap: 16px; }
+  .list li { min-width: 0; }
+  .list a { display: flex; flex-direction: column; height: 100%; padding: 26px; border: 1px solid var(--line); border-radius: 14px; text-decoration: none; color: var(--text); transition: border-color 0.15s, box-shadow 0.15s; }
+  .list a:hover { border-color: var(--blue); box-shadow: var(--shadow); }
+  .list time { font-size: 0.8rem; font-weight: 600; color: var(--blue); margin-bottom: 10px; }
+  .list h2 { font-size: 1.2rem; margin-bottom: 10px; }
+  .list p { color: var(--muted); font-size: 0.93rem; margin: 0; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+</style>

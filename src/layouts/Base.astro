@@ -1,0 +1,65 @@
+---
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { firm } from '../site';
+
+interface Props {
+  title: string;
+  description?: string;
+  lang?: 'en' | 'es';
+  type?: 'website' | 'article';
+  noindex?: boolean;
+}
+const { title, description = `${firm.name}: employment lawyers for workers in ${firm.regions}. Free consultation: ${firm.phone}.`, lang = 'en', type = 'website', noindex = false } = Astro.props;
+const fullTitle = title === firm.name ? title : `${title} | ${firm.name}`;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'LegalService',
+  name: firm.name,
+  url: Astro.site?.href,
+  telephone: '+1-631-257-5588',
+  areaServed: ['New York City', 'Long Island', 'Nassau County', 'Suffolk County', 'Westchester County', 'New Jersey'],
+  address: firm.offices.map((o) => ({
+    '@type': 'PostalAddress',
+    streetAddress: o.lines[0],
+    addressLocality: o.lines[1].split(',')[0],
+    addressRegion: 'NY',
+    postalCode: o.lines[1].match(/\d{5}/)?.[0],
+  })),
+  knowsLanguage: ['en', 'es'],
+};
+---
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex" />}
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <meta property="og:type" content={type} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:site_name" content={firm.name} />
+    <meta name="theme-color" content="#1d48c0" />
+    <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+  </head>
+  <body>
+    <a class="skip" href="#main">Skip to content</a>
+    <Header lang={lang} />
+    <main id="main"><slot /></main>
+    <Footer lang={lang} />
+  </body>
+</html>
+
+<style>
+  .skip { position: absolute; left: -9999px; top: 8px; z-index: 100; background: var(--blue); color: #fff; padding: 10px 16px; border-radius: 6px; }
+  .skip:focus { left: 8px; }
+</style>

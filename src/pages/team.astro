@@ -1,0 +1,56 @@
+---
+import Base from '../layouts/Base.astro';
+import PageHero from '../components/PageHero.astro';
+import { team, firm } from '../site';
+---
+<Base title="Our Team" description={`Meet the employment lawyers of ${firm.name}: Peter A. Romero, David D. Barnhorn and Matthew J. Farnworth.`}>
+  <PageHero
+    title="Meet the team"
+    eyebrow="Our team"
+    lede="We practice employment law exclusively. Our attorneys treat clients with dignity, respect and compassion, and work to get the best result possible in the most cost-effective way."
+    crumbs={[{ label: 'Home', href: '/' }]}
+  />
+  <div class="wrap section">
+    {team.map((m) => (
+      <article class="member" id={m.initials.toLowerCase()}>
+        <div class="member__photo" aria-hidden="true">{m.initials}</div>
+        <div>
+          <p class="eyebrow">{m.role}</p>
+          <h2>{m.name}</h2>
+          {m.bio.map((p) => <p>{p}</p>)}
+          {m.details.length > 0 && (
+            <dl class="member__details">
+              {m.details.map((d) => (
+                <div>
+                  <dt>{d.label}</dt>
+                  <dd><ul>{d.items.map((i) => <li>{i}</li>)}</ul></dd>
+                </div>
+              ))}
+            </dl>
+          )}
+        </div>
+      </article>
+    ))}
+  </div>
+</Base>
+
+<style>
+  .member { display: grid; grid-template-columns: 300px 1fr; gap: clamp(28px, 5vw, 64px); padding: 56px 0; border-bottom: 1px solid var(--line); }
+  .member:first-child { padding-top: 0; }
+  .member:last-child { border-bottom: 0; padding-bottom: 0; }
+  .member__photo {
+    display: grid; place-items: center; aspect-ratio: 4 / 5; border-radius: 16px; position: sticky; top: 110px;
+    background: linear-gradient(160deg, var(--blue-tint), #d4def8);
+    font: 800 4rem/1 var(--display); font-stretch: 112%; color: var(--blue);
+  }
+  .member p { max-width: 68ch; }
+  .member__details { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 24px; margin: 28px 0 0; padding: 24px; background: var(--tint); border-radius: 14px; }
+  .member__details dt { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--blue); margin-bottom: 8px; }
+  .member__details dd { margin: 0; }
+  .member__details ul { margin: 0; padding: 0; list-style: none; font-size: 0.93rem; }
+  .member__details li { margin-bottom: 6px; }
+  @media (max-width: 760px) {
+    .member { grid-template-columns: 1fr; }
+    .member__photo { position: static; max-width: 220px; }
+  }
+</style>
