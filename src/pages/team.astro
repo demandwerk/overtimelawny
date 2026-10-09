@@ -21,7 +21,7 @@ import { team, firm } from '../site';
           {m.bio.map((p) => <p>{p}</p>)}
           {m.badges && (
             <p class="member__badges">
-              {m.badges.map((b) => <Image src={b.img} alt={b.alt} height={88} />)}
+              {m.badges.map((b) => <a href={b.href} target="_blank" rel="noopener"><Image src={b.img} alt={b.alt} height={88} /></a>)}
             </p>
           )}
           {m.details.length > 0 && (

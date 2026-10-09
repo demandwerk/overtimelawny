@@ -10,10 +10,10 @@ import avvoChoice from './assets/badges/avvo-clients-choice-2018.png';
 import avvoSuperb from './assets/badges/avvo-superb.png';
 
 export const awards = [
-  { img: slRomero, alt: 'Super Lawyers: Peter A. Romero' },
-  { img: slBarnhorn, alt: 'Super Lawyers Rising Stars: David D. Barnhorn' },
-  { img: avvoSuperb, alt: 'Avvo Rating: Superb, Top Attorney Employment' },
-  { img: avvoChoice, alt: 'Avvo Clients’ Choice 2018, Employment' },
+  { img: slRomero, alt: 'Super Lawyers: Peter A. Romero', href: 'https://profiles.superlawyers.com/new-york/hauppauge/lawyer/peter-a-romero/63c95851-e260-4099-9f7d-b86aa1431513.html' },
+  { img: slBarnhorn, alt: 'Super Lawyers Rising Stars: David D. Barnhorn', href: 'https://profiles.superlawyers.com/new-york/hauppauge/lawyer/david-d-barnhorn/0134a012-b63a-44a7-a005-930a926b8aef.html' },
+  { img: avvoSuperb, alt: 'Avvo Rating: Superb, Top Attorney Employment', href: 'https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html?utm_campaign=avvo_rating&utm_content=1217583&utm_medium=avvo_badge&utm_source=avvo' },
+  { img: avvoChoice, alt: 'Avvo Clients’ Choice 2018, Employment', href: 'https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html?utm_campaign=avvo_review_badge&utm_content=994125&utm_medium=avvo_badge&utm_source=avvo' },
 ];
 
 export const firm = {
@@ -108,7 +108,7 @@ export const team = [
     role: 'Founding Attorney',
     initials: 'PR',
     photo: peter,
-    badges: [awards[0]],
+    badges: [awards[0], awards[2], awards[3]],
     bio: [
       'Peter A. Romero has practiced exclusively in the area of employment law for over 20 years. He regularly represents both employers and employees in workplace litigation, including trial and appellate practice, administrative proceedings before the Department of Labor, the U.S. Equal Employment Opportunity Commission, and the New York State Division of Human Rights. He is highly experienced in complex litigation, including collective and class action lawsuits.',
     ],
