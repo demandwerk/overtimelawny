@@ -9,7 +9,7 @@ kind: practice
 
 Change often seems to come in fits and starts…it certainly seems that way with women’s rights. Though the last 50 years have seen significant advancements, women still face wrongful bias and unfair treatment in many areas of life, including employment.
 
-At the Romero Law Group, we are committed to leveling the playing field and ensuring that women have equal rights, equal opportunity and equal protection of the law. We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, [contact our offices online](/sexual-harassment/#contact) or call us at [(231) 257-5588](tel: 231-257-5588). We can also set up consultations by teleconference.
+At the Romero Law Group, we are committed to leveling the playing field and ensuring that women have equal rights, equal opportunity and equal protection of the law. We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, [contact our offices online](/womens-rights/#contact) or call us at [(631) 257-5588](tel:+16312575588). We can also set up consultations by teleconference.
 
 ### What Are the Most Common Legal Issues for Women in the Workplace?
 
@@ -35,4 +35,4 @@ Yes, but depending on your circumstances, your attorney may advise first filing 
 
 ## Let The Romero Law Group Protect Your Legal Rights as a Woman
 
-Take the first step to get full and fair compensation for sexual harassment in the workplace. [**Contact our offices online**](/sexual-harassment/#contact) or call us at [**(631) 257-5588**](tel:+16312575588) to schedule a free initial consultation. We are also available for teleconferences using Zoom and Microsoft Teams.
+Take the first step to get full and fair compensation for sexual harassment in the workplace. [**Contact our offices online**](/womens-rights/#contact) or call us at [**(631) 257-5588**](tel:+16312575588) to schedule a free initial consultation. We are also available for teleconferences using Zoom and Microsoft Teams.

@@ -9,7 +9,7 @@ Retaliation for taking action against an employer due to discrimination or for r
 
 ### Determining Whether the Employer’s Action Is Retaliation
 
-Protected activity (link to top section on Employment Discrimination page) includes a comprehensive list of areas that are protected in New York. For example, you might suspect retaliation if you apply for an FMLA leave and your employer subsequently lays you off. Or if you ask for an accommodation due to disability and you end up demoted, it may be due to retaliation.
+[Protected activity](/employment-discrimination/) includes a comprehensive list of areas that are protected in New York. For example, you might suspect retaliation if you apply for an FMLA leave and your employer subsequently lays you off. Or if you ask for an accommodation due to disability and you end up demoted, it may be due to retaliation.
 
 What other circumstances might lead to retaliation?
 
