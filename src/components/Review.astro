@@ -1,0 +1,18 @@
+---
+// Client review card. Styles live in global.css (.review) because page
+// Markdown uses the same markup directly.
+import { avvoProfile } from '../site';
+
+interface Props { quote: string | string[]; name: string; detail?: string; title?: string; lang?: 'en' | 'es' }
+const { quote, name, detail, title, lang = 'en' } = Astro.props;
+const paragraphs = Array.isArray(quote) ? quote : [quote];
+---
+<figure class="review">
+  <p class="review__stars" aria-label={lang === 'es' ? '5 de 5 estrellas' : '5 out of 5 stars'}>★★★★★</p>
+  {title && <p class="review__title">{title}</p>}
+  <blockquote>{paragraphs.map((p) => <p>{p}</p>)}</blockquote>
+  <figcaption>
+    <span><strong>{name}</strong>{detail && <> · {detail}</>}</span>
+    <a class="review__verify" href={avvoProfile} target="_blank" rel="noopener">{lang === 'es' ? 'Vea nuestras reseñas en Avvo ↗' : 'Check our Avvo reviews ↗'}</a>
+  </figcaption>
+</figure>

@@ -19,7 +19,7 @@ With all the media attention that’s focused on the wrongful treatment of women
 
 Though less frequent, gender discrimination can also negatively affect men in the workplace.
 
-At the Romero Law Group, PLLC, we fight for the rights of workers, handling a wide range of legal issues involving wrongful acts by employers. Attorney Peter Romero has fought for the rights of workers for more than  20 years, including women and men who have been victims of gender discrimination. We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, [**Contact our offices online**](/sexual-harassment/#contact) or call us at [**(631) 257-5588**](tel:+16312575588). We can also set up consultations by teleconference.
+At the Romero Law Group, PLLC, we fight for the rights of workers, handling a wide range of legal issues involving wrongful acts by employers. Attorney Peter Romero has fought for the rights of workers for more than  20 years, including women and men who have been victims of gender discrimination. We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, [Contact our offices online](/practice-areas/sexual-harassment/#contact) or call us at [(631) 257-5588](tel:+16312575588). We can also set up consultations by teleconference.
 
 ### What Is Gender Discrimination?
 
@@ -35,7 +35,7 @@ Gender discrimination may take many forms, including:
 -   Disparate treatment of workers based on status as pregnant or as nursing an infant
 -   Favoritism in any work-related practice, including raises, promotions, access to benefits, access to career advancement, work assignments or access to training/development.
 
-### What Are the Laws that Protect Workers against Gender Discrimination?
+### What Are the Laws That Protect Workers Against Gender Discrimination?
 
 In the state of New York, workers who have been subject to gender discrimination may file a claim under either state or federal law.
 
@@ -53,4 +53,4 @@ Even if the agency does not find sufficient evidence of wrongful conduct, you ma
 
 ## Contact a Proven New York Gender Discrimination Lawyer
 
-Take the first step to get full and fair compensation when you have been a victim of gender discrimination at work. [**Contact our offices online**](/sexual-harassment/#contact) or call us at [**(631) 257-5588**](tel:+16312575588) to schedule a free initial consultation. We are also available for teleconferences using Zoom and Microsoft Teams.
+Take the first step to get full and fair compensation when you have been a victim of gender discrimination at work. [Contact our offices online](/practice-areas/sexual-harassment/#contact) or call us at [(631) 257-5588](tel:+16312575588) to schedule a free initial consultation. We are also available for teleconferences using Zoom and Microsoft Teams.

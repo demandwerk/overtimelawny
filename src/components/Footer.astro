@@ -1,5 +1,5 @@
 ---
-import { firm, practiceAreas, spanishHome } from '../site';
+import { firm, practiceAreas, practiceHref, practiceOverview, spanishHome } from '../site';
 import { Image } from 'astro:assets';
 import Icon from './Icon.astro';
 import shield from '../assets/shield.png';
@@ -42,8 +42,8 @@ const year = new Date().getFullYear();
     <div>
       <h3>{es ? 'Áreas de práctica' : 'Practice areas'}</h3>
       <ul>
-        {practiceAreas.slice(0, 7).map((p) => <li><a href={`/${p.slug}/`}>{p.title}</a></li>)}
-        <li><a href="/practice-areas-employment-law-overview/">{es ? 'Ver todas' : 'View all'} →</a></li>
+        {practiceAreas.slice(0, 7).map((p) => <li><a href={practiceHref(p.slug)}>{p.title}</a></li>)}
+        <li><a href={practiceOverview}>{es ? 'Ver todas' : 'View all'} →</a></li>
       </ul>
     </div>
     <div>

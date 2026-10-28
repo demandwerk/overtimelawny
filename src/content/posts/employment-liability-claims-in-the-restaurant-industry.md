@@ -3,11 +3,11 @@ title: "Employment Liability Claims in the Restaurant Industry"
 description: "Employment liability claims in the restaurant industry account for more complaints than any other industry. The EEOC indicated this fact even before the Covid…"
 date: 2022-10-27
 ---
-## Restaurant Industry Claims with EEOC Are on the Rise
+## Restaurant Industry Claims With EEOC Are on the Rise
 
 Employment liability claims in the restaurant industry account for more complaints than any other industry. The EEOC indicated this fact even before the Covid pandemic.
 
-### Details about EEOC employment liability claims in the restaurant industry
+### Details About EEOC Employment Liability Claims in the Restaurant Industry
 
 [QSR Magazine](https://www.qsrmagazine.com/outside-insights/restaurant-employment-liability-claims-continue-climb) listed the following statistics from April 16, 2022 and September 21,2022:
 
@@ -27,6 +27,6 @@ Employees sued Chipotle stores in New York City for disregarding scheduling and 
 
 In addition, Chipotle received $1 million in civil penalties. The settlement was the largest work protection settlement in the history of New York City. Furthermore, it was the highest monetary workweek agreement to date in the U.S.
 
-### Are you a restaurant industry worker with questions about employment discrimination and violations?
+### Are You a Restaurant Industry Worker With Questions About Employment Discrimination and Violations?
 
-The Law Office of Peter A. Romero assists clients with employment law issues. Clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan turn to us for legal help. Call us at (631) 257-5588 or [contact us online](/contact-us/) to schedule an appointment.
+The Law Office of Peter A. Romero assists clients with employment law issues. Clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan turn to us for legal help. Call us at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/) to schedule an appointment.

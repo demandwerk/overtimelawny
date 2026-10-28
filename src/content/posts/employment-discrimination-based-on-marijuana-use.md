@@ -15,7 +15,7 @@ The New York legislature passed the [MRTA](https://dol.ny.gov/system/files/docum
 -   Outside of the workplace
 -   When not using the employer's equipment or property
 
-### In what situations are employers allowed to act against an employee's use of cannabis?
+### In What Situations Are Employers Allowed to Act Against an Employee's Use of Cannabis?
 
 Employers have certain rights under the MRTA. In effect, they can take action or prohibit employee conduct involving cannabis use in various situations, such as when:
 
@@ -27,10 +27,10 @@ Employers have certain rights under the MRTA. In effect, they can take action or
 
 Employers can prohibit use of cannabis during meals or meal breaks. Paid and unpaid breaks, including meals, qualify as "work hours." This is true even if the employee leaves the worksite. If the employee is on-call, an employer can prohibit the employee’s use of cannabis. They can also prohibit employees from bringing marijuana onto the work property. Work property includes rented space, company vehicles, and areas such as desks and lockers. However, an employee's private residence that is being used for remote work does not qualify as a "worksite."
 
-### What does or does not constitute impairment due to cannabis use?
+### What Does or Does Not Constitute Impairment Due to Cannabis Use?
 
 The employee's use of cannabis must result in observable signs of impairment. Testing positive on a drug test is not an observable sign of impairment, nor is a noticeable odor of marijuana. Observable impairment would have to be an objective lessening or decrease in work performance. An example might be operating heavy machinery in an unsafe or reckless manner.
 
-### Do you have questions about employment discrimination based on marijuana use?
+### Do You Have Questions About Employment Discrimination Based on Marijuana Use?
 
-The Law Office of Peter A. Romero assists clients with employment law and discrimination issues. Clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan turn to us for legal help. Call us at (631) 257-5588 or [contact us online](/contact-us/) to schedule an appointment.
+The Law Office of Peter A. Romero assists clients with employment law and discrimination issues. Clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan turn to us for legal help. Call us at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/) to schedule an appointment.

@@ -3,7 +3,7 @@ title: "How to Recognize the Signs of Retaliation in the Workplace"
 description: "What is retaliation in the workplace? It occurs when an employer takes adverse action against an employee but has no legal right to do so. An example would be a situation where an employee has filed a discrimination claim, taken part in a discrimination investigation or otherwise opposed…"
 date: 2021-11-17
 ---
-## Are you a victim of workplace retaliation?
+## Are You a Victim of Workplace Retaliation?
 
 What is retaliation in the workplace? It occurs when an employer takes adverse action against an employee but has no legal right to do so. An example would be a situation where an employee has filed a discrimination claim, taken part in a discrimination investigation or otherwise opposed discrimination. If in response, the employer harasses, demotes or fires the employee, it would be retaliation.
 
@@ -22,4 +22,4 @@ Proving the retaliatory action resulted from an illegal cause is key in a retali
 
 ### An Experienced Attorney Can Help You Fight Retaliation
 
-For many years, the Law Office of Peter A. Romero has dealt successfully with retaliation cases. We provide representation to clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at (631) 257-5588 or [contact us online](/contact-us/) to schedule an appointment.
+For many years, the Law Office of Peter A. Romero has dealt successfully with retaliation cases. We provide representation to clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/) to schedule an appointment.

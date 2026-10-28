@@ -57,32 +57,56 @@ export const nav = [
 // homepage. Entries without an href have no landing page and show as plain
 // text; only linked ones appear in the "Areas We Serve" menu.
 export const locations: { name: string; title: string; area: string; href?: string }[] = [
-  { name: 'Long Island', title: 'Long Island Employment Lawyer', area: 'Nassau & Suffolk Counties', href: '/employment-law-attorneys-in-nassau-and-suffolk-counties-in-new-york/' },
+  { name: 'Long Island', title: 'Long Island Employment Lawyer', area: 'Nassau & Suffolk Counties', href: '/areas-we-serve/long-island/' },
   { name: 'New York City', title: 'New York City Employment Lawyer', area: 'Manhattan, Brooklyn, Queens & the Bronx' },
   { name: 'Westchester & Hudson Valley', title: 'Westchester Employment Lawyer', area: 'Westchester, Rockland & Orange Counties' },
-  { name: 'New Jersey', title: 'New Jersey Employment Lawyer', area: 'Northern New Jersey', href: '/new-jersey-nyc-overtime-wage-and-sexual-harassment-lawyers/' },
+  { name: 'New Jersey', title: 'New Jersey Employment Lawyer', area: 'Northern New Jersey', href: '/areas-we-serve/new-jersey/' },
 ];
-nav.find((n) => n.label === 'Areas We Serve')!.children = locations.filter((l) => l.href).map((l) => ({ label: l.title, href: l.href! }));
+// Location pages live under /areas-we-serve/<slug>/.
+export const locationsOverview = '/areas-we-serve/';
+nav.find((n) => n.label === 'Areas We Serve')!.children = [
+  { label: 'All areas we serve', href: locationsOverview },
+  ...locations.filter((l) => l.href).map((l) => ({ label: l.title, href: l.href! })),
+];
 
-export const spanishHome = '/descripcion-general-de-las-areas-de-practica/';
+// Spanish pages live under /es/; /es/ itself is the Spanish practice-area overview.
+export const spanishHome = '/es/';
+
+// English page → its Spanish translation. Both sides get hreflang links to
+// each other; add a pair here when a new Spanish page is published.
+export const translations: Record<string, string> = {
+  '/practice-areas/': '/es/',
+  '/practice-areas/sexual-harassment/': '/es/acoso-sexual/',
+  '/practice-areas/employment-discrimination/': '/es/discriminacion-laboral/',
+  '/practice-areas/pregnancy-discrimination/': '/es/discriminacion-por-embarazo/',
+  '/practice-areas/overtime-and-unpaid-wages/': '/es/horas-adicionales-y-sueldos-no-pagados/',
+  '/practice-areas/retaliation/': '/es/represalias/',
+};
+
+// Practice-area pages live under /practice-areas/<slug>/.
+export const practiceOverview = '/practice-areas/';
+export const practiceHref = (slug: string) => `${practiceOverview}${slug}/`;
 
 // Order here is the order on the homepage grid. Employer defense is listed
 // last because the firm's focus is employees.
 export const practiceAreas = [
-  { slug: 'overtime-pay-and-unpaid-wages', title: 'Overtime & Unpaid Wages', blurb: 'Missing overtime, off-the-clock work, misclassification and late pay. New York lets you recover up to six years of unpaid wages.' },
+  { slug: 'overtime-and-unpaid-wages', title: 'Overtime & Unpaid Wages', blurb: 'Missing overtime, off-the-clock work, misclassification and late pay. New York lets you recover up to six years of unpaid wages.' },
   { slug: 'sexual-harassment', title: 'Sexual Harassment', blurb: 'Unwanted advances, comments, contact or a hostile environment based on sex. You do not have to put up with it to keep your job.' },
   { slug: 'employment-discrimination', title: 'Employment Discrimination', blurb: 'Age, race, disability, religion, national origin and more. Unfair firing, demotion, pay or treatment because of who you are.' },
-  { slug: 'retaliation-in-the-workplace', title: 'Retaliation', blurb: 'Punished for complaining, reporting discrimination or taking part in an investigation? Retaliation is its own violation of the law.' },
-  { slug: 'restaurant-workers-and-tipped-employees', title: 'Restaurant & Tipped Workers', blurb: 'Minimum wage, tip theft, illegal tip pools, spread-of-hours pay and overtime for kitchen, floor and delivery staff.' },
+  { slug: 'retaliation', title: 'Retaliation', blurb: 'Punished for complaining, reporting discrimination or taking part in an investigation? Retaliation is its own violation of the law.' },
+  { slug: 'restaurant-and-tipped-workers', title: 'Restaurant & Tipped Workers', blurb: 'Minimum wage, tip theft, illegal tip pools, spread-of-hours pay and overtime for kitchen, floor and delivery staff.' },
   { slug: 'pregnancy-discrimination', title: 'Pregnancy Discrimination', blurb: 'Employers cannot fire, demote or refuse to accommodate you because of pregnancy, childbirth or related conditions.' },
   { slug: 'gender-discrimination', title: 'Gender Discrimination', blurb: 'Unequal pay, passed-over promotions and limited advancement because of gender.' },
   { slug: 'womens-rights', title: "Women's Rights", blurb: 'Equal pay disputes, unfair hiring and promotion practices, harassment and pregnancy discrimination.' },
   { slug: 'whistleblower', title: 'Whistleblower', blurb: 'Protection for employees who report fraud, corruption, safety violations or other wrongdoing by their employer.' },
-  { slug: 'family-medical-leave-act', title: 'Family & Medical Leave', blurb: 'Up to 12 weeks of job-protected leave for your own or a family member’s serious health condition.' },
+  { slug: 'family-and-medical-leave', title: 'Family & Medical Leave', blurb: 'Up to 12 weeks of job-protected leave for your own or a family member’s serious health condition.' },
   { slug: 'civil-rights', title: 'Civil Rights', blurb: 'Federal, state and New York City laws that protect workers from discrimination based on protected characteristics.' },
-  { slug: 'employment-agreements', title: 'Employment & Severance Agreements', blurb: 'Review and negotiation of employment contracts, non-competes and severance packages before you sign.' },
+  { slug: 'employment-and-severance-agreements', title: 'Employment & Severance Agreements', blurb: 'Review and negotiation of employment contracts, non-competes and severance packages before you sign.' },
   { slug: 'employer-defense', title: 'Employer Counsel', blurb: 'Guidance for employers on handbooks, policies, dispute resolution and litigation avoidance.' },
 ];
+
+// Peter Romero's Avvo profile, where every client review on the site can be checked.
+export const avvoProfile = 'https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html';
 
 export const testimonials = [
   {
@@ -168,6 +192,6 @@ export const team = [
 ];
 
 nav.find((n) => n.label === 'Practice Areas')!.children = [
-  { label: 'All practice areas', href: '/practice-areas-employment-law-overview/' },
-  ...practiceAreas.map((p) => ({ label: p.title, href: `/${p.slug}/` })),
+  { label: 'All practice areas', href: practiceOverview },
+  ...practiceAreas.map((p) => ({ label: p.title, href: practiceHref(p.slug) })),
 ];

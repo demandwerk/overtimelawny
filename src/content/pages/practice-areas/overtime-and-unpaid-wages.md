@@ -33,20 +33,17 @@ Miscalssifying an employee as “Independent contractor” is another way in whi
 -   Paying workers predetermined earnings and not significant profit
 -   Keeping workers for ongoing work, not on a job of project basis
 
-## A Client’s Testimonial about an Overtime Pay Case
+## A Client’s Testimonial About an Overtime Pay Case
 
-**5.0 star Avvo Review**
-
-Posted by Ken  
-August 31, 2016
-
-I had a problem with the company I work for. I was told that I would be shifted from exempt to non-exempt. I did some checking on the web and found out that I was probably due some overtime pay. My company said no way. I thought about it and looked up a labor lawyer and found Peter. 
-
-He sent a letter to my company and they still said no. I then filed a lawsuit and we managed to settle the case. 
-
-I have the highest respect for Mr. Romero.
-
-Ken
+<figure class="review">
+  <p class="review__stars" aria-label="5 out of 5 stars">★★★★★</p>
+  <blockquote>
+    <p>I had a problem with the company I work for. I was told that I would be shifted from exempt to non-exempt. I did some checking on the web and found out that I was probably due some overtime pay. My company said no way. I thought about it and looked up a labor lawyer and found Peter.</p>
+    <p>He sent a letter to my company and they still said no. I then filed a lawsuit and we managed to settle the case.</p>
+    <p>I have the highest respect for Mr. Romero.</p>
+  </blockquote>
+  <figcaption><span><strong>Ken</strong> · August 31, 2016</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
+</figure>
 
 ### Wage and Hour Rights Under New York Laws
 
@@ -75,6 +72,6 @@ The federal government sets a minimum wage standard, and in addition many states
 
 The statute of limitations (deadline) for filing a wage or overtime claim under the FLSA is two years from the date after the wage violation. However, when filing a claim based on NY Labor law, the statute of limitations is six years.
 
-## Consult with a NY Wages and Overtime Lawyer
+## Consult With a NY Wages and Overtime Lawyer
 
-If you believe your employer is not paying you overtime, has misclassified your job or in some way is paying you unfairly, contact us. Call [**(631) 257-5588**](tel:+16312575588) or [**contact us online**](/overtime-pay-and-unpaid-wages/#contact) to arrange a free consultation.
+If you believe your employer is not paying you overtime, has misclassified your job or in some way is paying you unfairly, contact us. Call [(631) 257-5588](tel:+16312575588) or [contact us online](/practice-areas/overtime-and-unpaid-wages/#contact) to arrange a free consultation.

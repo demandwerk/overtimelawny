@@ -1,12 +1,8 @@
 ---
-title: "Discriminación-y-acoso-laboral-durante-el-embarazo"
+title: "Discriminación y acoso laboral durante el embarazo"
 description: "Las mujeres embarazadas en el trabajo pueden estar sujetas a decisiones y tratamientos injustos debido a su embarazo. Cuando un empleador en Nueva York decide no contratar a una solicitante o decide degradar, despedir, o reducir el salario o los beneficios de una empleada por causa de su embarazo,…"
 kind: es
 ---
-## Discriminación y Acoso
-
-### Embarazo y Trabajo
-
 ## Mujeres embarazadas en el trabajo
 
 Las mujeres embarazadas en el trabajo pueden estar sujetas a decisiones y tratamientos injustos debido a su embarazo. Cuando un empleador en Nueva York decide no contratar a una solicitante o decide degradar, despedir, o reducir el salario o los beneficios de una empleada por causa de su embarazo, estas son formas de discriminación. Las decisiones laborales que un empleador toma basándose en la intención de una empleada en planificar un embarazo también se considerarían discriminación.
@@ -21,7 +17,7 @@ Si tiene una condición médica que resulta en una discapacidad por causa del em
 
 ## La Ley de Licencia Médica Familiar (FMLA) para el embarazo
 
-The [**La Ley de Licencia Médica Familiar (FMLA)**](/family-medical-leave-act/) es una ley federal que permite a los empleados que han trabajado durante un año en una empresa con 50 empleados o más tomar una licencia por el embarazo. Según la FMLA, los empleadores deben permitir a los empleados 12 semanas de licencia no remunerada con protección laboral por año. Una mujer puede tomar la licencia después del parto y mientras cuida a un bebé menor de un año.
+The [La Ley de Licencia Médica Familiar (FMLA)](/practice-areas/family-and-medical-leave/) es una ley federal que permite a los empleados que han trabajado durante un año en una empresa con 50 empleados o más tomar una licencia por el embarazo. Según la FMLA, los empleadores deben permitir a los empleados 12 semanas de licencia no remunerada con protección laboral por año. Una mujer puede tomar la licencia después del parto y mientras cuida a un bebé menor de un año.
 
 Cuando una trabajadora embarazada puede trabajar sin poner en peligro su salud, es ilegal que un empleador reduzca sus horas de trabajo o su base de clientes.
 
@@ -52,14 +48,14 @@ La ley laboral de NY prohíbe a los empleadores discriminar a las mujeres que op
 
 ## Lo que nuestros clientes dicen
 
-### Peter Romero es de primera
-
-**5.0 star Avvo Review**
-
-Publicado por anónimo  
-15 de febrero de 2018
-
-Peter ha superado con creces mis expectativas en cada paso del camino. Su profesionalismo y capacidad de respuesta no dejaron nada que desear. Realmente aprecio la forma en que habló con honestidad y consideración sobre las fortalezas y debilidades de mi caso. También estableció claramente expectativas con respecto al proceso de arbitraje que estábamos obligados a seguir, según la política de mi antiguo empleador. Con su guía, pudimos llegar con éxito a una resolución que me dejó con la sensación de estar reivindicada. No pude pedir más. Muchas gracias.
+<figure class="review">
+  <p class="review__stars" aria-label="5 de 5 estrellas">★★★★★</p>
+  <p class="review__title">Peter Romero es de primera</p>
+  <blockquote>
+    <p>Peter ha superado con creces mis expectativas en cada paso del camino. Su profesionalismo y capacidad de respuesta no dejaron nada que desear. Realmente aprecio la forma en que habló con honestidad y consideración sobre las fortalezas y debilidades de mi caso. También estableció claramente expectativas con respecto al proceso de arbitraje que estábamos obligados a seguir, según la política de mi antiguo empleador. Con su guía, pudimos llegar con éxito a una resolución que me dejó con la sensación de estar reivindicada. No pude pedir más. Muchas gracias.</p>
+  </blockquote>
+  <figcaption><span><strong>Anónimo</strong> · 15 de febrero de 2018</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Vea nuestras reseñas en Avvo ↗</a></figcaption>
+</figure>
 
 ## Plazo límite de reclamos legales para presentar un reclamo por discriminación por el embarazo
 
@@ -67,4 +63,4 @@ Al igual que con otros reclamos por discriminación laboral, se tiene un año de
 
 ## ¿Está enfrentando un trato injusto debido a su embarazo en el trabajo?
 
-Si tiene preguntas o cree que su empleador la trató injustamente debido a su embarazo, llame a nuestra oficina al [**(631) 257-5588**](tel:+16312575588) o [**contáctenos en línea**](/discriminacion-por-embarazo/#contact). Ofrecemos una consulta gratuita para comunicarse sobre sus preocupaciones con un abogado especialista en discriminación.
+Si tiene preguntas o cree que su empleador la trató injustamente debido a su embarazo, llame a nuestra oficina al [(631) 257-5588](tel:+16312575588) o [contáctenos en línea](/es/discriminacion-por-embarazo/#contact). Ofrecemos una consulta gratuita para comunicarse sobre sus preocupaciones con un abogado especialista en discriminación.

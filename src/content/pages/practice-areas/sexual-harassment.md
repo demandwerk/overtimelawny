@@ -15,7 +15,7 @@ Have you experienced any of the following?
 
 You have a right to be free of sexual harassment in the workplace. At the Romero Law Group, PLLC, we have effectively protected the rights of victims of sexual harassment for more than 20 years. We will be your advocate throughout the legal process, helping you get full and fair compensation for any losses, and ensuring that the sexual harassment comes to an end.
 
-To schedule a free initial consultation, [contact our offices online](/sexual-harassment/#contact) or call us at [(231) 257-5588](tel: 231-257-5588).
+To schedule a free initial consultation, [contact our offices online](/practice-areas/sexual-harassment/#contact) or call us at [(631) 257-5588](tel:+16312575588).
 
 ### What Is Sexual Harassment in the Workplace?
 
@@ -31,7 +31,7 @@ Sexual harassment at work is unwelcome sexual conduct directed toward an employe
 
 There are two main types of discrimination that occur involving sexual harassment. One falls under the category of a hostile work environment.
 
-### What Are the Different Types of Sexual Harassment that Give Rise to a Legal Claim?
+### What Are the Different Types of Sexual Harassment That Give Rise to a Legal Claim?
 
 Generally speaking, you have a right to seek legal recourse if you have been the victim of:
 
@@ -52,7 +52,7 @@ To succeed with a claim based on allegations of a hostile environment, you must 
 -   The offending conduct was so pervasive that it created a hostile environment—a single instance is generally not enough to create a hostile environment
 -   You provided reasonable notice to your employer of the offensive conduct and your employer continued to condone it
 
-### What Are Some of the Types of Conduct that Qualify as Sexual Harassment?
+### What Are Some of the Types of Conduct That Qualify as Sexual Harassment?
 
 Sexual harassment can take a wide range of forms, including:
 
@@ -70,4 +70,4 @@ Sexual harassment can take a wide range of forms, including:
 
 ## Contact an Experienced Sexual Harassment Claims Attorney
 
-Take the first step to get full and fair compensation for sexual harassment in the workplace.  [**Contact our offices online**](/sexual-harassment/#contact) or call us at [**(631) 257-5588**](tel:+16312575588) to schedule a free initial consultation. We are also available for teleconferences using Zoom and Microsoft Teams.
+Take the first step to get full and fair compensation for sexual harassment in the workplace.  [Contact our offices online](/practice-areas/sexual-harassment/#contact) or call us at [(631) 257-5588](tel:+16312575588) to schedule a free initial consultation. We are also available for teleconferences using Zoom and Microsoft Teams.

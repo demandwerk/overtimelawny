@@ -4,8 +4,9 @@ import { Image } from 'astro:assets';
 import Icon from './Icon.astro';
 import logo from '../assets/logo.png';
 
-interface Props { lang?: 'en' | 'es' }
-const { lang = 'en' } = Astro.props;
+// `alt` is this page's translation; without one the link goes to the other language's home.
+interface Props { lang?: 'en' | 'es'; alt?: string }
+const { lang = 'en', alt } = Astro.props;
 const path = Astro.url.pathname;
 const isActive = (href: string) => path === href;
 ---
@@ -14,8 +15,8 @@ const isActive = (href: string) => path === href;
     <span class="topbar__regions">{firm.regions}</span>
     <span class="topbar__links">
       {lang === 'en'
-        ? <a href={spanishHome} lang="es">Se habla español</a>
-        : <a href="/" lang="en">English</a>}
+        ? <a href={alt ?? spanishHome} lang="es">Se habla español</a>
+        : <a href={alt ?? '/'} lang="en">English</a>}
       <a href={firm.phoneHref} class="topbar__phone"><Icon name="phone" /> {firm.phone}</a>
     </span>
   </div>

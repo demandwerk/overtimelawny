@@ -3,11 +3,11 @@ title: "What Are Your Rights in Employment Interviews and the Workplace?"
 description: "New York law protects your rights in employment interviews and the workplace under New York State Human Rights Law. It is wise to know your rights so you can recognize discrimination, should the situation arise. New York State Human Rights Law provides equal protection based on race, color, gender,…"
 date: 2022-03-28
 ---
-## Are there questions your prospective employer or employer should not ask?
+## Are There Questions Your Prospective Employer or Employer Should Not Ask?
 
 New York law protects your rights in employment interviews and the workplace under New York State Human Rights Law. It is wise to know your rights so you can recognize discrimination, should the situation arise. New York State Human Rights Law provides equal protection based on race, color, gender, marital status, age, disability, creed or religion.
 
-### What are examples of discriminatory questions or actions?
+### What Are Examples of Discriminatory Questions or Actions?
 
 The following are protected areas, and certain actions or questions regarding them are illegal:
 
@@ -20,6 +20,6 @@ The following are protected areas, and certain actions or questions regarding th
 
 See the [New York rulings on pre-employment inquiries](https://www.upstate.edu/diversityinclusion/pdf/legal-illegal-interview-questions.pdf) for further details.
 
-### Are you having problems with discrimination in the workplace?
+### Are You Having Problems With Discrimination in the Workplace?
 
-Find out how we can help. For many years, the Law Office of Peter A. Romero has dealt successfully with all types of discrimination issues. We provide representation to clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at (631) 257-5588 or [contact us online](/contact-us/) to schedule an appointment.
+Find out how we can help. For many years, the Law Office of Peter A. Romero has dealt successfully with all types of discrimination issues. We provide representation to clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/) to schedule an appointment.

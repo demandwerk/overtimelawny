@@ -1,5 +1,5 @@
 ---
-title: "Transgender Discrimination from IBM in 1968 Comes Full Circle"
+title: "Transgender Discrimination From IBM in 1968 Comes Full Circle"
 description: "Lynn Conway became a victim of transgender discrimination after she confided in her supervisor, telling him she was undergoing a transgender transition. This was in 1968 when she was working at IBM. While her immediate supervisor was supportive, IBM's chief executive was not. She had worked at IBM…"
 date: 2020-11-24
 ---
@@ -17,4 +17,4 @@ In June 2020, the U.S. Supreme Court rendered a landmark decision, ruling that a
 
 ### Have You Faced Transgender Discrimination?
 
-What occurred when Lynn Conway was fired would be unlawful today. Nevertheless, sometimes employers violate the law. If you've been a victim of discrimination, [call the Law Office of Peter A. Romero](/) today. We are glad to address your concerns. Simply give us a call at **(631) 257-5588** or [contact us online](/contact-us/).
+What occurred when Lynn Conway was fired would be unlawful today. Nevertheless, sometimes employers violate the law. If you've been a victim of discrimination, [call the Law Office of Peter A. Romero](/) today. We are glad to address your concerns. Simply give us a call at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/).

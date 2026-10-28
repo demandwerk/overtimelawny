@@ -3,7 +3,7 @@ title: "What to Do When You Are the Victim of Sexual Harassment at Work"
 description: "Though there has been much attention paid to sexual harassment over the past decade, the general consensus is that it’s still a significant problem. In fact, a 2018 report found that four of every five women (81%) and nearly half (43%) of men surveyed said they had witnessed or experienced sexual…"
 date: 2025-07-28
 ---
-### **Steps You Need to Take to Protect Yourself**
+## Steps You Need to Take to Protect Yourself
 
 Though there has been much attention paid to sexual harassment over the past decade, the general consensus is that it’s still a significant problem. In fact, a 2018 report found that four of every five women (81%) and nearly half (43%) of men surveyed said they had witnessed or experienced sexual harassment of some sort. When you have been subjected to sexual harassment at work, it’s critical that you take the right steps to protect your legal rights. Here’s a checklist of the things you need to do:
 
@@ -13,6 +13,6 @@ Though there has been much attention paid to sexual harassment over the past dec
 -   Report the incident to the state or federal Equal Employment Opportunity Commission—This is typically required before you can file a lawsuit for sexual harassment.
 -   As early as possible, hire an experienced and knowledgeable sexual harassment claims attorney
 
-### **Let the Romero Law Group Protect Your Rights as an Employee**
+## Let the Romero Law Group Protect Your Rights as an Employee
 
-At the [Romero Law Group, PLLC,](/) we handle a wide range of legal issues for employees in Westchester County, Rockland County and Orange County in New York; and across Northern New Jersey. We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, contact our offices online or call us at **(631)257-5588**.
+At the [Romero Law Group, PLLC,](/) we handle a wide range of legal issues for employees in Westchester County, Rockland County and Orange County in New York; and across Northern New Jersey. We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, contact our offices online or call us at [(631) 257-5588](tel:+16312575588).

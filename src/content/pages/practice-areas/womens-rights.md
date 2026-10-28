@@ -5,11 +5,11 @@ kind: practice
 ---
 ## Proven New York Women’s Rights Lawyer
 
-### Protecting the Rights of Women in New York City and Long Island for More than 20 Years
+### Protecting the Rights of Women in New York City and Long Island for More Than 20 Years
 
 Change often seems to come in fits and starts…it certainly seems that way with women’s rights. Though the last 50 years have seen significant advancements, women still face wrongful bias and unfair treatment in many areas of life, including employment.
 
-At the Romero Law Group, we are committed to leveling the playing field and ensuring that women have equal rights, equal opportunity and equal protection of the law. We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, [contact our offices online](/sexual-harassment/#contact) or call us at [(231) 257-5588](tel: 231-257-5588). We can also set up consultations by teleconference.
+At the Romero Law Group, we are committed to leveling the playing field and ensuring that women have equal rights, equal opportunity and equal protection of the law. We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, [contact our offices online](/practice-areas/sexual-harassment/#contact) or call us at [(631) 257-5588](tel:+16312575588). We can also set up consultations by teleconference.
 
 ### What Are the Most Common Legal Issues for Women in the Workplace?
 
@@ -29,10 +29,10 @@ The sooner you retain legal counsel, the better, as you’ll have an advocate wh
 -   Requirement that your employer amend or revise employment policies
 -   Reinstatement of your job, if you were wrongfully terminated or chose to quit because of intolerable conditions
 
-### Can You File a Civil Lawsuit against Your Employer If Your Rights as a Woman Have Been Violated?
+### Can You File a Civil Lawsuit Against Your Employer If Your Rights as a Woman Have Been Violated?
 
 Yes, but depending on your circumstances, your attorney may advise first filing a complaint with the EEOC or Division of Human Rights.  In New York, a complaint must be filed with the EEOC within 300 days of the wrongful act or with the Division of Human Rights within 3 years of the wrong.
 
-## Let The Romero Law Group Protect Your Legal Rights as a Woman
+## Let the Romero Law Group Protect Your Legal Rights as a Woman
 
-Take the first step to get full and fair compensation for sexual harassment in the workplace. [**Contact our offices online**](/sexual-harassment/#contact) or call us at [**(631) 257-5588**](tel:+16312575588) to schedule a free initial consultation. We are also available for teleconferences using Zoom and Microsoft Teams.
+Take the first step to get full and fair compensation for sexual harassment in the workplace. [Contact our offices online](/practice-areas/sexual-harassment/#contact) or call us at [(631) 257-5588](tel:+16312575588) to schedule a free initial consultation. We are also available for teleconferences using Zoom and Microsoft Teams.

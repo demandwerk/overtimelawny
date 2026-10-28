@@ -2,11 +2,11 @@ import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders';
 
 const pages = defineCollection({
-  loader: glob({ pattern: '*.md', base: './src/content/pages' }),
+  loader: glob({ pattern: '**/*.md', base: './src/content/pages' }),
   schema: ({ image }) => z.object({
     title: z.string(),
     description: z.string(),
-    // practice = practice-area page, es = Spanish page, location = area-served page
+    // practice = practice-area page (lives in practice-areas/), es = Spanish page (lives in es/), location = area-served page (lives in areas-we-serve/)
     kind: z.enum(['page', 'practice', 'location', 'es']),
     // Optional banner photo; the Manhattan skyline is used otherwise.
     hero: image().optional(),

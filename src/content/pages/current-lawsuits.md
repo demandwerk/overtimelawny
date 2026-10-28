@@ -3,33 +3,15 @@ title: "Current Lawsuits"
 description: "The Law Office of Peter A. Romero PLLC has filed a class action lawsuit alleging that the Bolla Market failed to pay its employees earning the minimum wage an additional hour of pay when they worked a shift longer than 10 hours from its start to its finish, including breaks, as required by the New…"
 kind: page
 ---
-## Our Current Cases
-
-### Bolla Operating Corp
-
-Unpaid Spread of Hours
-
-### IRISH COFFEE PUB
-
-Unpaid wages
-
-### Marchello's Garden Grill
-
-Unpaid wages
-
-### Olympic Diner in Deer Park
-
-Unpaid Wages
-
 ## Our Current Lawsuits
 
-### Bolla Market
+### Bolla Market (Bolla Operating Corp.)
 
-#### UNPAID SPREAD-OF-HOURS PAY EMPLOYEES
+#### Unpaid Spread-of-Hours Pay
 
 The Law Office of Peter A. Romero PLLC has filed a class action lawsuit alleging that the Bolla Market failed to pay its employees earning the minimum wage an additional hour of pay when they worked a shift longer than 10 hours from its start to its finish, including breaks, as required by the New York Miscellaneous Industries Wage Order, 12 N.Y.C.R.R. § 142.
 
-If you were employed by Bolla Market, paid the minimum wage and worked a shift longer than 10 hours at any time from January 2017 to January 2023, or have any questions regarding the lawsuit, please contact us the Law Office of Peter A. Romero PLLC.
+If you were employed by Bolla Market, paid the minimum wage and worked a shift longer than 10 hours at any time from January 2017 to January 2023, or have any questions regarding the lawsuit, please contact the Law Office of Peter A. Romero PLLC.
 
 ### Irish Coffee Pub
 

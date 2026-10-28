@@ -62,20 +62,15 @@ The NYCHRL also prohibits retaliation based on employees asserting their rights 
 
 At Romero Law Group, PLLC, our civil rights lawyers have successfully represented clients in employment discrimination cases. The following is a review from one of our clients that we represented in a civil rights lawsuit:
 
-### Grateful!!
+<figure class="review">
+  <p class="review__stars" aria-label="5 out of 5 stars">★★★★★</p>
+  <p class="review__title">Grateful!</p>
+  <blockquote>
+    <p>Peter is an excellent attorney with a compassionate side and complete understanding for your emotions as well as a thorough knowledge of law and best course of action. Always available! He totally helped me wrong a right! Peter helped me with a lawsuit against a large company for discrimination in employment in violation of Section 1981 of the Civil Rights Act of 1866, 42 U.S.C. § 1981 (“Section 1981”) and the New Jersey Law Against Discrimination (the “NJLAD”). I would use Peter again in a second!</p>
+  </blockquote>
+  <figcaption><span><strong>Anonymous</strong> · August 31, 2016</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
+</figure>
 
-**5.0 star Avvo Review**
+## Consult With a Civil Rights Lawyer
 
-Posted by anonymous August 31, 2016  
-
-Peter is an excellent attorney with a compassionate side and complete understanding for your emotions as well as a thorough knowledge of law and best course of action. Always available! He totally helped me wrong a right! Peter helped me with a lawsuit against a large company for discrimination in employment in violation of Section 1981 of the Civil Rights Act of 1866, 42 U.S.C. § 1981 (“Section 1981”) and the New Jersey Law Against Discrimination (the “NJLAD”). I would use Peter again in a second!
-
-He sent a letter to my company and they still said no. I then filed a lawsuit and we managed to settle the case. 
-
-I have the highest respect for Mr. Romero.
-
-Ken
-
-## Consult with a Civil Rights Lawyer
-
-Arrange a free consultation to speak with a civil rights attorney and find out how we can help.  Call [**(631) 257-5588**](tel:+16312575588) or [**contact us online**](/civil-rights/#contact) to arrange a consultation.
+Arrange a free consultation to speak with a civil rights attorney and find out how we can help.  Call [(631) 257-5588](tel:+16312575588) or [contact us online](/practice-areas/civil-rights/#contact) to arrange a consultation.

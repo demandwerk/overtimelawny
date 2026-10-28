@@ -2,7 +2,7 @@
 import '../styles/global.css';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
-import { firm } from '../site';
+import { firm, translations } from '../site';
 
 interface Props {
   title: string;
@@ -14,6 +14,9 @@ interface Props {
 const { title, description = `${firm.name}: employment lawyers for workers in ${firm.regions}. Free consultation: ${firm.phone}.`, lang = 'en', type = 'website', noindex = false } = Astro.props;
 const fullTitle = title === firm.name ? title : `${title} | ${firm.name}`;
 const canonical = new URL(Astro.url.pathname, Astro.site);
+// hreflang pair for pages that have a translation (English is the default).
+const enPath = Object.entries(translations).find(([en, es]) => Astro.url.pathname === en || Astro.url.pathname === es)?.[0];
+const alternates = enPath && { en: new URL(enPath, Astro.site), es: new URL(translations[enPath], Astro.site) };
 
 const schema = {
   '@context': 'https://schema.org',
@@ -40,6 +43,9 @@ const schema = {
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
+    {alternates && <link rel="alternate" hreflang="en" href={alternates.en} />}
+    {alternates && <link rel="alternate" hreflang="es" href={alternates.es} />}
+    {alternates && <link rel="alternate" hreflang="x-default" href={alternates.en} />}
     {noindex && <meta name="robots" content="noindex" />}
     <link rel="icon" href="/favicon.png" type="image/png" />
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
@@ -54,7 +60,7 @@ const schema = {
   </head>
   <body>
     <a class="skip" href="#main">Skip to content</a>
-    <Header lang={lang} />
+    <Header lang={lang} alt={alternates ? (lang === 'es' ? alternates.en.pathname : alternates.es.pathname) : undefined} />
     <main id="main"><slot /></main>
     <Footer lang={lang} />
   </body>

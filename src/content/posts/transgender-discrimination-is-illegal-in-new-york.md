@@ -30,6 +30,6 @@ In December of 2020, the New York legislature passed a law that amended New York
 
 This law goes into effect on March 23, 2021. Facilities must replace signage indicating "male" or "female" with a designation that makes the restroom open to all genders. However, it does not require businesses or schools to build new gender-neutral, single occupancy restrooms.
 
-### Rely on an experienced employment law attorney
+### Rely on an Experienced Employment Law Attorney
 
-The Law office of Peter A. Romero has extensive experience representing clients in all types of discrimination cases. We are glad to discuss your complaint and determine how we can help. Call us at (631) 257-5588 or [contact us online](/contact-us/).
+The Law office of Peter A. Romero has extensive experience representing clients in all types of discrimination cases. We are glad to discuss your complaint and determine how we can help. Call us at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/).
