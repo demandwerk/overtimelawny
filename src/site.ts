@@ -57,9 +57,8 @@ export const nav = [
 // homepage. Entries without an href have no landing page and show as plain
 // text; only linked ones appear in the "Areas We Serve" menu.
 export const locations: { name: string; title: string; area: string; href?: string }[] = [
-  { name: 'New York State', title: 'New York Employment Lawyer', area: 'Statewide', href: '/areas-we-serve/new-york/' },
   { name: 'Long Island', title: 'Long Island Employment Lawyer', area: 'Nassau & Suffolk Counties', href: '/areas-we-serve/long-island/' },
-  { name: 'New York City', title: 'New York City Employment Lawyer', area: 'Manhattan, Brooklyn, Queens & the Bronx' },
+  { name: 'New York City', title: 'New York City Employment Lawyer', area: 'Manhattan, Brooklyn, Queens & the Bronx', href: '/areas-we-serve/new-york/' },
   { name: 'Westchester & Hudson Valley', title: 'Westchester Employment Lawyer', area: 'Westchester, Rockland & Orange Counties' },
   { name: 'New Jersey', title: 'New Jersey Employment Lawyer', area: 'Northern New Jersey', href: '/areas-we-serve/new-jersey/' },
 ];
