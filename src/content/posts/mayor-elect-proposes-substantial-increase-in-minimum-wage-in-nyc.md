@@ -23,4 +23,4 @@ Proponents of a higher minimum wage contend that when workers are paid more, the
 
 ## Let the Romero Law Group Protect Your Rights as an Employee
 
-At the Romero Law Group, PLLC, we handle a wide range of legal issues for employees in Westchester County, Rockland County and Orange County in New York; and across Northern New Jersey, including all matters related to sexual harassment. We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, contact our offices online or call us at (631)257-5588.
+At the Romero Law Group, PLLC, we handle a wide range of legal issues for employees in Westchester County, Rockland County and Orange County in New York; and across Northern New Jersey, including all matters related to sexual harassment. We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, contact our offices online or call us at [(631) 257-5588](tel:+16312575588).

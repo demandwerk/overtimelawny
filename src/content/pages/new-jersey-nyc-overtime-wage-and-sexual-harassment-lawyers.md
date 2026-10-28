@@ -9,7 +9,7 @@ heroPosition: 50% 72%
 
 ### Treated Differently at Work Because of Race, Gender, Age, Disability, Pregnancy, Sexual Orientation or Other Protected Class?
 
-Contact Romero Law Group PLLC today to take the first steps to get the relief you need and deserve. To schedule a free initial consultation, call our offices at [631-257-5588](tel:+16312575588) or [contact us online](/contact-us/).
+Contact Romero Law Group PLLC today to take the first steps to get the relief you need and deserve. To schedule a free initial consultation, call our offices at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/).
 
 ![A northern New Jersey town in autumn, with the skyline on the horizon](../../assets/hero/new-jersey-town.jpg)
 

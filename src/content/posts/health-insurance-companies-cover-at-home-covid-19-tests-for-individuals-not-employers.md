@@ -17,4 +17,4 @@ This new provision does not extend to employers. Insurance companies do not have
 
 ### Do You Have Work Issues With COVID-19 Tests as an Employee?
 
-For many years, the Law Office of Peter A. Romero has dealt successfully with all types of employment issues. We provide representation to clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at (631) 257-5588 or [contact us online](/contact-us/) to schedule an appointment.
+For many years, the Law Office of Peter A. Romero has dealt successfully with all types of employment issues. We provide representation to clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/) to schedule an appointment.

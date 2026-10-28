@@ -27,4 +27,4 @@ The EEOC's New York District Office processes discrimination litigation in Conne
 
 ## Put an Experienced Employment Law Attorney on Your Side
 
-The Law office of Peter A. Romero has considerable experience representing clients in disability discrimination cases. We are glad to discuss your matter and how we can help. Call us at (631) 257-5588 or [contact us online](/contact-us/).
+The Law office of Peter A. Romero has considerable experience representing clients in disability discrimination cases. We are glad to discuss your matter and how we can help. Call us at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/).

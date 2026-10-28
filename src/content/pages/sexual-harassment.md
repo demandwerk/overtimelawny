@@ -15,7 +15,7 @@ Have you experienced any of the following?
 
 You have a right to be free of sexual harassment in the workplace. At the Romero Law Group, PLLC, we have effectively protected the rights of victims of sexual harassment for more than 20 years. We will be your advocate throughout the legal process, helping you get full and fair compensation for any losses, and ensuring that the sexual harassment comes to an end.
 
-To schedule a free initial consultation, [contact our offices online](/sexual-harassment/#contact) or call us at [(231) 257-5588](tel: 231-257-5588).
+To schedule a free initial consultation, [contact our offices online](/sexual-harassment/#contact) or call us at [(631) 257-5588](tel:+16312575588).
 
 ### What Is Sexual Harassment in the Workplace?
 

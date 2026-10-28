@@ -32,4 +32,4 @@ This law goes into effect on March 23, 2021. Facilities must replace signage ind
 
 ### Rely on an Experienced Employment Law Attorney
 
-The Law office of Peter A. Romero has extensive experience representing clients in all types of discrimination cases. We are glad to discuss your complaint and determine how we can help. Call us at (631) 257-5588 or [contact us online](/contact-us/).
+The Law office of Peter A. Romero has extensive experience representing clients in all types of discrimination cases. We are glad to discuss your complaint and determine how we can help. Call us at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/).

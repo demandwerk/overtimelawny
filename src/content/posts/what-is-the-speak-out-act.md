@@ -21,4 +21,4 @@ The #MeToo movement motivated legislators to take action and pass bills that wou
 
 ### Do You Face Sexual Harassment or Assault Issues in the Workplace?
 
-The Law Office of Peter A. Romero assists clients with employment law issues. Clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan turn to us for legal help. Call us at (631) 257-5588 or [contact us online](/contact-us/) to schedule an appointment.
+The Law Office of Peter A. Romero assists clients with employment law issues. Clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan turn to us for legal help. Call us at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/) to schedule an appointment.

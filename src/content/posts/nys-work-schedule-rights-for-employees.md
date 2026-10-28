@@ -53,4 +53,4 @@ In New York City, workers in the fast food industry have additional rights. They
 
 ## Do You Need Assistance Protecting Your Rights?
 
-The Law Office of Peter A. Romero deals with all types of employment law and discrimination issues. We provide representation to clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at (631) 257-5588 or [contact us online](/contact-us/) to schedule an appointment.
+The Law Office of Peter A. Romero deals with all types of employment law and discrimination issues. We provide representation to clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/) to schedule an appointment.

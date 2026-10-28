@@ -13,4 +13,4 @@ The NLRB considered the rights of a worker at Home Depot, who contended that he 
 
 ## We Can Help Protect Your Employment Rights
 
-At the Romero Law Group, PLLC, we handle a wide range of legal issues for employees in Nassau and Suffolk Counties; in Brooklyn, Queens, Manhattan and the Bronx; in Westchester; and across Northern New Jersey. We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, contact our offices online or call us at (631)257-5588.
+At the Romero Law Group, PLLC, we handle a wide range of legal issues for employees in Nassau and Suffolk Counties; in Brooklyn, Queens, Manhattan and the Bronx; in Westchester; and across Northern New Jersey. We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, contact our offices online or call us at [(631) 257-5588](tel:+16312575588).

@@ -40,4 +40,4 @@ The leave applies to spouses, domestic partners, children or parents. Leaves can
 
 ## Do You Need Assistance Protecting Your Rights to a Family-Related Leave?
 
-The Law Office of Peter A. Romero assists clients with employment law and discrimination issues. Clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan turn to us for legal help. Call us at (631) 257-5588 or [contact us online](/contact-us/) to schedule an appointment.
+The Law Office of Peter A. Romero assists clients with employment law and discrimination issues. Clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan turn to us for legal help. Call us at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/) to schedule an appointment.

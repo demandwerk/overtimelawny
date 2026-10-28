@@ -29,4 +29,4 @@ In the past, employers could leak the above information in an attempt to discred
 
 ## Do You Need Assistance With Protection Against Retaliation?
 
-The Law Office of Peter A. Romero deals with all types of employment discrimination issues. We provide representation to clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at (631) 257-5588 or [contact us online](/contact-us/) to schedule an appointment.
+The Law Office of Peter A. Romero deals with all types of employment discrimination issues. We provide representation to clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/) to schedule an appointment.

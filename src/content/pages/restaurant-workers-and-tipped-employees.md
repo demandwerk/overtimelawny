@@ -18,7 +18,7 @@ Under New York law, there are specific rules governing tipped employees:
 
 Under no condition may an employer retain any portion of an employee’s tips.
 
-We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, [contact our offices online](/restaurant-workers-and-tipped-employees/#contact) or call us at [(231) 257-5588](tel:%20231-257-5588). We can also set up consultations by teleconference.
+We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, [contact our offices online](/restaurant-workers-and-tipped-employees/#contact) or call us at [(631) 257-5588](tel:+16312575588). We can also set up consultations by teleconference.
 
 ### Overtime Pay for Tipped Employees
 

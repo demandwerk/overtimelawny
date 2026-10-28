@@ -29,4 +29,4 @@ In addition, Chipotle received $1 million in civil penalties. The settlement was
 
 ### Are You a Restaurant Industry Worker With Questions About Employment Discrimination and Violations?
 
-The Law Office of Peter A. Romero assists clients with employment law issues. Clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan turn to us for legal help. Call us at (631) 257-5588 or [contact us online](/contact-us/) to schedule an appointment.
+The Law Office of Peter A. Romero assists clients with employment law issues. Clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan turn to us for legal help. Call us at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/) to schedule an appointment.

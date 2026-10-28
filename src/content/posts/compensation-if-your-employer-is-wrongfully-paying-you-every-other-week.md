@@ -5,7 +5,7 @@ date: 2023-10-31
 ---
 ## You May Be Entitled to a Damage Award If Your Employer Is Violating the Law
 
-Do you work with your hands? Are you a manual laborer who is being paid every other week by your employer? If so, you may have the right to file a lawsuit seeking compensation, as New York law requires employers to pay “manual workers” on a weekly basis. The laws has been broadly construed to include most people who work with their hands. If you think you may qualify as a manual worker who has been wrongfully paid in the state of New York, call the Romero Law Group PLLC at (631)257-5588 to arrange a free initial consultation or send us an email.
+Do you work with your hands? Are you a manual laborer who is being paid every other week by your employer? If so, you may have the right to file a lawsuit seeking compensation, as New York law requires employers to pay “manual workers” on a weekly basis. The laws has been broadly construed to include most people who work with their hands. If you think you may qualify as a manual worker who has been wrongfully paid in the state of New York, call the Romero Law Group PLLC at [(631) 257-5588](tel:+16312575588) to arrange a free initial consultation or send us an email.
 
 ## I Was Paid My Full Wage, but Received a Paycheck Every Other Week. Can I Still Collect Damages?
 
