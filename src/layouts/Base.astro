@@ -60,7 +60,7 @@ const schema = {
   </head>
   <body>
     <a class="skip" href="#main">Skip to content</a>
-    <Header lang={lang} />
+    <Header lang={lang} alt={alternates ? (lang === 'es' ? alternates.en.pathname : alternates.es.pathname) : undefined} />
     <main id="main"><slot /></main>
     <Footer lang={lang} />
   </body>

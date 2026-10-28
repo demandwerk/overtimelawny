@@ -9,7 +9,7 @@ import ConsultForm from '../components/ConsultForm.astro';
 import Icon from '../components/Icon.astro';
 import PracticeCarousel from '../components/PracticeCarousel.astro';
 import LocationsNav from '../components/LocationsNav.astro';
-import { firm, practiceOverview, spanishHome } from '../site';
+import { firm, practiceOverview, spanishHome, translations } from '../site';
 
 export async function getStaticPaths() {
   const pages = await getCollection('pages');
@@ -43,10 +43,20 @@ const isOverview = entry.id === 'practice-areas';
 const showCarousel = showSidebar && !es && !isOverview;
 // Case and lawsuit titles on these pages are set in capitals.
 const caseList = entry.id === 'cases' || entry.id === 'current-lawsuits';
+// Link to this page's translation, when there is one.
+const path = `/${entry.id}/`;
+const otherLang = es
+  ? Object.entries(translations).find(([, esPath]) => esPath === path)?.[0]
+  : translations[path];
 ---
 <Base title={entry.data.title} description={entry.data.description} lang={lang} type={isPost ? 'article' : 'website'}>
   <PageHero title={entry.data.title} eyebrow={eyebrow} crumbs={crumbs} image={pageData?.hero} imagePosition={pageData?.heroPosition}>
     {date && <p class="meta">{fmt(date)} · {firm.name}</p>}
+    {otherLang && (
+      es
+        ? <a class="lang-switch" href={otherLang} lang="en" hreflang="en">Read in English →</a>
+        : <a class="lang-switch" href={otherLang} lang="es" hreflang="es">Leer en español →</a>
+    )}
   </PageHero>
 
   {isOverview && <PracticeCarousel eyebrow="Our practice areas" heading="Employment law for workers, start to finish." showEmployers />}
@@ -87,6 +97,8 @@ const caseList = entry.id === 'cases' || entry.id === 'current-lawsuits';
 
 <style>
   .meta { margin: 0; color: var(--muted); font-size: 0.95rem; }
+  .lang-switch { display: inline-block; margin-top: 4px; padding: 8px 16px; border: 1px solid rgb(255 255 255 / 45%); border-radius: 999px; color: #fff; font: 600 0.9rem/1.2 var(--body); text-decoration: none; }
+  .lang-switch:hover { background: #fff; color: var(--blue); }
   .body { display: grid; grid-template-columns: minmax(0, 1fr) 380px; gap: clamp(40px, 6vw, 88px); padding-top: clamp(40px, 6vw, 72px); padding-bottom: clamp(56px, 8vw, 104px); }
   .body--solo { grid-template-columns: minmax(0, 1fr); }
   .side { display: grid; gap: 16px; align-content: start; }
