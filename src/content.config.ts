@@ -6,7 +6,7 @@ const pages = defineCollection({
   schema: ({ image }) => z.object({
     title: z.string(),
     description: z.string(),
-    // practice = practice-area page (lives in practice-areas/), es = Spanish page, location = area-served page
+    // practice = practice-area page (lives in practice-areas/), es = Spanish page (lives in es/), location = area-served page
     kind: z.enum(['page', 'practice', 'location', 'es']),
     // Optional banner photo; the Manhattan skyline is used otherwise.
     hero: image().optional(),

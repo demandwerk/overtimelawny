@@ -11,20 +11,20 @@ En la oficina legal de Peter A. Romero, nuestros abogados representan a clientes
 
 ## Descripción general de las áreas de práctica
 
--   [Discriminación laboral](/discriminacion-en-el-lugar-de-trabajo)
+-   [Discriminación laboral](/es/discriminacion-laboral/)
 -   La denuncia de situaciones ilegales
--   [Acoso sexual](/acoso-sexual-en-el-lugar-de-trabajo/)
--   [Represalias](/represalias-en-el-lugar-de-trabajo/)
+-   [Acoso sexual](/es/acoso-sexual/)
+-   [Represalias](/es/represalias/)
 -   Ley de licencia médica familiar (FMLA)
--   [Discriminación por discapacidad](/discriminacion-en-el-lugar-de-trabajo/#discriminación-por-discapacidad)
+-   [Discriminación por discapacidad](/es/discriminacion-laboral/#discriminación-por-discapacidad)
 -   Derechos civiles
--   [Ambiente de trabajo hostil](/discriminacion-en-el-lugar-de-trabajo/#ambiente-de-trabajo-hostil)
+-   [Ambiente de trabajo hostil](/es/discriminacion-laboral/#ambiente-de-trabajo-hostil)
 
--   [Discriminación de género](/discriminacion-en-el-lugar-de-trabajo/#discriminación-de-género)
--   [Discriminación por edad](/discriminacion-en-el-lugar-de-trabajo/#discriminación-por-edad)
--   [Discriminación por embarazo](/discriminacion-por-embarazo/)
--   [Pago de horas adicionales de trabajo y salarios no pagados](/horas-adicionales-y-sueldos-no-pagados)
--   [Terminación injusta](/discriminacion-en-el-lugar-de-trabajo/#terminación-injusta)
+-   [Discriminación de género](/es/discriminacion-laboral/#discriminación-de-género)
+-   [Discriminación por edad](/es/discriminacion-laboral/#discriminación-por-edad)
+-   [Discriminación por embarazo](/es/discriminacion-por-embarazo/)
+-   [Pago de horas adicionales de trabajo y salarios no pagados](/es/horas-adicionales-y-sueldos-no-pagados/)
+-   [Terminación injusta](/es/discriminacion-laboral/#terminación-injusta)
 -   Acuerdos laborales
 -   Defensa del empleador
 
@@ -38,4 +38,4 @@ Peter ha superado con creces mis expectativas en cada paso del camino. Su profes
 
 ## Obtenga ayuda legal para resolver asuntos de leyes laborales
 
-Cualquiera que sea su preocupación legal con la ley laboral, nuestros abogados pueden ayudarle. El derecho laboral es el enfoque completo de nuestra práctica y tenemos años de experiencia ayudando a los clientes a resolver disputas laborales y otros problemas. Obtenga una consulta gratuita y descubra cómo podemos ayudar. Llame al [(631) 257-5588](tel:+16312575588) o [contáctenos en línea](/descripcion-general-de-las-areas-de-practica/#contact).
+Cualquiera que sea su preocupación legal con la ley laboral, nuestros abogados pueden ayudarle. El derecho laboral es el enfoque completo de nuestra práctica y tenemos años de experiencia ayudando a los clientes a resolver disputas laborales y otros problemas. Obtenga una consulta gratuita y descubra cómo podemos ayudar. Llame al [(631) 257-5588](tel:+16312575588) o [contáctenos en línea](/es/#contact).

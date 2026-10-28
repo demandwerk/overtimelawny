@@ -21,6 +21,12 @@
     { "source": "/family-medical-leave-act/", "destination": "/practice-areas/family-and-medical-leave/", "permanent": true },
     { "source": "/civil-rights/", "destination": "/practice-areas/civil-rights/", "permanent": true },
     { "source": "/employment-agreements/", "destination": "/practice-areas/employment-and-severance-agreements/", "permanent": true },
-    { "source": "/employer-defense/", "destination": "/practice-areas/employer-defense/", "permanent": true }
+    { "source": "/employer-defense/", "destination": "/practice-areas/employer-defense/", "permanent": true },
+    { "source": "/descripcion-general-de-las-areas-de-practica/", "destination": "/es/", "permanent": true },
+    { "source": "/acoso-sexual-en-el-lugar-de-trabajo/", "destination": "/es/acoso-sexual/", "permanent": true },
+    { "source": "/discriminacion-en-el-lugar-de-trabajo/", "destination": "/es/discriminacion-laboral/", "permanent": true },
+    { "source": "/discriminacion-por-embarazo/", "destination": "/es/discriminacion-por-embarazo/", "permanent": true },
+    { "source": "/horas-adicionales-y-sueldos-no-pagados/", "destination": "/es/horas-adicionales-y-sueldos-no-pagados/", "permanent": true },
+    { "source": "/represalias-en-el-lugar-de-trabajo/", "destination": "/es/represalias/", "permanent": true }
   ]
 }

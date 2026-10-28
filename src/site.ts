@@ -64,7 +64,8 @@ export const locations: { name: string; title: string; area: string; href?: stri
 ];
 nav.find((n) => n.label === 'Areas We Serve')!.children = locations.filter((l) => l.href).map((l) => ({ label: l.title, href: l.href! }));
 
-export const spanishHome = '/descripcion-general-de-las-areas-de-practica/';
+// Spanish pages live under /es/; /es/ itself is the Spanish practice-area overview.
+export const spanishHome = '/es/';
 
 // Practice-area pages live under /practice-areas/<slug>/.
 export const practiceOverview = '/practice-areas/';

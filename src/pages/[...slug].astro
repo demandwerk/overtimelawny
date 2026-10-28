@@ -1,6 +1,6 @@
 ---
 // Imported WordPress pages and blog posts live at /<slug>/, as before;
-// practice-area pages live at /practice-areas/<slug>/.
+// practice-area pages live at /practice-areas/<slug>/ and Spanish pages at /es/<slug>/.
 import { getCollection, render } from 'astro:content';
 import type { ImageMetadata } from 'astro';
 import Base from '../layouts/Base.astro';
@@ -9,7 +9,7 @@ import ConsultForm from '../components/ConsultForm.astro';
 import Icon from '../components/Icon.astro';
 import PracticeCarousel from '../components/PracticeCarousel.astro';
 import LocationsNav from '../components/LocationsNav.astro';
-import { firm, practiceOverview } from '../site';
+import { firm, practiceOverview, spanishHome } from '../site';
 
 export async function getStaticPaths() {
   const pages = await getCollection('pages');
@@ -30,7 +30,7 @@ const fmt = (d: Date) => d.toLocaleDateString('en-US', { month: 'long', day: 'nu
 
 const eyebrow = { practice: 'Practice area', location: 'Areas we serve', es: 'Abogados laborales', page: undefined, post: 'Blog' }[kind];
 const crumbs = es
-  ? [{ label: 'Inicio', href: '/' }, { label: 'Áreas de práctica', href: '/descripcion-general-de-las-areas-de-practica/' }]
+  ? [{ label: 'Inicio', href: '/' }, { label: 'Áreas de práctica', href: spanishHome }]
   : isPost
     ? [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog/' }]
     : kind === 'practice'

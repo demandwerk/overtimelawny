@@ -26,7 +26,7 @@ En todo el estado de Nueva York y también en todo el país, la discriminación 
 -   Registro de arresto o condena
 -   Condición de víctima de violencia doméstica, acoso y delitos sexuales
 
-Los empleados también reciben protección legal contra [represalias](/represalias-en-el-lugar-de-trabajo/) por presentar un reclamo, participar en una investigación o testificar en una demanda que se ocupa de la discriminación.
+Los empleados también reciben protección legal contra [represalias](/es/represalias/) por presentar un reclamo, participar en una investigación o testificar en una demanda que se ocupa de la discriminación.
 
 ## Discriminación por discapacidad en el lugar de trabajo
 
@@ -67,4 +67,4 @@ La discriminación por edad en el lugar de trabajo ocurre cuando los empleados q
 
 ## Aproveche nuestra experiencia con la ley de discriminación laboral
 
-Permítanos ayudarle a proteger sus derechos y buscar justicia, ya sea bajo la ley federal, estatal o de la ciudad de Nueva York. Representamos a clientes en Long Island, Westchester, Brooklyn, Queens, Manhattan, el Bronx y el norte de Nueva Jersey. Llame a nuestra oficina al [(631) 257-5588](tel:+16312575588) o [contáctenos en línea](/discriminacion-en-el-lugar-de-trabajo/#contact) para programar una consulta gratuita.
+Permítanos ayudarle a proteger sus derechos y buscar justicia, ya sea bajo la ley federal, estatal o de la ciudad de Nueva York. Representamos a clientes en Long Island, Westchester, Brooklyn, Queens, Manhattan, el Bronx y el norte de Nueva Jersey. Llame a nuestra oficina al [(631) 257-5588](tel:+16312575588) o [contáctenos en línea](/es/discriminacion-laboral/#contact) para programar una consulta gratuita.
