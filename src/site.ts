@@ -67,6 +67,17 @@ nav.find((n) => n.label === 'Areas We Serve')!.children = locations.filter((l) =
 // Spanish pages live under /es/; /es/ itself is the Spanish practice-area overview.
 export const spanishHome = '/es/';
 
+// English page → its Spanish translation. Both sides get hreflang links to
+// each other; add a pair here when a new Spanish page is published.
+export const translations: Record<string, string> = {
+  '/practice-areas/': '/es/',
+  '/practice-areas/sexual-harassment/': '/es/acoso-sexual/',
+  '/practice-areas/employment-discrimination/': '/es/discriminacion-laboral/',
+  '/practice-areas/pregnancy-discrimination/': '/es/discriminacion-por-embarazo/',
+  '/practice-areas/overtime-and-unpaid-wages/': '/es/horas-adicionales-y-sueldos-no-pagados/',
+  '/practice-areas/retaliation/': '/es/represalias/',
+};
+
 // Practice-area pages live under /practice-areas/<slug>/.
 export const practiceOverview = '/practice-areas/';
 export const practiceHref = (slug: string) => `${practiceOverview}${slug}/`;
