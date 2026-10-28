@@ -7,15 +7,11 @@ kind: page
 
 Romero Law Group PLLC represents employees across New York City, Long Island, Westchester and the Hudson Valley, and northern New Jersey. We have offices in Manhattan and in Hauppauge on Long Island, and we meet clients by phone or video wherever they work.
 
-### [New York State](/areas-we-serve/new-york/)
-
-Employment claims under New York State law, wherever you work in the state.
-
 ### [Long Island](/areas-we-serve/long-island/)
 
 Nassau and Suffolk Counties.
 
-### New York City
+### [New York City](/areas-we-serve/new-york/)
 
 Manhattan, Brooklyn, Queens and the Bronx, served from our Manhattan office.
 
