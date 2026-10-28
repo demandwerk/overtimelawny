@@ -35,7 +35,7 @@ New York Labor Law § 740 and § 741 protect employees who report substantial an
   <blockquote>
     <p>After some investigating online I found Peter Romero, I contacted him immediately and was able to meet face to face the next day. He took the time to listen to what I had been dealing with at my job that I had quit the previous day. Mr. Romero took all my information and explained everything possible. After keeping me informed of all the updates, and always replying to me, he was able to get a 15% increase from what the judge originally offered as a settlement. What happened to me at my previous place of employment shouldn't ever happen to anyone, but Mr. Romero helped me find contribution and justice, for which I will always be grateful.</p>
   </blockquote>
-  <figcaption><span><strong>Anonymous</strong> · February 20, 2018</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Verify on Avvo ↗</a></figcaption>
+  <figcaption><span><strong>Anonymous</strong> · February 20, 2018</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
 ## Consult With an Experienced Whistleblower Lawyer

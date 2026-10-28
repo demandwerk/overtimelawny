@@ -23,7 +23,7 @@ Having a skilled advocate who can deal with legal issues helps minimize business
   <blockquote>
     <p>I had an opportunity to face Peter a number of years ago in a contentious workplace litigation. He was a worthy opponent who fought hard for his client, while maintaining his professionalism at all times.</p>
   </blockquote>
-  <figcaption><span><strong>Steve</strong> · August 27, 2015</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Verify on Avvo ↗</a></figcaption>
+  <figcaption><span><strong>Steve</strong> · August 27, 2015</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
 ## When to Consult With an Employment Law Attorney

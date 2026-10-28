@@ -37,7 +37,7 @@ Below is a review written by one of our clients that we represented in a case in
   <blockquote>
     <p>Peter was referred by a colleague of a family member to assist me with the violations my company made under the Family And Medical Leave Act. I hired him after our first consultation where he assured me that it wasn't if I had a case it was how long this case would it take to be resolved. My priority was for an amicable solution, and Peter agreed. Within a couple of months after filing the lawsuit, the company agreed to settle out of court, and Peter negotiated the settlement to meet my requests, as well as to compensate him for his diligence. I would definitely refer him to anyone in the same situation.</p>
   </blockquote>
-  <figcaption><span><strong>Sophia</strong> · December 6, 2016 · FMLA Violations</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Verify on Avvo ↗</a></figcaption>
+  <figcaption><span><strong>Sophia</strong> · December 6, 2016 · FMLA Violations</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
 ### New York Paid Family Leave Benefit

@@ -13,6 +13,6 @@ const paragraphs = Array.isArray(quote) ? quote : [quote];
   <blockquote>{paragraphs.map((p) => <p>{p}</p>)}</blockquote>
   <figcaption>
     <span><strong>{name}</strong>{detail && <> · {detail}</>}</span>
-    <a class="review__verify" href={avvoProfile} target="_blank" rel="noopener">{lang === 'es' ? 'Ver en Avvo ↗' : 'Verify on Avvo ↗'}</a>
+    <a class="review__verify" href={avvoProfile} target="_blank" rel="noopener">{lang === 'es' ? 'Vea nuestras reseñas en Avvo ↗' : 'Check our Avvo reviews ↗'}</a>
   </figcaption>
 </figure>

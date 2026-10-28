@@ -59,7 +59,7 @@ Los reclamos por represalias pueden presentarse bajo diferentes leyes, dependien
     <p>El abogado envió una carta a mi empresa y aun se negaron a reconocer mi reclamo. Luego presenté una demanda y logramos resolver el caso.</p>
     <p>Tengo el mayor respeto por el Sr. Romero.</p>
   </blockquote>
-  <figcaption><span><strong>Anónimo</strong> · 20 de noviembre de 2019</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Ver en Avvo ↗</a></figcaption>
+  <figcaption><span><strong>Anónimo</strong> · 20 de noviembre de 2019</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Vea nuestras reseñas en Avvo ↗</a></figcaption>
 </figure>
 
 ## Consulte con un abogado laboral especialista en represalias

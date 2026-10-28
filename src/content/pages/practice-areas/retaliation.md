@@ -57,7 +57,7 @@ Retaliation claims may be brought under different laws, depending on the circums
     <p>He sent a letter to my company and they still said no. I then filed a lawsuit and we managed to settle the case.</p>
     <p>I have the highest respect for Mr. Romero.</p>
   </blockquote>
-  <figcaption><span><strong>Anonymous</strong> · November 20, 2019</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Verify on Avvo ↗</a></figcaption>
+  <figcaption><span><strong>Anonymous</strong> · November 20, 2019</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
 ## Statute of Limitations for Retaliation

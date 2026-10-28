@@ -36,7 +36,7 @@ En la oficina legal de Peter A. Romero, nuestros abogados representan a clientes
   <blockquote>
     <p>Peter ha superado con creces mis expectativas en cada paso del camino. Su profesionalismo y capacidad de respuesta no dejaron nada que desear. Realmente aprecio la forma en que habló con honestidad y consideración sobre las fortalezas y debilidades de mi caso. También estableció claramente expectativas con respecto al proceso de arbitraje que estábamos obligados a seguir, según la política de mi antiguo empleador. Con su guía, pudimos llegar con éxito a una resolución que me dejó con la sensación de estar reivindicada. No pude pedir más. Muchas gracias.</p>
   </blockquote>
-  <figcaption><span><strong>Anónimo</strong> · 15 de febrero de 2018</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Ver en Avvo ↗</a></figcaption>
+  <figcaption><span><strong>Anónimo</strong> · 15 de febrero de 2018</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Vea nuestras reseñas en Avvo ↗</a></figcaption>
 </figure>
 
 ## Obtenga ayuda legal para resolver asuntos de leyes laborales

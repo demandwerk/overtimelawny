@@ -22,7 +22,7 @@ A severance agreement, also sometimes called a separation agreement, is a bindin
   <blockquote>
     <p>I was "down-sized" by a Long Island company. Disappointed by the settlement amount offered I contacted Peter Romero Esq. Peter Romero is proficient, professional and has a pleasant person manner. He is also effective—very effective! As a result of his negotiations the settlement amount was doubled. So I received twice the dollar amount originally offered to me!</p>
   </blockquote>
-  <figcaption><span><strong>Michael</strong> · Amityville, New York · March 2016 · Separation Settlement</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Verify on Avvo ↗</a></figcaption>
+  <figcaption><span><strong>Michael</strong> · Amityville, New York · March 2016 · Separation Settlement</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
 ## Consult With an Experienced Employment Law Attorney

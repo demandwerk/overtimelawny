@@ -17,7 +17,7 @@ At Romero Law Group, PLLC, our attorneys represent clients in a broad scope of e
   <blockquote>
     <p>Peter has far exceeded my expectations every step of the way. His professionalism and responsiveness left nothing to be desired. I truly appreciate the way he honestly and considerately discussed the strengths and weaknesses of my case. He also clearly set expectations regarding the arbitration process we were bound to follow, based on the policy of my former employer. With his guidance, we were successfully able to arrive at a resolution that left me with a sense of being vindicated. I couldn't ask for more. Many thanks.</p>
   </blockquote>
-  <figcaption><span><strong>Anonymous</strong> · February 15, 2018</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Verify on Avvo ↗</a></figcaption>
+  <figcaption><span><strong>Anonymous</strong> · February 15, 2018</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
 ## Get Legal Help With Employment Law Issues

@@ -68,7 +68,7 @@ At Romero Law Group, PLLC, our civil rights lawyers have successfully represente
   <blockquote>
     <p>Peter is an excellent attorney with a compassionate side and complete understanding for your emotions as well as a thorough knowledge of law and best course of action. Always available! He totally helped me wrong a right! Peter helped me with a lawsuit against a large company for discrimination in employment in violation of Section 1981 of the Civil Rights Act of 1866, 42 U.S.C. § 1981 (“Section 1981”) and the New Jersey Law Against Discrimination (the “NJLAD”). I would use Peter again in a second!</p>
   </blockquote>
-  <figcaption><span><strong>Anonymous</strong> · August 31, 2016</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Verify on Avvo ↗</a></figcaption>
+  <figcaption><span><strong>Anonymous</strong> · August 31, 2016</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
 ## Consult With a Civil Rights Lawyer
