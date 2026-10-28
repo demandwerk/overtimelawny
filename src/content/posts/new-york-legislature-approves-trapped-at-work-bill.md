@@ -3,7 +3,7 @@ title: "New York Legislature Approves “Trapped at Work” Bill"
 description: "The New York legislature has passed a new law, referred to as the “Trapped at Work Act,” which targets a practice that some New York employers have historically used to try to hold workers financially responsible for training expenses. As in many other states, some employers in New York have…"
 date: 2025-06-22
 ---
-## Proposed Legislation Would Ban Certain Types of Promissory Notes from Workers
+## Proposed Legislation Would Ban Certain Types of Promissory Notes From Workers
 
 The New York legislature has passed a new law, referred to as the “Trapped at Work Act,” which targets a practice that some New York employers have historically used to try to hold workers financially responsible for training expenses. As in many other states, some employers in New York have required that new hires sign a promissory note related to the costs of training, with repayment waived if the employee stays with the company for a certain period of time. Though both houses of the New York state legislature have tentatively passed the new law, it has not yet been sent to Governor Kathy Hochul for her signature, though sponsors expect to do that by the end of the calendar year.
 

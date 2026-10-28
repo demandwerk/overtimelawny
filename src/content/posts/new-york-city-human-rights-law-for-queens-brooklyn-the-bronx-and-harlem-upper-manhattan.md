@@ -1,5 +1,5 @@
 ---
-title: "New York City Human Rights Law for Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan"
+title: "New York City Human Rights Law for Queens, Brooklyn, the Bronx and Harlem/Upper Manhattan"
 description: "The New York City Human Rights Law (NYCHRL) prohibits discrimination against protected classes. In terms of offering protection to a greater number of protected classes, the NYCHRL is extensive. It has a broader legal scope than federal or state…"
 date: 2021-06-29
 ---
@@ -7,11 +7,11 @@ date: 2021-06-29
 
 The New York City Human Rights Law (NYCHRL) prohibits discrimination against protected classes. In terms of offering protection to a greater number of protected classes, the NYCHRL is extensive. It has a broader legal scope than federal or state law.
 
-## What are protected classes?
+## What Are Protected Classes?
 
 Protected classes are categories of individuals who receive protection against discrimination. Common characteristics define the classes. However, exceptions exist where employers may consider an individual's membership in a protected class. This is especially true for occupational qualifications. For example, the role in an acting script may call for a young adult. Under such circumstances, the employer would not be discriminating if failing to consider actors who are age 40 and older.
 
-## What are the protected classes under NYCHRL?
+## What Are the Protected Classes Under NYCHRL?
 
 NYC has one of the most comprehensive human rights laws in the country. Under the [NYCHRL](https://www1.nyc.gov/site/cchr/law/the-law.page), protected classes include:
 

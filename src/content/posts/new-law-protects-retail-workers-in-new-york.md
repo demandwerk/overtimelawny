@@ -3,7 +3,7 @@ title: "New Law Protects Retail Workers in New York"
 description: ""
 date: 2024-10-07
 ---
-## Recently Enacted Retail Worker Safety Act Goes into Effect in 2025
+## Recently Enacted Retail Worker Safety Act Goes Into Effect in 2025
 
 The New York Legislature has passed a new law designed, in part, to minimize the risk of workplace violence. The Retail Worker Safety Act, modeled on similar legislation in California, was signed into law on September 4, 2024, and becomes effective on March 3, 2025.
 

@@ -3,7 +3,7 @@ title: "How to Recognize the Signs of Retaliation in the Workplace"
 description: "What is retaliation in the workplace? It occurs when an employer takes adverse action against an employee but has no legal right to do so. An example would be a situation where an employee has filed a discrimination claim, taken part in a discrimination investigation or otherwise opposed…"
 date: 2021-11-17
 ---
-## Are you a victim of workplace retaliation?
+## Are You a Victim of Workplace Retaliation?
 
 What is retaliation in the workplace? It occurs when an employer takes adverse action against an employee but has no legal right to do so. An example would be a situation where an employee has filed a discrimination claim, taken part in a discrimination investigation or otherwise opposed discrimination. If in response, the employer harasses, demotes or fires the employee, it would be retaliation.
 

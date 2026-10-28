@@ -3,7 +3,7 @@ title: "How COVID-19 Vaccines Relate to Employment Law"
 description: "The Equal Employment Opportunity Commission (EEOC)(https://www.insurancejournal.com/news/national/2020/12/16/594252.htm) has established certain guidelines that apply regarding how COVID-19 vaccines relate to employment law. It is understandable that employers want to create a safe work environment…"
 date: 2020-12-24
 ---
-## What are you_r_ employment rights regarding the coronavirus vaccine?
+## What Are Your Employment Rights Regarding the Coronavirus Vaccine?
 
 ![How COVID-19 Vaccines Relate to Employment Law](/wp-content/uploads/2020/12/peter-romero-covid-19-300x200.jpg)How COVID-19 vaccines relate to employment law is an emerging concern that many employers and employees will have attention on during the upcoming months. Situations will exist where some employers require vaccination. If you do not want to be vaccinated based on a disability or a religious belief, practice or observance, what happens? What are your rights under the ADA or civil rights laws?
 

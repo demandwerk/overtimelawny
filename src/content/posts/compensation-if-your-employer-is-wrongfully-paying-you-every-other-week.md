@@ -1,5 +1,5 @@
 ---
-title: "Compensation If Your Employer is Wrongfully Paying You Every Other Week"
+title: "Compensation If Your Employer Is Wrongfully Paying You Every Other Week"
 description: "Do you work with your hands? Are you a manual laborer who is being paid every other week by your employer? If so, you may have the right to file a lawsuit seeking compensation, as New York law requires employers to pay “manual workers” on a weekly basis. The laws has been broadly construed to…"
 date: 2023-10-31
 ---
@@ -7,7 +7,7 @@ date: 2023-10-31
 
 Do you work with your hands? Are you a manual laborer who is being paid every other week by your employer? If so, you may have the right to file a lawsuit seeking compensation, as New York law requires employers to pay “manual workers” on a weekly basis. The laws has been broadly construed to include most people who work with their hands. If you think you may qualify as a manual worker who has been wrongfully paid in the state of New York, call the Romero Law Group PLLC at (631)257-5588 to arrange a free initial consultation or send us an email.
 
-## I Was Paid My Full Wage, But Received a Paycheck Every Other Week. Can I Still Collect Damages?
+## I Was Paid My Full Wage, but Received a Paycheck Every Other Week. Can I Still Collect Damages?
 
 Yes. As the law is written, even if you received your regular pay, you may still be able to recover a sum equal to all of the wages you earned, for a period of up to six years.
 

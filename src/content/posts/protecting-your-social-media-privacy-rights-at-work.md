@@ -3,11 +3,11 @@ title: "Protecting Your Social Media Privacy Rights at Work"
 description: "The provisions of the law protect job applicants, as well as current employees. An employer may not engage in any retaliatory action against a worker or applicant for refusal to comply with a prohibited request. The amendments do not apply to personal social media information voluntarily given to…"
 date: 2024-04-16
 ---
-## New York Enacts Law Prohibiting Employers from Wrongful Access
+## New York Enacts Law Prohibiting Employers From Wrongful Access
 
 Recognizing that employers may wrongfully use an applicant or employee’s personal social media activity against a worker, New York has joined a number of other states across the country by enacting specific legislation protecting the privacy rights of employees and job seekers. Signed earlier this year by Governor Kathy Hochul, the amendments to the New York Labor Law went into effect on March 12, 2024. The amendments target personal social media activity, defined as “accounts or profiles on an electronic medium where users may create, share and view user-generated content.” The amendments apply to most employers, other than police, fire and corrections departments, and community supervision agencies.
 
-## What Do the Amendments Prevent Your Employer from Doing?
+## What Do the Amendments Prevent Your Employer From Doing?
 
 Under the revisions to the New York Labor Law, your employer cannot:
 

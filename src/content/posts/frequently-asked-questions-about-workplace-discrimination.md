@@ -1,5 +1,5 @@
 ---
-title: "Frequently Asked Questions about Workplace Discrimination"
+title: "Frequently Asked Questions About Workplace Discrimination"
 description: ""
 date: 2024-07-06
 ---
@@ -11,7 +11,7 @@ You spend about a third of your adult life at work. Not everyone can have their 
 
 There are both federal and state laws that ban certain types of actions by employers. As a general rule, those laws prohibit employers from taking any type of adverse employment action based on what is legally referred to as a “suspect classification.”
 
-## What Are the Suspect Classifications that Are Commonly Recognized?
+## What Are the Suspect Classifications That Are Commonly Recognized?
 
 Under federal law, many of the suspect classifications are set forth in specific statutes:
 

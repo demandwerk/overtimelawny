@@ -3,7 +3,7 @@ title: "New York Family Leaves: Employee’s Rights"
 description: "Taking family leaves is a right that employees have through both federal and New York State…"
 date: 2022-07-21
 ---
-## What leaves are permitted for family members?
+## What Leaves Are Permitted for Family Members?
 
 Taking family leaves is a right that employees have through both federal and New York State laws.
 
@@ -38,6 +38,6 @@ When your spouse is engaged in active service in a foreign country or has receiv
 
 The leave applies to spouses, domestic partners, children or parents. Leaves can last up to 12 weeks. Pay received for the family leave is at 67 percent of your pay. (Caps apply.) (References: [NY Employment Law Handbook](https://www.employmentlawhandbook.com/employment-and-labor-laws/states/new-york/leave-laws/#sick-leave), [Military Family Support Leave](https://paidfamilyleave.ny.gov/paid-family-leave-military-families))
 
-## Do you need assistance protecting your rights to a family-related leave?
+## Do You Need Assistance Protecting Your Rights to a Family-Related Leave?
 
 The Law Office of Peter A. Romero assists clients with employment law and discrimination issues. Clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan turn to us for legal help. Call us at (631) 257-5588 or [contact us online](/contact-us/) to schedule an appointment.

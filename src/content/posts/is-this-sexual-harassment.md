@@ -3,7 +3,7 @@ title: "Is This Sexual Harassment?"
 description: "Sexual harassment in the workplace remains a serious problem in New York and across the United States, even in the wake of story after story about inappropriate behavior on the job. There’s a common misperception, though, that it’s only sexual harassment when there’s a clear offer of a benefit in…"
 date: 2025-08-19
 ---
-## Actions that You Might Not Realize Qualify as Sexual Harassment
+## Actions That You Might Not Realize Qualify as Sexual Harassment
 
 Sexual harassment in the workplace remains a serious problem in New York and across the United States, even in the wake of story after story about inappropriate behavior on the job. There’s a common misperception, though, that it’s only sexual harassment when there’s a clear offer of a benefit in exchange for sexual favors or a threat of some type of work-based punishment for failure to provide sex. Here’s a quick quiz—which of the following actions can be the basis for a legal claim of [sexual harassment](/sexual-harassment/)?
 

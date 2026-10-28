@@ -7,7 +7,7 @@ date: 2025-11-25
 
 Under current law, the minimum wage for workers in New York City is $16.50 per hour, more than twice the federal $7.25 per hour. If mayor-elect Zohran Mamdani is able to successfully implement his agenda, that figure will increase incrementally over the next five years, rising to $30 per hour by 2030. After that, the minimum wage will be subject to automatic increases based on the greater of the increase in the cost of living or the increase in productivity.
 
-## How Will the Minimum Wage Increase under the Mamdani Plan?
+## How Will the Minimum Wage Increase Under the Mamdani Plan?
 
 Under Mamdani’s proposal, the first increase in the minimum wage will take place at the beginning of 2027, rising to $20 per hour. Annual adjustments will subsequently be made as follows:
 

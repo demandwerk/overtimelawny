@@ -3,7 +3,7 @@ title: "Paid Leave Now Available in New York for Prenatal Needs"
 description: ""
 date: 2025-01-31
 ---
-## New York Law Allows Expectant Mothers Paid Time Off from Work for Prenatal Care
+## New York Law Allows Expectant Mothers Paid Time Off From Work for Prenatal Care
 
 New York has once again been the standard bearer for improving the lives and rights of workers, with the enactment and implementation of a new law to provide paid leave benefits to expectant women. The law, which went into effect on January 15, 2025, applies to employers of any size in the private sector. It mandates 20 hours of paid leave for pregnant women at any time during their pregnancy. The law provides coverage to women who are part-time, as well as those who are considered to be exempt employees for the purposes of overtime.
 

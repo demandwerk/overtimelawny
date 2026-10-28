@@ -3,11 +3,11 @@ title: "NYS Work Schedule Rights for Employees"
 description: "Special laws apply to minors, individuals younger than 18 years of age. However, for working adults, the NYS Department of Labor(https://dol.ny.gov/wages-and-hours-frequently-asked-questions) sets no limitations on the…"
 date: 2022-06-14
 ---
-## What work schedule rights do you have?
+## What Work Schedule Rights Do You Have?
 
 Work schedule rights for employees fall under NY State laws. As an employee, you may wonder what your rights are regarding work schedules.
 
-## Employees Rights under NYS Laws
+## Employees Rights Under NYS Laws
 
 Special laws apply to minors, individuals younger than 18 years of age. However, for working adults, the [NYS Department of Labor](https://dol.ny.gov/wages-and-hours-frequently-asked-questions) sets no limitations on the following:
 
@@ -51,6 +51,6 @@ In any calendar year, employers with five to 99 employers must provide employees
 
 In New York City, workers in the fast food industry have additional rights. They must receive regular schedules that remain the same each week. The employer must provide them with their schedule 14 days in advance. They must pay workers premiums if the schedule changes or they schedule a clopening. (A clopening is a schedule where the worker closes and has to open the next day.) Employees have the right to refuse extra work or clopenings. Employers cannot reduce the workers hours more than 15% without a legitimate business reason or just cause. As hours are available, laid off employees have the right to work reinstatement based on seniority.
 
-## Do you need assistance protecting your rights?
+## Do You Need Assistance Protecting Your Rights?
 
 The Law Office of Peter A. Romero deals with all types of employment law and discrimination issues. We provide representation to clients throughout NYC, including in Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan. Call us at (631) 257-5588 or [contact us online](/contact-us/) to schedule an appointment.
