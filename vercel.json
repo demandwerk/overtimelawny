@@ -7,6 +7,20 @@
     { "source": "/category/:path*", "destination": "/blog/", "permanent": true },
     { "source": "/author/:path*", "destination": "/team/", "permanent": true },
     { "source": "/representative-cases/", "destination": "/cases/", "permanent": true },
-    { "source": "/wp-admin/:path*", "destination": "/", "permanent": true }
+    { "source": "/wp-admin/:path*", "destination": "/", "permanent": true },
+    { "source": "/practice-areas-employment-law-overview/", "destination": "/practice-areas/", "permanent": true },
+    { "source": "/overtime-pay-and-unpaid-wages/", "destination": "/practice-areas/overtime-and-unpaid-wages/", "permanent": true },
+    { "source": "/sexual-harassment/", "destination": "/practice-areas/sexual-harassment/", "permanent": true },
+    { "source": "/employment-discrimination/", "destination": "/practice-areas/employment-discrimination/", "permanent": true },
+    { "source": "/retaliation-in-the-workplace/", "destination": "/practice-areas/retaliation/", "permanent": true },
+    { "source": "/restaurant-workers-and-tipped-employees/", "destination": "/practice-areas/restaurant-and-tipped-workers/", "permanent": true },
+    { "source": "/pregnancy-discrimination/", "destination": "/practice-areas/pregnancy-discrimination/", "permanent": true },
+    { "source": "/gender-discrimination/", "destination": "/practice-areas/gender-discrimination/", "permanent": true },
+    { "source": "/womens-rights/", "destination": "/practice-areas/womens-rights/", "permanent": true },
+    { "source": "/whistleblower/", "destination": "/practice-areas/whistleblower/", "permanent": true },
+    { "source": "/family-medical-leave-act/", "destination": "/practice-areas/family-and-medical-leave/", "permanent": true },
+    { "source": "/civil-rights/", "destination": "/practice-areas/civil-rights/", "permanent": true },
+    { "source": "/employment-agreements/", "destination": "/practice-areas/employment-and-severance-agreements/", "permanent": true },
+    { "source": "/employer-defense/", "destination": "/practice-areas/employer-defense/", "permanent": true }
   ]
 }

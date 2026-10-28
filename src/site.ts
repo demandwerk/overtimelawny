@@ -66,21 +66,25 @@ nav.find((n) => n.label === 'Areas We Serve')!.children = locations.filter((l) =
 
 export const spanishHome = '/descripcion-general-de-las-areas-de-practica/';
 
+// Practice-area pages live under /practice-areas/<slug>/.
+export const practiceOverview = '/practice-areas/';
+export const practiceHref = (slug: string) => `${practiceOverview}${slug}/`;
+
 // Order here is the order on the homepage grid. Employer defense is listed
 // last because the firm's focus is employees.
 export const practiceAreas = [
-  { slug: 'overtime-pay-and-unpaid-wages', title: 'Overtime & Unpaid Wages', blurb: 'Missing overtime, off-the-clock work, misclassification and late pay. New York lets you recover up to six years of unpaid wages.' },
+  { slug: 'overtime-and-unpaid-wages', title: 'Overtime & Unpaid Wages', blurb: 'Missing overtime, off-the-clock work, misclassification and late pay. New York lets you recover up to six years of unpaid wages.' },
   { slug: 'sexual-harassment', title: 'Sexual Harassment', blurb: 'Unwanted advances, comments, contact or a hostile environment based on sex. You do not have to put up with it to keep your job.' },
   { slug: 'employment-discrimination', title: 'Employment Discrimination', blurb: 'Age, race, disability, religion, national origin and more. Unfair firing, demotion, pay or treatment because of who you are.' },
-  { slug: 'retaliation-in-the-workplace', title: 'Retaliation', blurb: 'Punished for complaining, reporting discrimination or taking part in an investigation? Retaliation is its own violation of the law.' },
-  { slug: 'restaurant-workers-and-tipped-employees', title: 'Restaurant & Tipped Workers', blurb: 'Minimum wage, tip theft, illegal tip pools, spread-of-hours pay and overtime for kitchen, floor and delivery staff.' },
+  { slug: 'retaliation', title: 'Retaliation', blurb: 'Punished for complaining, reporting discrimination or taking part in an investigation? Retaliation is its own violation of the law.' },
+  { slug: 'restaurant-and-tipped-workers', title: 'Restaurant & Tipped Workers', blurb: 'Minimum wage, tip theft, illegal tip pools, spread-of-hours pay and overtime for kitchen, floor and delivery staff.' },
   { slug: 'pregnancy-discrimination', title: 'Pregnancy Discrimination', blurb: 'Employers cannot fire, demote or refuse to accommodate you because of pregnancy, childbirth or related conditions.' },
   { slug: 'gender-discrimination', title: 'Gender Discrimination', blurb: 'Unequal pay, passed-over promotions and limited advancement because of gender.' },
   { slug: 'womens-rights', title: "Women's Rights", blurb: 'Equal pay disputes, unfair hiring and promotion practices, harassment and pregnancy discrimination.' },
   { slug: 'whistleblower', title: 'Whistleblower', blurb: 'Protection for employees who report fraud, corruption, safety violations or other wrongdoing by their employer.' },
-  { slug: 'family-medical-leave-act', title: 'Family & Medical Leave', blurb: 'Up to 12 weeks of job-protected leave for your own or a family member’s serious health condition.' },
+  { slug: 'family-and-medical-leave', title: 'Family & Medical Leave', blurb: 'Up to 12 weeks of job-protected leave for your own or a family member’s serious health condition.' },
   { slug: 'civil-rights', title: 'Civil Rights', blurb: 'Federal, state and New York City laws that protect workers from discrimination based on protected characteristics.' },
-  { slug: 'employment-agreements', title: 'Employment & Severance Agreements', blurb: 'Review and negotiation of employment contracts, non-competes and severance packages before you sign.' },
+  { slug: 'employment-and-severance-agreements', title: 'Employment & Severance Agreements', blurb: 'Review and negotiation of employment contracts, non-competes and severance packages before you sign.' },
   { slug: 'employer-defense', title: 'Employer Counsel', blurb: 'Guidance for employers on handbooks, policies, dispute resolution and litigation avoidance.' },
 ];
 
@@ -168,6 +172,6 @@ export const team = [
 ];
 
 nav.find((n) => n.label === 'Practice Areas')!.children = [
-  { label: 'All practice areas', href: '/practice-areas-employment-law-overview/' },
-  ...practiceAreas.map((p) => ({ label: p.title, href: `/${p.slug}/` })),
+  { label: 'All practice areas', href: practiceOverview },
+  ...practiceAreas.map((p) => ({ label: p.title, href: practiceHref(p.slug) })),
 ];

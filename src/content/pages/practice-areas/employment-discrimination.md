@@ -27,7 +27,7 @@ Throughout the State of New York and also nationwide, employee discrimination an
 -   Arrest or conviction record
 -   Status as a victim of domestic violence, stalking and sex offenses
 
-Employees also receive legal protection against [retaliation](/retaliation-in-the-workplace/) for filing a claim, participating in an investigation or testifying in lawsuit that deals with discrimination.
+Employees also receive legal protection against [retaliation](/practice-areas/retaliation/) for filing a claim, participating in an investigation or testifying in lawsuit that deals with discrimination.
 
 ## Disability Discrimination in the Workplace
 
@@ -68,4 +68,4 @@ Age discrimination in the workplace occurs when employees, who are age 40 or old
 
 ## Take Advantage of Our Experience With Employment Discrimination Law
 
-Let us help you protect your rights and seek justice, whether under federal, New York State or New York City law. We represent clients on Long Island, and in Westchester, Brooklyn, Queens, Manhattan, the Bronx, and Northern New Jersey. Call our office at [(631) 257-5588](tel:+16312575588) or [contact us online](/employment-discrimination/#contact) to arrange a free consultation.
+Let us help you protect your rights and seek justice, whether under federal, New York State or New York City law. We represent clients on Long Island, and in Westchester, Brooklyn, Queens, Manhattan, the Bronx, and Northern New Jersey. Call our office at [(631) 257-5588](tel:+16312575588) or [contact us online](/practice-areas/employment-discrimination/#contact) to arrange a free consultation.

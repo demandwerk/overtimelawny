@@ -5,7 +5,7 @@ date: 2025-08-19
 ---
 ## Actions That You Might Not Realize Qualify as Sexual Harassment
 
-Sexual harassment in the workplace remains a serious problem in New York and across the United States, even in the wake of story after story about inappropriate behavior on the job. There’s a common misperception, though, that it’s only sexual harassment when there’s a clear offer of a benefit in exchange for sexual favors or a threat of some type of work-based punishment for failure to provide sex. Here’s a quick quiz—which of the following actions can be the basis for a legal claim of [sexual harassment](/sexual-harassment/)?
+Sexual harassment in the workplace remains a serious problem in New York and across the United States, even in the wake of story after story about inappropriate behavior on the job. There’s a common misperception, though, that it’s only sexual harassment when there’s a clear offer of a benefit in exchange for sexual favors or a threat of some type of work-based punishment for failure to provide sex. Here’s a quick quiz—which of the following actions can be the basis for a legal claim of [sexual harassment](/practice-areas/sexual-harassment/)?
 
 -   Repeatedly asking a co-worker for a date, even though you’ve been turned down in the past
 -   Physically blocking a person’s path while at work, forcing them to either go around you or have contact with you

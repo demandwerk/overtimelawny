@@ -17,7 +17,7 @@ Si tiene una condición médica que resulta en una discapacidad por causa del em
 
 ## La Ley de Licencia Médica Familiar (FMLA) para el embarazo
 
-The [La Ley de Licencia Médica Familiar (FMLA)](/family-medical-leave-act/) es una ley federal que permite a los empleados que han trabajado durante un año en una empresa con 50 empleados o más tomar una licencia por el embarazo. Según la FMLA, los empleadores deben permitir a los empleados 12 semanas de licencia no remunerada con protección laboral por año. Una mujer puede tomar la licencia después del parto y mientras cuida a un bebé menor de un año.
+The [La Ley de Licencia Médica Familiar (FMLA)](/practice-areas/family-and-medical-leave/) es una ley federal que permite a los empleados que han trabajado durante un año en una empresa con 50 empleados o más tomar una licencia por el embarazo. Según la FMLA, los empleadores deben permitir a los empleados 12 semanas de licencia no remunerada con protección laboral por año. Una mujer puede tomar la licencia después del parto y mientras cuida a un bebé menor de un año.
 
 Cuando una trabajadora embarazada puede trabajar sin poner en peligro su salud, es ilegal que un empleador reduzca sus horas de trabajo o su base de clientes.
 

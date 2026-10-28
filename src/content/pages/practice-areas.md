@@ -19,4 +19,4 @@ Peter has far exceeded my expectations every step of the way. His professionalis
 
 ## Get Legal Help With Employment Law Issues
 
-Whatever your legal concern is with employment law, our attorneys can help. Employment law is the entire focus of our practice and we have years of experience helping clients resolve employment disputes and other issues. Arrange a free consultation and find out how we can help. Call [(631) 257-5588](tel:+16312575588) or [contact us online](/practice-areas-employment-law-overview/#contact).
+Whatever your legal concern is with employment law, our attorneys can help. Employment law is the entire focus of our practice and we have years of experience helping clients resolve employment disputes and other issues. Arrange a free consultation and find out how we can help. Call [(631) 257-5588](tel:+16312575588) or [contact us online](/practice-areas/#contact).

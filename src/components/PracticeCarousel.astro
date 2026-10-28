@@ -3,7 +3,7 @@
 // the work, so it responds to touch, trackpads and the keyboard; the arrow
 // buttons and progress bar are enhancements. Safe to use more than once a page.
 import Icon from './Icon.astro';
-import { practiceAreas } from '../site';
+import { practiceAreas, practiceHref, practiceOverview } from '../site';
 
 interface Props {
   id?: string;
@@ -32,7 +32,7 @@ const areas = practiceAreas.filter((p) => p.slug !== 'employer-defense' && p.slu
   <ul class="carousel" aria-label="Practice areas" tabindex="0">
     {areas.map((p) => (
       <li>
-        <a class="area" href={`/${p.slug}/`}>
+        <a class="area" href={practiceHref(p.slug)}>
           <h3>{p.title}</h3>
           <p>{p.blurb}</p>
           <span class="area__more">Learn more <Icon name="arrow" /></span>
@@ -43,9 +43,9 @@ const areas = practiceAreas.filter((p) => p.slug !== 'employer-defense' && p.slu
   <div class="wrap carousel__foot">
     <div class="carousel__progress" aria-hidden="true"><span></span></div>
     {showEmployers && (
-      <p class="employers">Are you an employer? We also advise businesses on handbooks, policies and dispute resolution. <a href="/employer-defense/">Employer counsel →</a></p>
+      <p class="employers">Are you an employer? We also advise businesses on handbooks, policies and dispute resolution. <a href={practiceHref('employer-defense')}>Employer counsel →</a></p>
     )}
-    {!showEmployers && <a class="all" href="/practice-areas-employment-law-overview/">All practice areas →</a>}
+    {!showEmployers && <a class="all" href={practiceOverview}>All practice areas →</a>}
   </div>
 </section>
 

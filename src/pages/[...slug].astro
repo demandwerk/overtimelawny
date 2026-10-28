@@ -1,5 +1,6 @@
 ---
-// Every imported WordPress page and blog post lives at /<slug>/, as before.
+// Imported WordPress pages and blog posts live at /<slug>/, as before;
+// practice-area pages live at /practice-areas/<slug>/.
 import { getCollection, render } from 'astro:content';
 import type { ImageMetadata } from 'astro';
 import Base from '../layouts/Base.astro';
@@ -8,7 +9,7 @@ import ConsultForm from '../components/ConsultForm.astro';
 import Icon from '../components/Icon.astro';
 import PracticeCarousel from '../components/PracticeCarousel.astro';
 import LocationsNav from '../components/LocationsNav.astro';
-import { firm } from '../site';
+import { firm, practiceOverview } from '../site';
 
 export async function getStaticPaths() {
   const pages = await getCollection('pages');
@@ -33,11 +34,11 @@ const crumbs = es
   : isPost
     ? [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog/' }]
     : kind === 'practice'
-      ? [{ label: 'Home', href: '/' }, { label: 'Practice areas', href: '/practice-areas-employment-law-overview/' }]
+      ? [{ label: 'Home', href: '/' }, { label: 'Practice areas', href: practiceOverview }]
       : [{ label: 'Home', href: '/' }];
 const pageData = isPost ? undefined : (entry.data as { hero?: ImageMetadata; heroPosition?: string });
 const showSidebar = entry.id !== 'disclaimer';
-const isOverview = entry.id === 'practice-areas-employment-law-overview';
+const isOverview = entry.id === 'practice-areas';
 // Spanish pages link to the Spanish practice pages in their own text instead.
 const showCarousel = showSidebar && !es && !isOverview;
 // Case and lawsuit titles on these pages are set in capitals.
@@ -78,7 +79,7 @@ const caseList = entry.id === 'cases' || entry.id === 'current-lawsuits';
     <PracticeCarousel
       eyebrow={kind === 'practice' ? 'Other practice areas' : 'Practice areas'}
       heading={kind === 'location' ? 'What we handle for employees in your area.' : 'How we help employees.'}
-      exclude={entry.id}
+      exclude={entry.id.replace(/^practice-areas\//, '')}
       tint
     />
   )}

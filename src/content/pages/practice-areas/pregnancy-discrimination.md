@@ -17,7 +17,7 @@ If you have a medical condition that results in a pregnancy disability, your emp
 
 ## FMLA for Pregnancy
 
-The [Family Medical Leave Act (FMLA)](/family-medical-leave-act/) is a federal law that allows employees who have worked for one year at a company with 50 or more employees to take a pregnancy leave. Under the FMLA, employers must allow employees 12 weeks of job-protected unpaid leave per year. A woman can take the leave after childbirth and while caring for an infant that is under a year old.
+The [Family Medical Leave Act (FMLA)](/practice-areas/family-and-medical-leave/) is a federal law that allows employees who have worked for one year at a company with 50 or more employees to take a pregnancy leave. Under the FMLA, employers must allow employees 12 weeks of job-protected unpaid leave per year. A woman can take the leave after childbirth and while caring for an infant that is under a year old.
 
 When a pregnant worker is able to work fulltime without endangering her health, it is illegal for an employer to reduce her work hours or cut her client base.
 
@@ -60,4 +60,4 @@ As with other employment discrimination claims, you have one-year from the last 
 
 ## Are You Facing Unfair Treatment Due to Pregnancy at Work?
 
-If you have questions or believe your employer treated you unfairly because of your pregnancy, call our office at [(631) 257-5588](tel:+16312575588) or [contact us online](/pregnancy-discrimination/#contact). We offer a free consultation to discuss your concerns with a pregnancy discrimination lawyer.
+If you have questions or believe your employer treated you unfairly because of your pregnancy, call our office at [(631) 257-5588](tel:+16312575588) or [contact us online](/practice-areas/pregnancy-discrimination/#contact). We offer a free consultation to discuss your concerns with a pregnancy discrimination lawyer.
