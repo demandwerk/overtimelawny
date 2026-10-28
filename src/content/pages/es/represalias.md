@@ -51,17 +51,16 @@ Los reclamos por represalias pueden presentarse bajo diferentes leyes, dependien
 
 ## Lo que nuestros clientes dicen
 
-### Más de lo que podría haber pedido
-
-Reseña de 5.0 estrellas en Avvo · Publicado por anónimo, 20 de noviembre de 2019
-
-Tuve un problema con la empresa para la que trabajaba. Me dijeron que me cambiarían mi estatus de trabajo de exento a  no exento. Hice algunas comprobaciones en la web y descubrí que probablemente me debían pagar horas adicionales. Mi empresa dijo que de ninguna manera. Lo pensé, busqué un abogado laboral y encontré a Peter.
-
-El abogado envió una carta a mi empresa y aun se negaron a reconocer mi reclamo. Luego presenté una demanda y logramos resolver el caso.
-
-Tengo el mayor respeto por el Sr. Romero.
-
-​
+<figure class="review">
+  <p class="review__stars" aria-label="5 de 5 estrellas">★★★★★</p>
+  <p class="review__title">Más de lo que podría haber pedido</p>
+  <blockquote>
+    <p>Tuve un problema con la empresa para la que trabajaba. Me dijeron que me cambiarían mi estatus de trabajo de exento a  no exento. Hice algunas comprobaciones en la web y descubrí que probablemente me debían pagar horas adicionales. Mi empresa dijo que de ninguna manera. Lo pensé, busqué un abogado laboral y encontré a Peter.</p>
+    <p>El abogado envió una carta a mi empresa y aun se negaron a reconocer mi reclamo. Luego presenté una demanda y logramos resolver el caso.</p>
+    <p>Tengo el mayor respeto por el Sr. Romero.</p>
+  </blockquote>
+  <figcaption><span><strong>Anónimo</strong> · 20 de noviembre de 2019</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Ver en Avvo ↗</a></figcaption>
+</figure>
 
 ## Consulte con un abogado laboral especialista en represalias
 

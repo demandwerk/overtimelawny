@@ -48,11 +48,14 @@ La ley laboral de NY prohíbe a los empleadores discriminar a las mujeres que op
 
 ## Lo que nuestros clientes dicen
 
-### Peter Romero es de primera
-
-Reseña de 5.0 estrellas en Avvo · Publicado por anónimo, 15 de febrero de 2018
-
-Peter ha superado con creces mis expectativas en cada paso del camino. Su profesionalismo y capacidad de respuesta no dejaron nada que desear. Realmente aprecio la forma en que habló con honestidad y consideración sobre las fortalezas y debilidades de mi caso. También estableció claramente expectativas con respecto al proceso de arbitraje que estábamos obligados a seguir, según la política de mi antiguo empleador. Con su guía, pudimos llegar con éxito a una resolución que me dejó con la sensación de estar reivindicada. No pude pedir más. Muchas gracias.
+<figure class="review">
+  <p class="review__stars" aria-label="5 de 5 estrellas">★★★★★</p>
+  <p class="review__title">Peter Romero es de primera</p>
+  <blockquote>
+    <p>Peter ha superado con creces mis expectativas en cada paso del camino. Su profesionalismo y capacidad de respuesta no dejaron nada que desear. Realmente aprecio la forma en que habló con honestidad y consideración sobre las fortalezas y debilidades de mi caso. También estableció claramente expectativas con respecto al proceso de arbitraje que estábamos obligados a seguir, según la política de mi antiguo empleador. Con su guía, pudimos llegar con éxito a una resolución que me dejó con la sensación de estar reivindicada. No pude pedir más. Muchas gracias.</p>
+  </blockquote>
+  <figcaption><span><strong>Anónimo</strong> · 15 de febrero de 2018</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Ver en Avvo ↗</a></figcaption>
+</figure>
 
 ## Plazo límite de reclamos legales para presentar un reclamo por discriminación por el embarazo
 

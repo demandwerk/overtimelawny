@@ -105,6 +105,9 @@ export const practiceAreas = [
   { slug: 'employer-defense', title: 'Employer Counsel', blurb: 'Guidance for employers on handbooks, policies, dispute resolution and litigation avoidance.' },
 ];
 
+// Peter Romero's Avvo profile, where every client review on the site can be checked.
+export const avvoProfile = 'https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html';
+
 export const testimonials = [
   {
     quote: 'I was very stressed out but I immediately felt at ease because of Peter’s knowledge of the law. He listened carefully to my concerns and clearly explained my options and how best to proceed.',

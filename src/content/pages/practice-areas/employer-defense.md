@@ -17,11 +17,14 @@ Having a skilled advocate who can deal with legal issues helps minimize business
 
 ## Client Testimony
 
-### Zealous Advocate
-
-5.0-star Avvo review · Posted by Steve, August 27, 2015
-
-I had an opportunity to face Peter a number of years ago in a contentious workplace litigation. He was a worthy opponent who fought hard for his client, while maintaining his professionalism at all times.
+<figure class="review">
+  <p class="review__stars" aria-label="5 out of 5 stars">★★★★★</p>
+  <p class="review__title">Zealous Advocate</p>
+  <blockquote>
+    <p>I had an opportunity to face Peter a number of years ago in a contentious workplace litigation. He was a worthy opponent who fought hard for his client, while maintaining his professionalism at all times.</p>
+  </blockquote>
+  <figcaption><span><strong>Steve</strong> · August 27, 2015</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Verify on Avvo ↗</a></figcaption>
+</figure>
 
 ## When to Consult With an Employment Law Attorney
 

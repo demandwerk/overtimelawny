@@ -4,6 +4,7 @@ import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import ConsultForm from '../components/ConsultForm.astro';
 import Icon from '../components/Icon.astro';
+import Review from '../components/Review.astro';
 import PracticeCarousel from '../components/PracticeCarousel.astro';
 import heroImg from '../assets/hero/fire-island-lighthouse.jpg';
 import { firm, testimonials, team, awards, locations } from '../site';
@@ -128,12 +129,7 @@ const steps = [
       </div>
       <div class="quotes">
         {testimonials.map((t) => (
-          <figure class="quote">
-            <Icon name="quote" />
-            <p class="quote__stars" aria-label="5 out of 5 stars">★★★★★</p>
-            <blockquote>{t.quote}</blockquote>
-            <figcaption><strong>{t.name}</strong> · {t.detail}</figcaption>
-          </figure>
+          <Review quote={t.quote} name={t.name} detail={t.detail} />
         ))}
       </div>
     </div>
@@ -267,12 +263,6 @@ const steps = [
   @media (max-width: 860px) { .cases { grid-template-columns: 1fr; } }
 
   .quotes { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
-  .quote { margin: 0; padding: 32px; background: #fff; border-radius: 14px; border: 1px solid var(--line); position: relative; }
-  .quote > :global(svg) { position: absolute; top: 28px; right: 28px; width: 34px; height: 34px; color: var(--blue-tint); fill: var(--blue-tint); }
-  .quote__stars { color: var(--blue); letter-spacing: 3px; margin-bottom: 12px; }
-  .quote blockquote { margin: 0 0 18px; font-size: 1.08rem; line-height: 1.6; color: var(--ink); }
-  .quote figcaption { font-size: 0.9rem; color: var(--muted); }
-  .quote figcaption strong { color: var(--ink); }
   @media (max-width: 760px) { .quotes { grid-template-columns: 1fr; } }
 
   .people { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
