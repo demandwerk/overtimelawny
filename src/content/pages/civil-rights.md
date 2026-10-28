@@ -62,11 +62,9 @@ The NYCHRL also prohibits retaliation based on employees asserting their rights 
 
 At Romero Law Group, PLLC, our civil rights lawyers have successfully represented clients in employment discrimination cases. The following is a review from one of our clients that we represented in a civil rights lawsuit:
 
-### Grateful!!
+### Grateful!
 
-**5.0 star Avvo Review**
-
-Posted by anonymous August 31, 2016  
+5.0-star Avvo review · Posted by anonymous, August 31, 2016
 
 Peter is an excellent attorney with a compassionate side and complete understanding for your emotions as well as a thorough knowledge of law and best course of action. Always available! He totally helped me wrong a right! Peter helped me with a lawsuit against a large company for discrimination in employment in violation of Section 1981 of the Civil Rights Act of 1866, 42 U.S.C. § 1981 (“Section 1981”) and the New Jersey Law Against Discrimination (the “NJLAD”). I would use Peter again in a second!
 
@@ -78,4 +76,4 @@ Ken
 
 ## Consult with a Civil Rights Lawyer
 
-Arrange a free consultation to speak with a civil rights attorney and find out how we can help.  Call [**(631) 257-5588**](tel:+16312575588) or [**contact us online**](/civil-rights/#contact) to arrange a consultation.
+Arrange a free consultation to speak with a civil rights attorney and find out how we can help.  Call [(631) 257-5588](tel:+16312575588) or [contact us online](/civil-rights/#contact) to arrange a consultation.

@@ -3,8 +3,6 @@ title: "Discriminación en el lugar de trabajo"
 description: "En todo el estado de Nueva York y también en todo el país, la discriminación y el acoso de los empleados son ilegales. Las leyes estatales y federales no solo protegen a los empleados contra el trato desigual e injusto, sino que también prohíben un entorno de trabajo hostil. A pesar de décadas de…"
 kind: es
 ---
-## Discriminación en el lugar de trabajo
-
 En todo el estado de Nueva York y también en todo el país, la discriminación y el acoso de los empleados son ilegales. Las leyes estatales y federales no solo protegen a los empleados contra el trato desigual e injusto, sino que también prohíben un entorno de trabajo hostil. A pesar de décadas de legislación, todavía se producen injusticias. Sin embargo, cuando lo hace, puede nivelar el campo de juego al obtener abogados con experiencia en discriminación laboral, que pueden ayudarlo a proteger sus derechos. Según la ley del estado de Nueva York, ninguna empresa de cualquier tamaño puede discriminar a los empleados. La ley en contra de la discriminación del estado de Nueva York es amplia y protege a los empleados contra muchos tipos de discriminación basada en lo siguiente:
 
 -   Raza
@@ -28,7 +26,7 @@ En todo el estado de Nueva York y también en todo el país, la discriminación 
 -   Registro de arresto o condena
 -   Condición de víctima de violencia doméstica, acoso y delitos sexuales
 
-Los empleados también reciben protección legal contra [**represalias**](/represalias-en-el-lugar-de-trabajo/) por presentar un reclamo, participar en una investigación o testificar en una demanda que se ocupa de la discriminación.
+Los empleados también reciben protección legal contra [represalias](/represalias-en-el-lugar-de-trabajo/) por presentar un reclamo, participar en una investigación o testificar en una demanda que se ocupa de la discriminación.
 
 ## Discriminación por discapacidad en el lugar de trabajo
 
@@ -38,10 +36,8 @@ Algunos ejemplos de accomodaciónes incluyen accesibilidad en silla de ruedas o 
 
 Otros tipos de discriminación incluyen el acoso a un solicitante o empleado por motivos de discapacidad. La ley protege a los trabajadores discapacitados de los supervisores, otros trabajadores y los clientes o clientes que los acosan en función de su discapacidad. Al igual que con otros casos de discriminación, según la ley federal, tiene 300 días calendario para presentar una reclamación por discapacidad ante la EEOC y, si la presenta ante el estado de NY, un año a partir de la fecha del último incidente de discriminación por discapacidad. Varios casos de discriminación por discapacidad que ha manejado la oficina legal de Peter A. Romero incluyen:
 
--   [**_§  Derosa v. National Envelope Corp.  
-    595 F.3d 99 (2d Cir. 2010)_**](/cases/#derosa)
--   [**_§  Fashawn Cohen v. State of New York  
-    10 N.Y.S.3d 628 (2d Dep't 2015)_**](/cases/#fashawn)
+-   [Derosa v. National Envelope Corp. 595 F.3d 99 (2d Cir. 2010)](/cases/#derosa-v-natl-envelope-corp)
+-   [Fashawn Cohen v. State of New York 10 N.Y.S.3d 628 (2d Dep't 2015)](/cases/#cohen-v-state)
 
 ## Testimonio de un caso de discriminación por discapacidad
 
@@ -49,10 +45,7 @@ Uno de nuestros clientes publicó el siguiente testimonio después de que maneja
 
 ### Agradecido más allá de las palabras
 
-### 5.0 stars Avvo Review
-
-Publicado por John  
-5 de marzo de 2016
+Reseña de 5.0 estrellas en Avvo · Publicado por John, 5 de marzo de 2016
 
 El haber conocido a Peter ha cambiado mi opinión por completo sobre la profesión de abogado. Conocí a un hombre amable, cariñoso, inteligente y capaz en Peter Romero. Necesitaba urgentemente un defensor viable y dedicado que me mantuviera firme frente al gigante global, UPS. Con su interminable riqueza financiera, seguramente enviaron lo mejor para desmantelar nuestros esfuerzos de demostrar que no solo fui discriminado bajo las pautas y parámetros de la Ley de Estadounidenses con Discapacidades. Aún mayor y mucho más dañina fue su constante represalia por haberse quejado de tales acciones discriminatorias en mi contra. Estaba confundido, perdido y muy solo. Cuando encontré a Peter, juró defenderme hasta el final. Una calma se apoderó de mí cuando supe de inmediato que el jurado notaría su corazón honesto. Trató de no atacar a los acusados, sino que entregó metódicamente una explicación clara y concisa a la letra de la ley, a diferencia de sus adversarios que, mientras se hundían cada vez más, recurrían a comentarios despectivos e incendiarios en un esfuerzo por arrojar una sombra de duda sobre nuestro caso. A pesar de que todas las pruebas apuntaban a sus actos ilegales, inmorales y poco éticos, Peter tenía la responsabilidad de demostrar que, sin lugar a dudas, habían perjudicado a un empleado con una discapacidad a largo plazo. Al final, Peter se enfrentó a Goliat y lo derribó con un comportamiento espectacular en la sala del tribunal y una precisión milimétrica. Peter y su equipo, desvalidos, salieron victoriosos de la sala del tribunal. Mi vida fue restaurada y las leyes cambiaron como producto de un fino litigio. Las palabras no pueden explicar mi agradecimiento por su apoyo, pero también por revelar el corazón de un león. Le debo la vida a este hombre.
 
@@ -74,4 +67,4 @@ La discriminación por edad en el lugar de trabajo ocurre cuando los empleados q
 
 ## Aproveche nuestra experiencia con la ley de discriminación laboral
 
-Permítanos ayudarle a proteger sus derechos y buscar justicia, ya sea bajo la ley federal, estatal o de la ciudad de Nueva York. Representamos a clientes en Long Island, Westchester, Brooklyn, Queens, Manhattan, el Bronx y el norte de Nueva Jersey. Llame a nuestra oficina al [**(631) 257-5588**](tel:+16312575588) o [**contáctenos en línea**](/discriminacion-en-el-lugar-de-trabajo/#contact) para programar una consulta gratuita.
+Permítanos ayudarle a proteger sus derechos y buscar justicia, ya sea bajo la ley federal, estatal o de la ciudad de Nueva York. Representamos a clientes en Long Island, Westchester, Brooklyn, Queens, Manhattan, el Bronx y el norte de Nueva Jersey. Llame a nuestra oficina al [(631) 257-5588](tel:+16312575588) o [contáctenos en línea](/discriminacion-en-el-lugar-de-trabajo/#contact) para programar una consulta gratuita.

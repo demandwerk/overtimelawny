@@ -27,7 +27,7 @@ Algunos de los medios en que los empleadores no cumplen con las leyes federales 
 -   Hacer que el empleado se quede en casa mientras está de guardia para trabajar o hacer que el empleado trabaje desde casa sin contar el tiempo trabajado es otra forma en que algunos empleadores evitan pagar horas adicionales.
 -   Al utilizar una tarifa diaria de pago, muchas empresas de construcción o contratistas pagan a los trabajadores una tarifa diaria y no pagan las horas adicionales. Un empleado al que se le paga una tarifa diaria todavía tiene derecho a pagos por horas adicionales de trabajo (tiempo y medio) cuando trabaja más de 40 horas en tiempo de trabajo en una semana laboral.
 
-### CLASIFICACIÓN ERRONEA DE UN CONTRATISTA INDEPENDIENTE
+### Clasificación errónea de un contratista independiente
 
 Clasificar erróneamente a un empleado como “contratista independiente” es otra forma en que los empleadores a veces engañan a los trabajadores con el pago de horas adicionales. Contratan empleados  y los clasifican como contratistas independientes. Al hacerlo, evitan pagar impuestos sobre el sueldo  de los empleados y el pago de horas adicionales. Sin embargo, si el empleador tiene el derecho de dirigir y mandar al trabajador, este aspecto se le puede convertir al trabajador en un empleado fijo, y no en un contratista independiente. Otros aspectos que definen el estado laboral del empleado en lugar del estado de contratista independiente incluyen:
 
@@ -39,10 +39,7 @@ Clasificar erróneamente a un empleado como “contratista independiente” es o
 
 ## Testimonio de un cliente para un caso de pago de horas adicionales
 
-**Revisión de 5.0 estrellas Avvo**
-
-Publicado por Ken  
-31 de agosto de 2016
+Reseña de 5.0 estrellas en Avvo · Publicado por Ken, 31 de agosto de 2016
 
 Tuve un problema con la empresa para la que trabajo. Me dijeron que cambiarían mi estatus de trabajo de exento a no exento. Hice algunas comprobaciones en la web y descubrí que probablemente me debían pagar horas adicionales. Mi empresa me respondió que de ninguna manera. Lo pensé, busqué un abogado laboral y encontré a Peter.
 
@@ -79,4 +76,4 @@ Plazo límite de reclamos legales (fecha límite) para presentar un reclamo de s
 
 ## Consulte con un abogado especialista en leyes laborales del estado de Nueva York
 
-Si cree que su empleador no le está pagando su horas adicionales, ha clasificado erróneamente su trabajo o de alguna manera le está pagando su horas adicionales, ha clasificado erróneamente su trabajo o de alguna manera le está pagando injustamente, comuníquese con nosotros. Llame al [**(631) 257-5588**](tel:+16312575588) o [**contáctenos en línea**](/horas-adicionales-y-sueldos-no-pagados/#contact) para concertar una consulta gratuita.
+Si cree que su empleador no le está pagando su horas adicionales, ha clasificado erróneamente su trabajo o de alguna manera le está pagando su horas adicionales, ha clasificado erróneamente su trabajo o de alguna manera le está pagando injustamente, comuníquese con nosotros. Llame al [(631) 257-5588](tel:+16312575588) o [contáctenos en línea](/horas-adicionales-y-sueldos-no-pagados/#contact) para concertar una consulta gratuita.

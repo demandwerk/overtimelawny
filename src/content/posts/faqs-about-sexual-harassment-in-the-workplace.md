@@ -9,7 +9,7 @@ Sexual harassment in the workplace is illegal. In fact, New York State has passe
 
 ### What is sexual harassment in the workplace?
 
-In [**New York**](https://www.ny.gov/sites/default/files/2023-01/SexualHarassmentModelPolicy2022Proposed.pdf), sexual harassment does not have to be severe or pervasive to be illegal. However, the behavior would be more than “petty slights or inconveniences.” Examples of sexual harassment could include:
+In [New York](https://www.ny.gov/sites/default/files/2023-01/SexualHarassmentModelPolicy2022Proposed.pdf), sexual harassment does not have to be severe or pervasive to be illegal. However, the behavior would be more than “petty slights or inconveniences.” Examples of sexual harassment could include:
 
 -   Slurs
 -   Insults or put-downs
@@ -44,4 +44,4 @@ The legal term for “getting back at you” is "retaliation." The answer is no.
 
 ### Do you have problems with sexual harassment in the workplace?
 
-Find out how the Law Office of Peter A. Romero can help you. Throughout NYC including Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan, clients turn to us for legal help. Call us at **(631) 257-5588** or [**contact us online**](/contact-us/) to schedule an appointment.
+Find out how the Law Office of Peter A. Romero can help you. Throughout NYC including Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan, clients turn to us for legal help. Call us at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/) to schedule an appointment.

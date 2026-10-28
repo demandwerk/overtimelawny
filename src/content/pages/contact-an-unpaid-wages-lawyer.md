@@ -7,11 +7,11 @@ kind: page
 
 ### We protect the rights of employees in Westchester County, Rockland County and Orange County in New York
 
-**Do you spend more than 25% of your time working in manual labor? Are you not being paid weekly? Do you work as any of the following?**
+Do you spend more than 25% of your time working in manual labor? Are you not being paid weekly? Do you work as any of the following?
 
 Construction Worker · Laborer · Custodial Worker · Porter · Maintenance Worker · Factory Worker · Machine Operator · Picker/Packer · Restaurant Worker
 
-**If so, call us now at [(631) 257-5588](tel:+16312575588).**
+If so, call us now at [(631) 257-5588](tel:+16312575588).
 
 We provide aggressive representation to workers throughout the greater New York City metro area, including Westchester County, Rockland County and Orange County.
 

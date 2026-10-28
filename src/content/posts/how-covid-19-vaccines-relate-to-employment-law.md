@@ -17,7 +17,7 @@ Medical screening is necessary for individuals with disabilities that would pred
 
 ### Can You Lose Your Job Due to Not Being Vaccinated?
 
-Before an employer can terminate an unvaccinated employee, the employer must offer reasonable accommodations. Alternatives may include working from home, changing work schedule hours or allowing the employee to perform his/her duties online in a remote location. Depending on the nature of the job, telework may or may not be possible. Also, the accommodation must not result in undue hardship for the employer. **In addition, your employer must assess four factors to determine whether a direct threat actually exists due to your not being vaccinated:**
+Before an employer can terminate an unvaccinated employee, the employer must offer reasonable accommodations. Alternatives may include working from home, changing work schedule hours or allowing the employee to perform his/her duties online in a remote location. Depending on the nature of the job, telework may or may not be possible. Also, the accommodation must not result in undue hardship for the employer. In addition, your employer must assess four factors to determine whether a direct threat actually exists due to your not being vaccinated:
 
 -   Duration of the risk
 -   Nature and severity of potential harm
@@ -28,4 +28,4 @@ In other words, a direct threat must exist, and an unvaccinated worker would hav
 
 ### Do You Believe Retaliation in the Workplace or Employee Discrimination Resulted in Job Loss?
 
-If you believe your employer violated your rights, call the Law Office of Peter A. Romero today at **(631) 257-5588** or [contact us online](/contact-us/). We are glad to address your concerns.
+If you believe your employer violated your rights, call the Law Office of Peter A. Romero today at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/). We are glad to address your concerns.

@@ -37,7 +37,7 @@ Other actions that might indicate retaliation based on an employer's conduct cou
 
 Because employers are not always straightforward and may try to hide retaliation under the guise of something else, it is not always easy to prove. For example, an employer may argue that your poor job evaluation was based on tardiness or poor job performance. You would have to prove that you were not arriving later to work than you had in the past and that your work performance hadn’t changed. The timing between the retaliation and the protected activity that prompted it may also be important. If you receive physical or verbal abuse right after making a discrimination claim and your employer had only praised you in the past, this could possibly serve as evidence of retaliation. The following is a case our firm successfully handled that involved retaliation for an employee who opposed discrimination:
 
-[**_Welch v. United Parcel Service, Inc. 871 F.Supp.2d 164 (E.D.N.Y. 2012)_**](/cases/#welch)
+[Welch v. United Parcel Service, Inc. 871 F.Supp.2d 164 (E.D.N.Y. 2012)](/cases/#welch-v-united-parcel-serv-inc)
 
 ## Statute of Limitations for Retaliation
 
@@ -51,10 +51,7 @@ Retaliation claims may be brought under different laws, depending on the circums
 
 ### More than I could’ve asked
 
-**5.0 star Avvo Review**
-
-Posted by anonymous  
-November 20, 2019
+5.0-star Avvo review · Posted by anonymous, November 20, 2019
 
 I had a problem with the company I work for. I was told that I would be shifted from exempt to non-exempt. I did some checking on the web and found out that I was probably due some overtime pay. My company said no way. I thought about it and looked up a labor lawyer and found Peter. 
 
@@ -74,4 +71,4 @@ Retaliation claims may be brought under different laws, depending on the circums
 
 ## Consult with a Retaliation Lawyer
 
-If you suspect retaliation, discuss your situation with an experienced attorney as soon as possible. We can provide you with legal guidance and can help gather facts to build a strong case. Call [**(631) 257-5588**](tel:+16312575588) or [**contact us online**](/retaliation-in-the-workplace/#contact) to arrange a free consultation.
+If you suspect retaliation, discuss your situation with an experienced attorney as soon as possible. We can provide you with legal guidance and can help gather facts to build a strong case. Call [(631) 257-5588](tel:+16312575588) or [contact us online](/retaliation-in-the-workplace/#contact) to arrange a free consultation.

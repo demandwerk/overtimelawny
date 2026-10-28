@@ -5,7 +5,7 @@ date: 2023-07-28
 ---
 ## Which industries are the worst for sexual harassment?
 
-While sexual harassment occurs in many industries, there are certain industries with the highest occurrence of sexual harassment. An article by [**Safer-America**](https://safer-america.com/industries-with-the-most-sexual-harassment-reports/) drew on information from the EEOC and other sources. It ranked four industries as the top in sexual harassment issues:
+While sexual harassment occurs in many industries, there are certain industries with the highest occurrence of sexual harassment. An article by [Safer-America](https://safer-america.com/industries-with-the-most-sexual-harassment-reports/) drew on information from the EEOC and other sources. It ranked four industries as the top in sexual harassment issues:
 
 -   Restaurant and hospitality industries
 -   Nursing industry
@@ -49,4 +49,4 @@ Academia ranks next for high instances of sexual harassment. Claims of sexual ha
 
 ## How can a sexual harassment lawyer help you?
 
-An attorney can protect your rights and take legal action on your behalf. By speaking out, you can help end sexual harassment. Your actions can help others find courage to report their experiences as well. Find out how the Law Office of Peter A. Romero can assist you. Throughout NYC including Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan, clients turn to us for legal help. Call us at **(631) 257-5588** or [**contact us online**](/contact-us/) to schedule an appointment.
+An attorney can protect your rights and take legal action on your behalf. By speaking out, you can help end sexual harassment. Your actions can help others find courage to report their experiences as well. Find out how the Law Office of Peter A. Romero can assist you. Throughout NYC including Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan, clients turn to us for legal help. Call us at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/) to schedule an appointment.

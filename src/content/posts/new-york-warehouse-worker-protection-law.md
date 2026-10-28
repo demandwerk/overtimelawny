@@ -26,7 +26,7 @@ Your employer has two business days to notify you about the change. This include
 
 ### How does the new law relate to meal times or proper breaks?
 
-It protects workers from disciplinary action or termination when the quota did not take into account proper breaks or meal times. (Reference: [**JD Supra**](https://www.jdsupra.com/legalnews/new-york-enacts-warehouse-worker-3125147/))
+It protects workers from disciplinary action or termination when the quota did not take into account proper breaks or meal times. (Reference: [JD Supra](https://www.jdsupra.com/legalnews/new-york-enacts-warehouse-worker-3125147/))
 
 ### Do you have protection against retaliation under the new warehouse worker protection law?
 
@@ -34,4 +34,4 @@ Yes, you do. The law prohibits employers from retaliating against you for referr
 
 ### Have you been treated unfairly in the workplace?
 
-The Law Office of Peter A. Romero assists clients with employment law issues. Throughout NYC including Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan, clients turn to us for legal help. Call us at **(631) 257-5588** or [**contact us online**](/contact-us/) to schedule an appointment.
+The Law Office of Peter A. Romero assists clients with employment law issues. Throughout NYC including Queens, Brooklyn, The Bronx and Harlem/Upper Manhattan, clients turn to us for legal help. Call us at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/) to schedule an appointment.

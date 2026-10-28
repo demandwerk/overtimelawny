@@ -33,10 +33,7 @@ Below is a review written by one of our clients that we represented in a case in
 
 ### Excellent
 
-**5.0 stars Avvo Review—FMLA Violations**
-
-Posted by Sophia   
-December 6, 2016
+5.0-star Avvo review (FMLA Violations) · Posted by Sophia, December 6, 2016
 
 Peter was referred by a colleague of a family member to assist me with the violations my company made under the Family And Medical Leave Act. I hired him after our first consultation where he assured me that it wasn't if I had a case it was how long this case would it take to be resolved. My priority was for an amicable solution, and Peter agreed. Within a couple of months after filing the lawsuit, the company agreed to settle out of court, and Peter negotiated the settlement to meet my requests, as well as to compensate him for his diligence. I would definitely refer him to anyone in the same situation.
 
@@ -50,4 +47,4 @@ The statute of limitations (deadline) for filing an FMLA claim is two years from
 
 ## Get Legal Help from an FMLA Lawyer and Protect Your Rights
 
-If your employer has violated your rights to a family medical leave, call our firm at [**(631) 257-5588**](tel:+16312575588) or [**contact us online**](/family-medical-leave-act/#contact). We offer a free consultation review your situation and explain the best course of action.
+If your employer has violated your rights to a family medical leave, call our firm at [(631) 257-5588](tel:+16312575588) or [contact us online](/family-medical-leave-act/#contact). We offer a free consultation review your situation and explain the best course of action.

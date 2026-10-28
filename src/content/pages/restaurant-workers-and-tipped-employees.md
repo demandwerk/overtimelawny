@@ -18,11 +18,11 @@ Under New York law, there are specific rules governing tipped employees:
 
 Under no condition may an employer retain any portion of an employee’s tips.
 
-We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, [**contact our offices online**](/restaurant-workers-and-tipped-employees/#contact) or call us at [**(231) 257-5588**](tel:%20231-257-5588). We can also set up consultations by teleconference.
+We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, [contact our offices online](/restaurant-workers-and-tipped-employees/#contact) or call us at [(231) 257-5588](tel:%20231-257-5588). We can also set up consultations by teleconference.
 
 ### Overtime Pay for Tipped Employees
 
-Employers are required to pay tipped employees premium overtime pay when they work more than 40 hours in a workweek.  Sometimes, employers fail to pay tipped employees at the correct overtime rate.  Employers are required to pay tipped employees overtime at the rate of one and-one-half the minimum wage rate, less the applicable tip credit.  Employers sometimes get this wrong and pay tipped employees overtime at one and one-half times the _tipped rate_, rather than the minimum wage rate.  
+Employers are required to pay tipped employees premium overtime pay when they work more than 40 hours in a workweek.  Sometimes, employers fail to pay tipped employees at the correct overtime rate.  Employers are required to pay tipped employees overtime at the rate of one and-one-half the minimum wage rate, less the applicable tip credit.  Employers sometimes get this wrong and pay tipped employees overtime at one and one-half times the tipped rate, rather than the minimum wage rate.  
 
 ### Call-In Pay
 
@@ -40,7 +40,7 @@ New York law mandates certain accommodations for cooks and kitchen workers:
 
 There are also specific statutory requirements for fast food workers in New York City:
 
--   Employer must give fast food workers _regular schedules that stay the same_ week-to-week
+-   Employer must give fast food workers regular schedules that stay the same week-to-week
 -   Fast food workers must be provided with _work schedules 14 days in advance_of the start of the schedule
 -   Employers must pay fast food workers premiums for schedule changes
 -   Fast food workers must be given an opportunity to say no to extra work
@@ -50,4 +50,4 @@ There are also specific statutory requirements for fast food workers in New York
 
 ### We can help you protect your rights as a tipped employee
 
-Take steps to get full and fair compensation as a restaurant worker. [**Contact our offices online**](/restaurant-workers-and-tipped-employees/#contact) or call us at [**(631) 257-5588**](tel:+16312575588) to schedule a free initial consultation. We are also available for teleconferences using Zoom and Microsoft Teams.
+Take steps to get full and fair compensation as a restaurant worker. [Contact our offices online](/restaurant-workers-and-tipped-employees/#contact) or call us at [(631) 257-5588](tel:+16312575588) to schedule a free initial consultation. We are also available for teleconferences using Zoom and Microsoft Teams.

@@ -17,8 +17,10 @@ A severance agreement, also sometimes called a separation agreement, is a bindin
 
 ## Testimonial by a Client Represented in a Severance Agreement
 
-**5.0 stars Avvo Review—Separation Settlement** Posted by Michael, Amityville, New York March, 2016 I was "down-sized" by a Long Island company. Disappointed by the settlement amount offered I contacted Peter Romero Esq. Peter Romero is proficient, professional and has a pleasant person manner. He is also effective—very effective! As a result of his negotiations the settlement amount was doubled. So I received twice the dollar amount originally offered to me!
+5.0-star Avvo review (Separation Settlement) · Posted by Michael, Amityville, New York, March 2016
+
+I was "down-sized" by a Long Island company. Disappointed by the settlement amount offered I contacted Peter Romero Esq. Peter Romero is proficient, professional and has a pleasant person manner. He is also effective—very effective! As a result of his negotiations the settlement amount was doubled. So I received twice the dollar amount originally offered to me!
 
 ## Consult with an Experienced Employment Law Attorney
 
-An experienced and knowledgeable lawyer can help you negotiate the terms of your severance agreement to ensure you will receive the most benefit. It is also wise to have a lawyer review an employment contract so you fully understand the terms before signing. If you have already signed a severance agreement and are over the age of 40, you have seven days to change your decision. A lawyer can review the agreement and provide you with legal advice. Arrange a free consultation and find out how we can help. Call [**(631) 257-5588**](tel:+16312575588) or [**contact us online**](/employment-agreements/#contact).
+An experienced and knowledgeable lawyer can help you negotiate the terms of your severance agreement to ensure you will receive the most benefit. It is also wise to have a lawyer review an employment contract so you fully understand the terms before signing. If you have already signed a severance agreement and are over the age of 40, you have seven days to change your decision. A lawyer can review the agreement and provide you with legal advice. Arrange a free consultation and find out how we can help. Call [(631) 257-5588](tel:+16312575588) or [contact us online](/employment-agreements/#contact).

@@ -3,8 +3,7 @@ title: "Represalias"
 description: "Las represalias por tomar medidas contra un empleador debido a discriminación o por denunciar actividades delictivas son ilegales. Va contra la ley en todos los niveles: federal, estatal y local en la ciudad de Nueva York. Si bien las represalias abarcan cualquier tratamiento adverso, los ejemplos…"
 kind: es
 ---
-## Represalias en el lugar de trabajo en la ciudad de  
-Nueva York y en Long Island
+## Represalias en el lugar de trabajo en la ciudad de Nueva York y en Long Island
 
 Las represalias por tomar medidas contra un empleador debido a discriminación o por denunciar actividades delictivas son ilegales. Va contra la ley en todos los niveles: federal, estatal y local en la ciudad de Nueva York. Si bien las represalias abarcan cualquier tratamiento adverso, los ejemplos comunes incluyen la terminación del trabajo, la degradación, los recortes salariales, la reasignación de trabajo o incluso el hecho de ser pasado por alto para un ascenso cuando anteriormente se lo consideraba altamente. El despido por represalia es una de las formas más comunes de represalia en el lugar de trabajo. Si la acción del empleador tiene como resultado que una persona razonable tenga menos probabilidades de presentar una queja por discriminación, a menudo es justo asumir que se han producido represalias.
 
@@ -40,8 +39,7 @@ El tiempo entre la represalia y la actividad protegida que le provocó también 
 
 El siguiente es un caso que nuestra firma manejó con éxito y que involucró represalias para un empleado que se opuso a la discriminación:
 
-[**_Welch v. United Parcel Service, Inc.  
-871 F.Supp.2d 164 (E.D.N.Y. 2012)_**](/cases/#welch)
+[Welch v. United Parcel Service, Inc. 871 F.Supp.2d 164 (E.D.N.Y. 2012)](/cases/#welch-v-united-parcel-serv-inc)
 
 ## Plazo límite de reclamos legales por represalias
 
@@ -55,10 +53,7 @@ Los reclamos por represalias pueden presentarse bajo diferentes leyes, dependien
 
 ### Más de lo que podría haber pedido
 
-**5.0 estrellas Avvo Review**
-
-Publicado por anónimo  
-20 de noviembre de 2019
+Reseña de 5.0 estrellas en Avvo · Publicado por anónimo, 20 de noviembre de 2019
 
 Tuve un problema con la empresa para la que trabajaba. Me dijeron que me cambiarían mi estatus de trabajo de exento a  no exento. Hice algunas comprobaciones en la web y descubrí que probablemente me debían pagar horas adicionales. Mi empresa dijo que de ninguna manera. Lo pensé, busqué un abogado laboral y encontré a Peter.
 
@@ -70,4 +65,4 @@ Tengo el mayor respeto por el Sr. Romero.
 
 ## Consulte con un abogado laboral especialista en represalias
 
-Si sospecha de represalias, analice su situación con un abogado experimentado lo antes posible. Podemos brindarle orientación legal y podemos ayudarlo a recopilar datos para construir un caso sólido. Llame al [**(631) 257-5588**](tel:+16312575588) o [**o contáctenos en línea**](/represalias-en-el-lugar-de-trabajo/#contact) para concertar una consulta gratuita.
+Si sospecha de represalias, analice su situación con un abogado experimentado lo antes posible. Podemos brindarle orientación legal y podemos ayudarlo a recopilar datos para construir un caso sólido. Llame al [(631) 257-5588](tel:+16312575588) o [o contáctenos en línea](/represalias-en-el-lugar-de-trabajo/#contact) para concertar una consulta gratuita.

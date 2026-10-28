@@ -35,10 +35,7 @@ Miscalssifying an employee as “Independent contractor” is another way in whi
 
 ## A Client’s Testimonial about an Overtime Pay Case
 
-**5.0 star Avvo Review**
-
-Posted by Ken  
-August 31, 2016
+5.0-star Avvo review · Posted by Ken, August 31, 2016
 
 I had a problem with the company I work for. I was told that I would be shifted from exempt to non-exempt. I did some checking on the web and found out that I was probably due some overtime pay. My company said no way. I thought about it and looked up a labor lawyer and found Peter. 
 
@@ -77,4 +74,4 @@ The statute of limitations (deadline) for filing a wage or overtime claim under 
 
 ## Consult with a NY Wages and Overtime Lawyer
 
-If you believe your employer is not paying you overtime, has misclassified your job or in some way is paying you unfairly, contact us. Call [**(631) 257-5588**](tel:+16312575588) or [**contact us online**](/overtime-pay-and-unpaid-wages/#contact) to arrange a free consultation.
+If you believe your employer is not paying you overtime, has misclassified your job or in some way is paying you unfairly, contact us. Call [(631) 257-5588](tel:+16312575588) or [contact us online](/overtime-pay-and-unpaid-wages/#contact) to arrange a free consultation.

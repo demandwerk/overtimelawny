@@ -3,10 +3,6 @@ title: "Pregnancy Discrimination"
 description: "Pregnant women at work can be subject to unfair decision-making and treatment due to their pregnancy. When a NY employer decides not to hire an applicant or decides to demote, fire, layoff, or reduce the pay or benefits of an employee based on pregnancy, these are forms of pregnancy discrimination.…"
 kind: practice
 ---
-## Discrimination and Harassment
-
-### Pregnancy and Work
-
 ## Pregnant Women at Work
 
 Pregnant women at work can be subject to unfair decision-making and treatment due to their pregnancy. When a NY employer decides not to hire an applicant or decides to demote, fire, layoff, or reduce the pay or benefits of an employee based on pregnancy, these are forms of pregnancy discrimination. Similar employment decisions that an employer makes based on a female employee’s intention to become pregnant would also be considered discrimination.
@@ -21,7 +17,7 @@ If you have a medical condition that results in a pregnancy disability, your emp
 
 ## FMLA for Pregnancy
 
-The [**Family Medical Leave Act (FMLA)**](/family-medical-leave-act/) is a federal law that allows employees who have worked for one year at a company with 50 or more employees to take a pregnancy leave. Under the FMLA, employers must allow employees 12 weeks of job-protected unpaid leave per year. A woman can take the leave after childbirth and while caring for an infant that is under a year old.
+The [Family Medical Leave Act (FMLA)](/family-medical-leave-act/) is a federal law that allows employees who have worked for one year at a company with 50 or more employees to take a pregnancy leave. Under the FMLA, employers must allow employees 12 weeks of job-protected unpaid leave per year. A woman can take the leave after childbirth and while caring for an infant that is under a year old.
 
 When a pregnant worker is able to work fulltime without endangering her health, it is illegal for an employer to reduce her work hours or cut her client base.
 
@@ -54,10 +50,7 @@ NY Labor law prohibits employers from discriminating against women who choose to
 
 ### Peter Romero is top-notch
 
-**5.0 star Avvo Review**
-
-Posted by anonymous  
-February 15, 2018
+5.0-star Avvo review · Posted by anonymous, February 15, 2018
 
 Peter has far exceeded my expectations every step of the way. His professionalism and responsiveness left nothing to be desired. I truly appreciate the way he honestly and considerately discussed the strengths and weaknesses of my case. He also clearly set expectations regarding the arbitration process we were bound to follow, based on the policy of my former employer. With his guidance, we were successfully able to arrive at a resolution that left me with a sense of being vindicated. I couldn't ask for more. Many thanks.
 
@@ -67,4 +60,4 @@ As with other employment discrimination claims, you have one-year from the last 
 
 ## Are You Facing Unfair Treatment Due to Pregnancy at Work?
 
-If you have questions or believe your employer treated you unfairly because of your pregnancy, call our office at [**(631) 257-5588**](tel:+16312575588) or [**contact us online**](/pregnancy-discrimination/#contact). We offer a free consultation to discuss your concerns with a pregnancy discrimination lawyer.
+If you have questions or believe your employer treated you unfairly because of your pregnancy, call our office at [(631) 257-5588](tel:+16312575588) or [contact us online](/pregnancy-discrimination/#contact). We offer a free consultation to discuss your concerns with a pregnancy discrimination lawyer.
