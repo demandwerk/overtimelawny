@@ -39,7 +39,7 @@ const isActive = (href: string) => path === href;
               <button type="button" class="nav__link" aria-haspopup="true" aria-expanded="false">
                 {item.label} <Icon name="chevron" />
               </button>
-              <ul class="nav__sub" class:list={{ 'nav__sub--wide': item.children.length > 6 }}>
+              <ul class="nav__sub" class:list={{ 'nav__sub--wide': item.children.length > 6, 'nav__sub--lead': item.children[0]?.label.startsWith('All ') }}>
                 {item.children.map((c) => (
                   <li><a href={c.href} aria-current={isActive(c.href) ? 'page' : undefined}>{c.label}</a></li>
                 ))}
@@ -121,10 +121,13 @@ const isActive = (href: string) => path === href;
   }
   .nav__item--parent:hover .nav__sub, .nav__item--parent:focus-within .nav__sub { opacity: 1; visibility: visible; transform: none; }
   .nav__sub--wide { display: grid; grid-template-columns: 1fr 1fr; gap: 0 4px; min-width: 520px; }
-  .nav__sub--wide li:first-child { grid-column: 1 / -1; border-bottom: 1px solid var(--line); margin-bottom: 6px; padding-bottom: 6px; }
-  .nav__sub--wide li:first-child a { font-weight: 650; color: var(--blue); }
+  /* A leading "All …" overview link is set apart from the items below it. */
+  .nav__sub--lead li:first-child { border-bottom: 1px solid var(--line); margin-bottom: 6px; padding-bottom: 6px; }
+  .nav__sub--lead li:first-child a { font-weight: 650; color: var(--blue); }
+  .nav__sub--wide li:first-child { grid-column: 1 / -1; }
   .nav__sub a { display: block; padding: 10px 12px; border-radius: 6px; color: var(--text); text-decoration: none; font-size: 0.95rem; }
   .nav__sub a:hover { background: var(--blue-tint); color: var(--blue); }
+  .nav__sub:not(.nav__sub--wide) a { white-space: nowrap; }
   .nav__cta { min-height: 44px; padding: 0 20px; font-size: 0.95rem; margin-left: 8px; }
 
 
@@ -151,9 +154,9 @@ const isActive = (href: string) => path === href;
     .nav__item--parent.is-open .nav__link :global(svg) { transform: rotate(180deg); }
     .nav__item--parent:not(.is-open) .nav__sub { display: none; }
     .nav__sub { position: static; opacity: 1; visibility: visible; transform: none; box-shadow: none; border: 0; padding: 0 0 8px; border-bottom: 1px solid var(--line); border-radius: 0; }
-    .nav__sub a { padding: 10px 0; font-size: 1.05rem; }
+    .nav__sub a { padding: 10px 0; font-size: 1.05rem; white-space: normal !important; }
     .nav__sub--wide { display: block; min-width: 0; }
-    .nav__sub--wide li:first-child { margin-bottom: 0; padding-bottom: 0; border: 0; }
+    .nav__sub--lead li:first-child { margin-bottom: 0; padding-bottom: 0; border: 0; }
     .nav__cta { margin: 20px 0 0; }
   }
 </style>
