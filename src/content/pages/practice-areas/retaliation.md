@@ -51,13 +51,12 @@ Retaliation claims may be brought under different laws, depending on the circums
 
 <figure class="review">
   <p class="review__stars" aria-label="5 out of 5 stars">★★★★★</p>
-  <p class="review__title">More Than I Could’ve Asked</p>
   <blockquote>
     <p>I had a problem with the company I work for. I was told that I would be shifted from exempt to non-exempt. I did some checking on the web and found out that I was probably due some overtime pay. My company said no way. I thought about it and looked up a labor lawyer and found Peter.</p>
     <p>He sent a letter to my company and they still said no. I then filed a lawsuit and we managed to settle the case.</p>
     <p>I have the highest respect for Mr. Romero.</p>
   </blockquote>
-  <figcaption><span><strong>Anonymous</strong> · November 20, 2019</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
+  <figcaption><span><strong>Ken</strong> · August 31, 2016</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
 ## Statute of Limitations for Retaliation
