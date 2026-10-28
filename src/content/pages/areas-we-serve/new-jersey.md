@@ -2,7 +2,7 @@
 title: "New Jersey & NYC Overtime, Wage and Sexual Harassment Lawyers"
 description: "Contact Romero Law Group PLLC today to take the first steps to get the relief you need and deserve. To schedule a free initial consultation, call our offices at (631) 257-5588 or contact us online."
 kind: location
-hero: ../../assets/hero/jersey-city-terminal.jpg
+hero: ../../../assets/hero/jersey-city-terminal.jpg
 heroPosition: 50% 72%
 ---
 ## Wrongfully Denied Overtime Pay or Minimum Wage?
@@ -11,7 +11,7 @@ heroPosition: 50% 72%
 
 Contact Romero Law Group PLLC today to take the first steps to get the relief you need and deserve. To schedule a free initial consultation, call our offices at [(631) 257-5588](tel:+16312575588) or [contact us online](/contact-us/).
 
-![A northern New Jersey town in autumn, with the skyline on the horizon](../../assets/hero/new-jersey-town.jpg)
+![A northern New Jersey town in autumn, with the skyline on the horizon](../../../assets/hero/new-jersey-town.jpg)
 
 ### Proven and Effective New Jersey & NYC Employment Law Attorneys
 

@@ -1,6 +1,7 @@
 ---
 // Imported WordPress pages and blog posts live at /<slug>/, as before;
-// practice-area pages live at /practice-areas/<slug>/ and Spanish pages at /es/<slug>/.
+// practice-area pages live at /practice-areas/<slug>/, location pages at
+// /areas-we-serve/<slug>/ and Spanish pages at /es/<slug>/.
 import { getCollection, render } from 'astro:content';
 import type { ImageMetadata } from 'astro';
 import Base from '../layouts/Base.astro';
@@ -9,7 +10,7 @@ import ConsultForm from '../components/ConsultForm.astro';
 import Icon from '../components/Icon.astro';
 import PracticeCarousel from '../components/PracticeCarousel.astro';
 import LocationsNav from '../components/LocationsNav.astro';
-import { firm, practiceOverview, spanishHome, translations } from '../site';
+import { firm, locationsOverview, practiceOverview, spanishHome, translations } from '../site';
 
 export async function getStaticPaths() {
   const pages = await getCollection('pages');
@@ -35,7 +36,9 @@ const crumbs = es
     ? [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog/' }]
     : kind === 'practice'
       ? [{ label: 'Home', href: '/' }, { label: 'Practice areas', href: practiceOverview }]
-      : [{ label: 'Home', href: '/' }];
+      : kind === 'location'
+        ? [{ label: 'Home', href: '/' }, { label: 'Areas we serve', href: locationsOverview }]
+        : [{ label: 'Home', href: '/' }];
 const pageData = isPost ? undefined : (entry.data as { hero?: ImageMetadata; heroPosition?: string });
 const showSidebar = entry.id !== 'disclaimer';
 const isOverview = entry.id === 'practice-areas';

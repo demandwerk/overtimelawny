@@ -57,12 +57,17 @@ export const nav = [
 // homepage. Entries without an href have no landing page and show as plain
 // text; only linked ones appear in the "Areas We Serve" menu.
 export const locations: { name: string; title: string; area: string; href?: string }[] = [
-  { name: 'Long Island', title: 'Long Island Employment Lawyer', area: 'Nassau & Suffolk Counties', href: '/employment-law-attorneys-in-nassau-and-suffolk-counties-in-new-york/' },
+  { name: 'Long Island', title: 'Long Island Employment Lawyer', area: 'Nassau & Suffolk Counties', href: '/areas-we-serve/long-island/' },
   { name: 'New York City', title: 'New York City Employment Lawyer', area: 'Manhattan, Brooklyn, Queens & the Bronx' },
   { name: 'Westchester & Hudson Valley', title: 'Westchester Employment Lawyer', area: 'Westchester, Rockland & Orange Counties' },
-  { name: 'New Jersey', title: 'New Jersey Employment Lawyer', area: 'Northern New Jersey', href: '/new-jersey-nyc-overtime-wage-and-sexual-harassment-lawyers/' },
+  { name: 'New Jersey', title: 'New Jersey Employment Lawyer', area: 'Northern New Jersey', href: '/areas-we-serve/new-jersey/' },
 ];
-nav.find((n) => n.label === 'Areas We Serve')!.children = locations.filter((l) => l.href).map((l) => ({ label: l.title, href: l.href! }));
+// Location pages live under /areas-we-serve/<slug>/.
+export const locationsOverview = '/areas-we-serve/';
+nav.find((n) => n.label === 'Areas We Serve')!.children = [
+  { label: 'All areas we serve', href: locationsOverview },
+  ...locations.filter((l) => l.href).map((l) => ({ label: l.title, href: l.href! })),
+];
 
 // Spanish pages live under /es/; /es/ itself is the Spanish practice-area overview.
 export const spanishHome = '/es/';

@@ -10,12 +10,13 @@ The website for overtimelawny.com, built with [Astro](https://astro.build) as a 
 | Practice-area cards, testimonials, team bios | `src/site.ts` |
 | Practice-area pages (served at `/practice-areas/<file>/`) | `src/content/pages/practice-areas/*.md` |
 | Spanish pages (served at `/es/<file>/`; `es.md` is `/es/`) | `src/content/pages/es/*.md`, `src/content/pages/es.md` |
-| Location and other pages | `src/content/pages/*.md` |
+| Location pages (served at `/areas-we-serve/<file>/`) | `src/content/pages/areas-we-serve/*.md` |
+| Other pages | `src/content/pages/*.md` |
 | Blog posts | `src/content/posts/*.md` (add a new file to publish a post) |
 | Homepage layout | `src/pages/index.astro` |
 | Colors and fonts | `src/styles/global.css` (`:root` variables) |
 
-Every page keeps its old WordPress URL (`/<slug>/`), so search rankings and links carry over. Practice-area pages moved to `/practice-areas/<slug>/` and Spanish pages to `/es/<slug>/`; `vercel.json` permanently redirects their old URLs.
+Every page keeps its old WordPress URL (`/<slug>/`), so search rankings and links carry over. Practice-area pages moved to `/practice-areas/<slug>/`, location pages to `/areas-we-serve/<slug>/` and Spanish pages to `/es/<slug>/`; `vercel.json` permanently redirects their old URLs.
 
 A new blog post looks like this:
 
