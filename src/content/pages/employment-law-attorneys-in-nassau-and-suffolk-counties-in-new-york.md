@@ -5,7 +5,7 @@ kind: location
 ---
 ## Fighting for the Rights of Workers on Long Island
 
-### The Romero Law Group PLLC—More than 20 Years Representing Employees in Nassau and Suffolk Counties
+### The Romero Law Group PLLC—More Than 20 Years Representing Employees in Nassau and Suffolk Counties
 
 Contact Romero Law Group PLLC today to take the first steps to get the relief you need and deserve. To schedule a free initial consultation, call our offices at [631-257-5588](tel:+16312575588) or [contact us online](/contact-us/).
 
@@ -32,6 +32,6 @@ We’ll tailor our recommendations and advocacy to meet your specific needs
 
 We’ll immediately inform you of any developments in your case, so that we can help you make good decisions about how you want to proceedy
 
-### Schedule an Appointment with a Proven Nassau and Suffolk County Employment Lawyer
+### Schedule an Appointment With a Proven Nassau and Suffolk County Employment Lawyer
 
 Contact our office by calling [(631) 257-5588](tel:+16312575588) or [send us a message](/contact-us/) to set up a free initial consultation with our knowledgeable Long Island employment law lawyers. We can arrange a videoconference, if necessary.

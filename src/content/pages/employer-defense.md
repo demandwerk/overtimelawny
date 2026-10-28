@@ -17,13 +17,13 @@ Having a skilled advocate who can deal with legal issues helps minimize business
 
 ## Client Testimony
 
-### Zealous advocate
+### Zealous Advocate
 
 5.0-star Avvo review · Posted by Steve, August 27, 2015
 
 I had an opportunity to face Peter a number of years ago in a contentious workplace litigation. He was a worthy opponent who fought hard for his client, while maintaining his professionalism at all times.
 
-## When to Consult with an Employment Law Attorney
+## When to Consult With an Employment Law Attorney
 
 The first intimation that an employee is disgruntled and possibly considering litigation is the time to consult with an attorney. Taking corrective measures or otherwise resolving issues amicably is the best legal approach. Our firm can help you by advising the most effective course of action. If litigation becomes inevitable, we can provide aggressive representation and work diligently to reduce your liability. We are skilled in defending companies against allegations of discrimination, whistleblower, harassment, retaliation, and wage and hour violations.
 

@@ -33,7 +33,7 @@ Other actions that might indicate retaliation based on an employer's conduct cou
 -   Unfair treatment of the employee's family member (job termination, for example)
 -   Threatening to make false reports to authorities
 
-## Proving that Retaliation Occurred in the Workplace
+## Proving That Retaliation Occurred in the Workplace
 
 Because employers are not always straightforward and may try to hide retaliation under the guise of something else, it is not always easy to prove. For example, an employer may argue that your poor job evaluation was based on tardiness or poor job performance. You would have to prove that you were not arriving later to work than you had in the past and that your work performance hadn’t changed. The timing between the retaliation and the protected activity that prompted it may also be important. If you receive physical or verbal abuse right after making a discrimination claim and your employer had only praised you in the past, this could possibly serve as evidence of retaliation. The following is a case our firm successfully handled that involved retaliation for an employee who opposed discrimination:
 
@@ -49,7 +49,7 @@ Retaliation claims may be brought under different laws, depending on the circums
 
 ## What Our Clients Have to Say
 
-### More than I could’ve asked
+### More Than I Could’ve Asked
 
 5.0-star Avvo review · Posted by anonymous, November 20, 2019
 
@@ -69,6 +69,6 @@ Retaliation claims may be brought under different laws, depending on the circums
 -   FMLA violations, two or three years
 -   New York State Human Rights Law and New York City Human Rights Law, three years
 
-## Consult with a Retaliation Lawyer
+## Consult With a Retaliation Lawyer
 
 If you suspect retaliation, discuss your situation with an experienced attorney as soon as possible. We can provide you with legal guidance and can help gather facts to build a strong case. Call [(631) 257-5588](tel:+16312575588) or [contact us online](/retaliation-in-the-workplace/#contact) to arrange a free consultation.

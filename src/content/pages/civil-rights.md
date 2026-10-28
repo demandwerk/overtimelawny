@@ -74,6 +74,6 @@ I have the highest respect for Mr. Romero.
 
 Ken
 
-## Consult with a Civil Rights Lawyer
+## Consult With a Civil Rights Lawyer
 
 Arrange a free consultation to speak with a civil rights attorney and find out how we can help.  Call [(631) 257-5588](tel:+16312575588) or [contact us online](/civil-rights/#contact) to arrange a consultation.

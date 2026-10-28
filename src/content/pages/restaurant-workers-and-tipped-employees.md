@@ -48,6 +48,6 @@ There are also specific statutory requirements for fast food workers in New York
 -   Employers cannot fire a fast food worker without just/good cause
 -   Employers must reinstate laid-off fast food workers by seniority when hours become available
 
-### We can help you protect your rights as a tipped employee
+### We Can Help You Protect Your Rights as a Tipped Employee
 
 Take steps to get full and fair compensation as a restaurant worker. [Contact our offices online](/restaurant-workers-and-tipped-employees/#contact) or call us at [(631) 257-5588](tel:+16312575588) to schedule a free initial consultation. We are also available for teleconferences using Zoom and Microsoft Teams.

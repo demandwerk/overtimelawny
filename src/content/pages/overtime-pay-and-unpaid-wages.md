@@ -33,7 +33,7 @@ Miscalssifying an employee as “Independent contractor” is another way in whi
 -   Paying workers predetermined earnings and not significant profit
 -   Keeping workers for ongoing work, not on a job of project basis
 
-## A Client’s Testimonial about an Overtime Pay Case
+## A Client’s Testimonial About an Overtime Pay Case
 
 5.0-star Avvo review · Posted by Ken, August 31, 2016
 
@@ -72,6 +72,6 @@ The federal government sets a minimum wage standard, and in addition many states
 
 The statute of limitations (deadline) for filing a wage or overtime claim under the FLSA is two years from the date after the wage violation. However, when filing a claim based on NY Labor law, the statute of limitations is six years.
 
-## Consult with a NY Wages and Overtime Lawyer
+## Consult With a NY Wages and Overtime Lawyer
 
 If you believe your employer is not paying you overtime, has misclassified your job or in some way is paying you unfairly, contact us. Call [(631) 257-5588](tel:+16312575588) or [contact us online](/overtime-pay-and-unpaid-wages/#contact) to arrange a free consultation.

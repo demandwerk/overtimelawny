@@ -35,7 +35,7 @@ Gender discrimination may take many forms, including:
 -   Disparate treatment of workers based on status as pregnant or as nursing an infant
 -   Favoritism in any work-related practice, including raises, promotions, access to benefits, access to career advancement, work assignments or access to training/development.
 
-### What Are the Laws that Protect Workers against Gender Discrimination?
+### What Are the Laws That Protect Workers Against Gender Discrimination?
 
 In the state of New York, workers who have been subject to gender discrimination may file a claim under either state or federal law.
 

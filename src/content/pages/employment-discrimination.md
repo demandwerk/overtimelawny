@@ -44,13 +44,13 @@ Types of discrimination also include harassing an applicant or employee based on
 
 One of our clients posted the following testimonial after we successfully handled his case:
 
-### Grateful beyond words
+### Grateful Beyond Words
 
 5.0-star Avvo review · Posted by John, March 5, 2016
 
 Having met Peter has changed my opinion entirely on the profession of attorney at law. I met a gentle, caring, intelligent, and capable man in Peter Romero. I so badly needed a viable and dedicated advocate to stand tall against the Global giant, UPS. With their endless well of finances, they surely sent their best to dismantle our efforts of proving that I was not only discriminated against under the guidelines and parameters of the Americans with Disabilities Act. Even greater and far more damaging was their constant retaliation for having complained of any such discriminatory actions against me. I was confused, lost, and very alone. When I found Peter he swore to defend me to the end. A calm came over me as I immediately knew his honest heart would be noticed by the jury. He sought not to attack the defendants, but methodically delivered a clear and concise explanation to the letter of the law, unlike his adversaries who, while sinking deeper and deeper, resorted to disparaging and inflammatory remarks in an effort to cast the shadow of doubt upon our case. Despite the fact that all evidence pointed to their unethical, immoral, and illegal acts, the onus was on Peter to prove that beyond a shadow of doubt, they had wronged a long term employee with a disability. In the end, Peter stood tall against Goliath and felled him with spectacular courtroom demeanor and pinpoint accuracy. Peter and his team, underdogs, exited the courtroom victorious. My life was restored, and the laws changed as a product of fine litigation. Words cannot explain my appreciation for his support, but also for revealing the heart of a lion. I owe this man my life.
 
-## Hostile Work environment
+## Hostile Work Environment
 
 What constitutes a hostile work environment? A hostile work environment exists when unwelcome and discriminatory conduct or communication are offensive, intimidating or interfere with an employee's work performance. Discrimination often manifests in the form of physical or verbal threats, offensive jokes, derogatory comments, photos and other types of ridicule. In such instances, the employee targeted for harassment may not be the only victim. Other employees who hear or see the harassment may also be adversely affected and their work performance impacted.
 
@@ -66,6 +66,6 @@ Wrongful termination or wrongful dismissal in New York occurs when an employer f
 
 Age discrimination in the workplace occurs when employees, who are age 40 or older are treated adversely because of their age. It is illegal for an employer not to hire or to fire an employee based on age. Employers cannot run ads that ask for “young employees” or deny a deserved promotion or base any decision regarding work on age instead of merit. Under federal law called the Age Discrimination in Employment Act (ADEA), age discrimination applies to employers with more than 20 employees. However, New York State law applies to all companies regardless of size, and companies cannot base employment decisions on age. This law extends to independent contractors as well. If you are filing with the EEOC (Equal Employment Opportunity Commission), you have 300 calendar days to file a claim. When filing age discrimination claims with New York State, you have one year from the last incident of age discrimination to file your claim.
 
-## Take Advantage of Our Experience with Employment Discrimination Law
+## Take Advantage of Our Experience With Employment Discrimination Law
 
 Let us help you protect your rights and seek justice, whether under federal, New York State or New York City law. We represent clients on Long Island, and in Westchester, Brooklyn, Queens, Manhattan, the Bronx, and Northern New Jersey. Call our office at [(631) 257-5588](tel:+16312575588) or [contact us online](/employment-discrimination/#contact) to arrange a free consultation.

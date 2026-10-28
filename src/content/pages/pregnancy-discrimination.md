@@ -48,7 +48,7 @@ NY Labor law prohibits employers from discriminating against women who choose to
 
 ## What Our Clients Have to Say
 
-### Peter Romero is top-notch
+### Peter Romero Is Top-Notch
 
 5.0-star Avvo review · Posted by anonymous, February 15, 2018
 

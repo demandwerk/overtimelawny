@@ -11,12 +11,12 @@ At Romero Law Group, PLLC, our attorneys represent clients in a broad scope of e
 
 ## What Our Clients Have to Say
 
-### Peter Romero is top-notch
+### Peter Romero Is Top-Notch
 
 5.0-star Avvo review · Posted by anonymous, February 15, 2018
 
 Peter has far exceeded my expectations every step of the way. His professionalism and responsiveness left nothing to be desired. I truly appreciate the way he honestly and considerately discussed the strengths and weaknesses of my case. He also clearly set expectations regarding the arbitration process we were bound to follow, based on the policy of my former employer. With his guidance, we were successfully able to arrive at a resolution that left me with a sense of being vindicated. I couldn't ask for more. Many thanks.
 
-## Get Legal Help with Employment Law Issues
+## Get Legal Help With Employment Law Issues
 
 Whatever your legal concern is with employment law, our attorneys can help. Employment law is the entire focus of our practice and we have years of experience helping clients resolve employment disputes and other issues. Arrange a free consultation and find out how we can help. Call [(631) 257-5588](tel:631-257-5588) or [contact us online](/practice-areas-employment-law-overview/#contact).
