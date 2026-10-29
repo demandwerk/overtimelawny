@@ -28,7 +28,9 @@
     { "source": "/discriminacion-por-embarazo/", "destination": "/es/discriminacion-por-embarazo/", "permanent": true },
     { "source": "/horas-adicionales-y-sueldos-no-pagados/", "destination": "/es/horas-adicionales-y-sueldos-no-pagados/", "permanent": true },
     { "source": "/represalias-en-el-lugar-de-trabajo/", "destination": "/es/represalias/", "permanent": true },
-    { "source": "/employment-law-attorneys-in-nassau-and-suffolk-counties-in-new-york/", "destination": "/areas-we-serve/long-island/", "permanent": true },
-    { "source": "/new-jersey-nyc-overtime-wage-and-sexual-harassment-lawyers/", "destination": "/areas-we-serve/new-jersey/", "permanent": true }
+    { "source": "/employment-law-attorneys-in-nassau-and-suffolk-counties-in-new-york/", "destination": "/areas-we-serve/long-island-employment-law-attorney/", "permanent": true },
+    { "source": "/new-jersey-nyc-overtime-wage-and-sexual-harassment-lawyers/", "destination": "/areas-we-serve/new-jersey/", "permanent": true },
+    { "source": "/areas-we-serve/long-island/", "destination": "/areas-we-serve/long-island-employment-law-attorney/", "permanent": true },
+    { "source": "/areas-we-serve/new-york/", "destination": "/areas-we-serve/new-york-employment-law-attorney/", "permanent": true }
   ]
 }
