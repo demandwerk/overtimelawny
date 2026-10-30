@@ -111,7 +111,7 @@ p { margin: 0 0 1em; }
    brand-blue overlay so stock photos sit in the site's palette. */
 .prose p:has(> img:only-child) { position: relative; margin: 1.8em 0; overflow: hidden; border-radius: var(--radius); line-height: 0; }
 .prose p:has(> img:only-child) img { display: block; width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; margin: 0; border-radius: 0; }
-.prose p:has(> img:only-child)::after { content: ''; position: absolute; inset: 0; background: var(--blue); mix-blend-mode: multiply; opacity: 0.22; pointer-events: none; }
+.prose p:has(> img:only-child)::after { content: ''; position: absolute; inset: 0; background: var(--blue); mix-blend-mode: multiply; opacity: 0.12; pointer-events: none; }
 
 /* Client review card. Used by the Review component on the homepage and as
    plain <figure class="review"> markup in page Markdown, so both match. */
