@@ -8,6 +8,7 @@ interface Props { lang?: 'en' | 'es' }
 const { lang = 'en' } = Astro.props;
 const es = lang === 'es';
 const year = new Date().getFullYear();
+const directions = (lines: string[]) => `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(lines.join(', '))}`;
 ---
 <section class="cta-band">
   <div class="wrap cta-band__inner">
@@ -23,6 +24,19 @@ const year = new Date().getFullYear();
 </section>
 
 <footer class="footer">
+  <div class="wrap offices">
+    <h3>{es ? 'Nuestras oficinas' : 'Our offices'}</h3>
+    <div class="offices__grid">
+      {firm.offices.map((o) => (
+        <article class="office">
+          <Image class="office__photo" src={o.photo} alt="" widths={[600, 900]} sizes="(max-width: 720px) 100vw, 580px" />
+          <h4>{o.city}</h4>
+          <p>{o.lines.map((l, i) => <>{i > 0 && <br />}{l}</>)}</p>
+          <a href={directions(o.lines)} target="_blank" rel="noopener">{es ? 'Cómo llegar' : 'Get directions'}</a>
+        </article>
+      ))}
+    </div>
+  </div>
   <div class="wrap footer__grid">
     <div class="footer__brand">
       <p class="footer__logo">
@@ -32,12 +46,6 @@ const year = new Date().getFullYear();
       <p>{es ? 'Defendiendo los derechos de los trabajadores por más de 20 años.' : 'Protecting the rights of workers for more than 20 years.'}</p>
       <a class="footer__phone" href={firm.phoneHref}>{firm.phone}</a>
       <p class="footer__muted">{firm.consultNote}</p>
-    </div>
-    <div>
-      <h3>{es ? 'Oficinas' : 'Offices'}</h3>
-      {firm.offices.map((o) => (
-        <p class="footer__office"><strong>{o.name}</strong><br />{o.lines.map((l) => <>{l}<br /></>)}</p>
-      ))}
     </div>
     <div>
       <h3>{es ? 'Áreas de práctica' : 'Practice areas'}</h3>
@@ -82,7 +90,7 @@ const year = new Date().getFullYear();
   .btn--outline-light:hover { background: #fff; color: var(--blue); border-color: #fff; }
 
   .footer { background: var(--ink); color: #9aa2b1; font-size: 0.95rem; padding: 64px 0 0; }
-  .footer__grid { display: grid; grid-template-columns: 1.4fr 1fr 1fr 0.8fr; gap: 40px; }
+  .footer__grid { display: grid; grid-template-columns: 1.4fr 1fr 0.8fr; gap: 40px; }
   .footer h3 { color: #fff; font-size: 0.8rem; font-family: var(--body); letter-spacing: 0.14em; text-transform: uppercase; margin-bottom: 16px; }
   .footer ul { list-style: none; margin: 0; padding: 0; }
   .footer li { margin-bottom: 8px; }
@@ -93,7 +101,20 @@ const year = new Date().getFullYear();
   .footer__name { font: 800 1.35rem/1.2 var(--display); font-stretch: 112%; color: #fff; margin-bottom: 8px; }
   .footer__phone { display: inline-block; font: 750 1.5rem/1 var(--display); color: #fff !important; margin: 6px 0 12px; }
   .footer__muted { font-size: 0.85rem; color: #7d8594; }
-  .footer__office strong { color: #fff; font-weight: 600; }
+
+  /* Office cards: photo under a navy overlay, city, accent rule, address, directions. */
+  .offices { padding-bottom: 48px; margin-bottom: 48px; border-bottom: 1px solid #262b34; }
+  .offices__grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; }
+  .office { position: relative; isolation: isolate; overflow: hidden; min-height: 240px; padding: 32px; border-radius: 14px; border: 1px solid rgb(255 255 255 / 12%); display: flex; flex-direction: column; justify-content: flex-end; }
+  .office :global(.office__photo) { position: absolute; inset: 0; z-index: -2; width: 100%; height: 100%; object-fit: cover; transition: transform 0.4s; }
+  .office::before { content: ''; position: absolute; inset: 0; z-index: -1; background: linear-gradient(90deg, rgb(26 42 85 / 88%) 0%, rgb(26 42 85 / 62%) 55%, rgb(26 42 85 / 30%) 100%); }
+  .office:hover :global(.office__photo) { transform: scale(1.04); }
+  .office h4 { color: #fff; font: 800 clamp(1.6rem, 3vw, 2.1rem)/1.1 var(--display); margin: 0 0 14px; }
+  .office h4::after { content: ''; display: block; width: 56px; height: 3px; margin-top: 14px; border-radius: 2px; background: var(--blue-on-dark); }
+  .office p { margin: 0 0 18px; color: rgb(255 255 255 / 88%); font-size: 1rem; line-height: 1.5; }
+  .office a { align-self: flex-start; color: #fff; font-weight: 650; text-decoration: none; border-bottom: 2px solid var(--blue-on-dark); padding-bottom: 2px; }
+  .office a:hover { color: #fff; border-color: #fff; text-decoration: none; }
+  @media (max-width: 720px) { .offices__grid { grid-template-columns: 1fr; } .office { min-height: 210px; padding: 26px; } }
   .footer__bottom { display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap; border-top: 1px solid #262b34; margin-top: 48px; padding-top: 24px; padding-bottom: 32px; font-size: 0.82rem; color: #7d8594; }
   .footer__bottom p { margin: 0; }
   .footer__social { display: flex; gap: 18px; flex-wrap: wrap; }

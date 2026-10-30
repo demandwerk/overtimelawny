@@ -8,6 +8,8 @@ import slRomero from './assets/badges/super-lawyers-romero.png';
 import slBarnhorn from './assets/badges/rising-stars-barnhorn.png';
 import avvoChoice from './assets/badges/avvo-clients-choice-2018.png';
 import avvoSuperb from './assets/badges/avvo-superb.png';
+import lighthouse from './assets/hero/fire-island-lighthouse.jpg';
+import manhattan from './assets/hero/manhattan.jpg';
 
 export const awards = [
   { img: slRomero, alt: 'Super Lawyers: Peter A. Romero', href: 'https://profiles.superlawyers.com/new-york/hauppauge/lawyer/peter-a-romero/63c95851-e260-4099-9f7d-b86aa1431513.html' },
@@ -24,8 +26,9 @@ export const firm = {
   phoneHref: 'tel:+16312575588',
   regions: 'New York City · Long Island · Northern New Jersey',
   offices: [
-    { name: 'Long Island Office', lines: ['490 Wheeler Rd, Ste 277', 'Hauppauge, NY 11788'] },
-    { name: 'Manhattan Office', lines: ['108 West 39th Street, Suite 602', 'New York, NY 10018'] },
+    // `city` and `photo` are used by the office cards in the footer.
+    { name: 'Long Island Office', city: 'Long Island', photo: lighthouse, lines: ['490 Wheeler Rd, Ste 277', 'Hauppauge, NY 11788'] },
+    { name: 'Manhattan Office', city: 'Manhattan', photo: manhattan, lines: ['108 West 39th Street, Suite 602', 'New York, NY 10018'] },
   ],
   consultNote: 'Free consultations by phone, Zoom or Microsoft Teams. By appointment only.',
   // Access key from https://web3forms.com: enter the email that should receive
