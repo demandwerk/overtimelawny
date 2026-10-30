@@ -14,12 +14,12 @@ const path = Astro.url.pathname;
         {l.href ? (
           <a href={l.href} aria-current={path === l.href ? 'page' : undefined}>
             <Icon name="pin" />
-            <span><strong>{l.title}</strong><small>{l.area}</small></span>
+            <span><strong>{lang === 'es' ? l.es.title : l.title}</strong><small>{lang === 'es' ? l.es.area : l.area}</small></span>
           </a>
         ) : (
           <div class="locs__item">
             <Icon name="pin" />
-            <span><strong>{l.title}</strong><small>{l.area}</small></span>
+            <span><strong>{lang === 'es' ? l.es.title : l.title}</strong><small>{lang === 'es' ? l.es.area : l.area}</small></span>
           </div>
         )}
       </li>

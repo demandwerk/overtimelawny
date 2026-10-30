@@ -55,12 +55,13 @@ export const nav = [
 
 // Areas the firm serves, shown in the sidebar on content pages and on the
 // homepage. Entries without an href have no landing page and show as plain
-// text; only linked ones appear in the "Areas We Serve" menu.
-export const locations: { name: string; title: string; area: string; href?: string }[] = [
-  { name: 'Long Island', title: 'Long Island Employment Lawyer', area: 'Nassau & Suffolk Counties', href: '/areas-we-serve/long-island-employment-law-attorney/' },
-  { name: 'New York City', title: 'New York City Employment Lawyer', area: 'Manhattan, Brooklyn, Queens & the Bronx', href: '/areas-we-serve/new-york-employment-law-attorney/' },
-  { name: 'Westchester & Hudson Valley', title: 'Westchester Employment Lawyer', area: 'Westchester, Rockland & Orange Counties' },
-  { name: 'New Jersey', title: 'New Jersey Employment Lawyer', area: 'Northern New Jersey', href: '/areas-we-serve/new-jersey/' },
+// text; only linked ones appear in the "Areas We Serve" menu. `es` holds the
+// Spanish title and area for the sidebar on Spanish pages.
+export const locations: { name: string; title: string; area: string; href?: string; es: { title: string; area: string } }[] = [
+  { name: 'Long Island', title: 'Long Island Employment Lawyer', area: 'Nassau & Suffolk Counties', href: '/areas-we-serve/long-island-employment-law-attorney/', es: { title: 'Abogado laboral en Long Island', area: 'Condados de Nassau y Suffolk' } },
+  { name: 'New York City', title: 'New York City Employment Lawyer', area: 'Manhattan, Brooklyn, Queens & the Bronx', href: '/areas-we-serve/new-york-employment-law-attorney/', es: { title: 'Abogado laboral en la ciudad de Nueva York', area: 'Manhattan, Brooklyn, Queens y el Bronx' } },
+  { name: 'Westchester & Hudson Valley', title: 'Westchester Employment Lawyer', area: 'Westchester, Rockland & Orange Counties', es: { title: 'Abogado laboral en Westchester', area: 'Condados de Westchester, Rockland y Orange' } },
+  { name: 'New Jersey', title: 'New Jersey Employment Lawyer', area: 'Northern New Jersey', href: '/areas-we-serve/new-jersey/', es: { title: 'Abogado laboral en Nueva Jersey', area: 'Norte de Nueva Jersey' } },
 ];
 // Location pages live under /areas-we-serve/<slug>/.
 export const locationsOverview = '/areas-we-serve/';
@@ -90,19 +91,19 @@ export const practiceHref = (slug: string) => `${practiceOverview}${slug}/`;
 // Order here is the order on the homepage grid. Employer defense is listed
 // last because the firm's focus is employees.
 export const practiceAreas = [
-  { slug: 'overtime-and-unpaid-wages', icon: 'clock', title: 'Overtime & Unpaid Wages', blurb: 'Missing overtime, off-the-clock work, misclassification and late pay. New York lets you recover up to six years of unpaid wages.' },
-  { slug: 'sexual-harassment', icon: 'alert-message', title: 'Sexual Harassment', blurb: 'Unwanted advances, comments, contact or a hostile environment based on sex. You do not have to put up with it to keep your job.' },
-  { slug: 'employment-discrimination', icon: 'users', title: 'Employment Discrimination', blurb: 'Age, race, disability, religion, national origin and more. Unfair firing, demotion, pay or treatment because of who you are.' },
-  { slug: 'retaliation', icon: 'reverse', title: 'Retaliation', blurb: 'Punished for complaining, reporting discrimination or taking part in an investigation? Retaliation is its own violation of the law.' },
-  { slug: 'restaurant-and-tipped-workers', icon: 'utensils', title: 'Restaurant & Tipped Workers', blurb: 'Minimum wage, tip theft, illegal tip pools, spread-of-hours pay and overtime for kitchen, floor and delivery staff.' },
-  { slug: 'pregnancy-discrimination', icon: 'stroller', title: 'Pregnancy Discrimination', blurb: 'Employers cannot fire, demote or refuse to accommodate you because of pregnancy, childbirth or related conditions.' },
-  { slug: 'gender-discrimination', icon: 'equal', title: 'Gender Discrimination', blurb: 'Unequal pay, passed-over promotions and limited advancement because of gender.' },
-  { slug: 'womens-rights', icon: 'venus', title: "Women's Rights", blurb: 'Equal pay disputes, unfair hiring and promotion practices, harassment and pregnancy discrimination.' },
-  { slug: 'whistleblower', icon: 'megaphone', title: 'Whistleblower', blurb: 'Protection for employees who report fraud, corruption, safety violations or other wrongdoing by their employer.' },
-  { slug: 'family-and-medical-leave', icon: 'heart-pulse', title: 'Family & Medical Leave', blurb: 'Up to 12 weeks of job-protected leave for your own or a family member’s serious health condition.' },
-  { slug: 'civil-rights', icon: 'scale', title: 'Civil Rights', blurb: 'Federal, state and New York City laws that protect workers from discrimination based on protected characteristics.' },
-  { slug: 'employment-and-severance-agreements', icon: 'document', title: 'Employment & Severance Agreements', blurb: 'Review and negotiation of employment contracts, non-competes and severance packages before you sign.' },
-  { slug: 'employer-defense', icon: 'briefcase', title: 'Employer Counsel', blurb: 'Guidance for employers on handbooks, policies, dispute resolution and litigation avoidance.' },
+  { slug: 'overtime-and-unpaid-wages', icon: 'clock', title: 'Overtime & Unpaid Wages', titleEs: 'Horas adicionales y sueldos no pagados', blurb: 'Missing overtime, off-the-clock work, misclassification and late pay. New York lets you recover up to six years of unpaid wages.' },
+  { slug: 'sexual-harassment', icon: 'alert-message', title: 'Sexual Harassment', titleEs: 'Acoso sexual', blurb: 'Unwanted advances, comments, contact or a hostile environment based on sex. You do not have to put up with it to keep your job.' },
+  { slug: 'employment-discrimination', icon: 'users', title: 'Employment Discrimination', titleEs: 'Discriminación laboral', blurb: 'Age, race, disability, religion, national origin and more. Unfair firing, demotion, pay or treatment because of who you are.' },
+  { slug: 'retaliation', icon: 'reverse', title: 'Retaliation', titleEs: 'Represalias', blurb: 'Punished for complaining, reporting discrimination or taking part in an investigation? Retaliation is its own violation of the law.' },
+  { slug: 'restaurant-and-tipped-workers', icon: 'utensils', title: 'Restaurant & Tipped Workers', titleEs: 'Trabajadores de restaurantes y con propinas', blurb: 'Minimum wage, tip theft, illegal tip pools, spread-of-hours pay and overtime for kitchen, floor and delivery staff.' },
+  { slug: 'pregnancy-discrimination', icon: 'stroller', title: 'Pregnancy Discrimination', titleEs: 'Discriminación por embarazo', blurb: 'Employers cannot fire, demote or refuse to accommodate you because of pregnancy, childbirth or related conditions.' },
+  { slug: 'gender-discrimination', icon: 'equal', title: 'Gender Discrimination', titleEs: 'Discriminación de género', blurb: 'Unequal pay, passed-over promotions and limited advancement because of gender.' },
+  { slug: 'womens-rights', icon: 'venus', title: "Women's Rights", titleEs: 'Derechos de la mujer', blurb: 'Equal pay disputes, unfair hiring and promotion practices, harassment and pregnancy discrimination.' },
+  { slug: 'whistleblower', icon: 'megaphone', title: 'Whistleblower', titleEs: 'Denuncia de situaciones ilegales', blurb: 'Protection for employees who report fraud, corruption, safety violations or other wrongdoing by their employer.' },
+  { slug: 'family-and-medical-leave', icon: 'heart-pulse', title: 'Family & Medical Leave', titleEs: 'Licencia familiar y médica', blurb: 'Up to 12 weeks of job-protected leave for your own or a family member’s serious health condition.' },
+  { slug: 'civil-rights', icon: 'scale', title: 'Civil Rights', titleEs: 'Derechos civiles', blurb: 'Federal, state and New York City laws that protect workers from discrimination based on protected characteristics.' },
+  { slug: 'employment-and-severance-agreements', icon: 'document', title: 'Employment & Severance Agreements', titleEs: 'Acuerdos laborales y de indemnización', blurb: 'Review and negotiation of employment contracts, non-competes and severance packages before you sign.' },
+  { slug: 'employer-defense', icon: 'briefcase', title: 'Employer Counsel', titleEs: 'Defensa del empleador', blurb: 'Guidance for employers on handbooks, policies, dispute resolution and litigation avoidance.' },
 ];
 
 // Peter Romero's Avvo profile, where every client review on the site can be checked.

@@ -1,6 +1,7 @@
 ---
 // "Practice areas" box under "Where we practice": every practice-area page,
-// each with its icon. Spanish pages link to the Spanish version where one exists.
+// each with its icon. On Spanish pages names are in Spanish and link to the
+// Spanish version where one exists.
 import Icon from './Icon.astro';
 import { practiceAreas, practiceHref, practiceOverview, spanishHome, translations } from '../site';
 interface Props { lang?: 'en' | 'es' }
@@ -21,7 +22,7 @@ const hrefFor = (slug: string) => {
         <li>
           <a href={href} aria-current={path === href ? 'page' : undefined}>
             <Icon name={p.icon as Parameters<typeof Icon>[0]['name']} />
-            <span>{p.title}</span>
+            <span>{es ? p.titleEs : p.title}</span>
           </a>
         </li>
       );
