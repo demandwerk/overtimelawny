@@ -65,11 +65,8 @@ const steps = [
       <p class="awards__label">Recognized by peers and clients</p>
       <ul class="awards__list">
         {awards.map((a) => <li><a href={a.href} target="_blank" rel="noopener"><Image src={a.img} alt={a.alt} height={88} /></a></li>)}
-        <li class="awards__nicejob"><div class="nj-badge" data-show-reviews="1"></div></li>
       </ul>
     </div>
-    <!-- NiceJob reviews badge; the script fills in .nj-badge above. -->
-    <script is:inline type="text/javascript" src="https://cdn.nicejob.co/js/sdk.min.js?id=fdaf6f90-b56b-4b97-b05a-8d3b0e5f8f0f" defer></script>
   </section>
 
   <!-- Practice areas -->
@@ -136,6 +133,8 @@ const steps = [
         ))}
       </div>
       <div class="nj-stories" data-filter-media="hide" data-media="hide"></div>
+      <!-- NiceJob reviews widget; the script fills in .nj-stories above. -->
+      <script is:inline type="text/javascript" src="https://cdn.nicejob.co/js/sdk.min.js?id=fdaf6f90-b56b-4b97-b05a-8d3b0e5f8f0f" defer></script>
     </div>
   </section>
 
