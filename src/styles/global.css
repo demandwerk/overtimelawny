@@ -130,6 +130,7 @@ p { margin: 0 0 1em; }
 .review figcaption strong { color: var(--ink); }
 .review__verify { margin-left: auto; font-weight: 600; white-space: nowrap; }
 .prose .review { margin: 1.6em 0; }
+.nj-carousel { margin: 1.6em 0; }
 @media (max-width: 600px) { .review { padding: 24px 20px; } .review::before { top: 20px; right: 20px; width: 28px; height: 28px; } }
 .prose a { word-break: break-word; }
 .prose table { border-collapse: collapse; width: 100%; margin: 1.5em 0; font-size: 0.95rem; }

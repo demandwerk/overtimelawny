@@ -59,6 +59,8 @@ Retaliation claims may be brought under different laws, depending on the circums
   <figcaption><span><strong>Ken</strong> · August 31, 2016</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
+<div class="nj-carousel"></div>
+
 ## Statute of Limitations for Retaliation
 
 Retaliation claims may be brought under different laws, depending on the circumstances of the retaliation. For example if the employer retaliated based on a wage claim, the Fair Labor Standards Act (FLSA) may apply. If retaliation occurred for a pregnancy leave, the employee may sue based on the FMLA. Depending on the particular case, the statute of limitations can differ based on the law that applies. The statute of limitations for retaliation claims is as follows for:
