@@ -51,6 +51,7 @@ export const nav = [
     children: [
       { label: 'Representative Cases', href: '/cases/' },
       { label: 'Current Lawsuits', href: '/current-lawsuits/' },
+      { label: 'Client Testimonials', href: '/testimonials/' },
     ],
   },
   { label: 'Blog', href: '/blog/' },

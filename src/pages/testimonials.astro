@@ -1,0 +1,55 @@
+---
+// Every client review in one place, plus the NiceJob review carousel.
+import Base from '../layouts/Base.astro';
+import PageHero from '../components/PageHero.astro';
+import Review from '../components/Review.astro';
+import Icon from '../components/Icon.astro';
+import { firm, avvoProfile } from '../site';
+import { reviews } from '../data/reviews';
+---
+<Base title="Client Testimonials" description={`Client reviews of ${firm.name} and Peter A. Romero, from overtime and unpaid wage cases to discrimination, retaliation and severance negotiations.`}>
+  <PageHero
+    title="Client Testimonials"
+    eyebrow="Client reviews"
+    crumbs={[{ label: 'Home', href: '/' }]}
+    lede="What clients, and even a former opponent, say about working with Peter Romero and our firm."
+  />
+
+  <section class="section">
+    <div class="wrap">
+      <div class="reviews-grid">
+        {reviews.map((r) => <Review title={r.title} quote={r.quote} name={r.name} detail={r.detail} />)}
+      </div>
+      <p class="reviews-more"><a href={avvoProfile} target="_blank" rel="noopener">Read all our reviews on Avvo ↗</a></p>
+      <div class="nj-carousel"></div>
+    </div>
+  </section>
+
+  <section class="section section--tint">
+    <div class="wrap cta">
+      <div>
+        <h2>Ready to talk about your case?</h2>
+        <p>The first consultation is free. Tell us what happened at work and find out what your options are.</p>
+      </div>
+      <div class="cta__actions">
+        <a class="btn btn--primary" href={firm.phoneHref}><Icon name="phone" /> Call {firm.phone}</a>
+        <a class="btn btn--ghost" href="/contact-us/">Send us a message</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- NiceJob script: fills in the .nj-carousel above. -->
+  <script is:inline type="text/javascript" src="https://cdn.nicejob.co/js/sdk.min.js?id=fdaf6f90-b56b-4b97-b05a-8d3b0e5f8f0f" defer></script>
+</Base>
+
+<style>
+  .reviews-grid { columns: 2 380px; column-gap: 20px; }
+  .reviews-grid :global(.review) { break-inside: avoid; margin: 0 0 20px; }
+  .reviews-more { margin: 12px 0 0; font-weight: 650; }
+  .reviews-more a { text-decoration: none; }
+  .reviews-more a:hover { text-decoration: underline; }
+  .cta { display: flex; align-items: center; justify-content: space-between; gap: 24px 40px; flex-wrap: wrap; }
+  .cta h2 { margin-bottom: 8px; }
+  .cta p { margin: 0; color: var(--muted); max-width: 52ch; }
+  .cta__actions { display: flex; gap: 12px; flex-wrap: wrap; }
+</style>
