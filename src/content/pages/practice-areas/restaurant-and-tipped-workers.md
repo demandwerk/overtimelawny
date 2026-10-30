@@ -20,6 +20,8 @@ Under no condition may an employer retain any portion of an employee’s tips.
 
 We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, [contact our offices online](/practice-areas/restaurant-and-tipped-workers/#contact) or call us at [(631) 257-5588](tel:+16312575588). We can also set up consultations by teleconference.
 
+![A hand pulling a stack of cash from a counter](../../../assets/photos/counting-cash.jpg)
+
 ### Overtime Pay for Tipped Employees
 
 Employers are required to pay tipped employees premium overtime pay when they work more than 40 hours in a workweek.  Sometimes, employers fail to pay tipped employees at the correct overtime rate.  Employers are required to pay tipped employees overtime at the rate of one and-one-half the minimum wage rate, less the applicable tip credit.  Employers sometimes get this wrong and pay tipped employees overtime at one and one-half times the tipped rate, rather than the minimum wage rate.  

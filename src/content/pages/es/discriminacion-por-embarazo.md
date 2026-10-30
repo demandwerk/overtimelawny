@@ -7,6 +7,8 @@ kind: es
 
 Las mujeres embarazadas en el trabajo pueden estar sujetas a decisiones y tratamientos injustos debido a su embarazo. Cuando un empleador en Nueva York decide no contratar a una solicitante o decide degradar, despedir, o reducir el salario o los beneficios de una empleada por causa de su embarazo, estas son formas de discriminación. Las decisiones laborales que un empleador toma basándose en la intención de una empleada en planificar un embarazo también se considerarían discriminación.
 
+![Una trabajadora embarazada estirándose en su escritorio](../../../assets/photos/pregnant-worker-at-desk.jpg)
+
 ### La Ley de Discriminación por Embarazo (PDA) de 1978
 
 La PDA es una ley federal que protege a las mujeres embarazadas en el trabajo cuando la empresa tiene 15 empleados o más. Las mujeres que tienen la intención de quedar embarazadas, que están embarazadas actualmente, que han estado embarazadas recientemente o que padecen una condición médica durante el embarazo reciben protección bajo la PDA.
