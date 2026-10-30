@@ -43,17 +43,15 @@ export const firm = {
 };
 
 export const nav = [
-  { label: 'Team', href: '/team/' },
-  { label: 'Practice Areas', children: [] as { label: string; href: string }[] }, // filled from `practiceAreas` below
-  { label: 'Areas We Serve', children: [] as { label: string; href: string }[] }, // filled from `locations` below
   {
-    label: 'Cases',
+    label: 'About Us',
     children: [
-      { label: 'Representative Cases', href: '/cases/' },
-      { label: 'Current Lawsuits', href: '/current-lawsuits/' },
-      { label: 'Client Testimonials', href: '/testimonials/' },
+      { label: 'Team', href: '/team/' },
+      { label: 'Testimonials', href: '/testimonials/' },
     ],
   },
+  { label: 'Practice Areas', children: [] as { label: string; href: string }[] }, // filled from `practiceAreas` below
+  { label: 'Areas We Serve', children: [] as { label: string; href: string }[] }, // filled from `locations` below
   { label: 'Blog', href: '/blog/' },
 ];
 
