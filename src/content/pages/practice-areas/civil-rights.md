@@ -71,6 +71,8 @@ At Romero Law Group, PLLC, our civil rights lawyers have successfully represente
   <figcaption><span><strong>Anonymous</strong> · August 31, 2016</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
+<div class="nj-stories" data-filter-media="hide" data-media="hide"></div>
+
 ## Consult With a Civil Rights Lawyer
 
 Arrange a free consultation to speak with a civil rights attorney and find out how we can help.  Call [(631) 257-5588](tel:+16312575588) or [contact us online](/practice-areas/civil-rights/#contact) to arrange a consultation.

@@ -59,6 +59,8 @@ NY Labor law prohibits employers from discriminating against women who choose to
   <figcaption><span><strong>Anonymous</strong> · February 15, 2018</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
+<div class="nj-stories" data-filter-media="hide" data-media="hide"></div>
+
 ## Statute of Limitations on Filing a Pregnancy Discrimination Claim
 
 As with other employment discrimination claims, you have one-year from the last incident of pregnancy discrimination to file a lawsuit.

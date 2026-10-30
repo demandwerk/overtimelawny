@@ -54,6 +54,8 @@ Uno de nuestros clientes publicó el siguiente testimonio después de que maneja
   <figcaption><span><strong>John</strong> · 5 de marzo de 2016</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Vea nuestras reseñas en Avvo ↗</a></figcaption>
 </figure>
 
+<div class="nj-stories" data-filter-media="hide" data-media="hide"></div>
+
 ## Ambiente hostil de trabajo
 
 ¿Qué constituye un ambiente hostil de trabajo? Existe un ambiente hostil de trabajo cuando una conducta o comunicación no deseada y discriminatoria es ofensiva, intimidante o interfiere con el desempeño laboral de un empleado. La discriminación a menudo se manifiesta en forma de amenazas físicas o verbales, bromas ofensivas, comentarios despectivos, fotografías y otros tipos de burlas. En tales casos, el empleado puede no ser la única víctima. Otros empleados que escuchan o ven el acoso también pueden verse afectados negativamente y su desempeño laboral puede verse afectado.
