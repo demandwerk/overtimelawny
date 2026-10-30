@@ -47,8 +47,6 @@ Miscalssifying an employee as “Independent contractor” is another way in whi
   <figcaption><span><strong>Ken</strong> · August 31, 2016</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
-<div class="nj-carousel"></div>
-
 ### Wage and Hour Rights Under New York Laws
 
 New York wage and hour laws provide workers with greater protection than federal laws. Here are some facts you may not know about your rights to claiming wages:
