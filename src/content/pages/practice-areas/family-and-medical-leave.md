@@ -40,7 +40,7 @@ Below is a review written by one of our clients that we represented in a case in
   <figcaption><span><strong>Sophia</strong> · December 6, 2016 · FMLA Violations</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
-<div class="nj-stories" data-filter-media="hide" data-media="hide"></div>
+<div class="nj-stories" data-filter-media="hide" data-style="single"></div>
 
 ### New York Paid Family Leave Benefit
 
