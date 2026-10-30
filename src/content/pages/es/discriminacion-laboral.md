@@ -28,6 +28,8 @@ En todo el estado de Nueva York y también en todo el país, la discriminación 
 
 Los empleados también reciben protección legal contra [represalias](/es/represalias/) por presentar un reclamo, participar en una investigación o testificar en una demanda que se ocupa de la discriminación.
 
+![Un trabajador sentado a solas, pensativo](../../../assets/photos/worker-thinking.jpg)
+
 ## Discriminación por discapacidad en el lugar de trabajo
 
 Tratar a un empleado desfavorablemente debido a una discapacidad es ilegal según la Ley de Estadounidenses con Discapacidades (ADA) y también según las leyes estatales de Nueva York. Los empleadores deben proporcionar ajustes razonables para un empleado discapacitado, a menos que esto genere una dificultad o un gasto significativo para el empleador.

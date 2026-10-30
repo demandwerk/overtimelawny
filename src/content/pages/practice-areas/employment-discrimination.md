@@ -29,6 +29,8 @@ Throughout the State of New York and also nationwide, employee discrimination an
 
 Employees also receive legal protection against [retaliation](/practice-areas/retaliation/) for filing a claim, participating in an investigation or testifying in lawsuit that deals with discrimination.
 
+![A worker sitting alone, deep in thought](../../../assets/photos/worker-thinking.jpg)
+
 ## Disability Discrimination in the Workplace
 
 Treating an employee unfavorably based on a disability is illegal under the Americans with Disabilities Act (ADA) and also under New York laws. Employers must provide reasonable accommodation for a disabled employee unless it would create significant difficulty or expense for the employer.

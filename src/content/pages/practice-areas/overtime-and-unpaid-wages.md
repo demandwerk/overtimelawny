@@ -7,6 +7,8 @@ kind: practice
 
 Whether inadvertent or intentional, failures to pay the minimum wage and unpaid overtime are types of wage theft on the part of employers. Employers have an obligation to pay their employees fairly, based on federal and state labor laws. The Fair Labor Standards Act (FLSA) and New York wage and Hour Law dictate what wages are fair and how they must be paid.
 
+![Office clocks on a desk while coworkers talk in the background](../../../assets/photos/office-clocks.jpg)
+
 ### What Is Overtime?
 
 Under the FLSA, working overtime refers to working more than 40 hours in one workweek. Any hours worked over 40 are subject to FLSA overtime. How does overtime work? You take whatever the employee’s hourly rate is and multiply it by 1.5. This is how to compute overtime pay. For example, if the employee earns $20 per hour and worked a 40-hour workweek, the pay would be $800. If the employee worked 10 hour of overtime, then time and a half is $30 per hour, which results in an additional $300, totaling $1100 for the 50-hour workweek.

@@ -17,6 +17,8 @@ You have a right to be free of sexual harassment in the workplace. At the Romero
 
 To schedule a free initial consultation, [contact our offices online](/practice-areas/sexual-harassment/#contact) or call us at [(631) 257-5588](tel:+16312575588).
 
+![A supervisor resting his hand on an uncomfortable employee’s shoulder](../../../assets/photos/supervisor-unwanted-touch.jpg)
+
 ### What Is Sexual Harassment in the Workplace?
 
 Sexual harassment at work is unwelcome sexual conduct directed toward an employee regardless of the employee’s gender. Examples of sexual harassment include:

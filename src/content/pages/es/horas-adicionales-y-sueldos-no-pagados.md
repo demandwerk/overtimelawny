@@ -7,6 +7,8 @@ kind: es
 
 Ya sea involuntariamente o intencionalmente, la falta de pago del sueldo mínimo y la negación de la tarifa especial por horas adicionales trabajadas son tipos de robo de salario por parte de los empleadores. Los empleadores tienen la obligación de pagar a sus empleados de manera justa, según las leyes laborales federales y estatales. La Ley de Normas Laborales Justas (FLSA) y la Ley de Horas y Salarios de Nueva York dictan que los salarios sean justos y también cómo deben pagarse.
 
+![Relojes en un escritorio de oficina mientras dos compañeros conversan](../../../assets/photos/office-clocks.jpg)
+
 ## ¿Qué son los pagos por horas adicionales?
 
 Bajo la FLSA, trabajar horas adicionales se refiere a trabajar más de 40 horas en una semana laboral. Las horas trabajadas por encima de 40 horas por semana están sujetas a la compensación adicional que exige la FLSA.

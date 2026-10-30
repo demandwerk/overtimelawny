@@ -7,6 +7,8 @@ kind: practice
 
 Pregnant women at work can be subject to unfair decision-making and treatment due to their pregnancy. When a NY employer decides not to hire an applicant or decides to demote, fire, layoff, or reduce the pay or benefits of an employee based on pregnancy, these are forms of pregnancy discrimination. Similar employment decisions that an employer makes based on a female employee’s intention to become pregnant would also be considered discrimination.
 
+![A pregnant worker stretching at her office desk](../../../assets/photos/pregnant-worker-at-desk.jpg)
+
 ### The Pregnancy Discrimination Act (PDA) of 1978
 
 The PDA is a federal law that protects pregnant women at work when the company has 15 or more employees. Women, who are intending to become pregnant, who have current or past pregnancies or who suffer from a medical condition during pregnancy receive protection under the PDA.
