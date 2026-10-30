@@ -52,7 +52,14 @@ export const nav = [
   },
   { label: 'Practice Areas', children: [] as { label: string; href: string }[] }, // filled from `practiceAreas` below
   { label: 'Areas We Serve', children: [] as { label: string; href: string }[] }, // filled from `locations` below
-  { label: 'Blog', href: '/blog/' },
+  {
+    label: 'Resources',
+    children: [
+      { label: 'Blog', href: '/blog/' },
+      { label: 'Representative Cases', href: '/cases/' },
+      { label: 'Current Lawsuits', href: '/current-lawsuits/' },
+    ],
+  },
 ];
 
 // Areas the firm serves, shown in the sidebar on content pages and on the
