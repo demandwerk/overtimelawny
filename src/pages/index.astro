@@ -7,7 +7,7 @@ import Icon from '../components/Icon.astro';
 import Review from '../components/Review.astro';
 import PracticeCarousel from '../components/PracticeCarousel.astro';
 import heroImg from '../assets/hero/fire-island-lighthouse.jpg';
-import { firm, testimonials, team, awards, locations, avvoProfile } from '../site';
+import { firm, testimonials, team, awards, locations } from '../site';
 
 const posts = (await getCollection('posts')).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 3);
 const fmt = (d: Date) => d.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
@@ -144,7 +144,7 @@ const steps = [
     </ul>
     <div class="wrap carousel__foot">
       <div class="carousel__progress" aria-hidden="true"><span></span></div>
-      <a class="reviews__all" href={avvoProfile} target="_blank" rel="noopener">Read all our Avvo reviews ↗</a>
+      <a class="reviews__all" href="/testimonials/">Read all client testimonials →</a>
     </div>
     <div class="wrap"><div class="nj-carousel"></div></div>
   </section>
