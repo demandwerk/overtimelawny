@@ -2,6 +2,7 @@
 title: "Long Island Employment Law Attorney"
 description: "Romero Law Group has a Long Island office in Hauppauge. Tell a Long Island employment law attorney what happened at work in Nassau or Suffolk County and find out whether you may have a claim."
 kind: location
+hero: ../../../assets/hero/fire-island-lighthouse.jpg
 ---
 You reported the sexual comments your supervisor kept making. A week later, you were written up for the first time. What happened between those two events can matter just as much as the write-up itself.
 
