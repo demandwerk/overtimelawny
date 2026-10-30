@@ -3,8 +3,9 @@
 // Markdown uses the same markup directly.
 import { avvoProfile } from '../site';
 
-interface Props { quote: string | string[]; name: string; detail?: string; title?: string; lang?: 'en' | 'es' }
-const { quote, name, detail, title, lang = 'en' } = Astro.props;
+// `link={false}` drops the per-card Avvo link, for lists that link to Avvo once.
+interface Props { quote: string | string[]; name: string; detail?: string; title?: string; lang?: 'en' | 'es'; link?: boolean }
+const { quote, name, detail, title, lang = 'en', link = true } = Astro.props;
 const paragraphs = Array.isArray(quote) ? quote : [quote];
 ---
 <figure class="review">
@@ -13,6 +14,6 @@ const paragraphs = Array.isArray(quote) ? quote : [quote];
   <blockquote>{paragraphs.map((p) => <p>{p}</p>)}</blockquote>
   <figcaption>
     <span><strong>{name}</strong>{detail && <> · {detail}</>}</span>
-    <a class="review__verify" href={avvoProfile} target="_blank" rel="noopener">{lang === 'es' ? 'Vea nuestras reseñas en Avvo ↗' : 'Check our Avvo reviews ↗'}</a>
+    {link && <a class="review__verify" href={avvoProfile} target="_blank" rel="noopener">{lang === 'es' ? 'Vea nuestras reseñas en Avvo ↗' : 'Check our Avvo reviews ↗'}</a>}
   </figcaption>
 </figure>
