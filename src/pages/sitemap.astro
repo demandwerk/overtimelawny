@@ -1,0 +1,82 @@
+---
+// Human-readable sitemap. Built from the content collections, so new pages
+// and posts appear here automatically. Search engines use /sitemap-index.xml.
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import PageHero from '../components/PageHero.astro';
+import { firm, locationsOverview, practiceAreas, practiceHref, practiceOverview, spanishHome } from '../site';
+
+const pages = await getCollection('pages');
+const posts = (await getCollection('posts')).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+const link = (id: string) => ({ label: pages.find((p) => p.id === id)!.data.title, href: id === 'es' ? spanishHome : `/${id}/` });
+const ofKind = (kind: string) => pages.filter((p) => p.data.kind === kind);
+
+const groups: { heading: string; links: { label: string; href: string }[] }[] = [
+  {
+    heading: 'Main pages',
+    links: [
+      { label: 'Home', href: '/' },
+      { label: 'Team', href: '/team/' },
+      { label: 'Client Testimonials', href: '/testimonials/' },
+      { label: 'Contact Us', href: '/contact-us/' },
+    ],
+  },
+  {
+    heading: 'Practice areas',
+    links: [
+      { label: 'All practice areas', href: practiceOverview },
+      ...practiceAreas.map((p) => ({ label: p.title, href: practiceHref(p.slug) })),
+    ],
+  },
+  {
+    heading: 'Areas we serve',
+    links: [
+      { label: 'All areas we serve', href: locationsOverview },
+      ...ofKind('location').map((p) => ({ label: p.data.title, href: `/${p.id}/` })),
+    ],
+  },
+  {
+    heading: 'Resources',
+    links: [{ label: 'Blog', href: '/blog/' }, link('cases'), link('current-lawsuits'), link('contact-an-unpaid-wages-lawyer')],
+  },
+  {
+    heading: 'En español',
+    links: [link('es'), ...ofKind('es').filter((p) => p.id !== 'es').map((p) => ({ label: p.data.title, href: `/${p.id}/` }))],
+  },
+  {
+    heading: 'Site information',
+    links: [link('disclaimer'), link('llm-ai-agent-info'), { label: 'XML sitemap (for search engines)', href: '/sitemap-index.xml' }],
+  },
+];
+---
+<Base title="Sitemap" description={`Every page on the ${firm.name} website: practice areas, areas we serve, resources, Spanish pages and blog posts.`}>
+  <PageHero title="Sitemap" crumbs={[{ label: 'Home', href: '/' }]} />
+
+  <div class="wrap section">
+    <div class="groups">
+      {groups.map((g) => (
+        <section>
+          <h2>{g.heading}</h2>
+          <ul>{g.links.map((l) => <li><a href={l.href}>{l.label}</a></li>)}</ul>
+        </section>
+      ))}
+    </div>
+
+    <section class="posts">
+      <h2>Blog posts</h2>
+      <ul>{posts.map((p) => <li><a href={`/${p.id}/`}>{p.data.title}</a></li>)}</ul>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .groups { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(260px, 100%), 1fr)); gap: 40px 48px; }
+  h2 { font-size: 1.2rem; margin-bottom: 14px; padding-bottom: 10px; border-bottom: 2px solid var(--blue); }
+  ul { list-style: none; margin: 0; padding: 0; }
+  li { margin-bottom: 9px; }
+  a { text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .posts { margin-top: 56px; }
+  .posts ul { columns: 2 320px; column-gap: 48px; }
+  .posts li { break-inside: avoid; }
+</style>
