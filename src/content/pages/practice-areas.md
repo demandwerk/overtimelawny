@@ -20,8 +20,6 @@ At Romero Law Group, PLLC, our attorneys represent clients in a broad scope of e
   <figcaption><span><strong>Anonymous</strong> · February 15, 2018</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
-<div class="nj-carousel"></div>
-
 ## Get Legal Help With Employment Law Issues
 
 Whatever your legal concern is with employment law, our attorneys can help. Employment law is the entire focus of our practice and we have years of experience helping clients resolve employment disputes and other issues. Arrange a free consultation and find out how we can help. Call [(631) 257-5588](tel:+16312575588) or [contact us online](/practice-areas/#contact).

@@ -57,8 +57,6 @@ One of our clients posted the following testimonial after we successfully handle
   <figcaption><span><strong>John</strong> · March 5, 2016</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
-<div class="nj-carousel"></div>
-
 ## Hostile Work Environment
 
 What constitutes a hostile work environment? A hostile work environment exists when unwelcome and discriminatory conduct or communication are offensive, intimidating or interfere with an employee's work performance. Discrimination often manifests in the form of physical or verbal threats, offensive jokes, derogatory comments, photos and other types of ridicule. In such instances, the employee targeted for harassment may not be the only victim. Other employees who hear or see the harassment may also be adversely affected and their work performance impacted.
