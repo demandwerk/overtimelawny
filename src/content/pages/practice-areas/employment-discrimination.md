@@ -57,7 +57,7 @@ One of our clients posted the following testimonial after we successfully handle
   <figcaption><span><strong>John</strong> · March 5, 2016</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
-<div class="nj-stories" data-filter-media="hide" data-media="hide"></div>
+<div class="nj-stories" data-filter-media="hide" data-style="single"></div>
 
 ## Hostile Work Environment
 

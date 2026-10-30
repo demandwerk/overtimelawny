@@ -25,7 +25,7 @@ A severance agreement, also sometimes called a separation agreement, is a bindin
   <figcaption><span><strong>Michael</strong> · Amityville, New York · March 2016 · Separation Settlement</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
-<div class="nj-stories" data-filter-media="hide" data-media="hide"></div>
+<div class="nj-stories" data-filter-media="hide" data-style="single"></div>
 
 ## Consult With an Experienced Employment Law Attorney
 

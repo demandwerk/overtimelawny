@@ -54,7 +54,7 @@ Uno de nuestros clientes publicó el siguiente testimonio después de que maneja
   <figcaption><span><strong>John</strong> · 5 de marzo de 2016</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Vea nuestras reseñas en Avvo ↗</a></figcaption>
 </figure>
 
-<div class="nj-stories" data-filter-media="hide" data-media="hide"></div>
+<div class="nj-stories" data-filter-media="hide" data-style="single"></div>
 
 ## Ambiente hostil de trabajo
 

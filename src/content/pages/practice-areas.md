@@ -20,7 +20,7 @@ At Romero Law Group, PLLC, our attorneys represent clients in a broad scope of e
   <figcaption><span><strong>Anonymous</strong> · February 15, 2018</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
-<div class="nj-stories" data-filter-media="hide" data-media="hide"></div>
+<div class="nj-stories" data-filter-media="hide" data-style="single"></div>
 
 ## Get Legal Help With Employment Law Issues
 

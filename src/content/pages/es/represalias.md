@@ -61,7 +61,7 @@ Los reclamos por represalias pueden presentarse bajo diferentes leyes, dependien
   <figcaption><span><strong>Ken</strong> · 31 de agosto de 2016</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Vea nuestras reseñas en Avvo ↗</a></figcaption>
 </figure>
 
-<div class="nj-stories" data-filter-media="hide" data-media="hide"></div>
+<div class="nj-stories" data-filter-media="hide" data-style="single"></div>
 
 ## Consulte con un abogado laboral especialista en represalias
 

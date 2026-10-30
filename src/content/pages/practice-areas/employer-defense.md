@@ -26,7 +26,7 @@ Having a skilled advocate who can deal with legal issues helps minimize business
   <figcaption><span><strong>Steve</strong> · August 27, 2015</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
-<div class="nj-stories" data-filter-media="hide" data-media="hide"></div>
+<div class="nj-stories" data-filter-media="hide" data-style="single"></div>
 
 ## When to Consult With an Employment Law Attorney
 

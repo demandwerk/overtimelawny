@@ -39,7 +39,7 @@ En la oficina legal de Peter A. Romero, nuestros abogados representan a clientes
   <figcaption><span><strong>Anónimo</strong> · 15 de febrero de 2018</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Vea nuestras reseñas en Avvo ↗</a></figcaption>
 </figure>
 
-<div class="nj-stories" data-filter-media="hide" data-media="hide"></div>
+<div class="nj-stories" data-filter-media="hide" data-style="single"></div>
 
 ## Obtenga ayuda legal para resolver asuntos de leyes laborales
 
