@@ -40,8 +40,6 @@ Below is a review written by one of our clients that we represented in a case in
   <figcaption><span><strong>Sophia</strong> · December 6, 2016 · FMLA Violations</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
-<div class="nj-stories" data-filter-media="hide" data-style="single"></div>
-
 ### New York Paid Family Leave Benefit
 
 Under New York law, a qualified employee can receive up to 10 weeks of paid family leave. In 2021, the leave time increases to 12 weeks of paid leave. The paid benefit is 60% of the weekly average earnings. However, the law has established a cap on the highest amount of payment a worker can receive.

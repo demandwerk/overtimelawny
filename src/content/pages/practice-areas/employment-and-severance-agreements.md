@@ -25,8 +25,6 @@ A severance agreement, also sometimes called a separation agreement, is a bindin
   <figcaption><span><strong>Michael</strong> · Amityville, New York · March 2016 · Separation Settlement</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
-<div class="nj-stories" data-filter-media="hide" data-style="single"></div>
-
 ## Consult With an Experienced Employment Law Attorney
 
 An experienced and knowledgeable lawyer can help you negotiate the terms of your severance agreement to ensure you will receive the most benefit. It is also wise to have a lawyer review an employment contract so you fully understand the terms before signing. If you have already signed a severance agreement and are over the age of 40, you have seven days to change your decision. A lawyer can review the agreement and provide you with legal advice. Arrange a free consultation and find out how we can help. Call [(631) 257-5588](tel:+16312575588) or [contact us online](/practice-areas/employment-and-severance-agreements/#contact).

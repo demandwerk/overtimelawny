@@ -26,8 +26,6 @@ Having a skilled advocate who can deal with legal issues helps minimize business
   <figcaption><span><strong>Steve</strong> · August 27, 2015</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
-<div class="nj-stories" data-filter-media="hide" data-style="single"></div>
-
 ## When to Consult With an Employment Law Attorney
 
 The first intimation that an employee is disgruntled and possibly considering litigation is the time to consult with an attorney. Taking corrective measures or otherwise resolving issues amicably is the best legal approach. Our firm can help you by advising the most effective course of action. If litigation becomes inevitable, we can provide aggressive representation and work diligently to reduce your liability. We are skilled in defending companies against allegations of discrimination, whistleblower, harassment, retaliation, and wage and hour violations.
