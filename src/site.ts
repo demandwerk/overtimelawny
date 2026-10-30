@@ -90,19 +90,19 @@ export const practiceHref = (slug: string) => `${practiceOverview}${slug}/`;
 // Order here is the order on the homepage grid. Employer defense is listed
 // last because the firm's focus is employees.
 export const practiceAreas = [
-  { slug: 'overtime-and-unpaid-wages', title: 'Overtime & Unpaid Wages', blurb: 'Missing overtime, off-the-clock work, misclassification and late pay. New York lets you recover up to six years of unpaid wages.' },
-  { slug: 'sexual-harassment', title: 'Sexual Harassment', blurb: 'Unwanted advances, comments, contact or a hostile environment based on sex. You do not have to put up with it to keep your job.' },
-  { slug: 'employment-discrimination', title: 'Employment Discrimination', blurb: 'Age, race, disability, religion, national origin and more. Unfair firing, demotion, pay or treatment because of who you are.' },
-  { slug: 'retaliation', title: 'Retaliation', blurb: 'Punished for complaining, reporting discrimination or taking part in an investigation? Retaliation is its own violation of the law.' },
-  { slug: 'restaurant-and-tipped-workers', title: 'Restaurant & Tipped Workers', blurb: 'Minimum wage, tip theft, illegal tip pools, spread-of-hours pay and overtime for kitchen, floor and delivery staff.' },
-  { slug: 'pregnancy-discrimination', title: 'Pregnancy Discrimination', blurb: 'Employers cannot fire, demote or refuse to accommodate you because of pregnancy, childbirth or related conditions.' },
-  { slug: 'gender-discrimination', title: 'Gender Discrimination', blurb: 'Unequal pay, passed-over promotions and limited advancement because of gender.' },
-  { slug: 'womens-rights', title: "Women's Rights", blurb: 'Equal pay disputes, unfair hiring and promotion practices, harassment and pregnancy discrimination.' },
-  { slug: 'whistleblower', title: 'Whistleblower', blurb: 'Protection for employees who report fraud, corruption, safety violations or other wrongdoing by their employer.' },
-  { slug: 'family-and-medical-leave', title: 'Family & Medical Leave', blurb: 'Up to 12 weeks of job-protected leave for your own or a family member’s serious health condition.' },
-  { slug: 'civil-rights', title: 'Civil Rights', blurb: 'Federal, state and New York City laws that protect workers from discrimination based on protected characteristics.' },
-  { slug: 'employment-and-severance-agreements', title: 'Employment & Severance Agreements', blurb: 'Review and negotiation of employment contracts, non-competes and severance packages before you sign.' },
-  { slug: 'employer-defense', title: 'Employer Counsel', blurb: 'Guidance for employers on handbooks, policies, dispute resolution and litigation avoidance.' },
+  { slug: 'overtime-and-unpaid-wages', icon: 'clock', title: 'Overtime & Unpaid Wages', blurb: 'Missing overtime, off-the-clock work, misclassification and late pay. New York lets you recover up to six years of unpaid wages.' },
+  { slug: 'sexual-harassment', icon: 'alert-message', title: 'Sexual Harassment', blurb: 'Unwanted advances, comments, contact or a hostile environment based on sex. You do not have to put up with it to keep your job.' },
+  { slug: 'employment-discrimination', icon: 'users', title: 'Employment Discrimination', blurb: 'Age, race, disability, religion, national origin and more. Unfair firing, demotion, pay or treatment because of who you are.' },
+  { slug: 'retaliation', icon: 'reverse', title: 'Retaliation', blurb: 'Punished for complaining, reporting discrimination or taking part in an investigation? Retaliation is its own violation of the law.' },
+  { slug: 'restaurant-and-tipped-workers', icon: 'utensils', title: 'Restaurant & Tipped Workers', blurb: 'Minimum wage, tip theft, illegal tip pools, spread-of-hours pay and overtime for kitchen, floor and delivery staff.' },
+  { slug: 'pregnancy-discrimination', icon: 'stroller', title: 'Pregnancy Discrimination', blurb: 'Employers cannot fire, demote or refuse to accommodate you because of pregnancy, childbirth or related conditions.' },
+  { slug: 'gender-discrimination', icon: 'equal', title: 'Gender Discrimination', blurb: 'Unequal pay, passed-over promotions and limited advancement because of gender.' },
+  { slug: 'womens-rights', icon: 'venus', title: "Women's Rights", blurb: 'Equal pay disputes, unfair hiring and promotion practices, harassment and pregnancy discrimination.' },
+  { slug: 'whistleblower', icon: 'megaphone', title: 'Whistleblower', blurb: 'Protection for employees who report fraud, corruption, safety violations or other wrongdoing by their employer.' },
+  { slug: 'family-and-medical-leave', icon: 'heart-pulse', title: 'Family & Medical Leave', blurb: 'Up to 12 weeks of job-protected leave for your own or a family member’s serious health condition.' },
+  { slug: 'civil-rights', icon: 'scale', title: 'Civil Rights', blurb: 'Federal, state and New York City laws that protect workers from discrimination based on protected characteristics.' },
+  { slug: 'employment-and-severance-agreements', icon: 'document', title: 'Employment & Severance Agreements', blurb: 'Review and negotiation of employment contracts, non-competes and severance packages before you sign.' },
+  { slug: 'employer-defense', icon: 'briefcase', title: 'Employer Counsel', blurb: 'Guidance for employers on handbooks, policies, dispute resolution and litigation avoidance.' },
 ];
 
 // Peter Romero's Avvo profile, where every client review on the site can be checked.
