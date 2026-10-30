@@ -42,6 +42,8 @@ Types of discrimination also include harassing an applicant or employee based on
 -   [Derosa v. National Envelope Corp. 595 F.3d 99 (2d Cir. 2010)](/cases/#derosa-v-natl-envelope-corp)
 -   [Fashawn Cohen v. State of New York 10 N.Y.S.3d 628 (2d Dep't 2015)](/cases/#cohen-v-state)
 
+Learn more on our [disability discrimination](/practice-areas/disability-discrimination/) page.
+
 ## Disability Discrimination Case Testimonial
 
 One of our clients posted the following testimonial after we successfully handled his case:
