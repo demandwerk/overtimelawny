@@ -10,6 +10,7 @@ import ConsultForm from '../components/ConsultForm.astro';
 import Icon from '../components/Icon.astro';
 import PracticeCarousel from '../components/PracticeCarousel.astro';
 import LocationsNav from '../components/LocationsNav.astro';
+import PracticeNav from '../components/PracticeNav.astro';
 import { firm, locationsOverview, practiceOverview, spanishHome, translations } from '../site';
 
 export async function getStaticPaths() {
@@ -84,6 +85,7 @@ const otherLang = es
           <span><small>{es ? 'O llámenos' : 'Prefer to talk? Call'}</small>{firm.phone}</span>
         </a>
         <LocationsNav lang={lang} />
+        <PracticeNav lang={lang} />
       </aside>
     )}
   </div>
