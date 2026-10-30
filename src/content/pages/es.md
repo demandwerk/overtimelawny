@@ -39,8 +39,6 @@ En la oficina legal de Peter A. Romero, nuestros abogados representan a clientes
   <figcaption><span><strong>Anónimo</strong> · 15 de febrero de 2018</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Vea nuestras reseñas en Avvo ↗</a></figcaption>
 </figure>
 
-<div class="nj-stories" data-filter-media="hide" data-style="single"></div>
-
 ## Obtenga ayuda legal para resolver asuntos de leyes laborales
 
 Cualquiera que sea su preocupación legal con la ley laboral, nuestros abogados pueden ayudarle. El derecho laboral es el enfoque completo de nuestra práctica y tenemos años de experiencia ayudando a los clientes a resolver disputas laborales y otros problemas. Obtenga una consulta gratuita y descubra cómo podemos ayudar. Llame al [(631) 257-5588](tel:+16312575588) o [contáctenos en línea](/es/#contact).

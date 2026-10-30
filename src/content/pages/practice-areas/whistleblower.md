@@ -38,8 +38,6 @@ New York Labor Law § 740 and § 741 protect employees who report substantial an
   <figcaption><span><strong>Anonymous</strong> · February 20, 2018</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
-<div class="nj-stories" data-filter-media="hide" data-style="single"></div>
-
 ## Consult With an Experienced Whistleblower Lawyer
 
 If you have legal concerns about whistleblower cases or have suffered from retaliation as a result of your reporting actions, consult with an experienced attorney. At Romero Law Group, PLLC, we are glad to answer your questions and offer legal guidance. Call our firm at [(631) 257-5588](tel:+16312575588) or [contact us online](/practice-areas/whistleblower/#contact).

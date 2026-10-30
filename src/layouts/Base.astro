@@ -63,6 +63,10 @@ const schema = {
     <Header lang={lang} alt={alternates ? (lang === 'es' ? alternates.en.pathname : alternates.es.pathname) : undefined} />
     <main id="main"><slot /></main>
     <Footer lang={lang} />
+    <!-- NiceJob: floating recent-reviews pop-up on every page. The script also
+         fills in the .nj-badge on the homepage. -->
+    <div class="nj-engage" data-event-types="Review" data-position="left"></div>
+    <script is:inline type="text/javascript" src="https://cdn.nicejob.co/js/sdk.min.js?id=fdaf6f90-b56b-4b97-b05a-8d3b0e5f8f0f" defer></script>
   </body>
 </html>
 

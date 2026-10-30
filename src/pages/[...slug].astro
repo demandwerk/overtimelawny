@@ -47,8 +47,6 @@ const isOverview = entry.id === 'practice-areas';
 const showCarousel = showSidebar && !es && !isOverview;
 // Case and lawsuit titles on these pages are set in capitals.
 const caseList = entry.id === 'cases' || entry.id === 'current-lawsuits';
-// Pages with a NiceJob reviews widget load NiceJob's script once.
-const niceJob = entry.body?.includes('nj-stories') ?? false;
 // Link to this page's translation, when there is one.
 const path = `/${entry.id}/`;
 const otherLang = es
@@ -100,7 +98,6 @@ const otherLang = es
       tint
     />
   )}
-  {niceJob && <script is:inline type="text/javascript" src="https://cdn.nicejob.co/js/sdk.min.js?id=fdaf6f90-b56b-4b97-b05a-8d3b0e5f8f0f" defer></script>}
 </Base>
 
 <style>
