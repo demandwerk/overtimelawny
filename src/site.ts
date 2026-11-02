@@ -147,6 +147,8 @@ export const team = [
     name: 'Peter A. Romero',
     role: 'Founding Attorney',
     initials: 'PR',
+    // Short credential tags for the homepage team cards.
+    tags: ['20+ years, employment law only', 'Super Lawyers® 2019–2025', 'Best Lawyers®'],
     photo: peter,
     badges: [awards[0], awards[2], awards[3]],
     bio: [
@@ -163,6 +165,7 @@ export const team = [
     name: 'David D. Barnhorn',
     role: 'Attorney',
     initials: 'DB',
+    tags: ['Super Lawyers Rising Star', 'Admitted in NY & NJ'],
     photo: david,
     badges: [awards[1]],
     bio: [
@@ -180,6 +183,7 @@ export const team = [
     name: 'Matthew J. Farnworth',
     role: 'Attorney',
     initials: 'MF',
+    tags: ['Wage & hour collective actions', 'Admitted in NY & NJ'],
     photo: matthew,
     bio: [
       'Matthew J. Farnworth has dedicated his practice exclusively to representing employees in labor and employment matters, including wage and hour violations, employment discrimination and unlawful retaliation. He regularly represents employees before the U.S. Equal Employment Opportunity Commission and the New York State Division of Human Rights, and in cases from inception to trial in state and federal courts in New York and New Jersey.',
@@ -194,6 +198,7 @@ export const team = [
     name: 'Angelica Villalba',
     role: 'Paralegal · Habla español',
     initials: 'AV',
+    tags: ['Fluent in English & Spanish', 'ABA-certified paralegal'],
     photo: angelica,
     bio: [
       'Angelica Villalba is fluent in English and Spanish. She earned her B.A. in Sociology at the State University of New York at Cortland and is ABA Certified in Paralegal Studies from Hofstra University. Angelica assists the firm’s attorneys and clients with preparing and managing materials for legal matters.',
