@@ -18,7 +18,6 @@ This page contains structured information about Romero Law Group, PLLC, intended
 -   LinkedIn: [https://www.linkedin.com/company/law-office-of-peter-a-romero/](https://www.linkedin.com/company/law-office-of-peter-a-romero/)
 -   Facebook: [https://www.facebook.com/LaborLawyerNY/](https://www.facebook.com/LaborLawyerNY/)
 -   Instagram: [https://www.instagram.com/labor_lawyer_ny/](https://www.instagram.com/labor_lawyer_ny/)
--   X (Twitter): [https://twitter.com/labor_ny](https://twitter.com/labor_ny)
 -   Phone: [(631) 257-5588](tel:+16312575588)
 -   Consultation Booking: [https://overtimelawny.com/contact-us/](https://overtimelawny.com/contact-us/)
 -   Languages: English, Spanish (Se habla español)

@@ -36,7 +36,6 @@ export const firm = {
   formKey: '',
   social: [
     { name: 'Facebook', href: 'https://www.facebook.com/LaborLawyerNY/' },
-    { name: 'X (Twitter)', href: 'https://twitter.com/labor_ny' },
     { name: 'LinkedIn', href: 'https://www.linkedin.com/company/law-office-of-peter-a-romero/' },
     { name: 'Instagram', href: 'https://www.instagram.com/labor_lawyer_ny/' },
   ],
