@@ -7,8 +7,9 @@
   --blue-tint: #ebeef6;
   --blue-tint-2: #d6dcec;
   --blue-on-dark: #a9b8e3;
+  --navy: #141f3f;         /* footer and top bar: a deeper shade of the brand blue */
 
-  --ink: #0d1014;          /* dark sections: near-black, not navy */
+  --ink: #0d1014;          /* near-black, for text and button hovers */
   --ink-2: #171b22;
   --text: #1c2029;
   --muted: #586070;
@@ -57,8 +58,8 @@ p { margin: 0 0 1em; }
 .wrap { max-width: var(--wrap); margin: 0 auto; padding: 0 var(--gutter); }
 .section { padding: clamp(56px, 8vw, 112px) 0; }
 .section--tint { background: var(--tint); }
-.section--dark { background: var(--ink); color: #c9ced8; }
-.section--dark h2, .section--dark h3 { color: #fff; }
+.section--blue { background: var(--blue); color: rgb(255 255 255 / 82%); }
+.section--blue h2, .section--blue h3 { color: #fff; }
 
 .eyebrow {
   display: inline-flex; align-items: center; gap: 10px;
@@ -68,7 +69,7 @@ p { margin: 0 0 1em; }
   margin-bottom: 18px;
 }
 .eyebrow::before { content: ''; width: 28px; height: 3px; background: currentColor; }
-.section--dark .eyebrow { color: var(--blue-on-dark); }
+.section--blue .eyebrow { color: var(--blue-on-dark); }
 .lede { font-size: 1.2rem; color: var(--muted); max-width: 62ch; }
 .section-head { max-width: 760px; margin-bottom: clamp(32px, 5vw, 56px); }
 
@@ -84,8 +85,8 @@ p { margin: 0 0 1em; }
 .btn--primary:hover { background: var(--blue-hover); color: #fff; }
 .btn--ghost { border-color: currentColor; color: var(--ink); }
 .btn--ghost:hover { background: var(--ink); color: #fff; border-color: var(--ink); }
-.section--dark .btn--ghost { color: #fff; }
-.section--dark .btn--ghost:hover { background: #fff; color: var(--ink); border-color: #fff; }
+.section--blue .btn--ghost { color: #fff; }
+.section--blue .btn--ghost:hover { background: #fff; color: var(--blue); border-color: #fff; }
 .btn svg { width: 18px; height: 18px; flex: none; }
 
 .visually-hidden { position: absolute !important; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }

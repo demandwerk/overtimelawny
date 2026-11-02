@@ -79,23 +79,25 @@ const steps = [
     showEmployers
   />
 
-  <!-- Why us -->
-  <section class="section section--dark">
-    <div class="wrap why">
-      <div class="why__intro">
-        <p class="eyebrow">Why a boutique firm</p>
-        <h2>You’re not a case number here.</h2>
-        <p>We take the time to listen to your concerns and explain things clearly at the outset and at every stage. We return your calls, answer your questions, and give you an honest assessment of your case.</p>
-        <p>We’ve also represented employers, so we know how the other side thinks, and which strategies and arguments actually work.</p>
+  <!-- Team -->
+  <section class="section section--blue">
+    <div class="wrap">
+      <div class="section-head section-head--row">
+        <div>
+          <p class="eyebrow">Our team</p>
+          <h2>Lawyers who only do employment law.</h2>
+        </div>
+        <a class="btn btn--ghost" href="/team/">Meet the team</a>
       </div>
-      <ol class="steps">
-        {steps.map((s) => (
-          <li>
-            <span class="steps__n">{s.n}</span>
-            <div><h3>{s.h}</h3><p>{s.p}</p></div>
+      <ul class="people">
+        {team.map((m) => (
+          <li class="person">
+            <Image class="person__photo" src={m.photo} alt={`Photo of ${m.name}`} width={400} height={400} />
+            <h3>{m.name}</h3>
+            <p>{m.role}</p>
           </li>
         ))}
-      </ol>
+      </ul>
     </div>
   </section>
 
@@ -120,6 +122,26 @@ const steps = [
         ))}
       </div>
       <p class="fine">Prior results do not guarantee a similar outcome.</p>
+    </div>
+  </section>
+
+  <!-- Why us -->
+  <section class="section section--blue">
+    <div class="wrap why">
+      <div class="why__intro">
+        <p class="eyebrow">Why a boutique firm</p>
+        <h2>You’re not a case number here.</h2>
+        <p>We take the time to listen to your concerns and explain things clearly at the outset and at every stage. We return your calls, answer your questions, and give you an honest assessment of your case.</p>
+        <p>We’ve also represented employers, so we know how the other side thinks, and which strategies and arguments actually work.</p>
+      </div>
+      <ol class="steps">
+        {steps.map((s) => (
+          <li>
+            <span class="steps__n">{s.n}</span>
+            <div><h3>{s.h}</h3><p>{s.p}</p></div>
+          </li>
+        ))}
+      </ol>
     </div>
   </section>
 
@@ -149,30 +171,8 @@ const steps = [
     <div class="wrap"><div class="nj-carousel"></div></div>
   </section>
 
-  <!-- Team -->
-  <section class="section">
-    <div class="wrap">
-      <div class="section-head section-head--row">
-        <div>
-          <p class="eyebrow">Our team</p>
-          <h2>Lawyers who only do employment law.</h2>
-        </div>
-        <a class="btn btn--ghost" href="/team/">Meet the team</a>
-      </div>
-      <ul class="people">
-        {team.map((m) => (
-          <li class="person">
-            <Image class="person__photo" src={m.photo} alt={`Photo of ${m.name}`} width={400} height={400} />
-            <h3>{m.name}</h3>
-            <p>{m.role}</p>
-          </li>
-        ))}
-      </ul>
-    </div>
-  </section>
-
   <!-- Serve + blog -->
-  <section class="section section--tint">
+  <section class="section">
     <div class="wrap split">
       <div>
         <p class="eyebrow">Where we work</p>
@@ -258,7 +258,7 @@ const steps = [
   .why { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(40px, 7vw, 96px); align-items: start; }
   .why__intro p { font-size: 1.08rem; }
   .steps { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; }
-  .steps li { display: flex; gap: 22px; padding: 26px; border-radius: 14px; background: var(--ink-2); border: 1px solid #252a33; }
+  .steps li { display: flex; gap: 22px; padding: 26px; border-radius: 14px; background: rgb(255 255 255 / 7%); border: 1px solid rgb(255 255 255 / 14%); }
   .steps__n { font: 800 1.6rem/1 var(--display); font-stretch: 112%; color: var(--blue-on-dark); }
   .steps h3 { margin-bottom: 6px; }
   .steps p { margin: 0; font-size: 0.97rem; }
@@ -286,6 +286,8 @@ const steps = [
   .person__photo { display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; border-radius: 14px; margin-bottom: 16px; background: var(--blue-tint); }
   .person h3 { font-size: 1.15rem; margin-bottom: 2px; }
   .person p { color: var(--muted); font-size: 0.92rem; margin: 0; }
+  .section--blue .person p { color: rgb(255 255 255 / 75%); }
+  .section--blue .person__photo { background: rgb(255 255 255 / 10%); }
   @media (max-width: 860px) { .people { grid-template-columns: 1fr 1fr; } }
 
   .split { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(40px, 7vw, 96px); }
