@@ -59,14 +59,6 @@ Retaliation claims may be brought under different laws, depending on the circums
   <figcaption><span><strong>Ken</strong> · August 31, 2016</span> <a class="review__verify" href="https://www.avvo.com/attorneys/11788-ny-peter-romero-994125.html" target="_blank" rel="noopener">Check our Avvo reviews ↗</a></figcaption>
 </figure>
 
-## Statute of Limitations for Retaliation
-
-Retaliation claims may be brought under different laws, depending on the circumstances of the retaliation. For example if the employer retaliated based on a wage claim, the Fair Labor Standards Act (FLSA) may apply. If retaliation occurred for a pregnancy leave, the employee may sue based on the FMLA. Depending on the particular case, the statute of limitations can differ based on the law that applies. The statute of limitations for retaliation claims is as follows for:
-
--   FLSA violations, two or three years
--   FMLA violations, two or three years
--   New York State Human Rights Law and New York City Human Rights Law, three years
-
 ## Consult With a Retaliation Lawyer
 
 If you suspect retaliation, discuss your situation with an experienced attorney as soon as possible. We can provide you with legal guidance and can help gather facts to build a strong case. Call [(631) 257-5588](tel:+16312575588) or [contact us online](/practice-areas/retaliation/#contact) to arrange a free consultation.
