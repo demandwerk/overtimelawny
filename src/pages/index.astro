@@ -9,6 +9,9 @@ import PracticeCarousel from '../components/PracticeCarousel.astro';
 import heroImg from '../assets/hero/fire-island-lighthouse.jpg';
 import { firm, testimonials, team, awards, locations } from '../site';
 
+const [founder, ...crew] = team;
+// First sentence of the founder's bio (a period after a lowercase letter or digit ends it, so "A." doesn't).
+const founderIntro = founder.bio[0].split(/(?<=[a-z0-9]\.)\s/)[0];
 const posts = (await getCollection('posts')).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf()).slice(0, 3);
 const fmt = (d: Date) => d.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
 
@@ -89,15 +92,31 @@ const steps = [
         </div>
         <a class="btn btn--ghost" href="/team/">Meet the team</a>
       </div>
-      <ul class="people">
-        {team.map((m) => (
-          <li class="person">
-            <Image class="person__photo" src={m.photo} alt={`Photo of ${m.name}`} width={400} height={400} />
-            <h3>{m.name}</h3>
-            <p>{m.role}</p>
-          </li>
-        ))}
-      </ul>
+      <div class="people">
+        <a class="lead" href={`/team/#${founder.initials.toLowerCase()}`}>
+          <Image class="lead__photo" src={founder.photo} alt={`Photo of ${founder.name}`} widths={[480, 720, 960]} sizes="(max-width: 860px) 100vw, 560px" />
+          <div class="lead__body">
+            <p class="lead__role">{founder.role}</p>
+            <h3>{founder.name}</h3>
+            <p class="lead__text">{founderIntro}</p>
+            <ul class="tags">{founder.tags.map((t) => <li>{t}</li>)}</ul>
+          </div>
+        </a>
+        <ul class="crew">
+          {crew.map((m) => (
+            <li>
+              <a class="member" href={`/team/#${m.initials.toLowerCase()}`}>
+                <Image class="member__photo" src={m.photo} alt={`Photo of ${m.name}`} width={240} height={240} />
+                <div>
+                  <h3>{m.name}</h3>
+                  <p class="member__role">{m.role}</p>
+                  <ul class="tags">{m.tags.map((t) => <li>{t}</li>)}</ul>
+                </div>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
     </div>
   </section>
 
@@ -282,13 +301,39 @@ const steps = [
   .reviews__all { font-weight: 650; text-decoration: none; }
   .reviews__all:hover { text-decoration: underline; }
 
-  .people { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
-  .person__photo { display: block; width: 100%; height: auto; aspect-ratio: 1; object-fit: cover; border-radius: 14px; margin-bottom: 16px; background: var(--blue-tint); }
-  .person h3 { font-size: 1.15rem; margin-bottom: 2px; }
-  .person p { color: var(--muted); font-size: 0.92rem; margin: 0; }
-  .section--blue .person p { color: rgb(255 255 255 / 75%); }
-  .section--blue .person__photo { background: rgb(255 255 255 / 10%); }
-  @media (max-width: 860px) { .people { grid-template-columns: 1fr 1fr; } }
+  /* Team: founder spotlight beside smaller cards; every card links to its bio. */
+  .people { display: grid; grid-template-columns: 1.1fr 1fr; gap: 20px; }
+  .lead, .member { color: #fff; text-decoration: none; transition: transform 0.2s, background 0.2s; }
+  .lead:hover, .member:hover { color: #fff; transform: translateY(-3px); }
+  .lead :global(img), .member :global(img) { filter: brightness(0.9); transition: filter 0.2s; }
+  .lead:hover :global(img), .member:hover :global(img) { filter: brightness(1.05); }
+  .lead { position: relative; isolation: isolate; overflow: hidden; display: flex; align-items: flex-end; min-height: 460px; border-radius: 18px; }
+  .lead :global(.lead__photo) { position: absolute; inset: 0; z-index: -2; width: 100%; height: 100%; object-fit: cover; object-position: 50% 18%; }
+  .lead::before { content: ''; position: absolute; inset: 0; z-index: -1; background: linear-gradient(180deg, rgb(20 31 63 / 0%) 30%, rgb(20 31 63 / 92%) 78%); }
+  .lead__body { padding: clamp(24px, 3vw, 36px); }
+  .lead__role { margin: 0 0 6px; font: 700 0.78rem/1 var(--body); letter-spacing: 0.14em; text-transform: uppercase; color: var(--blue-on-dark); }
+  .lead h3 { font-size: clamp(1.7rem, 3vw, 2.2rem); margin-bottom: 10px; }
+  .lead__text { margin: 0 0 16px; color: rgb(255 255 255 / 85%); max-width: 46ch; }
+  .crew { list-style: none; margin: 0; padding: 0; display: grid; gap: 14px; align-content: start; }
+  .member { display: flex; align-items: center; gap: 18px; padding: 14px; border-radius: 16px; background: rgb(255 255 255 / 7%); border: 1px solid rgb(255 255 255 / 14%); }
+  .member:hover { background: rgb(255 255 255 / 12%); }
+  .member :global(.member__photo) { flex: none; width: 104px; height: 104px; object-fit: cover; object-position: 50% 20%; border-radius: 12px; background: rgb(255 255 255 / 10%); }
+  .member h3 { font-size: 1.15rem; margin-bottom: 2px; }
+  .member__role { margin: 0 0 10px; font-size: 0.9rem; color: rgb(255 255 255 / 75%); }
+  .tags { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+  .tags li { padding: 4px 10px; border-radius: 999px; background: rgb(255 255 255 / 12%); border: 1px solid rgb(255 255 255 / 18%); font-size: 0.78rem; font-weight: 600; color: #fff; }
+  @media (max-width: 860px) {
+    .people { grid-template-columns: 1fr; }
+    .lead { min-height: 420px; }
+    /* Phones: the smaller cards become a swipe row. */
+    .crew { display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; margin-inline: calc(var(--gutter) * -1); padding: 2px var(--gutter) 6px; scrollbar-width: none; }
+    .crew::-webkit-scrollbar { display: none; }
+    .crew li { flex: 0 0 88%; scroll-snap-align: start; display: flex; }
+    .member { width: 100%; gap: 14px; align-items: flex-start; }
+    .member :global(.member__photo) { width: 76px; height: 76px; }
+    .tags li { font-size: 0.74rem; padding: 3px 9px; }
+  }
+  @media (prefers-reduced-motion: reduce) { .lead, .member { transition: none; } }
 
   .split { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(40px, 7vw, 96px); }
   @media (max-width: 860px) { .split { grid-template-columns: 1fr; } }
