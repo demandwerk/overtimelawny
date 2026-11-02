@@ -11,6 +11,8 @@ Change often seems to come in fits and starts…it certainly seems that way with
 
 At the Romero Law Group, we are committed to leveling the playing field and ensuring that women have equal rights, equal opportunity and equal protection of the law. We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, [contact our offices online](/practice-areas/sexual-harassment/#contact) or call us at [(631) 257-5588](tel:+16312575588). We can also set up consultations by teleconference.
 
+![A woman working at a computer station in a warehouse](../../../assets/photos/warehouse-worker.jpg)
+
 ### What Are the Most Common Legal Issues for Women in the Workplace?
 
 Women face a wide range of challenges on the job, including:
