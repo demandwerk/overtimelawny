@@ -94,7 +94,7 @@ const steps = [
       </div>
       <div class="people">
         <a class="lead" href={`/team/#${founder.initials.toLowerCase()}`}>
-          <Image class="lead__photo" src={founder.photo} alt={`Photo of ${founder.name}`} widths={[480, 720, 960]} sizes="(max-width: 860px) 100vw, 560px" />
+          <Image class="lead__photo" src={founder.photo} alt={`Photo of ${founder.name}`} width={400} height={400} />
           <div class="lead__body">
             <p class="lead__role">{founder.role}</p>
             <h3>{founder.name}</h3>
@@ -307,10 +307,11 @@ const steps = [
   .lead:hover, .member:hover { color: #fff; transform: translateY(-3px); }
   .lead :global(img), .member :global(img) { filter: brightness(0.9); transition: filter 0.2s; }
   .lead:hover :global(img), .member:hover :global(img) { filter: brightness(1.05); }
-  .lead { position: relative; isolation: isolate; overflow: hidden; display: flex; align-items: flex-end; min-height: 460px; border-radius: 18px; }
-  .lead :global(.lead__photo) { position: absolute; inset: 0; z-index: -2; width: 100%; height: 100%; object-fit: cover; object-position: 50% 18%; }
-  .lead::before { content: ''; position: absolute; inset: 0; z-index: -1; background: linear-gradient(180deg, rgb(20 31 63 / 0%) 30%, rgb(20 31 63 / 92%) 78%); }
-  .lead__body { padding: clamp(24px, 3vw, 36px); }
+  /* The source photos are 400px square, so the spotlight photo is never shown larger than that. */
+  .lead { display: flex; align-items: center; gap: clamp(20px, 3vw, 32px); padding: clamp(18px, 2.5vw, 26px); border-radius: 18px; background: rgb(255 255 255 / 7%); border: 1px solid rgb(255 255 255 / 14%); }
+  .lead:hover { background: rgb(255 255 255 / 12%); }
+  .lead :global(.lead__photo) { flex: 0 0 auto; width: min(240px, 42%); height: auto; aspect-ratio: 1; object-fit: cover; object-position: 50% 20%; border-radius: 14px; background: rgb(255 255 255 / 10%); }
+  .lead__body { min-width: 0; }
   .lead__role { margin: 0 0 6px; font: 700 0.78rem/1 var(--body); letter-spacing: 0.14em; text-transform: uppercase; color: var(--blue-on-dark); }
   .lead h3 { font-size: clamp(1.7rem, 3vw, 2.2rem); margin-bottom: 10px; }
   .lead__text { margin: 0 0 16px; color: rgb(255 255 255 / 85%); max-width: 46ch; }
@@ -324,7 +325,8 @@ const steps = [
   .tags li { padding: 4px 10px; border-radius: 999px; background: rgb(255 255 255 / 12%); border: 1px solid rgb(255 255 255 / 18%); font-size: 0.78rem; font-weight: 600; color: #fff; }
   @media (max-width: 860px) {
     .people { grid-template-columns: 1fr; }
-    .lead { min-height: 420px; }
+    .lead { flex-direction: column; align-items: flex-start; }
+    .lead :global(.lead__photo) { width: min(100%, 320px); }
     /* Phones: the smaller cards become a swipe row. */
     .crew { display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; margin-inline: calc(var(--gutter) * -1); padding: 2px var(--gutter) 6px; scrollbar-width: none; }
     .crew::-webkit-scrollbar { display: none; }
