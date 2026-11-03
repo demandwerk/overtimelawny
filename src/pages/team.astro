@@ -2,7 +2,13 @@
 import { Image } from 'astro:assets';
 import Base from '../layouts/Base.astro';
 import PageHero from '../components/PageHero.astro';
+import Icon from '../components/Icon.astro';
 import { team, firm } from '../site';
+
+const sectionIcon: Record<string, Parameters<typeof Icon>[0]['name']> = {
+  Education: 'cap', Admitted: 'scale', Associations: 'users', Recognition: 'award', Publication: 'document',
+};
+type Credential = string | { name: string; detail?: string };
 ---
 <Base title="Our Team" description={`Meet the employment lawyers of ${firm.name}: Peter A. Romero, David D. Barnhorn and Matthew J. Farnworth.`}>
   <PageHero
@@ -26,11 +32,17 @@ import { team, firm } from '../site';
               </p>
             )}
             {m.details.length > 0 && (
-              <dl class="member__details">
+              <dl class="creds">
                 {m.details.map((d) => (
-                  <div>
-                    <dt>{d.label}</dt>
-                    <dd><ul>{d.items.map((i) => <li>{i}</li>)}</ul></dd>
+                  <div class="creds__row">
+                    <dt><Icon name={sectionIcon[d.label] ?? 'check'} />{d.label}</dt>
+                    <dd>
+                      {d.label === 'Admitted'
+                        ? <ul class="creds__tags">{(d.items as Credential[]).map((i) => <li>{i as string}</li>)}</ul>
+                        : <ul class="creds__list">{(d.items as Credential[]).map((i) => typeof i === 'string'
+                            ? <li><strong>{i}</strong></li>
+                            : <li><strong>{i.name}</strong>{i.detail && <span>{i.detail}</span>}</li>)}</ul>}
+                    </dd>
                   </div>
                 ))}
               </dl>
@@ -50,13 +62,23 @@ import { team, firm } from '../site';
   .member p { max-width: 68ch; }
   .member__badges { display: flex; gap: 16px; flex-wrap: wrap; }
   .member__badges img { height: 80px; width: auto; }
-  .member__details { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 24px; margin: 28px 0 0; padding: 24px; background: var(--tint); border-radius: 14px; }
-  .member__details dt { font-size: 0.75rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--blue); margin-bottom: 8px; }
-  .member__details dd { margin: 0; }
-  .member__details ul { margin: 0; padding: 0; list-style: none; font-size: 0.93rem; }
-  .member__details li { margin-bottom: 6px; }
+  /* Credentials: one row per section, label on the left, entries on the right. */
+  .creds { margin: 28px 0 0; padding: 6px 26px; background: var(--tint); border-radius: 14px; max-width: 760px; }
+  .creds__row { display: grid; grid-template-columns: 170px 1fr; gap: 8px 24px; padding: 18px 0; }
+  .creds__row + .creds__row { border-top: 1px solid var(--line); }
+  .creds dt { display: flex; align-items: center; gap: 10px; align-self: start; padding-top: 2px; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--blue); }
+  .creds dt :global(svg) { width: 18px; height: 18px; flex: none; }
+  .creds dd { margin: 0; }
+  .creds ul { margin: 0; padding: 0; list-style: none; }
+  .creds__list li + li { margin-top: 12px; }
+  .creds__list strong { display: block; font-weight: 600; color: var(--ink); line-height: 1.4; }
+  .creds__list span { display: block; margin-top: 2px; font-size: 0.9rem; color: var(--muted); line-height: 1.45; }
+  .creds__tags { display: flex; flex-wrap: wrap; gap: 8px; }
+  .creds__tags li { padding: 6px 12px; border-radius: 10px; background: #fff; border: 1px solid var(--line); font-size: 0.85rem; font-weight: 500; color: var(--ink); }
   @media (max-width: 760px) {
     .member { grid-template-columns: 1fr; }
     .member__photo { position: static; max-width: 220px; }
+    .creds { padding: 4px 18px; }
+    .creds__row { grid-template-columns: 1fr; }
   }
 </style>
