@@ -64,7 +64,6 @@ At Romero Law Group, "You're not a case number here." Clients get direct access 
 -   J.D., cum laude, Hofstra University Maurice A. Deane School of Law (Notes and Comments Editor, Hofstra Labor & Employment Law Journal); B.A., magna cum laude, University of Cincinnati
 -   Admitted: New York; New Jersey; U.S. District Courts for the Southern and Eastern Districts of New York and the District of New Jersey
 -   Recognition: Super Lawyers Rising Stars, Employment & Labor (2016–2025)
--   Co-author, "Speak the Truth and Tell No Lies: An Update for the Employee Polygraph Protection Act," Hofstra Labor & Employment Law Journal
 
 ### Matthew J. Farnworth — Attorney
 
