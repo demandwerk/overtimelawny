@@ -2,6 +2,7 @@
 title: "What to Do When You Are the Victim of Sexual Harassment at Work"
 description: "Though there has been much attention paid to sexual harassment over the past decade, the general consensus is that it’s still a significant problem. In fact, a 2018 report found that four of every five women (81%) and nearly half (43%) of men surveyed said they had witnessed or experienced sexual…"
 date: 2025-07-28
+topic: harassment
 image: ../../assets/blog/what-to-do-when-you-are-the-victim-of-sexual-harassment-at-work.jpg
 ---
 ## Steps You Need to Take to Protect Yourself

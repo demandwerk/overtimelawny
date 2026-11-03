@@ -2,6 +2,7 @@
 title: "What Is the Speak Out Act?"
 description: "The Speak Out Act is the most recent federal bi-partisan effort to protect victims of sexual assault and sexual harassment. Many employees are familiar with nondisclosure agreements. However, another form of agreement is a non-disparagement clause in an employment…"
 date: 2022-11-28
+topic: harassment
 ---
 ## Protection Against Sexual Assault and Sexual Harassment
 

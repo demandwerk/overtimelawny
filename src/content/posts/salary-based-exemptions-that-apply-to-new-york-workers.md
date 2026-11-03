@@ -2,6 +2,7 @@
 title: "Salary-Based Exemptions That Apply to New York Workers"
 description: "Effective March 13, 2024, the threshold for exemption from the above protections went up, from $900 to $1,300 per week, or an annual salary of $67,600. A person serving in a legitimate executive, administrative or professional position will not qualify for these protections if his or her salary…"
 date: 2024-08-06
+topic: wages
 ---
 ## New York Labor Law Protections | Minimum Wage Requirements
 

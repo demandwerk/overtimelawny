@@ -2,6 +2,7 @@
 title: "New York Workers Still Have Right to COVID-Related Paid Leave"
 description: ""
 date: 2024-06-02
+topic: leave
 ---
 ## Emergency Paid Leave Still Mandatory
 

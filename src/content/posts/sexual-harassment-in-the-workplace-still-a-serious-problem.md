@@ -2,6 +2,7 @@
 title: "Sexual Harassment in the Workplace—Still a Serious Problem"
 description: ""
 date: 2023-11-07
+topic: harassment
 ---
 ## EEOC Statistics Show Improvement, but Also Indicate Persistent Issues
 

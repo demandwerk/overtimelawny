@@ -2,6 +2,7 @@
 title: "Frequently Asked Questions About Workplace Discrimination"
 description: ""
 date: 2024-07-06
+topic: discrimination
 ---
 ## Protecting Your Rights in the Workplace
 

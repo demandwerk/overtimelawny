@@ -2,6 +2,7 @@
 title: "Noncompete Agreements Still Legal in New York"
 description: ""
 date: 2024-09-14
+topic: rights
 ---
 ## State and Federal Efforts to Ban Have Not Been Successful
 

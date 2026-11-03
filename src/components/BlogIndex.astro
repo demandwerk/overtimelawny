@@ -1,0 +1,199 @@
+---
+// Blog index layout shared by /blog/ and the topic pages: light header with
+// search, an optional featured article, topic tabs, the post grid and pager.
+import { Image } from 'astro:assets';
+import type { Page } from 'astro';
+import type { CollectionEntry } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import PostCard from './PostCard.astro';
+import { firm } from '../site';
+import { topics, topicBySlug, type TopicSlug } from '../data/topics';
+import { formatDate, getPosts } from '../data/blog';
+
+interface Props {
+  page: Page<CollectionEntry<'posts'>>;
+  topic?: TopicSlug;
+  featured?: CollectionEntry<'posts'>;
+}
+const { page, topic, featured } = Astro.props;
+const current = topic ? topicBySlug[topic] : undefined;
+const base = topic ? `/blog/topic/${topic}/` : '/blog/';
+const pageHref = (n: number) => (n === 1 ? base : `${base}${n}/`);
+const pageNumbers = Array.from({ length: page.lastPage }, (_, i) => i + 1);
+const pageSuffix = page.currentPage > 1 ? `: Page ${page.currentPage} of ${page.lastPage}` : '';
+const title = (current ? `${current.title} Articles` : 'Employment Law Blog') + pageSuffix;
+const description = current
+  ? `${current.intro} Articles from ${firm.name}.`
+  : `News and plain-English guides on New York and New Jersey employment law from ${firm.name}.`;
+
+// Titles and links for the search box (every post, whatever page this is).
+const searchIndex = (await getPosts()).map((p) => ({ t: p.data.title, u: `/${p.id}/`, k: topicBySlug[p.data.topic].title }));
+---
+<Base title={title} description={description} image={featured?.data.image}>
+  <header class="bhead">
+    <div class="wrap bhead__inner">
+      <div>
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <a href="/">Home</a><span aria-hidden="true">/</span><a href="/blog/">Blog</a>
+          {current && <><span aria-hidden="true">/</span><span>{current.title}</span></>}
+        </nav>
+        <h1>{current ? current.title : 'Employment Law Blog'}</h1>
+        <p class="bhead__lede">{current ? current.intro : 'Plain-English updates on New York and New Jersey employment law: wages, discrimination, harassment, leave and more.'}</p>
+      </div>
+      <div class="search" data-search>
+        <label class="visually-hidden" for="blog-search">Search the blog</label>
+        <input id="blog-search" type="search" placeholder="Search the blog" autocomplete="off" />
+        <ul class="search__results" role="listbox" hidden></ul>
+        <script type="application/json" data-search-index set:html={JSON.stringify(searchIndex)} />
+      </div>
+    </div>
+  </header>
+
+  {featured && (
+    <section class="feature" aria-label="Featured article">
+      <div class="wrap feature__inner">
+        <a class="feature__media" href={`/${featured.id}/`} tabindex="-1" aria-hidden="true">
+          {featured.data.image && <Image src={featured.data.image} alt="" widths={[480, 800, 1100]} sizes="(max-width: 860px) 100vw, 540px" />}
+        </a>
+        <div>
+          <p class="feature__label">Featured article <span aria-hidden="true">•</span> {topicBySlug[featured.data.topic].title}</p>
+          <p class="feature__date"><time datetime={featured.data.date.toISOString()}>{formatDate(featured.data.date)}</time></p>
+          <h2><a href={`/${featured.id}/`}>{featured.data.title}</a></h2>
+          <p class="feature__text">{featured.data.description}</p>
+          <a class="btn btn--ghost feature__btn" href={`/${featured.id}/`}>Read more</a>
+        </div>
+      </div>
+    </section>
+  )}
+
+  <section class="section latest">
+    <div class="wrap">
+      <div class="latest__head">
+        <h2>{current ? `${current.title} articles` : 'Latest articles'}</h2>
+        <p>Know your rights at work, from the employment lawyers at {firm.shortName}.</p>
+      </div>
+      <nav class="tabs" aria-label="Blog topics">
+        <a href="/blog/" aria-current={!topic ? 'page' : undefined}>All articles</a>
+        {topics.map((t) => <a href={`/blog/topic/${t.slug}/`} aria-current={topic === t.slug ? 'page' : undefined}>{t.title}</a>)}
+      </nav>
+      <div class="grid">
+        {page.data.map((p) => <PostCard post={p} />)}
+      </div>
+
+      {page.lastPage > 1 && (
+        <nav class="pager" aria-label="Blog pages">
+          {page.url.prev ? <a class="pager__step" href={page.url.prev} rel="prev">← Newer</a> : <span class="pager__step" aria-hidden="true"></span>}
+          <ol>
+            {pageNumbers.map((n) => (
+              <li>{n === page.currentPage
+                ? <span aria-current="page">{n}</span>
+                : <a href={pageHref(n)}>{n}</a>}</li>
+            ))}
+          </ol>
+          <p class="pager__count">Page {page.currentPage} of {page.lastPage}</p>
+          {page.url.next ? <a class="pager__step" href={page.url.next} rel="next">Older →</a> : <span class="pager__step" aria-hidden="true"></span>}
+        </nav>
+      )}
+    </div>
+  </section>
+</Base>
+
+<script>
+  // Blog search: matches every word typed against post titles and topics.
+  for (const root of document.querySelectorAll<HTMLElement>('[data-search]')) {
+    const input = root.querySelector('input')!;
+    const list = root.querySelector<HTMLUListElement>('.search__results')!;
+    const index: { t: string; u: string; k: string }[] = JSON.parse(root.querySelector('[data-search-index]')!.textContent!);
+    const render = () => {
+      const words = input.value.toLowerCase().split(/\s+/).filter(Boolean);
+      list.replaceChildren();
+      if (!words.length) { list.hidden = true; return; }
+      const hits = index.filter((p) => words.every((w) => `${p.t} ${p.k}`.toLowerCase().includes(w))).slice(0, 8);
+      for (const p of hits) {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
+        a.href = p.u;
+        a.textContent = p.t;
+        const tag = document.createElement('small');
+        tag.textContent = p.k;
+        a.append(tag);
+        li.append(a);
+        list.append(li);
+      }
+      if (!hits.length) {
+        const li = document.createElement('li');
+        li.className = 'search__empty';
+        li.textContent = 'No articles match. Try another word.';
+        list.append(li);
+      }
+      list.hidden = false;
+    };
+    input.addEventListener('input', render);
+    input.addEventListener('keydown', (e) => { if (e.key === 'Escape') { input.value = ''; render(); } });
+    document.addEventListener('click', (e) => { if (!root.contains(e.target as Node)) list.hidden = true; });
+    input.addEventListener('focus', render);
+  }
+</script>
+
+<style>
+  .bhead { background: var(--tint); border-bottom: 1px solid var(--line); padding: clamp(40px, 6vw, 72px) 0 clamp(36px, 5vw, 56px); }
+  .bhead__inner { display: grid; grid-template-columns: 1fr minmax(280px, 400px); gap: 24px 48px; align-items: end; }
+  .crumbs { display: flex; flex-wrap: wrap; gap: 8px; font-size: 0.85rem; margin-bottom: 18px; color: var(--muted); }
+  .crumbs a { color: var(--muted); text-decoration: none; }
+  .crumbs a:hover { color: var(--blue); text-decoration: underline; }
+  .bhead h1 { font-size: clamp(2.1rem, 4.6vw, 3.4rem); margin-bottom: 12px; }
+  .bhead__lede { margin: 0; color: var(--muted); font-size: 1.08rem; max-width: 56ch; }
+  .search { position: relative; }
+  .search input { width: 100%; height: 52px; padding: 0 18px 0 46px; border: 1px solid var(--line); border-radius: 999px; background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23586070' stroke-width='2' stroke-linecap='round'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cpath d='m20 20-3.5-3.5'/%3E%3C/svg%3E") 16px center / 20px no-repeat; font: inherit; color: var(--text); box-shadow: 0 1px 2px rgb(13 16 20 / 5%); }
+  .search input:focus { outline: 2px solid var(--blue); outline-offset: 1px; }
+  .search__results { position: absolute; z-index: 20; top: calc(100% + 8px); left: 0; right: 0; list-style: none; margin: 0; padding: 6px; background: #fff; border: 1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); max-height: 360px; overflow-y: auto; }
+  /* Result rows are created by the script, so they need :global to get these styles. */
+  .search__results :global(a) { display: block; padding: 10px 12px; border-radius: 8px; color: var(--ink); text-decoration: none; font-weight: 600; font-size: 0.93rem; line-height: 1.35; }
+  .search__results :global(a:hover), .search__results :global(a:focus) { background: var(--blue-tint); color: var(--blue); }
+  .search__results :global(small) { display: block; margin-top: 2px; font-weight: 500; color: var(--muted); font-size: 0.78rem; }
+  .search__results :global(.search__empty) { padding: 10px 12px; color: var(--muted); font-size: 0.92rem; }
+
+  .feature { background: var(--navy); color: rgb(255 255 255 / 82%); padding: clamp(40px, 6vw, 72px) 0; }
+  .feature__inner { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr); gap: clamp(24px, 5vw, 64px); align-items: center; }
+  .feature__media { display: block; aspect-ratio: 16 / 10; border-radius: 16px; overflow: hidden; background: var(--blue); }
+  .feature__media :global(img) { width: 100%; height: 100%; object-fit: cover; }
+  .feature__label { margin: 0 0 10px; font: 700 0.78rem/1 var(--body); letter-spacing: 0.14em; text-transform: uppercase; color: var(--blue-on-dark); }
+  .feature__date { margin: 0 0 10px; font-size: 0.88rem; }
+  .feature h2 { font-size: clamp(1.6rem, 3vw, 2.3rem); margin-bottom: 14px; }
+  .feature h2 a { color: #fff; text-decoration: none; }
+  .feature h2 a:hover { text-decoration: underline; }
+  .feature__text { margin: 0 0 22px; max-width: 58ch; }
+  .feature .feature__btn { color: #fff; }
+  .feature .feature__btn:hover { background: #fff; color: var(--navy); border-color: #fff; }
+
+  .latest__head { text-align: center; max-width: 640px; margin: 0 auto 24px; }
+  .latest__head h2 { margin-bottom: 8px; }
+  .latest__head p { margin: 0; color: var(--muted); }
+  .tabs { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; margin-bottom: clamp(28px, 4vw, 40px); }
+  .tabs a { padding: 8px 16px; border: 1px solid var(--blue-tint-2); border-radius: 999px; color: var(--blue); font-weight: 600; font-size: 0.9rem; text-decoration: none; background: #fff; }
+  .tabs a:hover { border-color: var(--blue); }
+  .tabs a[aria-current='page'] { background: var(--blue); border-color: var(--blue); color: #fff; }
+  .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 22px; }
+
+  .pager { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-top: 44px; }
+  .pager ol { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+  .pager ol a, .pager ol span { display: grid; place-items: center; min-width: 42px; height: 42px; padding: 0 10px; border-radius: 10px; border: 1px solid var(--line); text-decoration: none; font-weight: 600; }
+  .pager ol a:hover { border-color: var(--blue); }
+  .pager ol span[aria-current] { background: var(--blue); border-color: var(--blue); color: #fff; }
+  .pager__step { min-width: 90px; font-weight: 650; text-decoration: none; }
+  .pager__step:last-child { text-align: right; }
+  .pager__count { display: none; margin: 0; color: var(--muted); font-size: 0.95rem; }
+
+  @media (max-width: 960px) { .grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+  @media (max-width: 860px) {
+    .bhead__inner, .feature__inner { grid-template-columns: 1fr; }
+  }
+  @media (max-width: 620px) {
+    .grid { grid-template-columns: 1fr; }
+    /* Phones: topic tabs scroll sideways in one row. */
+    .tabs { flex-wrap: nowrap; justify-content: flex-start; overflow-x: auto; margin-inline: calc(var(--gutter) * -1); padding: 2px var(--gutter); scrollbar-width: none; }
+    .tabs::-webkit-scrollbar { display: none; }
+    .tabs a { flex: none; }
+  }
+  @media (max-width: 560px) { .pager ol { display: none; } .pager__count { display: block; } }
+</style>

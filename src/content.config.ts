@@ -22,6 +22,8 @@ const posts = defineCollection({
     date: z.coerce.date(),
     // Optional featured image: the post's banner and its social-share picture.
     image: image().optional(),
+    // Blog topic (see src/data/topics.ts): sets the post's tab and topic page.
+    topic: z.enum(['wages', 'discrimination', 'harassment', 'retaliation', 'leave', 'rights']),
   }),
 });
 

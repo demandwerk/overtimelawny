@@ -2,6 +2,7 @@
 title: "New York Workers Have Longer Time to File Discrimination Complaint"
 description: "When you’ve been the victim of discrimination in the workplace in the state of New York, you have the right to take legal action to put an end to the wrongful conduct and seek damages for the disparate treatment. If your employer has 15 or more employees, you will be protected by federal law and…"
 date: 2024-01-20
+topic: discrimination
 ---
 ## Legislature Extends Statute of Limitations on Administrative Actions
 

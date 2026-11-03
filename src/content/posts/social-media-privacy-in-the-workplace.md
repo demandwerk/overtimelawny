@@ -2,6 +2,7 @@
 title: "Social Media Privacy in the Workplace"
 description: "There is no New York State law that protects social media privacy in the workplace. This is especially true if you are using a company computer, mobile device or other company device with an internet connection. In fact,…"
 date: 2022-04-19
+topic: rights
 ---
 ## Is It Legal for Your Employer to Access Your Social Media?
 

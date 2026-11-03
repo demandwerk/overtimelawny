@@ -2,6 +2,7 @@
 title: "Press Conference Discussing Discrimination and Harassment Legislation Is Zoom-Bombed"
 description: "Ironically, the discrimination and harassment discussion of legislation geared to provide greater protection for NYC healthcare professionals got Zoom-bombed. The focus of the press conference was to root out sexism and racism in hospitals and medical schools by establishing an Advisory Board.…"
 date: 2021-02-25
+topic: harassment
 ---
 ## NYC Legislation for Advisory Board to Root Out Discrimination
 

@@ -2,6 +2,7 @@
 title: "Recent Supreme Court Ruling Bolsters Religious Accommodations for Employees"
 description: "At the end of June, 2023 the Supreme Court ruled on a case that strengthened the argument for religious accommodations for…"
 date: 2023-08-30
+topic: discrimination
 ---
 ## Religious Discrimination Becomes More Difficult
 

@@ -2,6 +2,7 @@
 title: "How COVID-19 Vaccines Relate to Employment Law"
 description: "The Equal Employment Opportunity Commission (EEOC)(https://www.insurancejournal.com/news/national/2020/12/16/594252.htm) has established certain guidelines that apply regarding how COVID-19 vaccines relate to employment law. It is understandable that employers want to create a safe work environment…"
 date: 2020-12-24
+topic: leave
 image: ../../assets/blog/how-covid-19-vaccines-relate-to-employment-law.jpg
 ---
 ## What Are Your Employment Rights Regarding the Coronavirus Vaccine?

@@ -2,6 +2,7 @@
 title: "Frequently Asked Questions About the Rights of Tipped Employees in New Jersey"
 description: "In New Jersey, most employers must pay workers a minimum wage of $15.49 in 2025. The rules governing tipped employees, such as restaurant workers, can be complex. Let’s take a look at the questions tipped workers typically ask about their rights in New…"
 date: 2025-12-19
+topic: wages
 image: ../../assets/blog/frequently-asked-questions-about-the-rights-of-tipped-employees-in-new-jersey.jpg
 ---
 ## Tips & Tipped Employees in New Jersey

@@ -2,6 +2,7 @@
 title: "Transgender Discrimination From IBM in 1968 Comes Full Circle"
 description: "Lynn Conway became a victim of transgender discrimination after she confided in her supervisor, telling him she was undergoing a transgender transition. This was in 1968 when she was working at IBM. While her immediate supervisor was supportive, IBM's chief executive was not. She had worked at IBM…"
 date: 2020-11-24
+topic: discrimination
 ---
 ## Righting the Injustice of Transgender Discrimination
 

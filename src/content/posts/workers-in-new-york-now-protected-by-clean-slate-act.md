@@ -2,6 +2,7 @@
 title: "Workers in New York Now Protected by Clean Slate Act"
 description: ""
 date: 2024-12-02
+topic: discrimination
 ---
 ## New Statute Limits Employers Use of Criminal Background Checks | Requires Notification
 

@@ -2,6 +2,7 @@
 title: "New Law Protects Retail Workers in New York"
 description: ""
 date: 2024-10-07
+topic: rights
 ---
 ## Recently Enacted Retail Worker Safety Act Goes Into Effect in 2025
 

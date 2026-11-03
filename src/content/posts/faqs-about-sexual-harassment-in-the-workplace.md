@@ -2,6 +2,7 @@
 title: "FAQs About Sexual Harassment in the Workplace"
 description: "Sexual harassment in the workplace is illegal. In fact, New York State has passed stiffer laws that make it easier for you to stand up for your rights. The first step in defending yourself is knowing what sexual harassment is and recognizing the signs of…"
 date: 2023-05-13
+topic: harassment
 ---
 ## Do You Know How to Recognize Sexual Harassment at Work?
 

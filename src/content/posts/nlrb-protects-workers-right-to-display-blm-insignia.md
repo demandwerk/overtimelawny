@@ -1,7 +1,8 @@
 ---
-title: "NLRB Protects Worker's Right to Display \"BLM” Insignia"
+title: "NLRB Protects Worker’s Right to Display “BLM” Insignia"
 description: "You’ve been exposed to or seen examples of racial discrimination in your place of employment. You believe that it’s in the best interests of your fellow employees to call attention to the wrongful conduct. Can you wear clothing that promotes a social justice organization, such as Black Lives…"
 date: 2024-02-18
+topic: discrimination
 ---
 ## National Labor Relations Board Says Worker May Protest Discrimination in the Workplace
 

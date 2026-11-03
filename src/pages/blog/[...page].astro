@@ -1,80 +1,17 @@
 ---
-import { getCollection } from 'astro:content';
-import Base from '../../layouts/Base.astro';
-import PageHero from '../../components/PageHero.astro';
+// /blog/, /blog/2/ … The newest post is featured above the grid on page 1;
+// the rest are paginated 12 to a page. Each page is indexable with its own
+// canonical URL so Google keeps following links to older posts.
 import type { GetStaticPaths, Page } from 'astro';
 import type { CollectionEntry } from 'astro:content';
-import { firm } from '../../site';
+import BlogIndex from '../../components/BlogIndex.astro';
+import { getPosts, POSTS_PER_PAGE } from '../../data/blog';
 
-// 12 posts per page: /blog/, /blog/2/, /blog/3/ … Each page is indexable with
-// its own canonical URL so Google keeps following links to older posts.
 export const getStaticPaths = (async ({ paginate }) => {
-  const posts = (await getCollection('posts')).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
-  return paginate(posts, { pageSize: 12 });
+  const [featured, ...rest] = await getPosts();
+  return paginate(rest, { pageSize: POSTS_PER_PAGE, props: { featured } });
 }) satisfies GetStaticPaths;
 
-const { page } = Astro.props as { page: Page<CollectionEntry<'posts'>> };
-const pageNumbers = Array.from({ length: page.lastPage }, (_, i) => i + 1);
-const pageHref = (n: number) => (n === 1 ? '/blog/' : `/blog/${n}/`);
-const fmt = (d: Date) => d.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
+const { page, featured } = Astro.props as { page: Page<CollectionEntry<'posts'>>; featured: CollectionEntry<'posts'> };
 ---
-<Base
-  title={page.currentPage === 1 ? 'Employment Law Blog' : `Employment Law Blog: Page ${page.currentPage} of ${page.lastPage}`}
-  description={`News and plain-English guides on New York and New Jersey employment law from ${firm.name}.${page.currentPage === 1 ? '' : ` Page ${page.currentPage}.`}`}
->
-  <PageHero
-    title="Know your rights at work"
-    eyebrow="Employment law blog"
-    lede="Plain-English updates on New York and New Jersey employment law: wages, discrimination, harassment, leave and more."
-    crumbs={[{ label: 'Home', href: '/' }]}
-  />
-  <div class="section">
-    <div class="wrap">
-      <ul class="list">
-        {page.data.map((p) => (
-          <li>
-            <a href={`/${p.id}/`}>
-              <time datetime={p.data.date.toISOString()}>{fmt(p.data.date)}</time>
-              <h2>{p.data.title}</h2>
-              <p>{p.data.description}</p>
-            </a>
-          </li>
-        ))}
-      </ul>
-
-      {page.lastPage > 1 && (
-        <nav class="pager" aria-label="Blog pages">
-          {page.url.prev ? <a class="pager__step" href={page.url.prev} rel="prev">← Newer</a> : <span class="pager__step" aria-hidden="true"></span>}
-          <ol>
-            {pageNumbers.map((n) => (
-              <li>{n === page.currentPage
-                ? <span aria-current="page">{n}</span>
-                : <a href={pageHref(n)}>{n}</a>}</li>
-            ))}
-          </ol>
-          <p class="pager__count">Page {page.currentPage} of {page.lastPage}</p>
-          {page.url.next ? <a class="pager__step" href={page.url.next} rel="next">Older →</a> : <span class="pager__step" aria-hidden="true"></span>}
-        </nav>
-      )}
-    </div>
-  </div>
-</Base>
-
-<style>
-  .list { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(320px, 100%), 1fr)); gap: 16px; }
-  .list li { min-width: 0; }
-  .list a { display: flex; flex-direction: column; height: 100%; padding: 26px; border: 1px solid var(--line); border-radius: 14px; text-decoration: none; color: var(--text); transition: border-color 0.15s, box-shadow 0.15s; }
-  .list a:hover { border-color: var(--blue); box-shadow: var(--shadow); }
-  .list time { font-size: 0.8rem; font-weight: 600; color: var(--blue); margin-bottom: 10px; }
-  .list h2 { font-size: 1.2rem; margin-bottom: 10px; }
-  .pager { display: flex; align-items: center; justify-content: space-between; gap: 16px; margin-top: 40px; }
-  .pager ol { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
-  .pager ol a, .pager ol span { display: grid; place-items: center; min-width: 42px; height: 42px; padding: 0 10px; border-radius: 10px; border: 1px solid var(--line); text-decoration: none; font-weight: 600; }
-  .pager ol a:hover { border-color: var(--blue); }
-  .pager ol span[aria-current] { background: var(--blue); border-color: var(--blue); color: #fff; }
-  .pager__step { min-width: 90px; font-weight: 650; text-decoration: none; }
-  .pager__step:last-child { text-align: right; }
-  .pager__count { display: none; margin: 0; color: var(--muted); font-size: 0.95rem; }
-  @media (max-width: 560px) { .pager ol { display: none; } .pager__count { display: block; } }
-  .list p { color: var(--muted); font-size: 0.93rem; margin: 0; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-</style>
+<BlogIndex page={page} featured={page.currentPage === 1 ? featured : undefined} />

@@ -2,6 +2,7 @@
 title: "Noncompete Agreements Still Legal in New York"
 description: "Over the past few years, there has been increased interest nationwide in limiting or banning most noncompete agreements. Four states have outlawed them---Minnesota, California, North Dakota and Oklahoma—and half of the states across the country put some type of limitations on their enforceability.…"
 date: 2025-09-24
+topic: rights
 image: ../../assets/blog/noncompete-agreements-still-legal-in-new-york-2.jpg
 ---
 ## State and Federal Efforts to Ban Have Not Been Successful

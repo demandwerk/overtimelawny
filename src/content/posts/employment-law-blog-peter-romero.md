@@ -2,6 +2,7 @@
 title: "Welcome to Our Labor & Employment Litigation Law Blog"
 description: "The purpose of our employment law blog is to provide you with understanding and insights that make employment law more relatable. If Spanish is your primary language, we are glad to discuss your concerns in Spanish. We have translated some of our website pages into Spanish. The Se Habla Español…"
 date: 2026-01-21
+topic: rights
 image: ../../assets/blog/employment-law-blog-peter-romero.jpg
 ---
 ## Gaining a Better Understanding of How Employment Law Works
