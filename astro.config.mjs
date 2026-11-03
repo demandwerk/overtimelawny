@@ -10,7 +10,7 @@ const site = 'https://overtimelawny.com';
 const postDates = new Map(
   readdirSync('./src/content/posts')
     .filter((f) => f.endsWith('.md'))
-    .map((f) => [`${site}/${f.slice(0, -3)}/`, readFileSync(`./src/content/posts/${f}`, 'utf8').match(/^date: (\S+)/m)?.[1]])
+    .map((f) => [`${site}/blog/${f.slice(0, -3)}/`, readFileSync(`./src/content/posts/${f}`, 'utf8').match(/^date: (\S+)/m)?.[1]])
     .filter(([, date]) => date),
 );
 

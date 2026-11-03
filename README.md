@@ -12,7 +12,7 @@ The website for overtimelawny.com, built with [Astro](https://astro.build) as a 
 | Spanish pages (served at `/es/<file>/`; `es.md` is `/es/`) | `src/content/pages/es/*.md`, `src/content/pages/es.md` |
 | Location pages (served at `/areas-we-serve/<file>/`) | `src/content/pages/areas-we-serve/*.md` |
 | Other pages | `src/content/pages/*.md` |
-| Blog posts | `src/content/posts/*.md` (add a new file to publish a post) |
+| Blog posts (served at `/blog/<file>/`) | `src/content/posts/*.md` (add a new file to publish a post) |
 | Homepage layout | `src/pages/index.astro` |
 | Colors and fonts | `src/styles/global.css` (`:root` variables) |
 
