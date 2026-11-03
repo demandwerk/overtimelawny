@@ -177,7 +177,6 @@ export const team = [
       { label: 'Education', items: [{ name: 'Hofstra University Maurice A. Deane School of Law', detail: 'J.D., cum laude · Notes and Comments Editor, Hofstra Labor & Employment Law Journal' }, { name: 'University of Cincinnati', detail: 'B.A., magna cum laude, Journalism' }] },
       { label: 'Admitted', items: ['State of New York', 'U.S. District Court, Southern District of New York', 'U.S. District Court, Eastern District of New York', 'State of New Jersey', 'U.S. District Court, District of New Jersey'] },
       { label: 'Recognition', items: [{ name: 'Super Lawyers Rising Stars', detail: 'Employment & Labor, 2016–2025' }] },
-      { label: 'Publication', items: [{ name: '“Speak the Truth and Tell No Lies: An Update for the Employee Polygraph Protection Act”', detail: 'Co-author · Hofstra Labor & Employment Law Journal, Vol. 29.1' }] },
     ],
   },
   {
