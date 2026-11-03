@@ -11,32 +11,34 @@ import { team, firm } from '../site';
     lede="We practice employment law exclusively. Our attorneys treat clients with dignity, respect and compassion, and work to get the best result possible in the most cost-effective way."
     crumbs={[{ label: 'Home', href: '/' }]}
   />
-  <div class="wrap section">
-    {team.map((m) => (
-      <article class="member" id={m.initials.toLowerCase()}>
-        <Image class="member__photo" src={m.photo} alt={`Photo of ${m.name}`} width={400} height={400} />
-        <div>
-          <p class="eyebrow">{m.role}</p>
-          <h2>{m.name}</h2>
-          {m.bio.map((p) => <p>{p}</p>)}
-          {m.badges && (
-            <p class="member__badges">
-              {m.badges.map((b) => <a href={b.href} target="_blank" rel="noopener"><Image src={b.img} alt={b.alt} height={88} /></a>)}
-            </p>
-          )}
-          {m.details.length > 0 && (
-            <dl class="member__details">
-              {m.details.map((d) => (
-                <div>
-                  <dt>{d.label}</dt>
-                  <dd><ul>{d.items.map((i) => <li>{i}</li>)}</ul></dd>
-                </div>
-              ))}
-            </dl>
-          )}
-        </div>
-      </article>
-    ))}
+  <div class="section">
+    <div class="wrap">
+      {team.map((m) => (
+        <article class="member" id={m.initials.toLowerCase()}>
+          <Image class="member__photo" src={m.photo} alt={`Photo of ${m.name}`} width={400} height={400} />
+          <div>
+            <p class="eyebrow">{m.role}</p>
+            <h2>{m.name}</h2>
+            {m.bio.map((p) => <p>{p}</p>)}
+            {m.badges && (
+              <p class="member__badges">
+                {m.badges.map((b) => <a href={b.href} target="_blank" rel="noopener"><Image src={b.img} alt={b.alt} height={88} /></a>)}
+              </p>
+            )}
+            {m.details.length > 0 && (
+              <dl class="member__details">
+                {m.details.map((d) => (
+                  <div>
+                    <dt>{d.label}</dt>
+                    <dd><ul>{d.items.map((i) => <li>{i}</li>)}</ul></dd>
+                  </div>
+                ))}
+              </dl>
+            )}
+          </div>
+        </article>
+      ))}
+    </div>
   </div>
 </Base>
 

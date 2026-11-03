@@ -52,20 +52,22 @@ const groups: { heading: string; links: { label: string; href: string }[] }[] = 
 <Base title="Sitemap" description={`Every page on the ${firm.name} website: practice areas, areas we serve, resources, Spanish pages and blog posts.`}>
   <PageHero title="Sitemap" crumbs={[{ label: 'Home', href: '/' }]} />
 
-  <div class="wrap section">
-    <div class="groups">
-      {groups.map((g) => (
-        <section>
-          <h2>{g.heading}</h2>
-          <ul>{g.links.map((l) => <li><a href={l.href}>{l.label}</a></li>)}</ul>
-        </section>
-      ))}
-    </div>
+  <div class="section">
+    <div class="wrap">
+      <div class="groups">
+        {groups.map((g) => (
+          <section>
+            <h2>{g.heading}</h2>
+            <ul>{g.links.map((l) => <li><a href={l.href}>{l.label}</a></li>)}</ul>
+          </section>
+        ))}
+      </div>
 
-    <section class="posts">
-      <h2>Blog posts</h2>
-      <ul>{posts.map((p) => <li><a href={`/${p.id}/`}>{p.data.title}</a></li>)}</ul>
-    </section>
+      <section class="posts">
+        <h2>Blog posts</h2>
+        <ul>{posts.map((p) => <li><a href={`/${p.id}/`}>{p.data.title}</a></li>)}</ul>
+      </section>
+    </div>
   </div>
 </Base>
 

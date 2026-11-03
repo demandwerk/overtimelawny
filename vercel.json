@@ -3,9 +3,14 @@
   "trailingSlash": true,
   "redirects": [
     { "source": "/feed/:path*", "destination": "/blog/", "permanent": true },
-    { "source": "/blog/page/:path*", "destination": "/blog/", "permanent": true },
+    { "source": "/blog/page/1/", "destination": "/blog/", "permanent": true },
+    { "source": "/blog/page/:n/", "destination": "/blog/:n/", "permanent": true },
+    { "source": "/page/1/", "destination": "/blog/", "permanent": true },
+    { "source": "/page/:n/", "destination": "/blog/:n/", "permanent": true },
     { "source": "/category/:path*", "destination": "/blog/", "permanent": true },
     { "source": "/author/:path*", "destination": "/team/", "permanent": true },
+    { "source": "/tag/:path*", "destination": "/blog/", "permanent": true },
+    { "source": "/comments/feed/", "destination": "/blog/", "permanent": true },
     { "source": "/representative-cases/", "destination": "/cases/", "permanent": true },
     { "source": "/wp-admin/:path*", "destination": "/", "permanent": true },
     { "source": "/practice-areas-employment-law-overview/", "destination": "/practice-areas/", "permanent": true },
@@ -31,6 +36,11 @@
     { "source": "/employment-law-attorneys-in-nassau-and-suffolk-counties-in-new-york/", "destination": "/areas-we-serve/long-island-employment-law-attorney/", "permanent": true },
     { "source": "/new-jersey-nyc-overtime-wage-and-sexual-harassment-lawyers/", "destination": "/areas-we-serve/new-jersey/", "permanent": true },
     { "source": "/areas-we-serve/long-island/", "destination": "/areas-we-serve/long-island-employment-law-attorney/", "permanent": true },
-    { "source": "/areas-we-serve/new-york/", "destination": "/areas-we-serve/new-york-employment-law-attorney/", "permanent": true }
+    { "source": "/areas-we-serve/new-york/", "destination": "/areas-we-serve/new-york-employment-law-attorney/", "permanent": true },
+    { "source": "/retaliation/", "destination": "/practice-areas/retaliation/", "permanent": true },
+    { "source": "/practice-areas-employemnt-law-overview/", "destination": "/practice-areas/", "permanent": true },
+    { "source": "/disability-discrimination/", "destination": "/practice-areas/disability-discrimination/", "permanent": true },
+    { "source": "/:slug/feed/", "destination": "/:slug/", "permanent": true },
+    { "source": "/:slug/amp/", "destination": "/:slug/", "permanent": true }
   ]
 }
