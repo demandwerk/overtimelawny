@@ -7,8 +7,6 @@ kind: practice
 
 Retaliation for taking action against an employer due to discrimination or for reporting criminal or illegal activity is against the law. It is against the law at all levels—federal, state and locally in New York City. While retaliation encompasses any adverse treatment, common examples include job termination, demotion, pay cuts, job reassignment or even being overlooked for promotion when being previously being highly considered. Retaliatory termination is one of the most common forms of retaliation in the workplace. If the employer’s action results in a reasonable person being less likely to file a discrimination complaint, then it is often fair to assume retaliation has occurred.
 
-![An employee packing her belongings into a box after being fired](../../../assets/photos/fired-box.jpg)
-
 ### Determining Whether the Employer’s Action Is Retaliation
 
 Protected activity (link to top section on Employment Discrimination page) includes a comprehensive list of areas that are protected in New York. For example, you might suspect retaliation if you apply for an FMLA leave and your employer subsequently lays you off. Or if you ask for an accommodation due to disability and you end up demoted, it may be due to retaliation.
