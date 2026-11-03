@@ -7,6 +7,8 @@ kind: practice
 
 The Family Medical Leave Act is a federal labor law that Congress passed in 1993. Qualified employers must grant an unpaid medical leave for qualified medical and family issues. Under the FMLA, the employer agrees to protect the employee’s job during the leave, enabling the employee to return to the same or an equivalent job after the leave has ended.  
 
+![A man caring for a family member in a hospital bed](../../../assets/photos/hospital-care.jpg)
+
 ### Common Qualified Reasons for Taking an FMLA Leave
 
 Types of events that qualify employees for leaves include:

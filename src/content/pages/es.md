@@ -9,6 +9,8 @@ Los empleados de Nueva York disfrutan de la protección de las leyes federales y
 
 En la oficina legal de Peter A. Romero, nuestros abogados representan a clientes en una amplia gama de áreas de derecho laboral. Manejamos casos que involucran todo tipo de discriminación y también representamos a clientes en reclamos relacionados con pago de horas adicionales, salarios impagos y acuerdos laborales.
 
+![Un trabajador con casco en una obra](../../assets/photos/construction-worker.jpg)
+
 ## Descripción general de las áreas de práctica
 
 -   [Discriminación laboral](/es/discriminacion-laboral/)

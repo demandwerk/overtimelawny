@@ -7,6 +7,8 @@ kind: practice
 
 A whistleblower is an employee who reports the illicit activity or wrongdoing of an employer. The company could be in the private or public sector, including a government agency. Typically, whistleblowers report activity that involves fraud, abuse or endangerment to public health or safety. ​
 
+![Drawers of paper files and records](../../../assets/photos/file-drawers.jpg)
+
 ## Laws That Protect Whistleblowers
 
 The Whistleblower Protection Act of 1989 is a federal law, which protects federal government employees from retaliation against whistleblower reporting. The Whistleblower Protection Act (WPA) offers protection to federal employees who disclosed information regarding:

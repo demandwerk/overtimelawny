@@ -2,6 +2,8 @@
 title: "New York Employment Law Attorney"
 description: "Peter A. Romero has litigated employment cases in New York state and federal courts for more than 20 years. Tell us what happened at work and find out what your legal options are."
 kind: location
+hero: ../../../assets/hero/nyc-skyline-sunset.jpg
+heroPosition: 50% 55%
 ---
 Sometimes, what your employer tells you doesn’t line up with what happened at work. Your manager might say your hours were cut because business slowed down, but the change came right after you complained about unpaid wages. If you’re questioning whether the complaint had something to do with the decision, you don’t have to rely on your employer’s explanation to figure out what happened.
 

@@ -9,6 +9,8 @@ New York employees enjoy protection under federal and state laws that prohibit d
 
 At Romero Law Group, PLLC, our attorneys represent clients in a broad scope of employment law areas. We handle cases involving all types of discrimination and also represent clients in claims related to overtime pay, unpaid wages and employment agreements.
 
+![Attorneys meeting with a client in a law office](../../assets/photos/lawyers-consultation.jpg)
+
 ## What Our Clients Have to Say
 
 <figure class="review">
