@@ -7,6 +7,8 @@ kind: es
 
 Las represalias por tomar medidas contra un empleador debido a discriminación o por denunciar actividades delictivas son ilegales. Va contra la ley en todos los niveles: federal, estatal y local en la ciudad de Nueva York. Si bien las represalias abarcan cualquier tratamiento adverso, los ejemplos comunes incluyen la terminación del trabajo, la degradación, los recortes salariales, la reasignación de trabajo o incluso el hecho de ser pasado por alto para un ascenso cuando anteriormente se lo consideraba altamente. El despido por represalia es una de las formas más comunes de represalia en el lugar de trabajo. Si la acción del empleador tiene como resultado que una persona razonable tenga menos probabilidades de presentar una queja por discriminación, a menudo es justo asumir que se han producido represalias.
 
+![Una empleada guarda sus pertenencias en una caja después de ser despedida](../../../assets/photos/fired-box.jpg)
+
 ### Determinar si la acción del empleador es una represalia
 
 Presentar un reclamo se considera una actividad protegida (enlace a la sección superior de la página de discriminación laboral) bajo la ley laboral del estado de Nueva York. Por ejemplo, puede sospechar de represalias si solicita una licencia laboral de FMLA y si posteriormente su empleador le despide. O si solicita una adaptación debida a una discapacidad y termina degradado, puede deberse a represalias. ¿Qué otras circunstancias podrían dar lugar a represalias?

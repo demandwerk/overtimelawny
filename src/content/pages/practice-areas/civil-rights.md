@@ -7,6 +7,8 @@ kind: practice
 
 In 1964, the U.S. Congress passed Title VII Civil Rights Act, which prohibited discrimination in employment and in other areas of society. The act made it illegal to discriminate in the workplace based on a person’s race, color, religion, sex and national origin. The Civil Rights Act was broad in scope, extending to education, public institutions, the government, labor and businesses. Title VII also established the Equal Employment Opportunity Commission (EEOC).
 
+![Workers marching with union signs and a “Derechos Civiles” banner](../../../assets/photos/civil-rights-march.jpg)
+
 ### What Are Civil Rights?
 
 The 13th and 14th Amendments to the U.S. Constitution and other acts passed by Congress form the legal basis for a civil rights definition. Essentially, civil rights are human rights to freedom and equality in our social and political systems. Since 1964, the U.S. legislature has passed other civil rights measures as well. Case law has also emerged that has further established precedents and addressed specific issues involved with civil rights violations. Today there are additional protected classes recognized under federal law that are free from discrimination including: age, disability, sexual orientation and gender identity.

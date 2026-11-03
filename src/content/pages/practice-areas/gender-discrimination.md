@@ -21,6 +21,8 @@ Though less frequent, gender discrimination can also negatively affect men in th
 
 At the Romero Law Group, PLLC, we fight for the rights of workers, handling a wide range of legal issues involving wrongful acts by employers. Attorney Peter Romero has fought for the rights of workers for more than  20 years, including women and men who have been victims of gender discrimination. We offer a free initial consultation to any employee with a potential employment law dispute. To schedule an appointment, [Contact our offices online](/practice-areas/sexual-harassment/#contact) or call us at [(631) 257-5588](tel:+16312575588). We can also set up consultations by teleconference.
 
+![A woman holding a folder in an office meeting](../../../assets/photos/woman-in-meeting.jpg)
+
 ### What Is Gender Discrimination?
 
 Generally speaking, employment-based gender discrimination takes place when an employer makes an employment decision based on the gender of an employee or a class of employees. Though both men and women may be victims of gender discrimination, women are more likely to suffer adverse consequences because of gender discrimination.

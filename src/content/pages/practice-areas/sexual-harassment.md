@@ -40,6 +40,8 @@ Generally speaking, you have a right to seek legal recourse if you have been the
 -   _Quid pro quo_ sexual harassment—From the Latin meaning “this for that,” _quid pro quo_ sexual harassment involves the promise of job-related benefits in exchange for sexual favors or the threat of workplace sanctions for refusal to provide sexual favors.
 -   A hostile work environment based on sex—When the day-to-day conditions where you work create an environment that is offensive, intimidating or abusive because of the pervasive presence of conduct, innuendo, images, language or other references to sex or sexual acts
 
+![A coworker touching a woman’s head while she tries to work at her desk](../../../assets/photos/unwanted-touch-desk.jpg)
+
 ### What Are the Key Elements of the Different Types of Sexual Harassment Claims?
 
 _Quid pro quo_ sexual harassment has two components:

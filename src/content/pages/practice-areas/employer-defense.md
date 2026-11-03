@@ -9,6 +9,8 @@ Through our comprehensive knowledge and experience in employment law, Romero Law
 
 ​
 
+![An attorney meeting with business clients across a conference table](../../../assets/photos/legal-meeting.jpg)
+
 ### Why Experienced Legal Help Is Invaluable for Employers
 
 Having access to an experienced employment defense lawyer is vital for obtaining sound legal advice. Our attorneys can help you deal with difficult employment situations and protect you against economic loss and liability. We can draft employment agreements, severance agreements, employee manuals and other policies. Many disputes can be settled short of litigation and whenever possible, we strive to provide clients with effective and cost-efficient resolutions.
