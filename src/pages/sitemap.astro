@@ -4,6 +4,7 @@
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import PageHero from '../components/PageHero.astro';
+import { postHref } from '../data/blog';
 import { firm, locationsOverview, practiceAreas, practiceHref, practiceOverview, spanishHome } from '../site';
 
 const pages = await getCollection('pages');
@@ -65,7 +66,7 @@ const groups: { heading: string; links: { label: string; href: string }[] }[] = 
 
       <section class="posts">
         <h2>Blog posts</h2>
-        <ul>{posts.map((p) => <li><a href={`/${p.id}/`}>{p.data.title}</a></li>)}</ul>
+        <ul>{posts.map((p) => <li><a href={postHref(p.id)}>{p.data.title}</a></li>)}</ul>
       </section>
     </div>
   </div>

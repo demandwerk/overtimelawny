@@ -5,12 +5,12 @@ import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import Icon from './Icon.astro';
 import { topicBySlug } from '../data/topics';
-import { formatDate, readMinutes } from '../data/blog';
+import { formatDate, postHref, readMinutes } from '../data/blog';
 
 interface Props { post: CollectionEntry<'posts'> }
 const { post } = Astro.props;
 const topic = topicBySlug[post.data.topic];
-const href = `/${post.id}/`;
+const href = postHref(post.id);
 ---
 <article class="card">
   <a class="card__media" href={href} tabindex="-1" aria-hidden="true">

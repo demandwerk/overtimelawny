@@ -1,5 +1,5 @@
 ---
-// Imported WordPress pages and blog posts live at /<slug>/, as before;
+// Imported WordPress pages live at /<slug>/ and blog posts at /blog/<slug>/;
 // practice-area pages live at /practice-areas/<slug>/, location pages at
 // /areas-we-serve/<slug>/ and Spanish pages at /es/<slug>/.
 import { getCollection, render } from 'astro:content';
@@ -18,7 +18,7 @@ export async function getStaticPaths() {
   const posts = await getCollection('posts');
   return [
     ...pages.map((entry) => ({ params: { slug: entry.id }, props: { entry, isPost: false } })),
-    ...posts.map((entry) => ({ params: { slug: entry.id }, props: { entry, isPost: true } })),
+    ...posts.map((entry) => ({ params: { slug: `blog/${entry.id}` }, props: { entry, isPost: true } })),
   ];
 }
 

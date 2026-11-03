@@ -8,7 +8,7 @@ import Base from '../layouts/Base.astro';
 import PostCard from './PostCard.astro';
 import { firm } from '../site';
 import { topics, topicBySlug, type TopicSlug } from '../data/topics';
-import { formatDate, getPosts } from '../data/blog';
+import { formatDate, getPosts, postHref } from '../data/blog';
 
 interface Props {
   page: Page<CollectionEntry<'posts'>>;
@@ -27,7 +27,7 @@ const description = current
   : `News and plain-English guides on New York and New Jersey employment law from ${firm.name}.`;
 
 // Titles and links for the search box (every post, whatever page this is).
-const searchIndex = (await getPosts()).map((p) => ({ t: p.data.title, u: `/${p.id}/`, k: topicBySlug[p.data.topic].title }));
+const searchIndex = (await getPosts()).map((p) => ({ t: p.data.title, u: postHref(p.id), k: topicBySlug[p.data.topic].title }));
 ---
 <Base title={title} description={description} image={featured?.data.image}>
   <header class="bhead">
@@ -52,15 +52,15 @@ const searchIndex = (await getPosts()).map((p) => ({ t: p.data.title, u: `/${p.i
   {featured && (
     <section class="feature" aria-label="Featured article">
       <div class="wrap feature__inner">
-        <a class="feature__media" href={`/${featured.id}/`} tabindex="-1" aria-hidden="true">
+        <a class="feature__media" href={postHref(featured.id)} tabindex="-1" aria-hidden="true">
           {featured.data.image && <Image src={featured.data.image} alt="" widths={[480, 800, 1100]} sizes="(max-width: 860px) 100vw, 540px" />}
         </a>
         <div>
           <p class="feature__label">Featured article <span aria-hidden="true">•</span> {topicBySlug[featured.data.topic].title}</p>
           <p class="feature__date"><time datetime={featured.data.date.toISOString()}>{formatDate(featured.data.date)}</time></p>
-          <h2><a href={`/${featured.id}/`}>{featured.data.title}</a></h2>
+          <h2><a href={postHref(featured.id)}>{featured.data.title}</a></h2>
           <p class="feature__text">{featured.data.description}</p>
-          <a class="btn btn--ghost feature__btn" href={`/${featured.id}/`}>Read more</a>
+          <a class="btn btn--ghost feature__btn" href={postHref(featured.id)}>Read more</a>
         </div>
       </div>
     </section>

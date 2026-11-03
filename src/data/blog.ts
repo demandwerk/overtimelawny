@@ -3,6 +3,9 @@ import { getCollection } from 'astro:content';
 
 export const POSTS_PER_PAGE = 12;
 
+/** A post's URL: every post lives under /blog/. */
+export const postHref = (id: string) => `/blog/${id}/`;
+
 /** All posts, newest first. */
 export const getPosts = async () =>
   (await getCollection('posts')).sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());

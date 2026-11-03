@@ -5,6 +5,7 @@ import Base from '../layouts/Base.astro';
 import ConsultForm from '../components/ConsultForm.astro';
 import Icon from '../components/Icon.astro';
 import Review from '../components/Review.astro';
+import { postHref } from '../data/blog';
 import PracticeCarousel from '../components/PracticeCarousel.astro';
 import heroImg from '../assets/hero/fire-island-lighthouse.jpg';
 import { firm, testimonials, team, awards, locations } from '../site';
@@ -212,7 +213,7 @@ const steps = [
         <ul class="posts">
           {posts.map((p) => (
             <li>
-              <a href={`/${p.id}/`}>
+              <a href={postHref(p.id)}>
                 <time datetime={p.data.date.toISOString()}>{fmt(p.data.date)}</time>
                 <span>{p.data.title}</span>
               </a>
