@@ -2,6 +2,7 @@
 title: "Rights for New York City Fast Food Workers Changes"
 description: "Rights for New York City fast food workers have significantly changed. On July 4th new laws went into…"
 date: 2021-07-15
+topic: wages
 ---
 ## NYC Fast Food Workers Gain Significant Rights
 

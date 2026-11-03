@@ -2,6 +2,7 @@
 title: "New York Employees Now Have Further Protection Against Retaliation"
 description: "In March 2022, New York Governor Kathy Hochul signed a bill into law that broadened employees' protection against retaliation. New York laws protect employees who file discrimination or harassment claims. It also protects employees who testified or assisted in a legal proceeding involving…"
 date: 2022-05-28
+topic: retaliation
 ---
 ## Prohibitions for Retaliation Extend to Leaked Personnel Files
 

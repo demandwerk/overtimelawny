@@ -2,6 +2,7 @@
 title: "What Rights Do Employees Have for Leave of Absences?"
 description: "Further amendments are going into effect for lawful leave of absences that protect workers' rights. On November 21, 2022, NY Governor Kathy Hochul signed the amendments into law. They are effective in 90 days after becoming…"
 date: 2022-12-16
+topic: leave
 ---
 ## Greater Protection for Lawful Leave of Absences
 

@@ -1,0 +1,19 @@
+---
+// One page per blog topic: /blog/topic/wages/, /blog/topic/wages/2/ …
+import type { GetStaticPaths, Page } from 'astro';
+import type { CollectionEntry } from 'astro:content';
+import BlogIndex from '../../../../components/BlogIndex.astro';
+import { getPosts, POSTS_PER_PAGE } from '../../../../data/blog';
+import { topics, type TopicSlug } from '../../../../data/topics';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const posts = await getPosts();
+  return topics.flatMap((t) =>
+    paginate(posts.filter((p) => p.data.topic === t.slug), { params: { topic: t.slug }, pageSize: POSTS_PER_PAGE }),
+  );
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props as { page: Page<CollectionEntry<'posts'>> };
+const { topic } = Astro.params as { topic: TopicSlug };
+---
+<BlogIndex page={page} topic={topic} />

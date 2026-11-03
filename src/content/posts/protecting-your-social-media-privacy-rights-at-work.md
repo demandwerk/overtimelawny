@@ -2,6 +2,7 @@
 title: "Protecting Your Social Media Privacy Rights at Work"
 description: "The provisions of the law protect job applicants, as well as current employees. An employer may not engage in any retaliatory action against a worker or applicant for refusal to comply with a prohibited request. The amendments do not apply to personal social media information voluntarily given to…"
 date: 2024-04-16
+topic: rights
 ---
 ## New York Enacts Law Prohibiting Employers From Wrongful Access
 

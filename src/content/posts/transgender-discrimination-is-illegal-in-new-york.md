@@ -2,6 +2,7 @@
 title: "Transgender Discrimination Is Illegal in New York"
 description: "In January of 2021, a student brought a claim of transgender discrimination against Apex Technical School. The claimant and the school reached a $25,000…"
 date: 2021-04-21
+topic: discrimination
 ---
 ## What Rights Do New York Transgender Individuals Have?
 

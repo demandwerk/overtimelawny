@@ -2,6 +2,7 @@
 title: "New York Legislature Approves “Trapped at Work” Bill"
 description: "The New York legislature has passed a new law, referred to as the “Trapped at Work Act,” which targets a practice that some New York employers have historically used to try to hold workers financially responsible for training expenses. As in many other states, some employers in New York have…"
 date: 2025-06-22
+topic: rights
 image: ../../assets/blog/new-york-legislature-approves-trapped-at-work-bill.jpg
 ---
 ## Proposed Legislation Would Ban Certain Types of Promissory Notes From Workers

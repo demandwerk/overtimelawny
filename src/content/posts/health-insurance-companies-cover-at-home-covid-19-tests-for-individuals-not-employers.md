@@ -2,6 +2,7 @@
 title: "Health Insurance Companies Cover At-Home COVID-19 Tests, for Individuals, Not Employers"
 description: "COVID-19 tests are a pressing issue for employers and employees. Many establishments require testing to ensure an employee is not sick with the virus. Doing so prevents contagion in the workplace. However, the question arises whether the government requires insurance companies to cover the testing…"
 date: 2022-01-24
+topic: leave
 ---
 ## How Are Employees Covered With COVID-19 Tests?
 

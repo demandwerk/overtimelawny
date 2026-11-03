@@ -2,6 +2,7 @@
 title: "Paid Leave Now Available in New York for Prenatal Needs"
 description: ""
 date: 2025-01-31
+topic: leave
 image: ../../assets/blog/paid-leave-now-available-in-new-york-for-prenatal-needs.jpg
 ---
 ## New York Law Allows Expectant Mothers Paid Time Off From Work for Prenatal Care

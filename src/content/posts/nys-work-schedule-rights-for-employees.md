@@ -2,6 +2,7 @@
 title: "NYS Work Schedule Rights for Employees"
 description: "Special laws apply to minors, individuals younger than 18 years of age. However, for working adults, the NYS Department of Labor(https://dol.ny.gov/wages-and-hours-frequently-asked-questions) sets no limitations on the…"
 date: 2022-06-14
+topic: wages
 ---
 ## What Work Schedule Rights Do You Have?
 

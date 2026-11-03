@@ -2,6 +2,7 @@
 title: "Is This Sexual Harassment?"
 description: "Sexual harassment in the workplace remains a serious problem in New York and across the United States, even in the wake of story after story about inappropriate behavior on the job. There’s a common misperception, though, that it’s only sexual harassment when there’s a clear offer of a benefit in…"
 date: 2025-08-19
+topic: harassment
 image: ../../assets/blog/is-this-sexual-harassment.jpg
 ---
 ## Actions That You Might Not Realize Qualify as Sexual Harassment

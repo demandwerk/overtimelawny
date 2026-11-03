@@ -2,6 +2,7 @@
 title: "New York City Human Rights Law for Queens, Brooklyn, the Bronx and Harlem/Upper Manhattan"
 description: "The New York City Human Rights Law (NYCHRL) prohibits discrimination against protected classes. In terms of offering protection to a greater number of protected classes, the NYCHRL is extensive. It has a broader legal scope than federal or state…"
 date: 2021-06-29
+topic: discrimination
 ---
 ## Protected Classes and Prohibitions Against Discrimination
 

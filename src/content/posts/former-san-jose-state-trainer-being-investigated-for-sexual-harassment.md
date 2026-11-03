@@ -2,6 +2,7 @@
 title: "Former San Jose State Trainer Being Investigated for Sexual Harassment"
 description: "Alleged sexual harassment led to an investigation of an athletic trainer, Scott Shaw, at San Jose State University in 2009. Although the university cleared him in 2010, he is once again under scrutiny. Shaw resigned in August 2020 after several more recent complaints opened months of investigation.…"
 date: 2021-05-26
+topic: harassment
 ---
 ## Earlier Allegations Resurfaced
 

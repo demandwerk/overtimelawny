@@ -2,6 +2,7 @@
 title: "EEOC Lawsuit Against AI Hiring Bias"
 description: "The EEOC (Equal Employment Opportunity Commission) lawsuit against AI hiring bias is the EEOC’s first lawsuit that addresses the discriminatory use of AI. Employees may not even be aware of this new way in which discrimination can…"
 date: 2023-04-28
+topic: discrimination
 ---
 ## As Employees, Know Your Rights Against AI Hiring Bias
 

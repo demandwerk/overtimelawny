@@ -2,6 +2,7 @@
 title: "New York Family Leaves: Employee’s Rights"
 description: "Taking family leaves is a right that employees have through both federal and New York State…"
 date: 2022-07-21
+topic: leave
 ---
 ## What Leaves Are Permitted for Family Members?
 

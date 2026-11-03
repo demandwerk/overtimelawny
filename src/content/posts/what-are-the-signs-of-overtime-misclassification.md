@@ -2,6 +2,7 @@
 title: "What Are the Signs of Overtime Misclassification?"
 description: "Overtime misclassification can occur when your employer erroneously classifies you as exempt for overtime. How can this happen? There are various ways in which it…"
 date: 2022-02-22
+topic: wages
 ---
 ## How to Recognize Employee Misclassification for Overtime
 

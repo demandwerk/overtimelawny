@@ -2,6 +2,7 @@
 title: "New Lawsuit Filed Against X by Former Twitter Executive"
 description: "X, the company formerly known as Twitter, continues to face legal challenges from former employees. Alan Rosa, who served at global security chief for the social media behemoth, has filed legal action in federal court, alleging that he was terminated for expressing his concerns about cost-cutting…"
 date: 2023-12-13
+topic: retaliation
 ---
 ## Claim Alleges Wrongful Discharge and Retaliation
 

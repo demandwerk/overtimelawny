@@ -2,6 +2,7 @@
 title: "New York Retail Worker Safety Act Targets Workplace Violence"
 description: "According to data collected by the Bureau of Labor Statistics, a division of the U.S. Department of Labor, more than 450 workers were killed in 2023 in acts of violence in the workplace. Furthermore, assaults in grocery and convenience stores both went up by more than 60%. In response to concerns…"
 date: 2025-03-26
+topic: rights
 image: ../../assets/blog/new-york-retail-worker-safety-act-targets-workplace-violence.jpg
 ---
 ## Retail Workers Protected Under New Law

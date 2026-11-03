@@ -19,9 +19,9 @@ export default defineConfig({
   trailingSlash: 'always', // match the old WordPress URLs
   integrations: [
     sitemap({
-      // Leave out the noindex thank-you page and the numbered blog pages
-      // (/blog/2/ …); the posts they link to are listed individually.
-      filter: (page) => !page.includes('/thanks-for-reaching-out/') && !/\/blog\/\d+\/$/.test(page),
+      // Leave out the noindex thank-you page and the numbered blog and topic
+      // pages (/blog/2/, /blog/topic/wages/2/ …); the posts are listed individually.
+      filter: (page) => !page.includes('/thanks-for-reaching-out/') && !/\/blog\/(topic\/[^/]+\/)?\d+\/$/.test(page),
       serialize: (item) => (postDates.has(item.url) ? { ...item, lastmod: new Date(postDates.get(item.url)).toISOString() } : item),
     }),
   ],

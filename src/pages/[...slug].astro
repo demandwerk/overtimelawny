@@ -11,6 +11,7 @@ import Icon from '../components/Icon.astro';
 import PracticeCarousel from '../components/PracticeCarousel.astro';
 import LocationsNav from '../components/LocationsNav.astro';
 import { firm, locationsOverview, practiceOverview, spanishHome, translations } from '../site';
+import { topicBySlug, type TopicSlug } from '../data/topics';
 
 export async function getStaticPaths() {
   const pages = await getCollection('pages');
@@ -29,11 +30,13 @@ const lang = es ? 'es' : 'en';
 const date = isPost ? (entry.data as { date: Date }).date : null;
 const fmt = (d: Date) => d.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
 
-const eyebrow = { practice: 'Practice area', location: 'Areas we serve', es: 'Abogados laborales', page: undefined, post: 'Blog' }[kind];
+// Blog posts show their topic above the title and in the breadcrumb.
+const postTopic = isPost ? topicBySlug[(entry.data as { topic: TopicSlug }).topic] : undefined;
+const eyebrow = postTopic?.title ?? { practice: 'Practice area', location: 'Areas we serve', es: 'Abogados laborales', page: undefined, post: 'Blog' }[kind];
 const crumbs = es
   ? [{ label: 'Inicio', href: '/' }, { label: 'Áreas de práctica', href: spanishHome }]
   : isPost
-    ? [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog/' }]
+    ? [{ label: 'Home', href: '/' }, { label: 'Blog', href: '/blog/' }, { label: postTopic!.title, href: `/blog/topic/${postTopic!.slug}/` }]
     : kind === 'practice'
       ? [{ label: 'Home', href: '/' }, { label: 'Practice areas', href: practiceOverview }]
       : kind === 'location'
