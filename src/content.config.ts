@@ -16,10 +16,12 @@ const pages = defineCollection({
 
 const posts = defineCollection({
   loader: glob({ pattern: '*.md', base: './src/content/posts' }),
-  schema: z.object({
+  schema: ({ image }) => z.object({
     title: z.string(),
     description: z.string(),
     date: z.coerce.date(),
+    // Optional featured image: the post's banner and its social-share picture.
+    image: image().optional(),
   }),
 });
 

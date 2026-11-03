@@ -39,7 +39,9 @@ const crumbs = es
       : kind === 'location'
         ? [{ label: 'Home', href: '/' }, { label: 'Areas we serve', href: locationsOverview }]
         : [{ label: 'Home', href: '/' }];
-const pageData = isPost ? undefined : (entry.data as { hero?: ImageMetadata; heroPosition?: string });
+const pageData = isPost
+  ? { hero: (entry.data as { image?: ImageMetadata }).image, heroPosition: undefined }
+  : (entry.data as { hero?: ImageMetadata; heroPosition?: string });
 const showSidebar = entry.id !== 'disclaimer';
 const isOverview = entry.id === 'practice-areas';
 // Spanish pages link to the Spanish practice pages in their own text instead.
@@ -52,7 +54,7 @@ const otherLang = es
   ? Object.entries(translations).find(([, esPath]) => esPath === path)?.[0]
   : translations[path];
 ---
-<Base title={entry.data.title} description={entry.data.description} lang={lang} type={isPost ? 'article' : 'website'}>
+<Base title={entry.data.title} description={entry.data.description} lang={lang} type={isPost ? 'article' : 'website'} image={pageData?.hero}>
   <PageHero title={entry.data.title} eyebrow={eyebrow} crumbs={crumbs} image={pageData?.hero} imagePosition={pageData?.heroPosition}>
     {date && <p class="meta">{fmt(date)} · {firm.name}</p>}
     {otherLang && (

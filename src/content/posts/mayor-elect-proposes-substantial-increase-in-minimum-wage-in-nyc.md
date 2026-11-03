@@ -2,6 +2,7 @@
 title: "Mayor-Elect Proposes Substantial Increase in Minimum Wage in NYC"
 description: "Under current law, the minimum wage for workers in New York City is $16.50 per hour, more than twice the federal $7.25 per hour. If mayor-elect Zohran Mamdani is able to successfully implement his agenda, that figure will increase incrementally over the next five years, rising to $30 per hour by…"
 date: 2025-11-25
+image: ../../assets/blog/mayor-elect-proposes-substantial-increase-in-minimum-wage-in-nyc.jpg
 ---
 ## Mamdani Plan Calls for “$30 by 2030” Phased in Over Five Years
 
