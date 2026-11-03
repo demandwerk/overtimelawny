@@ -41,6 +41,8 @@
     { "source": "/practice-areas-employemnt-law-overview/", "destination": "/practice-areas/", "permanent": true },
     { "source": "/disability-discrimination/", "destination": "/practice-areas/disability-discrimination/", "permanent": true },
     { "source": "/:slug/feed/", "destination": "/:slug/", "permanent": true },
-    { "source": "/:slug/amp/", "destination": "/:slug/", "permanent": true }
+    { "source": "/:slug/amp/", "destination": "/:slug/", "permanent": true },
+    { "source": "/about/", "destination": "/team/", "permanent": true },
+    { "source": "/about-us/", "destination": "/team/", "permanent": true }
   ]
 }

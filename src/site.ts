@@ -141,6 +141,8 @@ export const testimonials = [
   },
 ];
 
+// Team bios. In `details`, Admitted items are plain strings (shown as tags);
+// other items are { name, detail? } (name in bold, detail beneath).
 export const team = [
   {
     name: 'Peter A. Romero',
@@ -154,10 +156,10 @@ export const team = [
       'Peter A. Romero has practiced exclusively in the area of employment law for over 20 years. He regularly represents both employers and employees in workplace litigation, including trial and appellate practice, administrative proceedings before the Department of Labor, the U.S. Equal Employment Opportunity Commission, and the New York State Division of Human Rights. He is highly experienced in complex litigation, including collective and class action lawsuits.',
     ],
     details: [
-      { label: 'Education', items: ['St. John’s University School of Law'] },
+      { label: 'Education', items: [{ name: 'St. John’s University School of Law' }] },
       { label: 'Admitted', items: ['U.S. Court of Appeals, Second Circuit', 'U.S. Court of Appeals, Third Circuit', 'U.S. District Court, Southern District of New York', 'U.S. District Court, Eastern District of New York'] },
-      { label: 'Associations', items: ['National Employment Lawyers Association, New York Chapter', 'The Federal Bar Association', 'Nassau County Bar Association', 'Suffolk County Bar Association'] },
-      { label: 'Recognition', items: ['Best Lawyers in America®, selected repeatedly by peers', 'Super Lawyers®, Employment Litigation, 2019–2025'] },
+      { label: 'Associations', items: [{ name: 'National Employment Lawyers Association', detail: 'New York Chapter' }, { name: 'The Federal Bar Association' }, { name: 'Nassau County Bar Association' }, { name: 'Suffolk County Bar Association' }] },
+      { label: 'Recognition', items: [{ name: 'Best Lawyers in America®', detail: 'Selected repeatedly by peers' }, { name: 'Super Lawyers®', detail: 'Employment Litigation, 2019–2025' }] },
     ],
   },
   {
@@ -172,10 +174,10 @@ export const team = [
       'His prior experience includes two boutique labor and employment law firms where he focused primarily on representing plaintiffs, and internships at employment law firms in New York and New Jersey and at the U.S. Equal Employment Opportunity Commission.',
     ],
     details: [
-      { label: 'Education', items: ['Hofstra University Maurice A. Deane School of Law, J.D., cum laude; Notes and Comments Editor, Hofstra Labor & Employment Law Journal', 'University of Cincinnati, B.A., magna cum laude, Journalism'] },
+      { label: 'Education', items: [{ name: 'Hofstra University Maurice A. Deane School of Law', detail: 'J.D., cum laude · Notes and Comments Editor, Hofstra Labor & Employment Law Journal' }, { name: 'University of Cincinnati', detail: 'B.A., magna cum laude, Journalism' }] },
       { label: 'Admitted', items: ['State of New York', 'U.S. District Court, Southern District of New York', 'U.S. District Court, Eastern District of New York', 'State of New Jersey', 'U.S. District Court, District of New Jersey'] },
-      { label: 'Recognition', items: ['Super Lawyers Rising Stars, Employment & Labor, 2016–2025'] },
-      { label: 'Publication', items: ['Co-author, “Speak the Truth and Tell No Lies: An Update for the Employee Polygraph Protection Act,” Hofstra Labor & Employment Law Journal, Vol. 29.1'] },
+      { label: 'Recognition', items: [{ name: 'Super Lawyers Rising Stars', detail: 'Employment & Labor, 2016–2025' }] },
+      { label: 'Publication', items: [{ name: '“Speak the Truth and Tell No Lies: An Update for the Employee Polygraph Protection Act”', detail: 'Co-author · Hofstra Labor & Employment Law Journal, Vol. 29.1' }] },
     ],
   },
   {
@@ -189,7 +191,7 @@ export const team = [
       'He has helped dozens of employees recover unpaid wages in collective action lawsuits and has secured significant damage awards for his clients.',
     ],
     details: [
-      { label: 'Education', items: ['Pace University School of Law, J.D., 2016', 'State University of New York at New Paltz, B.A., 2012'] },
+      { label: 'Education', items: [{ name: 'Pace University School of Law', detail: 'J.D., 2016' }, { name: 'State University of New York at New Paltz', detail: 'B.A., 2012' }] },
       { label: 'Admitted', items: ['State of New York', 'U.S. District Court, Southern District of New York', 'U.S. District Court, Eastern District of New York', 'State of New Jersey', 'U.S. District Court, District of New Jersey'] },
     ],
   },
