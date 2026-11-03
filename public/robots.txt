@@ -1,4 +1,16 @@
+# Everything worth indexing is listed in the sitemap below. The rules here keep
+# crawlers off WordPress-era endpoints and query-string URLs that only exist as
+# bot bait, so crawl time is spent on real pages. Old WordPress archive and feed
+# URLs are not blocked: they 301 to their new pages and crawlers need to see that.
 User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /xmlrpc.php
+Disallow: /wp-json/
+Disallow: /*?s=
+Disallow: /*?p=
+Disallow: /*?replytocom=
+Disallow: /thanks-for-reaching-out/
 Allow: /
 
 Sitemap: https://overtimelawny.com/sitemap-index.xml
