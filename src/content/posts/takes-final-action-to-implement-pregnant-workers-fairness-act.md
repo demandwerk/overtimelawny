@@ -1,6 +1,7 @@
 ---
 title: "EEOC Takes Final Action to Implement Pregnant Workers Fairness Act"
-description: "Nearly two years ago, the U.S. Congress approved, and President Biden signed, the Pregnant Workers Fairness Act (PWFA), a federal statute that ensures that workers have adequate protections when pregnant, facing childbirth or requiring medical attention for a number of related conditions. The law…"
+seoTitle: "EEOC Final Rule on Pregnant Workers Act"
+description: "The EEOC’s final rule for the Pregnant Workers Fairness Act: the accommodations employers must give for pregnancy, childbirth and related conditions."
 date: 2024-05-21
 topic: leave
 ---

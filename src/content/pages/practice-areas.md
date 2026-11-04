@@ -1,6 +1,8 @@
 ---
 title: "Practice Areas"
-description: "New York employees enjoy protection under federal and state laws that prohibit discrimination and harassment. New York City also provides employees with protection under the New York City Human Rights Law (NYCHRL)(https://www1.nyc.gov/site/cchr/law/the-law.page) . The NYCHRL encompasses a more…"
+seoTitle: "Employment Law Practice Areas"
+h1: "Employment Law Practice Areas"
+description: "Overtime, unpaid wages, discrimination, harassment, retaliation and more: how Romero Law Group represents workers in New York and New Jersey."
 kind: page
 ---
 ## Employment Rights in New York

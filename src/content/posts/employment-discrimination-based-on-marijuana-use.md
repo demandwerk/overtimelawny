@@ -1,6 +1,7 @@
 ---
 title: "Employment Discrimination Based on Marijuana Use"
-description: "Employment discrimination based on marijuana use that abides by state law is illegal. Cannabis is now a legal consumable product for New York adults. However, legal guidelines exist to protect employers and…"
+seoTitle: "Can You Be Fired for Marijuana Use in NY?"
+description: "New York protects lawful off-duty cannabis use, with limits. When firing or refusing to hire someone over marijuana is illegal and when employers can act."
 date: 2022-09-27
 topic: discrimination
 ---

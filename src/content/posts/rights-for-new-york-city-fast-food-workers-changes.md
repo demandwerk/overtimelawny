@@ -1,6 +1,7 @@
 ---
 title: "Rights for New York City Fast Food Workers Changes"
-description: "Rights for New York City fast food workers have significantly changed. On July 4th new laws went into…"
+seoTitle: "NYC Fast Food Worker Rights: What Changed"
+description: "New NYC laws that took effect on July 4 gave fast food workers more protection on the job. What changed and how to enforce your rights."
 date: 2021-07-15
 topic: wages
 ---

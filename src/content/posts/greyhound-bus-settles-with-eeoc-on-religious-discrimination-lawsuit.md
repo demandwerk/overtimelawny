@@ -1,6 +1,7 @@
 ---
 title: "Greyhound Bus Settles With EEOC on Religious Discrimination Lawsuit"
-description: "Companies can be subject to a religious discrimination lawsuit when they fail to make religious accommodations for employees. Such was the case when the EEOC sued Greyhound Bus(https://www.eeoc.gov/newsroom/greyhound-will-pay-45000-settle-eeoc-religious-discrimination-suit) on behalf of a Muslim…"
+seoTitle: "Greyhound Settles EEOC Religious Bias Suit"
+description: "Greyhound settled an EEOC religious discrimination suit brought for a Muslim employee. What employers owe workers who need religious accommodations."
 date: 2021-12-17
 topic: discrimination
 ---

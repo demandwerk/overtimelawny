@@ -1,6 +1,7 @@
 ---
 title: "New York State Legislature Revisits Noncompete Ban"
-description: "Earlier this year, the New York legislature once again took up consideration of a statewide law governing noncompete agreements. The State Senate and Assembly both approved a bill in 2023 that would outlaw virtually all non-competition agreements, but New York governor Kathy Hochul vetoed the…"
+seoTitle: "NY Legislature Revisits Noncompete Ban"
+description: "After Governor Hochul vetoed a 2023 noncompete ban, New York lawmakers took it up again. Where the bill stands and what it would mean for workers."
 date: 2025-04-24
 topic: rights
 image: ../../assets/blog/new-york-state-legislature-revisits-noncompete-ban.jpg

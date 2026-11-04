@@ -1,6 +1,7 @@
 ---
 title: "Court Rules About Employment Discrimination Based on Reproductive Choices"
-description: "Accordingly, a person may not be treated differently at work based on past, present or potential pregnancy. That means that an employer may not take any of the following employment actions because of your stated intention or interest in becoming pregnant or having a…"
+seoTitle: "Reproductive Choice Discrimination at Work"
+description: "You cannot be treated differently at work over past, present or potential pregnancy or your reproductive choices. What a recent court ruling means."
 date: 2025-01-31
 topic: discrimination
 image: ../../assets/blog/court-rules-about-employment-discrimination-based-on-reproductive-choices.jpg

@@ -1,6 +1,8 @@
 ---
 title: "Discriminación y acoso laboral durante el embarazo"
-description: "Las mujeres embarazadas en el trabajo pueden estar sujetas a decisiones y tratamientos injustos debido a su embarazo. Cuando un empleador en Nueva York decide no contratar a una solicitante o decide degradar, despedir, o reducir el salario o los beneficios de una empleada por causa de su embarazo,…"
+seoTitle: "Abogado de Discriminación por Embarazo"
+h1: "Abogado de discriminación por embarazo"
+description: "¿La despidieron o le negaron adaptaciones por estar embarazada? Nuestros abogados en Nueva York protegen sus derechos. Consulta gratuita."
 kind: es
 ---
 ## Mujeres embarazadas en el trabajo

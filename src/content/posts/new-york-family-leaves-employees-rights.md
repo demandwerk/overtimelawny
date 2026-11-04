@@ -1,6 +1,7 @@
 ---
 title: "New York Family Leaves: Employee’s Rights"
-description: "Taking family leaves is a right that employees have through both federal and New York State…"
+seoTitle: "New York Family Leave: Employee Rights"
+description: "Your right to family leave under federal law and New York State law: who qualifies, how long you can take and how your job is protected."
 date: 2022-07-21
 topic: leave
 ---

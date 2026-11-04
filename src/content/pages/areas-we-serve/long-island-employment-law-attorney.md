@@ -1,6 +1,7 @@
 ---
 title: "Long Island Employment Law Attorney"
-description: "Romero Law Group has a Long Island office in Hauppauge. Tell a Long Island employment law attorney what happened at work in Nassau or Suffolk County and find out whether you may have a claim."
+seoTitle: "Long Island Employment Lawyer"
+description: "Long Island employment lawyers in Hauppauge for workers in Nassau and Suffolk. Overtime, unpaid wages, discrimination and harassment. Free consultation."
 kind: location
 hero: ../../../assets/hero/fire-island-lighthouse.jpg
 ---

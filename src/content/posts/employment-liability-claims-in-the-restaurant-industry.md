@@ -1,6 +1,7 @@
 ---
 title: "Employment Liability Claims in the Restaurant Industry"
-description: "Employment liability claims in the restaurant industry account for more complaints than any other industry. The EEOC indicated this fact even before the Covid…"
+seoTitle: "Employment Claims in the Restaurant Industry"
+description: "Restaurants draw more EEOC complaints than any other industry. The wage, tip, harassment and discrimination claims restaurant workers bring most."
 date: 2022-10-27
 topic: discrimination
 ---

@@ -1,6 +1,7 @@
 ---
 title: "EEOC Filed a Pandemic Disability Discrimination Lawsuit"
-description: "The Equal Opportunity Commission (EEOC) recently filed a pandemic disability discrimination lawsuit. They did so when a company failed to provide reasonable accommodations. Under the ADA, companies must allow accommodations for disabled workers. During the pandemic, many businesses allowed…"
+seoTitle: "EEOC Pandemic Disability Discrimination Suit"
+description: "The EEOC sued an employer that refused a reasonable accommodation during the pandemic. What the ADA requires and what disabled workers can do."
 date: 2021-10-20
 topic: discrimination
 ---

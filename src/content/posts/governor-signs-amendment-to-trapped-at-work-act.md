@@ -1,6 +1,7 @@
 ---
 title: "Governor Signs Amendment to Trapped at Work Act"
-description: "In New York and across the country, it has become common practice for employers to require that new hires enter into a contractual agreement to repay certain costs to the employer, such as tuition for training, signing bonuses, relocation assistance allowance and other financial bonuses or…"
+seoTitle: "NY Trapped at Work Act Amendment Signed"
+description: "New York limits contracts that make workers repay training costs, signing bonuses and relocation pay. What the amended Trapped at Work Act changes."
 date: 2026-02-26
 topic: rights
 image: ../../assets/blog/governor-signs-amendment-to-trapped-at-work-act.jpg

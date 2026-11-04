@@ -1,6 +1,8 @@
 ---
 title: "Contact an Unpaid Wages Lawyer"
-description: "You may be owed significant compensation if your wages were not paid on time. Romero Law Group represents manual workers in Westchester, Rockland and Orange Counties and across the New York City metro area."
+seoTitle: "Paid Biweekly? NY Manual Worker Pay Lawyer"
+h1: "Paid Every Other Week? Talk to an Unpaid Wages Lawyer"
+description: "New York manual workers must be paid weekly. If you were paid every other week in Westchester, Rockland, Orange or NYC, you may be owed money. Free review."
 kind: page
 ---
 ## You May Be Owed Significant Compensation If Your Wages Were Not Paid in a Timely Manner

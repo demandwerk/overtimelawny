@@ -1,6 +1,7 @@
 ---
 title: "New York Warehouse Worker Protection Law"
-description: "The New York Warehouse Worker Protection Act (WPPA) went into effect on February 19, 2023. The purpose of the law is to protect warehouse workers against unreasonable work quotas. New requirements prevent employers from subjecting workers to unrealistic…"
+seoTitle: "NY Warehouse Worker Protection Act"
+description: "Since February 2023, New York’s Warehouse Worker Protection Act limits unreasonable quotas. What employers must disclose and how workers are protected."
 date: 2023-03-15
 topic: rights
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Salary-Based Exemptions That Apply to New York Workers"
-description: "Effective March 13, 2024, the threshold for exemption from the above protections went up, from $900 to $1,300 per week, or an annual salary of $67,600. A person serving in a legitimate executive, administrative or professional position will not qualify for these protections if his or her salary…"
+seoTitle: "NY Salary Threshold for Overtime Exemption"
+description: "As of March 2024, many exempt NY employees must earn at least $1,300 a week. If you earn less, you may be owed overtime. How the salary test works."
 date: 2024-08-06
 topic: wages
 ---

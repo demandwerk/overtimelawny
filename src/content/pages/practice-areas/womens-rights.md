@@ -1,6 +1,8 @@
 ---
 title: "Women's Rights"
-description: "Change often seems to come in fits and starts…it certainly seems that way with women’s rights. Though the last 50 years have seen significant advancements, women still face wrongful bias and unfair treatment in many areas of life, including…"
+seoTitle: "Women's Rights Employment Lawyer NYC"
+h1: "Women's Rights Lawyer for the Workplace"
+description: "Unequal pay, harassment, pregnancy bias: our New York lawyers fight the unfair treatment women still face at work. Free, confidential consultation."
 kind: practice
 ---
 ## Proven New York Women’s Rights Lawyer

@@ -1,6 +1,7 @@
 ---
 title: "New York Workers Have Longer Time to File Discrimination Complaint"
-description: "When you’ve been the victim of discrimination in the workplace in the state of New York, you have the right to take legal action to put an end to the wrongful conduct and seek damages for the disparate treatment. If your employer has 15 or more employees, you will be protected by federal law and…"
+seoTitle: "NY Workers Get 3 Years to File Bias Claims"
+description: "New York now gives workers three years, not one, to file discrimination complaints with the Division of Human Rights. What changed and how it helps."
 date: 2024-01-20
 topic: discrimination
 ---

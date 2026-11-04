@@ -1,6 +1,8 @@
 ---
 title: "Overtime Pay and Unpaid Wages"
-description: "Whether inadvertent or intentional, failures to pay the minimum wage and unpaid overtime are types of wage theft on the part of employers. Employers have an obligation to pay their employees fairly, based on federal and state labor laws. The Fair Labor Standards Act (FLSA) and New York wage and…"
+seoTitle: "Overtime & Unpaid Wages Lawyer NY"
+h1: "New York Overtime & Unpaid Wages Lawyer"
+description: "Not paid overtime or owed back wages? Our New York wage and hour lawyers recover unpaid overtime, minimum wage and damages. Free consultation."
 kind: practice
 ---
 ## New York City and Long Island Unpaid Overtime and Unpaid Wages

@@ -1,6 +1,7 @@
 ---
 title: "Compensation If Your Employer Is Wrongfully Paying You Every Other Week"
-description: "Do you work with your hands? Are you a manual laborer who is being paid every other week by your employer? If so, you may have the right to file a lawsuit seeking compensation, as New York law requires employers to pay “manual workers” on a weekly basis. The laws has been broadly construed to…"
+seoTitle: "NY Manual Workers Paid Biweekly: Your Rights"
+description: "New York law requires most manual workers to be paid weekly. If your employer paid you every other week, you may be owed compensation. Learn your rights."
 date: 2023-10-31
 topic: wages
 ---

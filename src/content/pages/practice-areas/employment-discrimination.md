@@ -1,6 +1,8 @@
 ---
 title: "Employment Discrimination"
-description: "Throughout the State of New York and also nationwide, employee discrimination and harassment are illegal. Not only do state and federal laws protect employees against unequal and unfair treatment, but they also prohibit a hostile work environment. Despite decades of legislation, injustice still…"
+seoTitle: "Employment Discrimination Lawyer NYC"
+h1: "Employment Discrimination Lawyer in New York"
+description: "Fired, demoted or passed over because of who you are? Our NYC and Long Island discrimination lawyers have fought for workers for 20+ years. Free consult."
 kind: practice
 ---
 ## Discrimination in the Workplace

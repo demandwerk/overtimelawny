@@ -1,6 +1,7 @@
 ---
 title: "How to Recognize the Signs of Retaliation in the Workplace"
-description: "What is retaliation in the workplace? It occurs when an employer takes adverse action against an employee but has no legal right to do so. An example would be a situation where an employee has filed a discrimination claim, taken part in a discrimination investigation or otherwise opposed…"
+seoTitle: "Signs of Retaliation in the Workplace"
+description: "Demoted, cut hours or fired after complaining? How to recognize illegal workplace retaliation in New York and what you can do about it."
 date: 2021-11-17
 topic: retaliation
 ---

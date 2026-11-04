@@ -1,6 +1,8 @@
 ---
 title: "Disability Discrimination"
-description: "Treating an employee unfavorably because of a disability is illegal under the Americans with Disabilities Act and New York law. Romero Law Group represents employees facing disability discrimination."
+seoTitle: "Disability Discrimination Lawyer NY"
+h1: "Disability Discrimination Lawyer in New York"
+description: "Denied an accommodation or fired because of a disability? Our New York disability discrimination lawyers enforce the ADA and NY law. Free consultation."
 kind: practice
 ---
 ## Disability Discrimination in the Workplace

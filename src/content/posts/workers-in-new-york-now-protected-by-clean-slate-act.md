@@ -1,6 +1,7 @@
 ---
 title: "Workers in New York Now Protected by Clean Slate Act"
-description: ""
+seoTitle: "NY Clean Slate Act: What Workers Should Know"
+description: "Since November 2024, New York’s Clean Slate Act bars employers from using sealed criminal records. Who qualifies and what employers can still see."
 date: 2024-12-02
 topic: discrimination
 ---

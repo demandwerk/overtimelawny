@@ -1,6 +1,7 @@
 ---
 title: "New Law Protects Retail Workers in New York"
-description: ""
+seoTitle: "NY Retail Worker Safety Act: What’s Required"
+description: "Since March 2025, New York retail employers must adopt a workplace violence policy and train workers. What the Retail Worker Safety Act requires."
 date: 2024-10-07
 topic: rights
 ---

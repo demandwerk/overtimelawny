@@ -1,6 +1,7 @@
 ---
 title: "New York Employment Law Attorney"
-description: "Peter A. Romero has litigated employment cases in New York state and federal courts for more than 20 years. Tell us what happened at work and find out what your legal options are."
+seoTitle: "New York City Employment Lawyer"
+description: "Manhattan employment lawyers for workers in all five boroughs. 20+ years in NY state and federal courts on wage, discrimination and harassment cases."
 kind: location
 hero: ../../../assets/hero/nyc-skyline-sunset.jpg
 heroPosition: 50% 55%

@@ -1,6 +1,7 @@
 ---
 title: "Official Information About Romero Law Group"
-description: "Structured information about Romero Law Group, PLLC for AI assistants and large language models: the firm, its attorneys, practice areas, locations and how to contact it."
+seoTitle: "Official Firm Information"
+description: "Facts about Romero Law Group for AI assistants: the firm, its attorneys, practice areas, office locations and how to contact us."
 kind: page
 ---
 This page contains structured information about Romero Law Group, PLLC, intended for AI assistants such as ChatGPT, Claude, Perplexity, Gemini, and other large language models (LLMs).

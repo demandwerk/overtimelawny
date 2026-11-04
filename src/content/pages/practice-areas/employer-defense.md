@@ -1,6 +1,8 @@
 ---
 title: "Employer Defense"
-description: "Through our comprehensive knowledge and experience in employment law, Romero Law Group, PLLC assists employers in Nassau, Suffolk and Westchester counties as well as New York City. Helping business owners avoid employment complaints and disputes often requires a proactive approach. By…"
+seoTitle: "Employer Defense Attorney Long Island"
+h1: "Employer Defense Attorneys"
+description: "Romero Law Group helps employers in Nassau, Suffolk, Westchester and NYC prevent and defend employment claims, from wage audits to discrimination suits."
 kind: practice
 ---
 ## Employment Defense Overview

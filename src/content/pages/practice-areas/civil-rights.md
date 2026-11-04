@@ -1,6 +1,8 @@
 ---
 title: "Civil Rights"
-description: "In 1964, the U.S. Congress passed Title VII Civil Rights Act, which prohibited discrimination in employment and in other areas of society. The act made it illegal to discriminate in the workplace based on a person’s race, color, religion, sex and national origin. The Civil Rights Act was broad in…"
+seoTitle: "Civil Rights Employment Lawyer NYC"
+h1: "Civil Rights Lawyer for Workplace Discrimination"
+description: "Treated unfairly at work because of race, religion, sex or national origin? Our New York civil rights lawyers enforce Title VII and NY law. Free consult."
 kind: practice
 ---
 ## Title VII Civil Rights Act

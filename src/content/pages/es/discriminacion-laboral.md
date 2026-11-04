@@ -1,6 +1,8 @@
 ---
 title: "Discriminación en el lugar de trabajo"
-description: "En todo el estado de Nueva York y también en todo el país, la discriminación y el acoso de los empleados son ilegales. Las leyes estatales y federales no solo protegen a los empleados contra el trato desigual e injusto, sino que también prohíben un entorno de trabajo hostil. A pesar de décadas de…"
+seoTitle: "Abogado de Discriminación Laboral NY"
+h1: "Abogado de discriminación laboral en Nueva York"
+description: "¿Lo despidieron o trataron injustamente por su raza, origen, religión o sexo? Abogados de discriminación laboral en Nueva York. Consulta gratuita."
 kind: es
 ---
 En todo el estado de Nueva York y también en todo el país, la discriminación y el acoso de los empleados son ilegales. Las leyes estatales y federales no solo protegen a los empleados contra el trato desigual e injusto, sino que también prohíben un entorno de trabajo hostil. A pesar de décadas de legislación, todavía se producen injusticias. Sin embargo, cuando lo hace, puede nivelar el campo de juego al obtener abogados con experiencia en discriminación laboral, que pueden ayudarlo a proteger sus derechos. Según la ley del estado de Nueva York, ninguna empresa de cualquier tamaño puede discriminar a los empleados. La ley en contra de la discriminación del estado de Nueva York es amplia y protege a los empleados contra muchos tipos de discriminación basada en lo siguiente:

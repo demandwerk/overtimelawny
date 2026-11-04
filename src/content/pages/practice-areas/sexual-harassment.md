@@ -1,6 +1,8 @@
 ---
 title: "Sexual Harassment"
-description: "You have a right to be free of sexual harassment in the workplace. At the Romero Law Group, PLLC, we have effectively protected the rights of victims of sexual harassment for more than 20 years. We will be your advocate throughout the legal process, helping you get full and fair compensation for…"
+seoTitle: "Sexual Harassment Lawyer NYC"
+h1: "Sexual Harassment Lawyer in New York"
+description: "Harassed at work? Our New York sexual harassment lawyers have protected victims for 20+ years and fight for full compensation. Confidential free consult."
 kind: practice
 ---
 ## Proven Sexual Harassment Claims Attorney

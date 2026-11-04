@@ -1,6 +1,7 @@
 ---
 title: "NYS Healthcare Worker Bonus Deadline, September 2, 2022"
-description: "A NYS Healthcare worker bonus was part of the money allocated for the 2023 state budget. In fact, New York State allocated $1.2 billion in bonuses for frontline healthcare workers. The bonus has a twofold…"
+seoTitle: "NYS Healthcare Worker Bonus Program"
+description: "New York set aside $1.2 billion for frontline healthcare worker bonuses. Who was eligible, how the payments worked and the September 2, 2022 deadline."
 date: 2022-08-24
 topic: wages
 ---
