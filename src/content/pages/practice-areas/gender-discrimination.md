@@ -1,6 +1,8 @@
 ---
 title: "Gender Discrimination"
-description: "With all the media attention that’s focused on the wrongful treatment of women in the workplace, it may come as a shock that gender discrimination is still a serious problem in the American workforce. As a woman, you may still…"
+seoTitle: "Gender Discrimination Lawyer NYC"
+h1: "Gender Discrimination Lawyer in New York"
+description: "Paid less, passed over or mistreated because of your gender? Our New York gender discrimination lawyers hold employers accountable. Free consultation."
 kind: practice
 ---
 ## Experienced New York Employee Rights Lawyer

@@ -1,6 +1,8 @@
 ---
 title: "Represalias"
-description: "Las represalias por tomar medidas contra un empleador debido a discriminación o por denunciar actividades delictivas son ilegales. Va contra la ley en todos los niveles: federal, estatal y local en la ciudad de Nueva York. Si bien las represalias abarcan cualquier tratamiento adverso, los ejemplos…"
+seoTitle: "Abogado de Represalias Laborales en NY"
+h1: "Abogado de represalias laborales"
+description: "¿Lo castigaron por quejarse, denunciar o tomar licencia? Nuestros abogados en Nueva York luchan contra las represalias ilegales. Consulta gratuita."
 kind: es
 ---
 ## Represalias en el lugar de trabajo en la ciudad de Nueva York y en Long Island

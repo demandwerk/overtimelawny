@@ -1,6 +1,7 @@
 ---
 title: "New York City’s Biometric Identifier Information Law"
-description: "In July 2021, New York City passed a law regarding biometric identifier information. The law applies to consumers and employees, providing them with legal protection. They would now potentially have the right to sue for privacy rights violations. Under the new law companies that are profiting…"
+seoTitle: "NYC Biometric Identifier Information Law"
+description: "NYC’s 2021 biometric law limits how businesses use fingerprints and face scans and lets people sue over violations. What it means for your privacy."
 date: 2021-09-28
 topic: discrimination
 ---

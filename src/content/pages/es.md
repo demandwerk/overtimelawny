@@ -1,6 +1,8 @@
 ---
 title: "Descripción general de las áreas de práctica"
-description: "Los empleados de Nueva York disfrutan de la protección de las leyes federales y estatales que prohíben la discriminación y el acoso. La Ciudad de Nueva York también brinda protección a los empleados bajo la Ley de Derechos Humanos de la Ciudad de Nueva York (NYCHRL) (enlace a la sección de la…"
+seoTitle: "Abogados Laborales en Nueva York"
+h1: "Abogados laborales en Nueva York"
+description: "Abogados laborales que hablan español en Nueva York y Nueva Jersey: horas extra, salarios no pagados, discriminación y acoso. Consulta gratuita."
 kind: es
 ---
 ## Derechos laborales en Nueva York

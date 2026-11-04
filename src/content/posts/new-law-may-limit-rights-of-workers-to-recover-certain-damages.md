@@ -1,6 +1,7 @@
 ---
 title: "New Law May Limit Rights of Workers to Recover Certain Damages"
-description: "As a part of the bill approving the 2025-2026 New York state budget, legislators have amended the state’s labor law to limit the amount of damages a worker may be entitled to if not paid in a timely manner. The statute permanently amends Section 198 of the New York Labor Law by establishing a cap…"
+seoTitle: "NY Caps Damages for Late Wage Payments"
+description: "New York’s 2025-26 budget amended Labor Law Section 198 to cap damages for late pay. What the change means for workers who were paid late."
 date: 2025-05-28
 topic: wages
 image: ../../assets/blog/new-law-may-limit-rights-of-workers-to-recover-certain-damages.jpg

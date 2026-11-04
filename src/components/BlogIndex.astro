@@ -20,11 +20,16 @@ const current = topic ? topicBySlug[topic] : undefined;
 const base = topic ? `/blog/topic/${topic}/` : '/blog/';
 const pageHref = (n: number) => (n === 1 ? base : `${base}${n}/`);
 const pageNumbers = Array.from({ length: page.lastPage }, (_, i) => i + 1);
-const pageSuffix = page.currentPage > 1 ? `: Page ${page.currentPage} of ${page.lastPage}` : '';
-const title = (current ? `${current.title} Articles` : 'Employment Law Blog') + pageSuffix;
+const n = page.currentPage;
+const pageSuffix = n > 1 ? `: Page ${n}` : '';
+// Each numbered page gets its own title and description so none are duplicates.
+const heading = (current ? current.heading : 'New York Employment Law Blog') + pageSuffix;
+const title = (current ? current.seoTitle : n > 1 ? 'Employment Law Blog' : 'New York Employment Law Blog') + pageSuffix;
 const description = current
-  ? `${current.intro} Articles from ${firm.name}.`
-  : `News and plain-English guides on New York and New Jersey employment law from ${firm.name}.`;
+  ? (n > 1 ? `Page ${n}: ` : '') + current.metaDescription
+  : n > 1
+    ? `Page ${n} of the ${firm.shortName} blog: plain-English guides and news on New York and New Jersey employment law, from overtime to discrimination.`
+    : 'Plain-English guides and news on New York and New Jersey employment law: overtime, unpaid wages, discrimination, harassment and your rights at work.';
 
 // Titles and links for the search box (every post, whatever page this is).
 const searchIndex = (await getPosts()).map((p) => ({ t: p.data.title, u: postHref(p.id), k: topicBySlug[p.data.topic].title }));
@@ -37,7 +42,7 @@ const searchIndex = (await getPosts()).map((p) => ({ t: p.data.title, u: postHre
           <a href="/">Home</a><span aria-hidden="true">/</span><a href="/blog/">Blog</a>
           {current && <><span aria-hidden="true">/</span><span>{current.title}</span></>}
         </nav>
-        <h1>{current ? current.title : 'Employment Law Blog'}</h1>
+        <h1>{heading}</h1>
         <p class="bhead__lede">{current ? current.intro : 'Plain-English updates on New York and New Jersey employment law: wages, discrimination, harassment, leave and more.'}</p>
       </div>
       <div class="search" data-search>

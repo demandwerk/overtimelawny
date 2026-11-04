@@ -1,6 +1,8 @@
 ---
 title: "Horas adicionales y sueldos no pagados"
-description: "Ya sea involuntariamente o intencionalmente, la falta de pago del sueldo mínimo y la negación de la tarifa especial por horas adicionales trabajadas son tipos de robo de salario por parte de los empleadores. Los empleadores tienen la obligación de pagar a sus empleados de manera justa, según las…"
+seoTitle: "Abogado de Horas Extra y Salarios NY"
+h1: "Abogado de horas extra y salarios no pagados"
+description: "¿No le pagaron las horas extra o le deben salario? Nuestros abogados en Nueva York recuperan salarios no pagados y daños. Consulta gratuita."
 kind: es
 ---
 ## Pagos por horas adicionales y sueldos no pagados de la ciudad de Nueva York y Long Island

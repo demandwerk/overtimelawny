@@ -1,6 +1,7 @@
 ---
 title: "Industries With the Highest Occurrence of Sexual Harassment"
-description: "While sexual harassment occurs in many industries, there are certain industries with the highest occurrence of sexual harassment. An article by Safer-America(https://safer-america.com/industries-with-the-most-sexual-harassment-reports/) drew on information from the EEOC and other sources. It ranked…"
+seoTitle: "Industries With the Most Sexual Harassment"
+description: "Which industries have the most sexual harassment reports, based on EEOC data, and what workers in those fields can do when it happens to them."
 date: 2023-07-28
 topic: harassment
 ---

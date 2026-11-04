@@ -1,6 +1,7 @@
 ---
 title: "Frequently Asked Questions About Workplace Discrimination"
-description: ""
+seoTitle: "Workplace Discrimination FAQs for NY Workers"
+description: "Which federal and New York laws ban workplace discrimination, which traits are protected and what to do if it happens to you. Answers to common questions."
 date: 2024-07-06
 topic: discrimination
 ---

@@ -1,6 +1,7 @@
 ---
 title: "NY Law Requiring Weekly Pay for Manual Workers"
-description: "A NY law requiring weekly pay for manual workers might apply to you. The law we are referring to is Labor Law Section 190(4) and 191. If you did not receive pay weekly and were a manual worker, your employer may owe you a significant amount of…"
+seoTitle: "NY Weekly Pay Law for Manual Workers"
+description: "New York Labor Law Section 191 requires weekly pay for manual workers. If you were paid every other week, your employer may owe you a significant amount."
 date: 2023-02-14
 topic: wages
 image: ../../assets/blog/ny-law-requiring-weekly-pay-for-manual-workers.jpg

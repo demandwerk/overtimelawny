@@ -1,6 +1,7 @@
 ---
 title: "New York Workers Still Have Right to COVID-Related Paid Leave"
-description: ""
+seoTitle: "NY COVID-19 Paid Leave Rights"
+description: "New York’s Paid Emergency Leave Act gave workers up to 14 days of paid leave for COVID-19 quarantine or isolation. Who qualified and what employers owed."
 date: 2024-06-02
 topic: leave
 ---

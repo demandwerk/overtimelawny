@@ -1,6 +1,7 @@
 ---
 title: "Disability Discrimination: EEOC Sues on Behalf of Deaf Employee Applicant in New York"
-description: "Disability discrimination can occur at various stages of an employment relationship. It even can occur during the hiring process. Recently, the Equal Employment Opportunity Commission (EEOC)(https://www.jdsupra.com/legalnews/eeoc-sues-mclane-northeast-for-1929732/) sued a company for discriminating…"
+seoTitle: "EEOC Sues Over Deaf Applicant Discrimination"
+description: "Disability discrimination can start in hiring. The EEOC sued a company for discriminating against a deaf job applicant in New York. What the ADA requires."
 date: 2021-03-24
 topic: discrimination
 ---

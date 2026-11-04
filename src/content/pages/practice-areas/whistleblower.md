@@ -1,6 +1,8 @@
 ---
 title: "Whistleblower Claims"
-description: "A whistleblower is an employee who reports the illicit activity or wrongdoing of an employer. The company could be in the private or public sector, including a government agency. Typically, whistleblowers report activity that involves fraud, abuse or endangerment to public health or safety.…"
+seoTitle: "Whistleblower Retaliation Lawyer NY"
+h1: "Whistleblower Retaliation Lawyer"
+description: "Reported fraud, safety violations or illegal conduct and paid the price? Our New York whistleblower lawyers protect workers who speak up. Free consult."
 kind: practice
 ---
 ## Protection for Whistleblowers

@@ -1,6 +1,7 @@
 ---
 title: "Plaintiffs in Sexual Harassment Cases"
-description: "How are women perceived in sexual harassment cases? In the past, many women have been afraid to come forward. Washington University conducted a study on sexual harassment. More than 4,000 persons participated in the sexual harassment…"
+seoTitle: "How Sexual Harassment Plaintiffs Are Viewed"
+description: "A Washington University study of more than 4,000 people examined how women who report sexual harassment are perceived. What it means for victims."
 date: 2021-01-22
 topic: harassment
 ---

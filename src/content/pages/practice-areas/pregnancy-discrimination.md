@@ -1,6 +1,8 @@
 ---
 title: "Pregnancy Discrimination"
-description: "Pregnant women at work can be subject to unfair decision-making and treatment due to their pregnancy. When a NY employer decides not to hire an applicant or decides to demote, fire, layoff, or reduce the pay or benefits of an employee based on pregnancy, these are forms of pregnancy discrimination.…"
+seoTitle: "Pregnancy Discrimination Lawyer NY"
+h1: "Pregnancy Discrimination Lawyer in New York"
+description: "Fired, demoted or denied accommodations because you are pregnant? Our New York pregnancy discrimination lawyers protect your rights. Free consultation."
 kind: practice
 ---
 ## Pregnant Women at Work

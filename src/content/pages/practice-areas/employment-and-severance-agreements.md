@@ -1,6 +1,8 @@
 ---
 title: "Employment Agreements"
-description: "An employment agreement or employment contract is a binding legal document that outlines the terms and conditions of employment between an employer and employee. It can override the at-will employment factor in New York State, where employers can lawfully terminate a job without warning or an…"
+seoTitle: "Severance Agreement Lawyer NYC"
+h1: "Employment & Severance Agreement Lawyer"
+description: "Offered a severance package or asked to sign an employment contract? A New York employment lawyer can review the terms and negotiate a better deal."
 kind: practice
 ---
 ## Employment Agreements in New York

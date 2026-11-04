@@ -1,6 +1,8 @@
 ---
 title: "Family Medical Leave Act"
-description: "The Family Medical Leave Act is a federal labor law that Congress passed in 1993. Qualified employers must grant an unpaid medical leave for qualified medical and family issues. Under the FMLA, the employer agrees to protect the employee’s job during the leave, enabling the employee to return to…"
+seoTitle: "FMLA Lawyer New York"
+h1: "FMLA & Medical Leave Lawyer in New York"
+description: "Denied family or medical leave, or punished for taking it? Our New York FMLA lawyers protect your job and your right to leave. Free consultation."
 kind: practice
 ---
 ## Taking an FMLA Leave on Long Island and in NYC

@@ -1,6 +1,7 @@
 ---
 title: "Recent Supreme Court Ruling Bolsters Religious Accommodations for Employees"
-description: "At the end of June, 2023 the Supreme Court ruled on a case that strengthened the argument for religious accommodations for…"
+seoTitle: "Groff v. DeJoy: Religious Accommodation"
+description: "In June 2023 the Supreme Court’s Groff v. DeJoy ruling made it harder for employers to deny religious accommodations. What it means for workers."
 date: 2023-08-30
 topic: discrimination
 ---

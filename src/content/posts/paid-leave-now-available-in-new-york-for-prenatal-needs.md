@@ -1,6 +1,7 @@
 ---
 title: "Paid Leave Now Available in New York for Prenatal Needs"
-description: ""
+seoTitle: "NY Paid Prenatal Leave: 20 Hours Explained"
+description: "New York now gives pregnant employees 20 hours of paid prenatal leave, at employers of any size. What it covers and how to use it at work."
 date: 2025-01-31
 topic: leave
 image: ../../assets/blog/paid-leave-now-available-in-new-york-for-prenatal-needs.jpg

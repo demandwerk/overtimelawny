@@ -1,6 +1,7 @@
 ---
 title: "Sexual Harassment in the Workplace—Still a Serious Problem"
-description: ""
+seoTitle: "Workplace Sexual Harassment: EEOC Data"
+description: "EEOC data shows fewer sexual harassment claims but a growing share of all harassment claims, and four in five filed by women. What the numbers mean."
 date: 2023-11-07
 topic: harassment
 ---

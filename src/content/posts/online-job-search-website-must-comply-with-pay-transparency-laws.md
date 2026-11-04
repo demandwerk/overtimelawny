@@ -1,6 +1,7 @@
 ---
 title: "Online Job Search Website Must Comply With Pay Transparency Laws"
-description: "When you’re looking for a job, one of the first things you want to know is what you can expect to be paid. Now, in many states, you have that right. Over the past decade, a number of states, including New York, have enacted laws mandating that employers include detailed information about…"
+seoTitle: "Job Sites Must Follow Pay Transparency Laws"
+description: "New York requires pay ranges in job postings, and online job sites must comply too. What the law requires and what to do if the pay is hidden."
 date: 2024-03-16
 topic: wages
 ---

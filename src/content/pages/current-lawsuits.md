@@ -1,6 +1,8 @@
 ---
 title: "Current Lawsuits"
-description: "The Law Office of Peter A. Romero PLLC has filed a class action lawsuit alleging that the Bolla Market failed to pay its employees earning the minimum wage an additional hour of pay when they worked a shift longer than 10 hours from its start to its finish, including breaks, as required by the New…"
+seoTitle: "Current Class Action Lawsuits"
+h1: "Current Class Action Lawsuits"
+description: "Class action wage lawsuits Romero Law Group has filed for New York workers. See if you may be part of a case and how to contact us."
 kind: page
 ---
 ## Our Current Lawsuits

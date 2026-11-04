@@ -1,6 +1,7 @@
 ---
 title: "What Are Your Rights in Employment Interviews and the Workplace?"
-description: "New York law protects your rights in employment interviews and the workplace under New York State Human Rights Law. It is wise to know your rights so you can recognize discrimination, should the situation arise. New York State Human Rights Law provides equal protection based on race, color, gender,…"
+seoTitle: "Your Rights in Job Interviews and at Work"
+description: "New York law limits what employers can ask in interviews and how they treat you on the job. Know your rights under the NY State Human Rights Law."
 date: 2022-03-28
 topic: discrimination
 ---

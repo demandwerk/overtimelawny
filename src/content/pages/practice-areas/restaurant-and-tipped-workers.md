@@ -1,6 +1,8 @@
 ---
 title: "Restaurant Workers and Tipped Employees"
-description: "Restaurants often pay their employees at what is commonly referred to as a \"tipped rate.\"  The law permits the employer to take a credit toward the minimum wage rate for employees who receive tips as part of their wages.  For example, the current minimum wage for food service workers is $16.00 per…"
+seoTitle: "Restaurant & Tipped Worker Wage Lawyer"
+h1: "Lawyer for Restaurant Workers & Tipped Employees"
+description: "Tips taken, tip credit misused or overtime unpaid? We represent New York and New Jersey restaurant workers and tipped employees. Free consultation."
 kind: practice
 ---
 ## Rights of Restaurant Employees

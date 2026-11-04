@@ -1,6 +1,7 @@
 ---
 title: "Sex Discrimination Cases Under Title VII and Title IX"
-description: "Sex discrimination cases under Title IX and Title VII differ significantly in certain aspects. Title VII is from the Civil Rights Act of 1964. Title IX is a section of the Education Amendments of 1972. Claims under both laws could apply to sex discrimination that occurs in educational…"
+seoTitle: "Sex Discrimination: Title VII vs. Title IX"
+description: "How Title VII and Title IX differ for sex discrimination claims at work and in school, and when both laws can apply to the same situation."
 date: 2021-08-26
 topic: discrimination
 ---

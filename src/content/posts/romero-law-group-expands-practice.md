@@ -1,6 +1,7 @@
 ---
 title: "Romero Law Group Expands Practice to Westchester County, Rockland County and Orange County in New York"
-description: "The Romero Law Group, with offices in Manhattan and Long Island, is expanding its practice to protect the rights of employees in Westchester County, Rockland County and Orange County in New York. The firm has aggressively fought for workers in New York and northern New Jersey for more than 16…"
+seoTitle: "Romero Law Group Expands to Westchester"
+description: "Romero Law Group now represents employees in Westchester, Rockland and Orange Counties, building on more than 16 years fighting for NY and NJ workers."
 date: 2025-02-28
 topic: rights
 image: ../../assets/blog/romero-law-group-expands-practice.jpg

@@ -28,14 +28,14 @@ const steps = [
   { n: '03', h: 'We fight for you', p: 'Negotiation, mediation, agency proceedings, trial or appeal. Whatever it takes to get you what you are owed.' },
 ];
 ---
-<Base title={firm.name} description={`Employment lawyers for workers in New York City, Long Island and Northern New Jersey. Overtime, unpaid wages, discrimination, harassment and retaliation. Free consultation: ${firm.phone}.`}>
+<Base title="NYC & Long Island Employment Lawyers" description="Overtime, unpaid wages, discrimination and harassment lawyers for workers in NYC, Long Island and New Jersey. 20+ years fighting employers. Free consult.">
   <!-- Hero -->
   <section class="hero">
     <Image class="hero__bg" src={heroImg} alt="" widths={[800, 1400, 2000]} sizes="100vw" loading="eager" fetchpriority="high" />
     <div class="wrap hero__grid">
       <div class="hero__copy">
-        <p class="eyebrow">Employment lawyers · NYC, Long Island &amp; NJ</p>
-        <h1>When work turns unfair, <span class="hl">we fight back.</span></h1>
+        <h1 class="eyebrow">Employment lawyers · NYC, Long Island &amp; NJ</h1>
+        <p class="hero__title">When work turns unfair, <span class="hl">we fight back.</span></p>
         <p class="lede">Romero Law Group represents employees in overtime, unpaid wage, discrimination, harassment and retaliation cases, and has for more than 20 years. Your first consultation is free.</p>
         <div class="hero__actions">
           <a class="btn btn--primary" href={firm.phoneHref}><Icon name="phone" /> Call {firm.phone}</a>
@@ -237,7 +237,8 @@ const steps = [
   /* Desktop: widen the photo slightly so the lighthouse lands between the text and the form. */
   @media (min-width: 981px) { .hero__bg { width: 118%; max-width: none; left: -4%; } }
   .hero__grid { position: relative; display: grid; grid-template-columns: 1.15fr 0.85fr; gap: clamp(32px, 6vw, 80px); align-items: center; }
-  .hero h1 { margin-bottom: 24px; color: #fff; }
+  /* The small line above the headline is the page's H1; the big headline is styled to match an H1. */
+  .hero__title { font: 800 clamp(2.4rem, 5.6vw, 4.4rem)/1.02 var(--display); font-stretch: 112%; letter-spacing: -0.03em; text-wrap: balance; margin: 0 0 24px; color: #fff; }
   .hero .eyebrow { color: var(--blue-on-dark); }
   .hero .lede { color: rgb(255 255 255 / 85%); }
   .hl { color: var(--blue-on-dark); }

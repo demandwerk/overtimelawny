@@ -1,6 +1,8 @@
 ---
 title: "Cases"
-description: "The Law Office of Peter A. Romero advocates on behalf of workers who have been subject to discrimination, harassment and unlawful pay practices. We handle all types of employment matters,…"
+seoTitle: "Representative Employment Law Cases"
+h1: "Representative Cases"
+description: "Wage and hour class actions, discrimination and harassment cases Romero Law Group has handled for workers in New York and New Jersey courts."
 kind: page
 ---
 ## We Stand Tall Against Goliath

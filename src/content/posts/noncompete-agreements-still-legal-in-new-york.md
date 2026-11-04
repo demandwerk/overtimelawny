@@ -1,8 +1,10 @@
 ---
 title: "Noncompete Agreements Still Legal in New York"
-description: ""
-date: 2024-09-14
+seoTitle: "Are Noncompetes Still Legal in New York?"
+description: "Four states ban noncompete agreements, but New York does not yet. When a NY noncompete is enforceable and what to do before you sign one."
+date: 2025-09-24
 topic: rights
+image: ../../assets/blog/noncompete-agreements-still-legal-in-new-york-2.jpg
 ---
 ## State and Federal Efforts to Ban Have Not Been Successful
 

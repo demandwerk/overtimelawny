@@ -1,6 +1,8 @@
 ---
 title: "Retaliation"
-description: "Retaliation for taking action against an employer due to discrimination or for reporting criminal or illegal activity is against the law. It is against the law at all levels—federal, state and locally in New York City. While retaliation encompasses any adverse treatment, common examples include job…"
+seoTitle: "Workplace Retaliation Lawyer NYC"
+h1: "Workplace Retaliation Lawyer in New York"
+description: "Punished for complaining, reporting or taking leave? Our New York retaliation lawyers fight back against illegal firing and demotion. Free consultation."
 kind: practice
 ---
 ## Retaliation in the Workplace in New York City and on Long Island

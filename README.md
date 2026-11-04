@@ -23,11 +23,15 @@ A new blog post looks like this:
 ```md
 ---
 title: "Post title"
-description: "One or two sentences for Google and the blog list."
+seoTitle: "Shorter title for Google"   # optional; keep it under about 41 characters
+description: "120–155 characters for Google and the blog list."
 date: 2026-10-09
+topic: wages   # wages, discrimination, harassment, retaliation, leave or rights
 ---
 Post body in Markdown…
 ```
+
+The title tag is `seoTitle` (or `title` when there is none) followed by " | Romero Law Group", which is left off when the result would run past 60 characters. Pages can also set `h1:` to use a different heading from the `title` that nav and sitemap links show.
 
 ## Running locally
 

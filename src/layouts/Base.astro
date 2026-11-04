@@ -18,7 +18,9 @@ interface Props {
 const { title, description = `${firm.name}: employment lawyers for workers in ${firm.regions}. Free consultation: ${firm.phone}.`, lang = 'en', type = 'website', noindex = false, image = defaultShareImage } = Astro.props;
 const shareImage = await getImage({ src: image, width: Math.min(1200, image.width), format: 'jpeg' });
 const shareImageUrl = new URL(shareImage.src, Astro.site);
-const fullTitle = title === firm.name ? title : `${title} | ${firm.name}`;
+// Search results show about 60 characters, so the brand is added only when it fits.
+const branded = `${title} | ${firm.shortName}`;
+const fullTitle = title === firm.name || branded.length > 60 ? title : branded;
 const canonical = new URL(Astro.url.pathname, Astro.site);
 // hreflang pair for pages that have a translation (English is the default).
 const enPath = Object.entries(translations).find(([en, es]) => Astro.url.pathname === en || Astro.url.pathname === es)?.[0];
