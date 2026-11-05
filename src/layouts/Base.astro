@@ -65,6 +65,14 @@ const schema = {
     <meta property="og:site_name" content={firm.name} />
     <meta property="og:image" content={shareImageUrl} />
     <meta name="theme-color" content="#253a71" />
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-EZWWT48L1P" is:inline></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-EZWWT48L1P');
+    </script>
     <script type="application/ld+json" set:html={JSON.stringify(schema)} />
   </head>
   <body>
