@@ -65,14 +65,17 @@ const schema = {
     <meta property="og:site_name" content={firm.name} />
     <meta property="og:image" content={shareImageUrl} />
     <meta name="theme-color" content="#253a71" />
-    <!-- Google tag (gtag.js) -->
+    <!-- Google tag (gtag.js) — GA4 + Google Ads -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-EZWWT48L1P" is:inline></script>
     <script is:inline>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-EZWWT48L1P');
+      gtag('config', 'AW-18059846050');
     </script>
+    <!-- UserWay accessibility widget -->
+    <script src="https://cdn.userway.org/widget.js" data-account="FrHUKxOTwO" is:inline></script>
     <script type="application/ld+json" set:html={JSON.stringify(schema)} />
   </head>
   <body>
@@ -80,6 +83,10 @@ const schema = {
     <Header lang={lang} alt={alternates ? (lang === 'es' ? alternates.en.pathname : alternates.es.pathname) : undefined} />
     <main id="main"><slot /></main>
     <Footer lang={lang} />
+    <script src="https://s.ksrndkehqnwntyxlhgto.com/165667.js" is:inline></script>
+    <script is:inline>
+      (function(ng,a,g,e,l,i,ve){l=a.createElement(g),l.async=1,l.src=ng+e;var c=a.getElementsByTagName(g)[0];c.parentNode.insertBefore(l,c);var i=a.createElement('div');var ve='style';i.id='nGageLH',i[ve].position='fixed',i[ve].right='0px',i[ve].bottom='0px',i[ve].zIndex='5000',a.body&&a.body.appendChild(i);}('https://messenger.ngageics.com/ilnksrvr.aspx?websiteid=',document,'script','108-90-184-63-228-165-167-175'));
+    </script>
   </body>
 </html>
 
