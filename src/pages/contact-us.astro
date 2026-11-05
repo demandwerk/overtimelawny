@@ -2,9 +2,7 @@
 import Base from '../layouts/Base.astro';
 import PageHero from '../components/PageHero.astro';
 import ConsultForm from '../components/ConsultForm.astro';
-import { Image } from 'astro:assets';
 import Icon from '../components/Icon.astro';
-import phoneCall from '../assets/photos/phone-call.jpg';
 import { firm, spanishHome } from '../site';
 ---
 <Base title="Contact Our Employment Lawyers" description={`Free employment law consultation. Call ${firm.phone} or send us a message. Offices in Hauppauge, Long Island and Manhattan.`}>
@@ -17,7 +15,6 @@ import { firm, spanishHome } from '../site';
   <div class="section">
   <div class="wrap contact">
     <div class="contact__info">
-      <p class="contact__photo"><Image src={phoneCall} alt="A member of our team on a call with a client" widths={[600, 1000]} sizes="(max-width: 900px) 100vw, 540px" /></p>
       <a class="contact__phone" href={firm.phoneHref}><Icon name="phone" />{firm.phone}</a>
       <p>{firm.consultNote}</p>
       {firm.offices.map((o) => (
@@ -46,10 +43,6 @@ import { firm, spanishHome } from '../site';
 
 <style>
   .contact { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(40px, 6vw, 88px); align-items: start; }
-  /* Framed like the in-page photos elsewhere: rounded, with a light brand-blue overlay. */
-  .contact__photo { position: relative; margin: 0 0 28px; overflow: hidden; border-radius: var(--radius); line-height: 0; }
-  .contact__photo :global(img) { width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; }
-  .contact__photo::after { content: ''; position: absolute; inset: 0; background: var(--blue); mix-blend-mode: multiply; opacity: 0.12; pointer-events: none; }
   .contact__phone { display: inline-flex; align-items: center; gap: 14px; font: 800 clamp(2rem, 4vw, 2.8rem)/1 var(--display); font-stretch: 112%; text-decoration: none; color: var(--ink); margin-bottom: 12px; }
   .contact__phone :global(svg) { width: 0.8em; height: 0.8em; color: var(--blue); }
   .contact__phone:hover { color: var(--blue); }
