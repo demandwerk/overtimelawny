@@ -34,7 +34,7 @@ const t = es
     <label class="field field--full"><span>{t.msg}</span><textarea name="message" rows="3"></textarea></label>
   </div>
   <button class="btn btn--primary consult__btn" type="submit">{t.send}</button>
-  <p class="consult__note">{t.note}</p>
+  <p class="consult__note">{t.note} <a href="/privacy-policy/">Privacy Policy</a>.</p>
   <p class="consult__error" hidden>{es ? `El formulario aún no está conectado. Llámenos al ${firm.phone}.` : `This form isn’t connected yet. Please call us at ${firm.phone}.`}</p>
 </form>
 
