@@ -2,50 +2,260 @@
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "trailingSlash": true,
   "redirects": [
-    { "source": "/feed/:path*", "destination": "/blog/", "permanent": true },
-    { "source": "/blog/page/1/", "destination": "/blog/", "permanent": true },
-    { "source": "/blog/page/:n/", "destination": "/blog/:n/", "permanent": true },
-    { "source": "/page/1/", "destination": "/blog/", "permanent": true },
-    { "source": "/page/:n/", "destination": "/blog/:n/", "permanent": true },
-    { "source": "/category/:path*", "destination": "/blog/", "permanent": true },
-    { "source": "/author/:path*", "destination": "/team/", "permanent": true },
-    { "source": "/tag/:path*", "destination": "/blog/", "permanent": true },
-    { "source": "/comments/feed/", "destination": "/blog/", "permanent": true },
-    { "source": "/representative-cases/", "destination": "/cases/", "permanent": true },
-    { "source": "/wp-admin/:path*", "destination": "/", "permanent": true },
-    { "source": "/practice-areas-employment-law-overview/", "destination": "/practice-areas/", "permanent": true },
-    { "source": "/overtime-pay-and-unpaid-wages/", "destination": "/practice-areas/overtime-and-unpaid-wages/", "permanent": true },
-    { "source": "/sexual-harassment/", "destination": "/practice-areas/sexual-harassment/", "permanent": true },
-    { "source": "/employment-discrimination/", "destination": "/practice-areas/employment-discrimination/", "permanent": true },
-    { "source": "/retaliation-in-the-workplace/", "destination": "/practice-areas/retaliation/", "permanent": true },
-    { "source": "/restaurant-workers-and-tipped-employees/", "destination": "/practice-areas/restaurant-and-tipped-workers/", "permanent": true },
-    { "source": "/pregnancy-discrimination/", "destination": "/practice-areas/pregnancy-discrimination/", "permanent": true },
-    { "source": "/gender-discrimination/", "destination": "/practice-areas/gender-discrimination/", "permanent": true },
-    { "source": "/womens-rights/", "destination": "/practice-areas/womens-rights/", "permanent": true },
-    { "source": "/whistleblower/", "destination": "/practice-areas/whistleblower/", "permanent": true },
-    { "source": "/family-medical-leave-act/", "destination": "/practice-areas/family-and-medical-leave/", "permanent": true },
-    { "source": "/civil-rights/", "destination": "/practice-areas/civil-rights/", "permanent": true },
-    { "source": "/employment-agreements/", "destination": "/practice-areas/employment-and-severance-agreements/", "permanent": true },
-    { "source": "/employer-defense/", "destination": "/practice-areas/employer-defense/", "permanent": true },
-    { "source": "/descripcion-general-de-las-areas-de-practica/", "destination": "/es/", "permanent": true },
-    { "source": "/acoso-sexual-en-el-lugar-de-trabajo/", "destination": "/es/acoso-sexual/", "permanent": true },
-    { "source": "/discriminacion-en-el-lugar-de-trabajo/", "destination": "/es/discriminacion-laboral/", "permanent": true },
-    { "source": "/discriminacion-por-embarazo/", "destination": "/es/discriminacion-por-embarazo/", "permanent": true },
-    { "source": "/horas-adicionales-y-sueldos-no-pagados/", "destination": "/es/horas-adicionales-y-sueldos-no-pagados/", "permanent": true },
-    { "source": "/represalias-en-el-lugar-de-trabajo/", "destination": "/es/represalias/", "permanent": true },
-    { "source": "/employment-law-attorneys-in-nassau-and-suffolk-counties-in-new-york/", "destination": "/areas-we-serve/long-island-employment-law-attorney/", "permanent": true },
-    { "source": "/new-jersey-nyc-overtime-wage-and-sexual-harassment-lawyers/", "destination": "/areas-we-serve/new-jersey/", "permanent": true },
-    { "source": "/areas-we-serve/long-island/", "destination": "/areas-we-serve/long-island-employment-law-attorney/", "permanent": true },
-    { "source": "/areas-we-serve/new-york/", "destination": "/areas-we-serve/new-york-employment-law-attorney/", "permanent": true },
-    { "source": "/retaliation/", "destination": "/practice-areas/retaliation/", "permanent": true },
-    { "source": "/practice-areas-employemnt-law-overview/", "destination": "/practice-areas/", "permanent": true },
-    { "source": "/disability-discrimination/", "destination": "/practice-areas/disability-discrimination/", "permanent": true },
-    { "source": "/noncompete-agreements-still-legal-in-new-york-2/:rest(feed|amp)?/", "destination": "/blog/noncompete-agreements-still-legal-in-new-york/", "permanent": true },
-    { "source": "/blog/noncompete-agreements-still-legal-in-new-york-2/", "destination": "/blog/noncompete-agreements-still-legal-in-new-york/", "permanent": true },
-    { "source": "/:post(compensation-if-your-employer-is-wrongfully-paying-you-every-other-week|court-rules-about-employment-discrimination-based-on-reproductive-choices|disability-discrimination-eeoc-sues-on-behalf-of-deaf-employee-applicant-in-new-york|eeoc-filed-a-pandemic-disability-discrimination-lawsuit|eeoc-lawsuit-against-ai-hiring-bias|employment-discrimination-based-on-marijuana-use|employment-law-blog-peter-romero|employment-liability-claims-in-the-restaurant-industry|faqs-about-sexual-harassment-in-the-workplace|former-san-jose-state-trainer-being-investigated-for-sexual-harassment|frequently-asked-questions-about-the-rights-of-tipped-employees-in-new-jersey|frequently-asked-questions-about-workplace-discrimination|governor-signs-amendment-to-trapped-at-work-act|greyhound-bus-settles-with-eeoc-on-religious-discrimination-lawsuit|health-insurance-companies-cover-at-home-covid-19-tests-for-individuals-not-employers|how-covid-19-vaccines-relate-to-employment-law|how-to-recognize-the-signs-of-retaliation-in-the-workplace|ibm-transgender-recognition-of-lynn-conway|industries-with-the-highest-occurrence-of-sexual-harassment|is-this-sexual-harassment|mayor-elect-proposes-substantial-increase-in-minimum-wage-in-nyc|new-law-may-limit-rights-of-workers-to-recover-certain-damages|new-law-protects-retail-workers-in-new-york|new-lawsuit-filed-against-x-by-former-twitter-executive|new-york-city-human-rights-law-for-queens-brooklyn-the-bronx-and-harlem-upper-manhattan|new-york-citys-biometric-identifier-information-law|new-york-employees-now-have-further-protection-against-retaliation|new-york-family-leaves-employees-rights|new-york-legislature-approves-trapped-at-work-bill|new-york-retail-worker-safety-act-targets-workplace-violence|new-york-state-legislature-revisits-noncompete-ban|new-york-warehouse-worker-protection-law|new-york-workers-have-longer-time-to-file-discrimination-complaint|new-york-workers-still-have-right-to-covid-related-paid-leave|nlrb-protects-workers-right-to-display-blm-insignia|noncompete-agreements-still-legal-in-new-york|ny-law-requiring-weekly-pay-for-manual-workers|nys-healthcare-worker-bonus-deadline-september-2-2022|nys-work-schedule-rights-for-employees|online-job-search-website-must-comply-with-pay-transparency-laws|paid-leave-now-available-in-new-york-for-prenatal-needs|plaintiffs-in-sexual-harassment-cases|press-conference-discussing-discrimination-and-harassment-legislation-is-zoom-bombed|protecting-your-social-media-privacy-rights-at-work|recent-supreme-court-ruling-bolsters-religious-accommodations-for-employees|rights-for-new-york-city-fast-food-workers-changes|romero-law-group-expands-practice|salary-based-exemptions-that-apply-to-new-york-workers|sex-discrimination-cases-under-title-vii-and-title-ix|sexual-harassment-in-the-workplace-still-a-serious-problem|social-media-privacy-in-the-workplace|takes-final-action-to-implement-pregnant-workers-fairness-act|transgender-discrimination-is-illegal-in-new-york|what-are-the-signs-of-overtime-misclassification|what-are-your-rights-in-employment-interviews-and-the-workplace|what-is-the-speak-out-act|what-rights-do-employees-have-for-leave-of-absences|what-to-do-when-you-are-the-victim-of-sexual-harassment-at-work|workers-in-new-york-now-protected-by-clean-slate-act)/:rest(feed|amp)?/", "destination": "/blog/:post/", "permanent": true },
-    { "source": "/:slug/feed/", "destination": "/:slug/", "permanent": true },
-    { "source": "/:slug/amp/", "destination": "/:slug/", "permanent": true },
-    { "source": "/about/", "destination": "/team/", "permanent": true },
-    { "source": "/about-us/", "destination": "/team/", "permanent": true }
+    {
+      "source": "/feed/:path*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/page/1/",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/page/:n/",
+      "destination": "/blog/:n/",
+      "permanent": true
+    },
+    {
+      "source": "/page/1/",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/page/:n/",
+      "destination": "/blog/:n/",
+      "permanent": true
+    },
+    {
+      "source": "/category/:path*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/author/:path*",
+      "destination": "/team/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/:path*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/comments/feed/",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/representative-cases/",
+      "destination": "/cases/",
+      "permanent": true
+    },
+    {
+      "source": "/wp-admin/:path*",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/practice-areas-employment-law-overview/",
+      "destination": "/practice-areas/",
+      "permanent": true
+    },
+    {
+      "source": "/overtime-pay-and-unpaid-wages/",
+      "destination": "/practice-areas/overtime-and-unpaid-wages/",
+      "permanent": true
+    },
+    {
+      "source": "/sexual-harassment/",
+      "destination": "/practice-areas/sexual-harassment/",
+      "permanent": true
+    },
+    {
+      "source": "/employment-discrimination/",
+      "destination": "/practice-areas/employment-discrimination/",
+      "permanent": true
+    },
+    {
+      "source": "/retaliation-in-the-workplace/",
+      "destination": "/practice-areas/retaliation/",
+      "permanent": true
+    },
+    {
+      "source": "/restaurant-workers-and-tipped-employees/",
+      "destination": "/practice-areas/restaurant-and-tipped-workers/",
+      "permanent": true
+    },
+    {
+      "source": "/pregnancy-discrimination/",
+      "destination": "/practice-areas/pregnancy-discrimination/",
+      "permanent": true
+    },
+    {
+      "source": "/gender-discrimination/",
+      "destination": "/practice-areas/gender-discrimination/",
+      "permanent": true
+    },
+    {
+      "source": "/womens-rights/",
+      "destination": "/practice-areas/womens-rights/",
+      "permanent": true
+    },
+    {
+      "source": "/whistleblower/",
+      "destination": "/practice-areas/whistleblower/",
+      "permanent": true
+    },
+    {
+      "source": "/family-medical-leave-act/",
+      "destination": "/practice-areas/family-and-medical-leave/",
+      "permanent": true
+    },
+    {
+      "source": "/civil-rights/",
+      "destination": "/practice-areas/civil-rights/",
+      "permanent": true
+    },
+    {
+      "source": "/employment-agreements/",
+      "destination": "/practice-areas/employment-and-severance-agreements/",
+      "permanent": true
+    },
+    {
+      "source": "/employer-defense/",
+      "destination": "/practice-areas/employer-defense/",
+      "permanent": true
+    },
+    {
+      "source": "/descripcion-general-de-las-areas-de-practica/",
+      "destination": "/es/",
+      "permanent": true
+    },
+    {
+      "source": "/acoso-sexual-en-el-lugar-de-trabajo/",
+      "destination": "/es/acoso-sexual/",
+      "permanent": true
+    },
+    {
+      "source": "/discriminacion-en-el-lugar-de-trabajo/",
+      "destination": "/es/discriminacion-laboral/",
+      "permanent": true
+    },
+    {
+      "source": "/discriminacion-por-embarazo/",
+      "destination": "/es/discriminacion-por-embarazo/",
+      "permanent": true
+    },
+    {
+      "source": "/horas-adicionales-y-sueldos-no-pagados/",
+      "destination": "/es/horas-adicionales-y-sueldos-no-pagados/",
+      "permanent": true
+    },
+    {
+      "source": "/represalias-en-el-lugar-de-trabajo/",
+      "destination": "/es/represalias/",
+      "permanent": true
+    },
+    {
+      "source": "/employment-law-attorneys-in-nassau-and-suffolk-counties-in-new-york/",
+      "destination": "/areas-we-serve/long-island-employment-law-attorney/",
+      "permanent": true
+    },
+    {
+      "source": "/new-jersey-nyc-overtime-wage-and-sexual-harassment-lawyers/",
+      "destination": "/areas-we-serve/new-jersey/",
+      "permanent": true
+    },
+    {
+      "source": "/areas-we-serve/long-island/",
+      "destination": "/areas-we-serve/long-island-employment-law-attorney/",
+      "permanent": true
+    },
+    {
+      "source": "/areas-we-serve/new-york/",
+      "destination": "/areas-we-serve/new-york-employment-law-attorney/",
+      "permanent": true
+    },
+    {
+      "source": "/retaliation/",
+      "destination": "/practice-areas/retaliation/",
+      "permanent": true
+    },
+    {
+      "source": "/practice-areas-employemnt-law-overview/",
+      "destination": "/practice-areas/",
+      "permanent": true
+    },
+    {
+      "source": "/disability-discrimination/",
+      "destination": "/practice-areas/disability-discrimination/",
+      "permanent": true
+    },
+    {
+      "source": "/noncompete-agreements-still-legal-in-new-york-2/:rest(feed|amp)?/",
+      "destination": "/blog/noncompete-agreements-still-legal-in-new-york/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/noncompete-agreements-still-legal-in-new-york-2/",
+      "destination": "/blog/noncompete-agreements-still-legal-in-new-york/",
+      "permanent": true
+    },
+    {
+      "source": "/:post(compensation-if-your-employer-is-wrongfully-paying-you-every-other-week|court-rules-about-employment-discrimination-based-on-reproductive-choices|disability-discrimination-eeoc-sues-on-behalf-of-deaf-employee-applicant-in-new-york|eeoc-filed-a-pandemic-disability-discrimination-lawsuit|eeoc-lawsuit-against-ai-hiring-bias|employment-discrimination-based-on-marijuana-use|employment-law-blog-peter-romero|employment-liability-claims-in-the-restaurant-industry|faqs-about-sexual-harassment-in-the-workplace|former-san-jose-state-trainer-being-investigated-for-sexual-harassment|frequently-asked-questions-about-the-rights-of-tipped-employees-in-new-jersey|frequently-asked-questions-about-workplace-discrimination|governor-signs-amendment-to-trapped-at-work-act|greyhound-bus-settles-with-eeoc-on-religious-discrimination-lawsuit|health-insurance-companies-cover-at-home-covid-19-tests-for-individuals-not-employers|how-covid-19-vaccines-relate-to-employment-law|how-to-recognize-the-signs-of-retaliation-in-the-workplace|ibm-transgender-recognition-of-lynn-conway|industries-with-the-highest-occurrence-of-sexual-harassment|is-this-sexual-harassment|mayor-elect-proposes-substantial-increase-in-minimum-wage-in-nyc|new-law-may-limit-rights-of-workers-to-recover-certain-damages|new-law-protects-retail-workers-in-new-york|new-lawsuit-filed-against-x-by-former-twitter-executive|new-york-city-human-rights-law-for-queens-brooklyn-the-bronx-and-harlem-upper-manhattan|new-york-citys-biometric-identifier-information-law|new-york-employees-now-have-further-protection-against-retaliation|new-york-family-leaves-employees-rights|new-york-legislature-approves-trapped-at-work-bill|new-york-retail-worker-safety-act-targets-workplace-violence|new-york-state-legislature-revisits-noncompete-ban|new-york-warehouse-worker-protection-law|new-york-workers-have-longer-time-to-file-discrimination-complaint|new-york-workers-still-have-right-to-covid-related-paid-leave|nlrb-protects-workers-right-to-display-blm-insignia|noncompete-agreements-still-legal-in-new-york|ny-law-requiring-weekly-pay-for-manual-workers|nys-healthcare-worker-bonus-deadline-september-2-2022|nys-work-schedule-rights-for-employees|online-job-search-website-must-comply-with-pay-transparency-laws|paid-leave-now-available-in-new-york-for-prenatal-needs|plaintiffs-in-sexual-harassment-cases|press-conference-discussing-discrimination-and-harassment-legislation-is-zoom-bombed|protecting-your-social-media-privacy-rights-at-work|recent-supreme-court-ruling-bolsters-religious-accommodations-for-employees|rights-for-new-york-city-fast-food-workers-changes|romero-law-group-expands-practice|salary-based-exemptions-that-apply-to-new-york-workers|sex-discrimination-cases-under-title-vii-and-title-ix|sexual-harassment-in-the-workplace-still-a-serious-problem|social-media-privacy-in-the-workplace|takes-final-action-to-implement-pregnant-workers-fairness-act|transgender-discrimination-is-illegal-in-new-york|what-are-the-signs-of-overtime-misclassification|what-are-your-rights-in-employment-interviews-and-the-workplace|what-is-the-speak-out-act|what-rights-do-employees-have-for-leave-of-absences|what-to-do-when-you-are-the-victim-of-sexual-harassment-at-work|workers-in-new-york-now-protected-by-clean-slate-act)/:rest(feed|amp)?/",
+      "destination": "/blog/:post/",
+      "permanent": true
+    },
+    {
+      "source": "/:slug/feed/",
+      "destination": "/:slug/",
+      "permanent": true
+    },
+    {
+      "source": "/:slug/amp/",
+      "destination": "/:slug/",
+      "permanent": true
+    },
+    {
+      "source": "/about/",
+      "destination": "/team/",
+      "permanent": true
+    },
+    {
+      "source": "/about-us/",
+      "destination": "/team/",
+      "permanent": true
+    },
+    {
+      "source": "/sitemap_index.xml",
+      "destination": "/sitemap-index.xml",
+      "permanent": true
+    },
+    {
+      "source": "/sitemap.xml",
+      "destination": "/sitemap-index.xml",
+      "permanent": true
+    },
+    {
+      "source": "/post-sitemap.xml",
+      "destination": "/sitemap-index.xml",
+      "permanent": true
+    },
+    {
+      "source": "/page-sitemap.xml",
+      "destination": "/sitemap-index.xml",
+      "permanent": true
+    },
+    {
+      "source": "/employee-rights/",
+      "destination": "/practice-areas/",
+      "permanent": true
+    },
+    {
+      "source": "/sexual-harassment-new/",
+      "destination": "/practice-areas/sexual-harassment/",
+      "permanent": true
+    }
   ]
 }
