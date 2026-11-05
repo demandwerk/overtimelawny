@@ -135,9 +135,12 @@ const directions = (lines: string[]) => `https://www.google.com/maps/dir/?api=1&
     .callbar {
       position: fixed; left: 12px; right: 12px; bottom: 12px; z-index: 60;
       display: flex; align-items: center; justify-content: center; gap: 10px;
-      min-height: 54px; border-radius: 999px; background: var(--blue); color: #fff;
+      min-height: 54px; border-radius: 999px; color: #fff;
+      /* Brighter than the brand navy so it stands out on navy sections; white text is 4.9:1. */
+      background: #3d6bd6; border: 2px solid rgb(255 255 255 / 85%);
       font-weight: 700; text-decoration: none; box-shadow: 0 10px 30px rgb(13 16 20 / 30%);
     }
+    .callbar:active { background: #2f5fd0; }
     .callbar :global(svg) { width: 18px; height: 18px; }
     .footer { padding-bottom: 80px; }
   }
