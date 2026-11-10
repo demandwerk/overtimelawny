@@ -101,6 +101,15 @@ const schema = {
           var link = node && node.closest ? node.closest('a[href^="tel:"]') : null;
           if (!link) return;
           send('event', 'contact', { method: 'phone' });
+          // Google Ads "Click to call" conversion. One delegated listener covers
+          // every tel: link (header, footer, buttons, blog posts), so no onclick
+          // is needed on each link. The dialer opens without leaving the page,
+          // so the link is not delayed waiting for the hit.
+          send('event', 'conversion', {
+            send_to: 'AW-18059846050/hemeCMyL4LUdEKLDzaND',
+            value: 1.0,
+            currency: 'USD'
+          });
         });
 
         document.addEventListener('submit', function (e) {
