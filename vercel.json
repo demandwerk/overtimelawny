@@ -3,7 +3,62 @@
   "trailingSlash": true,
   "redirects": [
     {
+      "source": "/feed/",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
       "source": "/feed/:path*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/feed/:path*/",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/category/",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/category/:path*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/category/:path*/",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/author/",
+      "destination": "/team/",
+      "permanent": true
+    },
+    {
+      "source": "/author/:path*",
+      "destination": "/team/",
+      "permanent": true
+    },
+    {
+      "source": "/author/:path*/",
+      "destination": "/team/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/:path*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/:path*/",
       "destination": "/blog/",
       "permanent": true
     },
@@ -25,21 +80,6 @@
     {
       "source": "/page/:n/",
       "destination": "/blog/:n/",
-      "permanent": true
-    },
-    {
-      "source": "/category/:path*",
-      "destination": "/blog/",
-      "permanent": true
-    },
-    {
-      "source": "/author/:path*",
-      "destination": "/team/",
-      "permanent": true
-    },
-    {
-      "source": "/tag/:path*",
-      "destination": "/blog/",
       "permanent": true
     },
     {
@@ -68,7 +108,27 @@
       "permanent": true
     },
     {
+      "source": "/overtime-pay-and-unpaid-wages/%20/",
+      "destination": "/practice-areas/overtime-and-unpaid-wages/",
+      "permanent": true
+    },
+    {
+      "source": "/overtime-pay-and-unpaid-wages/ /",
+      "destination": "/practice-areas/overtime-and-unpaid-wages/",
+      "permanent": true
+    },
+    {
       "source": "/sexual-harassment/",
+      "destination": "/practice-areas/sexual-harassment/",
+      "permanent": true
+    },
+    {
+      "source": "/sexual-harassment/%20/",
+      "destination": "/practice-areas/sexual-harassment/",
+      "permanent": true
+    },
+    {
+      "source": "/sexual-harassment/ /",
       "destination": "/practice-areas/sexual-harassment/",
       "permanent": true
     },
@@ -255,6 +315,131 @@
     {
       "source": "/sexual-harassment-new/",
       "destination": "/practice-areas/sexual-harassment/",
+      "permanent": true
+    },
+    {
+      "source": "/contact/",
+      "destination": "/contact-us/",
+      "permanent": true
+    },
+    {
+      "source": "/consultation/",
+      "destination": "/contact-us/",
+      "permanent": true
+    },
+    {
+      "source": "/kontakt/",
+      "destination": "/contact-us/",
+      "permanent": true
+    },
+    {
+      "source": "/our-team/",
+      "destination": "/team/",
+      "permanent": true
+    },
+    {
+      "source": "/attorneys/",
+      "destination": "/team/",
+      "permanent": true
+    },
+    {
+      "source": "/our-firm/",
+      "destination": "/team/",
+      "permanent": true
+    },
+    {
+      "source": "/people/",
+      "destination": "/team/",
+      "permanent": true
+    },
+    {
+      "source": "/lawyers/",
+      "destination": "/team/",
+      "permanent": true
+    },
+    {
+      "source": "/staff/",
+      "destination": "/team/",
+      "permanent": true
+    },
+    {
+      "source": "/professionals/",
+      "destination": "/team/",
+      "permanent": true
+    },
+    {
+      "source": "/our-attorneys/",
+      "destination": "/team/",
+      "permanent": true
+    },
+    {
+      "source": "/leadership/",
+      "destination": "/team/",
+      "permanent": true
+    },
+    {
+      "source": "/locations/",
+      "destination": "/areas-we-serve/",
+      "permanent": true
+    },
+    {
+      "source": "/offices/",
+      "destination": "/areas-we-serve/",
+      "permanent": true
+    },
+    {
+      "source": "/home/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/practice-areas.html",
+      "destination": "/practice-areas/",
+      "permanent": true
+    },
+    {
+      "source": "/sexual-harassment/plaintiffs-in-sexual-harassment-cases/",
+      "destination": "/blog/plaintiffs-in-sexual-harassment-cases/",
+      "permanent": true
+    },
+    {
+      "source": "/sexual-discrimination/sex-discrimination-cases-under-title-vii-and-title-ix/",
+      "destination": "/blog/sex-discrimination-cases-under-title-vii-and-title-ix/",
+      "permanent": true
+    },
+    {
+      "source": "/covid-19-insurance-test-coverage/health-insurance-companies-cover-at-home-covid-19-tests-for-individuals-not-employers/",
+      "destination": "/blog/health-insurance-companies-cover-at-home-covid-19-tests-for-individuals-not-employers/",
+      "permanent": true
+    },
+    {
+      "source": "/further-protection-against-retaliation/new-york-employees-now-have-further-protection-against-retaliation/",
+      "destination": "/blog/new-york-employees-now-have-further-protection-against-retaliation/",
+      "permanent": true
+    },
+    {
+      "source": "/marijuana-regulation-and-taxation-act-mrta/employment-discrimination-based-on-marijuana-use/",
+      "destination": "/blog/employment-discrimination-based-on-marijuana-use/",
+      "permanent": true
+    },
+    {
+      "source": "/restaurant-industry-claims/employment-liability-claims-in-the-restaurant-industry/",
+      "destination": "/blog/employment-liability-claims-in-the-restaurant-industry/",
+      "permanent": true
+    },
+    {
+      "source": "/favicon.ico",
+      "destination": "/favicon.png",
+      "permanent": true
+    },
+    {
+      "source": "/apple-touch-icon-precomposed.png",
+      "destination": "/apple-touch-icon.png",
+      "permanent": true
+    },
+    {
+      "source": "/llms.txt",
+      "destination": "/llm-ai-agent-info/",
       "permanent": true
     }
   ]
